@@ -3052,7 +3052,7 @@ EDAD: 25","ESPÈCE : <link=[quot]Creatures/Human[quot]>humaine</link>
 ÂGE : 25 ans","SPEZIES: <link=[quot]Creatures/Human[quot]>Mensch</link>
  ALTER: 25","SPECIES: <link=[quot]Creatures/Human[quot]>Human</link>
 AGE: 25"
-"enc_sosig","Sosig","Salchi","Sossis","Sosig",Sosig
+"enc_sosig","Sosig","Salchi","Sossis","Sosig",ソーシグ
 "enc_sosig_desc","An intelligent and heavily armed species with a strong resemblance to a hot dog. Sosigs display advanced knowledge of firearms and are capable in combat, but are highly vulnerable to gunfire themselves.
 
 As they commonly appear wearing clothes or with weapons in hand, a complex Sosig society analogous to our own is theorized to exist. However, their universe of origin remains unknown, and we can only speculate what their world is like.
@@ -3069,11 +3069,11 @@ Un jour, un employé de Planck a enfreint les protocoles de sécurité et a croq
  
  Da sie häufig bekleidet oder mit Waffen in der Hand erscheinen, wird angenommen, dass es eine komplexe Sosig-Gesellschaft gibt, die unserer eigenen ähnelt. Ihr Herkunftsuniversum ist jedoch unbekannt und wir können nur spekulieren, wie ihre Welt aussieht.
  
- In einem Fall hat ein Planck-Mitarbeiter alle Sicherheitsprotokolle missachtet und einen Sosig abgebissen. Der Geschmack wurde als [quot]wunderbar[quot] beschrieben.","An intelligent and heavily armed species with a strong resemblance to a hot dog. Sosigs display advanced knowledge of firearms and are capable in combat, but are highly vulnerable to gunfire themselves.
+ In einem Fall hat ein Planck-Mitarbeiter alle Sicherheitsprotokolle missachtet und einen Sosig abgebissen. Der Geschmack wurde als [quot]wunderbar[quot] beschrieben.","ホットドッグによく似た外見の、知能と武装を備えた種族。ソーシグは銃火器に関する高度な知識を持ち、戦闘においても優秀であるが、自身も銃弾に対して非常に脆弱である。
 
-As they commonly appear wearing clothes or with weapons in hand, a complex Sosig society analogous to our own is theorized to exist. However, their universe of origin remains unknown, and we can only speculate what their world is like.
+服を着ていることや、武器を手にしている姿がよく見られることから、我々と同様に複雑なソーシグ社会が存在するものと考えられている。しかしながら、その起源宇宙は未だに不明であり、彼らの世界がどのようなものであるか想像することしかできない。
 
-In one event, a Planck employee broke all safety protocols and took a bite out of a Sosig. The taste was described as [quot]wonderful.[quot]"
+プランク従業員があらゆるセーフティプロトコルを無視してソーシグをかじった事件においては、その味は「素晴らしい」と評されました。"
 "enc_sosig_stats","SCIENTIFIC NAME: Carnis Sapiens
 UNIVERSE OF ORIGIN: Unknown
 CLASSIFICATION: FA-H:4-S","NOMBRE CIENTÍFICO: Carnis sapiens
@@ -3082,10 +3082,10 @@ CLASIFICACIÓN: FA-H:4-S","NOM SCIENTIFIQUE : Carnis Sapiens
 UNIVERS D'ORIGINE : inconnu
 CLASSIFICATION : FA-H:4-S","WISSENSCHAFTLICHER NAME: Carnis Sapiens
  HERKUNFTSUNIVERSUM: Unbekannt
- KLASSIFIKATION: FA-H:4-S","SCIENTIFIC NAME: Carnis Sapiens
-UNIVERSE OF ORIGIN: Unknown
-CLASSIFICATION: FA-H:4-S"
-"enc_sosig_sub","nice to meat you","Es un placer carnecerte","l'agression peut coûter [quot]chair[quot]","alles hat ein Ende",nice to meat you
+ KLASSIFIKATION: FA-H:4-S","学名: ニク・サピエンス
+起源宇宙: 不明
+分類: FA-H:4-S"
+"enc_sosig_sub","nice to meat you","Es un placer carnecerte","l'agression peut coûter [quot]chair[quot]","alles hat ein Ende",ジャストミート
 "enc_standard_security_bot","Standard Security Bot","Robot de seguridad estándar","Robot de sécurité standard","Standard Security-Bot",Standard Security Bot
 "enc_standard_security_bot_desc","The PS-00 is the core element of the Planck security force. Commonly equipped with either a semiautomatic plasma rifle or submachine gun. Programmed with a basic tactical suite, the PS-00 is capable of autonomous target aquisition and elimination, but functions more effectively in a group.","El PS-00 es el elemento central de las fuerzas de seguridad de Planck. Normalmente está equipado con un fusil de plasma semiautomático o una metralleta. El PS-00 cuenta con un programa táctico básico, y es capaz de detectar y eliminar objetivos de manera autónoma, pero funciona de manera más efectiva en grupo.","Le PS-00 est l'élément principal des forces de sécurité de Planck. Il est généralement équipé d'un fusil à plasma semi-automatique ou d'une mitrailleuse. Programmé avec une suite tactique de base, le PS-00 est capable d'acquérir et d'éliminer des cibles en autonomie, mais il fonctionne mieux en groupe.","Der PS-00 ist das Kernelement der Planck-Sicherheitstruppe. Er ist in der Regel entweder mit einem halb automatischen Plasmagewehr oder einer Maschinenpistole ausgestattet. Der PS-00 ist mit einer grundlegenden taktischen Ausrüstung programmiert und kann selbstständig Ziele anvisieren und ausschalten, funktioniert aber besser in einer Gruppe.","The PS-00 is the core element of the Planck security force. Commonly equipped with either a semiautomatic plasma rifle or submachine gun. Programmed with a basic tactical suite, the PS-00 is capable of autonomous target aquisition and elimination, but functions more effectively in a group."
 "enc_standard_security_bot_stats","UNIT NAME: PS-00
@@ -3148,7 +3148,7 @@ MANUFACTURER: <link=0>Planck Intdl.</link>"
 "enc_t-132-epsilion_desc","A strange void filled with golden bubbles of exotic matter. No known life or structures of any kind.","Un extraño vacío lleno de burbujas doradas de materia exótica. No se han encontrado estructuras o formas de vida en su interior.","Un vide étrange rempli de bulles dorées de matière exotique. Aucune forme de vie connue ni de structures.","Eine seltsame Leere, gefüllt mit goldenen Blasen aus exotischer Materie. Keinerlei Leben oder Strukturen sind bekannt.",A strange void filled with golden bubbles of exotic matter. No known life or structures of any kind.
 "enc_t-132-epsilion_stats","CLASS: Skall-Disharmonic","CLASE: Skalldisarmónico","CLASSE : Skall-Disharmonic","KLASSE: Skall-Disharmonisch",CLASS: Skall-Disharmonic
 "enc_t-132-epsilion_sub","music of the spheres","Música de las esferas","musique des sphères","Musik der Sphären",music of the spheres
-"enc_tarjelly","Tarjelly","Alquitrameba","Boule de poix","Teerglibber",Tarjelly
+"enc_tarjelly","Tarjelly","Alquitrameba","Boule de poix","Teerglibber",タージェリー
 "enc_tarjelly_desc","A mostly amorphous life form composed of fluid-like free floating cells and a number of more solid organs. Structures like the circulatory and nervous system are created on the fly, allowing nearly limitless deformation of the body. Their intelligence is highly variable, and depends on their current body configuration.
 
 Tarjellies are highly predatory, though they are capable of consuming and digesting almost anything, so they may not seek out living prey. If they do hunt however, they can very effectively use their sticky bodies and numerous toothy mouths to trap and kill anything smaller than them, making them quite dangerous.
@@ -3173,13 +3173,13 @@ Individu notable : <link=1>Frank</link>.","Eine meist amorphe Lebensform, die a
  
  Ihre bemerkenswerte Biologie machte sie zu einem beliebten Studienobjekt in der Abteilung für Exobiologie.
  
- Erwähnenswerte Individuen: <link=1>Frank</link>","A mostly amorphous life form composed of fluid-like free floating cells and a number of more solid organs. Structures like the circulatory and nervous system are created on the fly, allowing nearly limitless deformation of the body. Their intelligence is highly variable, and depends on their current body configuration.
+ Erwähnenswerte Individuen: <link=1>Frank</link>","身体のほとんどが、流動的な浮遊細胞といくつかの固形器官からなる不定形の生命体。循環系や神経系といった構造を必要に応じて生成することで、身体をほぼ無限に変形できる。その知能は、身体の構成によって非常に変動しやすい。
 
-Tarjellies are highly predatory, though they are capable of consuming and digesting almost anything, so they may not seek out living prey. If they do hunt however, they can very effectively use their sticky bodies and numerous toothy mouths to trap and kill anything smaller than them, making them quite dangerous.
+タージェリーは強い捕食性と、ほとんどあらゆるものを取り込んで消化する能力を有しているが、だからといって生きた獲物を求めているとは限らない。しかし狩りにおいてはたくさんの歯を備えた口と粘着質な身体を利用し、自分より小さい相手であれば何でも捕まえて殺すことができる。このことが彼らを危険たらしめている。
 
-Their remarkable biology made them a popular subject of study in the Exobiology department.
+その驚くべき生態から、エグゾバイオロジー部門において人気の研究対象となっている。
 
-Notable individuals: <link=1>Frank</link>"
+特筆すべき個体: <link=1>フランク</link>"
 "enc_tarjelly_stats","SCIENTIFIC NAME: Ineffigiatozoa Bitumens
 UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
 CLASSIFICATION: FA-H:6
@@ -3189,11 +3189,11 @@ CLASIFICACIÓN: FA-H:6","NOM SCIENITIFIQUE : Ineffigiatozoa Bitumens
 UNIVERS D'ORIGINE : <link=0>182-Kappa</link>
 CLASSIFICATION : FA-H:6","WISSENSCHAFTLICHER NAME: Ineffigiatozoa Bitumens
  HERKUNFTSUNIVERSUM: <link=0>182-Kappa</link>
- KLASSIFIKATION: FA-H:6","SCIENTIFIC NAME: Ineffigiatozoa Bitumens
-UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
-CLASSIFICATION: FA-H:6
+ KLASSIFIKATION: FA-H:6","学名: ドロリシア・アスファルタス
+起源宇宙: <link=0>182-カッパ</link>
+分類: FA-H:6
 "
-"enc_tarjelly_sub","frankling!","¡Franktástico!","le petit Frank !","frankling!",frankling!
+"enc_tarjelly_sub","frankling!","¡Franktástico!","le petit Frank !","frankling!",フランクリング！
 "enc_terran_union","Terran Union","Unión Terrana","Union terrienne","Terranische Union",Terran Union
 "enc_terran_union_desc","The Terran Union comprises the Earth and Earth's moon, Luna. Luna declared independence in 1910 as colonies became self-sufficient, but economic pressure forced them to negotiate an annexation leading to the formation of the Union in 1969.
 
@@ -4248,45 +4248,45 @@ Tip: When you get a [quot]New Encyclopedia Entry[quot] popup, pause the game to 
 Tip: You are not invincible while teleporting. It's not a dodge roll.
 Tip: Don't turn your back to enemies, especially bosses.
 "
-"lastPlayed","last played:","Última partida:","Dernière partie :","zuletzt gespielt:",last played:
-"left","Left","Izquierda","Gauche","Links",Left
+"lastPlayed","last played:","Última partida:","Dernière partie :","zuletzt gespielt:",前回プレイ:
+"left","Left","Izquierda","Gauche","Links",左
 "loading","Loading","Cargando","Chargement","Laden",Loading
-"menu_achievements","Achievements","Logros","Succès","Errungenschaften",Achievements
+"menu_achievements","Achievements","Logros","Succès","Errungenschaften",実績
 "menu_active","ACTIVE","ACTIVO","ACTIF","AKTIV",ACTIVE
-"menu_bossSelect","Boss Select","Seleccionar jefe","Sélection de boss","Bossauswahl",Boss Select
-"menu_chapterSelect","Chapter Select","Seleccionar capítulo","Sélection du chapitre","Kapitelauswahl",Chapter Select
-"menu_characterchangeinfo","Character can only be changed again after beating campaign!","¡El personaje solo se puede volver a cambiar después de terminar la campaña!","Il vous sera impossible de changer à nouveau de personnage avant de finir la campagne !","Der Charakter kann erst wieder geändert werden, wenn du die Kampagne geschafft hast!",Character can only be changed again after beating campaign!
-"menu_characterselect","Character Select","Seleccionar personaje","Choix du personnage","Charakterauswahl",Character Select
-"menu_collectibles","Collectibles","Coleccionables","Objets à collectionner","Sammlerstücke",Collectibles
+"menu_bossSelect","Boss Select","Seleccionar jefe","Sélection de boss","Bossauswahl",ボス選択
+"menu_chapterSelect","Chapter Select","Seleccionar capítulo","Sélection du chapitre","Kapitelauswahl",チャプター選択
+"menu_characterchangeinfo","Character can only be changed again after beating campaign!","¡El personaje solo se puede volver a cambiar después de terminar la campaña!","Il vous sera impossible de changer à nouveau de personnage avant de finir la campagne !","Der Charakter kann erst wieder geändert werden, wenn du die Kampagne geschafft hast!",キャラクター選択はゲームクリア後に開放されます！
+"menu_characterselect","Character Select","Seleccionar personaje","Choix du personnage","Charakterauswahl",キャラクター選択
+"menu_collectibles","Collectibles","Coleccionables","Objets à collectionner","Sammlerstücke",コレクション
 "menu_comingSoon","Coming Soon!","¡Próximamente!","Bientôt !","Demnächst!",Coming Soon!
-"menu_continue","Continue","Continuar","Continuer","Weiter",Continue
-"menu_createsave","Create New Save Slot","Crear nuevo espacio de guardado","Créer une sauvegarde","Neuen Speicherplatz erstellen",Create New Save Slot
-"menu_credits","Credits","Créditos","Crédits","Credits",Credits
+"menu_continue","Continue","Continuar","Continuer","Weiter",コンティニュー
+"menu_createsave","Create New Save Slot","Crear nuevo espacio de guardado","Créer une sauvegarde","Neuen Speicherplatz erstellen",新規セーブスロットを作成する
+"menu_credits","Credits","Créditos","Crédits","Credits",クレジット
 "menu_deleteDataInfo","Deleting Data is Very Permanent.
 Are you sure?","Eliminar los datos es algo muy permanente.
  ¿Seguro?","La suppression des données est définitive.
 Confirmer ?","Das Löschen von Daten ist sehr dauerhaft.
- Bist du sicher?","Deleting Data is Very Permanent.
-Are you sure?"
-"menu_deletesave","Delete Save Data","Eliminar datos guardados","Supprimer la sauvegarde","Speicherdaten löschen",Delete Save Data
-"menu_demo","Demo!","¡Demostración!","Démo !","Demo!",Demo!
-"menu_dev","Developer Menu","Menú de desarrollador","Menu du développeur","Entwickler-Menü",Developer Menu
-"menu_encyclopedia","Encyclopedia","Enciclopedia","Encyclopédie","Enzyklopädie",Encyclopedia
-"menu_encyclopediaPickups","Encyclopedia Pickups:","Entradas de la enciclopedia:","objets de l'encyclopédie :","Enzyklopädie-Einträge:",Encyclopedia Pickups:
-"menu_encyclopediaProg","Encyclopedia Progress: ","Progreso en la enciclopedia:","Progression de l'encyclopédie :","Enzyklopädie-Fortschritt:",Encyclopedia Progress:
-"menu_failedAchievements","Failed to fetch achievements.","No se pudieron recuperar los logros.","Impossible de récupérer les succès.","Errungenschaften konnten nicht abgerufen werden.",Failed to fetch achievements.
-"menu_failedStats","Failed to fetch stats.","No se pudieron recuperar las estadísticas.","Impossible de récupérer les statistiques.","Statistiken konnten nicht abgerufen werden.",Failed to fetch stats.
-"menu_gameComplete","Game Complete","Juego completado","Jeu terminé","Spiel abgeschlossen",Game Complete
-"menu_gamepaused","Game Paused","Juego en pausa","En pause","Spiel pausiert",Game Paused
-"menu_globalstats","Global Stats","Estadísticas globales","Statistiques globales","Globale Statistiken",Global Stats
+ Bist du sicher?","データ削除は取り消せません。
+よろしいですか？"
+"menu_deletesave","Delete Save Data","Eliminar datos guardados","Supprimer la sauvegarde","Speicherdaten löschen",セーブデータを削除する
+"menu_demo","Demo!","¡Demostración!","Démo !","Demo!",デモ！
+"menu_dev","Developer Menu","Menú de desarrollador","Menu du développeur","Entwickler-Menü",開発者メニュー
+"menu_encyclopedia","Encyclopedia","Enciclopedia","Encyclopédie","Enzyklopädie",図鑑
+"menu_encyclopediaPickups","Encyclopedia Pickups:","Entradas de la enciclopedia:","objets de l'encyclopédie :","Enzyklopädie-Einträge:",図鑑ピックアップ:
+"menu_encyclopediaProg","Encyclopedia Progress: ","Progreso en la enciclopedia:","Progression de l'encyclopédie :","Enzyklopädie-Fortschritt:",図鑑達成率:
+"menu_failedAchievements","Failed to fetch achievements.","No se pudieron recuperar los logros.","Impossible de récupérer les succès.","Errungenschaften konnten nicht abgerufen werden.",実績の取得に失敗しました。
+"menu_failedStats","Failed to fetch stats.","No se pudieron recuperar las estadísticas.","Impossible de récupérer les statistiques.","Statistiken konnten nicht abgerufen werden.",プレイデータの取得に失敗しました。
+"menu_gameComplete","Game Complete","Juego completado","Jeu terminé","Spiel abgeschlossen",ゲームクリア
+"menu_gamepaused","Game Paused","Juego en pausa","En pause","Spiel pausiert",中断したゲーム
+"menu_globalstats","Global Stats","Estadísticas globales","Statistiques globales","Globale Statistiken",グローバルデータ
 "menu_inactive","INACTIVE","ACTIVO","INACTIF","INAKTIV",INACTIVE
-"menu_loadCheck","Load Checkpoint","Cargar punto de control","Charger le point de contrôle","Kontrollpunkt laden",Load Checkpoint
-"menu_loadCheckpoint","Load Checkpoint","Cargar punto de control","Charger le point de contrôle","Kontrollpunkt laden",Load Checkpoint
-"menu_localstats","Your Stats","Tus estadísticas","Vos statistiques","Deine Statistiken",Your Stats
-"menu_mainmenu","Main Menu","Menú principal","Menu principal","Hauptmenü",Main Menu
+"menu_loadCheck","Load Checkpoint","Cargar punto de control","Charger le point de contrôle","Kontrollpunkt laden",チェックポイントをロードする
+"menu_loadCheckpoint","Load Checkpoint","Cargar punto de control","Charger le point de contrôle","Kontrollpunkt laden",チェックポイントをロードする
+"menu_localstats","Your Stats","Tus estadísticas","Vos statistiques","Deine Statistiken",プレイデータ
+"menu_mainmenu","Main Menu","Menú principal","Menu principal","Hauptmenü",メインメニュー
 "menu_modstations","Weapon Mod Stations:","Estaciones de módulo de arma:","Stations de modules d'armes :","Waffen-Mod-Stationen:",Weapon Mod Stations:
-"menu_newsavetitle","New Save Slot","Nuevo espacio de guardado","Nouvelle sauvegarde","Neuer Speicherplatz",New Save Slot
-"menu_nocheckpoints","No saved checkpoints!","¡No hay puntos de control guardados!","Aucun point de contrôle sauvegardé !","Keine gespeicherten Kontrollpunkte!",No saved checkpoints!
+"menu_newsavetitle","New Save Slot","Nuevo espacio de guardado","Nouvelle sauvegarde","Neuer Speicherplatz",新規セーブスロット
+"menu_nocheckpoints","No saved checkpoints!","¡No hay puntos de control guardados!","Aucun point de contrôle sauvegardé !","Keine gespeicherten Kontrollpunkte!",チェックポイントがありません！
 "menu_notowned","NOT OWNED","NO OBTENIDO","NON POSSÉDÉ","NICHT IN BESITZ",NOT OWNED
 "menu_ok","ok","Vale","OK","ok",ok
 "menu_opensavedir","Open Save Directory
@@ -4294,29 +4294,29 @@ Are you sure?"
 ","Abrir directorio de guardado
 (fuera de RV)","Ouvrir le dossier de sauvegardes
 (hors VR)","Öffne das Speicherverzeichnis
- (außerhalb von VR)","Open Save Directory
-(out of VR)
+ (außerhalb von VR)","セーブフォルダを開く
+(VR外)
 "
-"menu_options","Options","Opciones","Options","Optionen",Options
-"menu_play","PLAY","JUGAR","JOUER","SPIELEN",PLAY
-"menu_playBeginning","Play from Beginning","Jugar desde el principio","Jouer du début","Von Anfang an spielen",Play from Beginning
+"menu_options","Options","Opciones","Options","Optionen",オプション
+"menu_play","PLAY","JUGAR","JOUER","SPIELEN",プレイ
+"menu_playBeginning","Play from Beginning","Jugar desde el principio","Jouer du début","Von Anfang an spielen",ニューゲーム
 "menu_previousmodsrequired","Previous Mods Required","Módulos anteriores requeridos","Modules précédents requis","Vorherige Mods erforderlich",Previous Mods Required
-"menu_QJProg","Quantum Juice Progress:","Progreso en el zumo cuántico:","Progression du jus quantique :","Quantensaft-Fortschritt:",Quantum Juice Progress:
-"menu_quit","Quit","Salir","Quitter","Beenden",Quit
-"menu_resume","Resume Game","Reanudar juego","Reprendre","Spiel fortsetzen",Resume Game
-"menu_retry","Retry","Reintentar","Réessayer","Wiederholen",Retry
-"menu_saveDirInfo","Save Directory Opened on Desktop. Remove VR headset.","Guarda el directorio abierto en el escritorio. Quítate el casco de realidad virtual.","Dossier de sauvegardes ouvert sur le bureau. Enlevez le casque VR.","Speicherverzeichnis auf Desktop geöffnet. Entferne das VR-Headset.",Save Directory Opened on Desktop. Remove VR headset.
-"menu_saveSlot","Save Slot","Espacio de guardado","Sauvegarde","Speicherplatz",Save Slot
-"menu_saveslotnum","Save Slot {0}","Espacio de guardado {0}","Sauvegarde {0}","Speicherplatz {0}",Save Slot {0}
-"menu_saveslots","Save Slots","Espacios de guardado","Sauvegardes","Speicherplätze",Save Slots
-"menu_saveSlots","Save Slots","Espacios de guardado","Sauvegardes","Speicherplätze",Save Slots
-"menu_secretWeaponsProg","Secret Weapons: ","Armas secretas:","Armes secrètes :","Geheimwaffen:",Secret Weapons:
-"menu_stageSelect","Stage Select","Selección de fase","Choix du niveau","Stufenauswahl",Stage Select
-"menu_stats","Stats","Estadísticas","Statistiques","Statistiken",Stats
-"menu_synthesize","SYNTHESIZE","SINTETIZAR","SYNTHÉTISER","SYNTHETISIEREN",SYNTHESIZE
-"menu_synthesizerdepleted","Synthesizer Depleted","Sintetizador agotado","Synthétiseur épuisé","Synthesizer erschöpft",Synthesizer Depleted
-"menu_synthesizing","Synthesizing...","Sintetizando...","Synthétisation...","Synthese ...",Synthesizing...
-"menu_upgradeProg","Upgrade Progress: ","Progreso de la mejora:","Progression de l'amélioration :","Upgrade-Fortschritt:",Upgrade Progress:
+"menu_QJProg","Quantum Juice Progress:","Progreso en el zumo cuántico:","Progression du jus quantique :","Quantensaft-Fortschritt:",クォンタムジュース状況:
+"menu_quit","Quit","Salir","Quitter","Beenden",終了
+"menu_resume","Resume Game","Reanudar juego","Reprendre","Spiel fortsetzen",ゲームに戻る
+"menu_retry","Retry","Reintentar","Réessayer","Wiederholen",リトライ
+"menu_saveDirInfo","Save Directory Opened on Desktop. Remove VR headset.","Guarda el directorio abierto en el escritorio. Quítate el casco de realidad virtual.","Dossier de sauvegardes ouvert sur le bureau. Enlevez le casque VR.","Speicherverzeichnis auf Desktop geöffnet. Entferne das VR-Headset.",デスクトップでセーブフォルダを開きました。VRヘッドセットを外してください。
+"menu_saveSlot","Save Slot","Espacio de guardado","Sauvegarde","Speicherplatz",セーブスロット
+"menu_saveslotnum","Save Slot {0}","Espacio de guardado {0}","Sauvegarde {0}","Speicherplatz {0}",セーブスロット {0}
+"menu_saveslots","Save Slots","Espacios de guardado","Sauvegardes","Speicherplätze",セーブスロット
+"menu_saveSlots","Save Slots","Espacios de guardado","Sauvegardes","Speicherplätze",セーブスロット
+"menu_secretWeaponsProg","Secret Weapons: ","Armas secretas:","Armes secrètes :","Geheimwaffen:",シークレットウェポン:
+"menu_stageSelect","Stage Select","Selección de fase","Choix du niveau","Stufenauswahl",ステージセレクト
+"menu_stats","Stats","Estadísticas","Statistiques","Statistiken",プレイデータ
+"menu_synthesize","SYNTHESIZE","SINTETIZAR","SYNTHÉTISER","SYNTHETISIEREN",合成
+"menu_synthesizerdepleted","Synthesizer Depleted","Sintetizador agotado","Synthétiseur épuisé","Synthesizer erschöpft",使用済み合成装置
+"menu_synthesizing","Synthesizing...","Sintetizando...","Synthétisation...","Synthese ...",合成中……
+"menu_upgradeProg","Upgrade Progress: ","Progreso de la mejora:","Progression de l'amélioration :","Upgrade-Fortschritt:",アップグレード状況:
 "menu_weaponmods","Weapon Mods","Módulos de arma","Modules d'armes","Waffen-Mods",Weapon Mods
 "menu_weaponmodselect","Select Compatible Firearm","Seleccionar arma de fuego compatible","Choisir une arme compatible","Kompatible Waffe auswählen",Select Compatible Firearm
 "menu_weaponmodsynth","WEAPON MOD SYNTHESIZER","SINTETIZADOR DE MÓDULOS DE ARMAS","SYNTHÉTISEUR DE MODULES D'ARMES","WAFFEN-MOD-SYNTHESIZER",WEAPON MOD SYNTHESIZER
@@ -4355,16 +4355,16 @@ Are you sure?"
 "outpost_security","Security","Seguridad","Sécurité","Sicherheit",Security
 "outpost_stats","Statistics","Estadísticas","Statistiques","Statistik",Statistics
 "outpost_title","Geothermal Outpost III","Puesto de avanzada geotérmico III","Avant-poste géothermique III","Geothermischer Außenposten III",Geothermal Outpost III
-"popup_collect","NEW COLLECTIBLE!","¡NUEVO COLECCIONABLE!","NOUVEL OBJET !","NEUES SAMMLERSTÜCK!",NEW COLLECTIBLE!
-"popup_enc","NEW ENCYCLOPEDIA ENTRY!","¡NUEVA ENTRADA EN LA ENCICLOPEDIA!","NOUVEL ARTICLE D'ENCYCLOPÉDIE !","NEUER ENZYKLOPÄDIE-EINTRAG!",NEW ENCYCLOPEDIA ENTRY!
-"popup_save","Game Saved","Juego Guardado","Jeu Enregistré","Spiel Gespeichert",Game Saved
-"quality_custom","Custom","Personalizada","Personnalisée","Benutzerdefiniert",Custom
-"quality_high","High","Alta","Élevée","Hoch",High
-"quality_low","Low","Baja","Faible","Niedrig",Low
-"quality_medium","Medium","Media","Moyenne","Mittel",Medium
-"quality_off","Off","No","Désactivée","Aus",Off
-"quality_veryhigh","Very High","Muy alta","Très élevée","Sehr hoch",Very High
-"quality_verylow","Very Low","Muy baja","Très faible","Sehr niedrig",Very Low
+"popup_collect","NEW COLLECTIBLE!","¡NUEVO COLECCIONABLE!","NOUVEL OBJET !","NEUES SAMMLERSTÜCK!",コレクションに追加しました！
+"popup_enc","NEW ENCYCLOPEDIA ENTRY!","¡NUEVA ENTRADA EN LA ENCICLOPEDIA!","NOUVEL ARTICLE D'ENCYCLOPÉDIE !","NEUER ENZYKLOPÄDIE-EINTRAG!",図鑑が更新されました！
+"popup_save","Game Saved","Juego Guardado","Jeu Enregistré","Spiel Gespeichert",セーブが完了しました
+"quality_custom","Custom","Personalizada","Personnalisée","Benutzerdefiniert",カスタム
+"quality_high","High","Alta","Élevée","Hoch",高
+"quality_low","Low","Baja","Faible","Niedrig",低
+"quality_medium","Medium","Media","Moyenne","Mittel",中
+"quality_off","Off","No","Désactivée","Aus",オフ
+"quality_veryhigh","Very High","Muy alta","Très élevée","Sehr hoch",最高
+"quality_verylow","Very Low","Muy baja","Très faible","Sehr niedrig",最低
 "quarantine_break","BREAK QUARANTINE","ROMPER LA CUARENTENA","LEVER LA QUARANTAINE","QUARANTÄNE BRECHEN",BREAK QUARANTINE
 "quarantine_confirmed","HUMANITY CONFIRMED!","¡HUMANIDAD CONFIRMADA!","HUMANITÉ CONFIRMÉE !","MENSCHLICHKEIT BESTÄTIGT!",HUMANITY CONFIRMED!
 "quarantine_ineffect","SECTOR QUARANTINE IN EFFECT","SECTOR EN CUARENTENA","SECTEUR EN QUARANTAINE","SEKTOR-QUARANTÄNE IN KRAFT",SECTOR QUARANTINE IN EFFECT
@@ -4375,88 +4375,88 @@ Are you sure?"
 "quarantine_reject","ALIEN DETECTED","EXTRATERRESTRE DETECTADO","EXTRATERRESTRE DÉTECTÉ","ALIEN ENTDECKT",ALIEN DETECTED
 "recap","Recap","Resumen","Récapitulatif","Zusammenfassung",Recap
 "recap_skip","Skip Recap","Omitir resumen","Passer","Zusammenfassung überspringen",Skip Recap
-"right","Right","Derecha","Droite","Rechts",Right
-"set_ammobackpack","Ammo Backpack:","Mochila de munición:","Sac de munitions :","Munitionsrucksack:",Ammo Backpack:
-"set_ammoOffset","Ammo Height Adjust:","Ajuste de altura de la munición:","Ajuster la hauteur des munitions :","Munitionshöhe einstellen:",Ammo Height Adjust:
-"set_antialiasing","Antialiasing:","Suavizado de bordes:","Anticrénelage :","Antialiasing:",Antialiasing:
+"right","Right","Derecha","Droite","Rechts",右
+"set_ammobackpack","Ammo Backpack:","Mochila de munición:","Sac de munitions :","Munitionsrucksack:",弾薬の収納:
+"set_ammoOffset","Ammo Height Adjust:","Ajuste de altura de la munición:","Ajuster la hauteur des munitions :","Munitionshöhe einstellen:",弾薬ベルトの高さ:
+"set_antialiasing","Antialiasing:","Suavizado de bordes:","Anticrénelage :","Antialiasing:",アンチエイリアス:
 "set_apply","Apply
-","Aplicar","Appliquer","Übernehmen","Apply
+","Aplicar","Appliquer","Übernehmen","適用
 "
-"set_applyConfirm","Apply Changes?","¿Aplicar cambios?","Appliquer les modifications ?","Änderungen anwenden?",Apply Changes?
-"set_audio","Audio","Audio","Audio","Audio",Audio
-"set_autoreload","Auto-Reloading:","Autorrecarga:","Recharge auto :","Automatisches Nachladen:",Auto-Reloading:
-"set_bammcomms","BAMM Communications:","Mensajes del BAMM:","Communications BBAM :","BAMM-Kommunikation:",BAMM Communications:
-"set_bammnotes","BAMM Notifications:","Notificaciones del BAMM:","Notifications BBAM :","BAMM-Benachrichtigungen:",BAMM Notifications:
-"set_blood","Blood and Gore:","Sangre y violencia:","Sang :","Blut und Gewalt:",Blood and Gore:
-"set_calibrateseated","Calibrate Seated Height","Calibrar altura sentado","Calibrer la position assise","Sitzhöhe kalibrieren",Calibrate Seated Height
-"set_captions","Captions:","Subtítulos:","Sous-titres :","Untertitel:",Captions:
-"set_chaptertitles","Chapter Titles:","Títulos de los capítulos:","Titres des chapitres :","Kapitelüberschriften:",Chapter Titles:
-"set_checkpointNotifs","Checkpoint Notifications:","Notificaciones de punto de control:","Notifications de points de contrôle :","Kontrollpunkt-Benachrichtigungen:",Checkpoint Notifications:
-"set_comfort","Comfort","Comodidad","Confort","Komfort",Comfort
-"set_copyOptions","Copy options from current slot:","Opciones de copia del espacio actual:","Copier les options de l'emplacement actuel :","Kopiere Optionen vom aktuellen Platz:",Copy options from current slot:
-"set_default","Default","Por defecto","Par défaut","Standard",Default
-"set_difficulty","Difficulty:","Dificultad:","Difficulté :","Schwierigkeit:",Difficulty:
-"set_dominantHand","Dominant Hand:","Mano dominante:","Main dominante :","Dominante Hand:",Dominant Hand:
+"set_applyConfirm","Apply Changes?","¿Aplicar cambios?","Appliquer les modifications ?","Änderungen anwenden?",変更を適用しますか？
+"set_audio","Audio","Audio","Audio","Audio",オーディオ
+"set_autoreload","Auto-Reloading:","Autorrecarga:","Recharge auto :","Automatisches Nachladen:",オートリロード:
+"set_bammcomms","BAMM Communications:","Mensajes del BAMM:","Communications BBAM :","BAMM-Kommunikation:",BAMMの通信:
+"set_bammnotes","BAMM Notifications:","Notificaciones del BAMM:","Notifications BBAM :","BAMM-Benachrichtigungen:",BAMMの通知:
+"set_blood","Blood and Gore:","Sangre y violencia:","Sang :","Blut und Gewalt:",出血とゴア表現:
+"set_calibrateseated","Calibrate Seated Height","Calibrar altura sentado","Calibrer la position assise","Sitzhöhe kalibrieren",キャリブレート
+"set_captions","Captions:","Subtítulos:","Sous-titres :","Untertitel:",字幕:
+"set_chaptertitles","Chapter Titles:","Títulos de los capítulos:","Titres des chapitres :","Kapitelüberschriften:",チャプタータイトル:
+"set_checkpointNotifs","Checkpoint Notifications:","Notificaciones de punto de control:","Notifications de points de contrôle :","Kontrollpunkt-Benachrichtigungen:",チェックポイント通知:
+"set_comfort","Comfort","Comodidad","Confort","Komfort",快適性
+"set_copyOptions","Copy options from current slot:","Opciones de copia del espacio actual:","Copier les options de l'emplacement actuel :","Kopiere Optionen vom aktuellen Platz:",現在のスロットから設定をコピー:
+"set_default","Default","Por defecto","Par défaut","Standard",デフォルト
+"set_difficulty","Difficulty:","Dificultad:","Difficulté :","Schwierigkeit:",難易度:
+"set_dominantHand","Dominant Hand:","Mano dominante:","Main dominante :","Dominante Hand:",利き手
 "set_easy","Easy","Fácil","Facile","Einfach",Easy
-"set_easy_desc","A more laid-back experience. Enemies react slower and do slightly less damage.","Una experiencia más relajada. Los enemigos tardan más en reaccionar y hacen un poco menos de daño.","Une expérience plus décontractée. Les ennemis réagissent moins vite et infligent un peu moins de dégâts.","Ein entspannteres Erlebnis. Die Feinde reagieren langsamer und richten etwas weniger Schaden an.",A more laid-back experience. Enemies react slower and do slightly less damage.
+"set_easy_desc","A more laid-back experience. Enemies react slower and do slightly less damage.","Una experiencia más relajada. Los enemigos tardan más en reaccionar y hacen un poco menos de daño.","Une expérience plus décontractée. Les ennemis réagissent moins vite et infligent un peu moins de dégâts.","Ein entspannteres Erlebnis. Die Feinde reagieren langsamer und richten etwas weniger Schaden an.",より緩やかなゲーム体験。敵の反応が遅くなり、被ダメージがわずかに減少。
 "set_story","Story","Historia","Histoire","Geschichte",Story
-"set_story_desc","Removes all challenge from combat. Enjoy the story and explore at your leisure","Elimina todos los desafíos del combate. Disfruta de la historia y explora a tu aire","Supprime tous les défis du combat. Profitez de l'histoire et explorez à votre guise","Entfernt alle Herausforderungen aus dem Kampf. Genießen Sie die Geschichte und erkunden Sie sie in aller Ruhe",Removes all challenge from combat. Enjoy the story and explore at your leisure
-"set_fov","FOV Reduction:","Reducción del campo de visión:","Réduction du CdV :","FOV-Reduktion:",FOV Reduction:
-"set_gunangle","Gun Angle Adjust:","Ajuste del ángulo de la pistola:","Réglage de l'angle du pistolet :","Einstellung des Pistolenwinkels:",Gun Angle Adjust:
-"set_gameplay","Gameplay","Modo de juego","Options de jeu","Gameplay",Gameplay
-"set_goldskins","Gold skins:","Apariencias doradas:","Peaux dorées :","Gold-Skins:",Gold skins:
-"set_graphics","Graphics","Gráficos","Graphismes","Grafik",Graphics
+"set_story_desc","Removes all challenge from combat. Enjoy the story and explore at your leisure","Elimina todos los desafíos del combate. Disfruta de la historia y explora a tu aire","Supprime tous les défis du combat. Profitez de l'histoire et explorez à votre guise","Entfernt alle Herausforderungen aus dem Kampf. Genießen Sie die Geschichte und erkunden Sie sie in aller Ruhe",戦闘の難易度をいっさい取り除きます。ストーリーと探索を存分にお楽しみください。
+"set_fov","FOV Reduction:","Reducción del campo de visión:","Réduction du CdV :","FOV-Reduktion:",FOV低減:
+"set_gunangle","Gun Angle Adjust:","Ajuste del ángulo de la pistola:","Réglage de l'angle du pistolet :","Einstellung des Pistolenwinkels:",銃の角度調整:
+"set_gameplay","Gameplay","Modo de juego","Options de jeu","Gameplay",ゲームプレイ
+"set_goldskins","Gold skins:","Apariencias doradas:","Peaux dorées :","Gold-Skins:",ゴールドスキン:
+"set_graphics","Graphics","Gráficos","Graphismes","Grafik",グラフィック
 "set_hand","Hand
-","Mano","Main","Hand","Hand
+","Mano","Main","Hand","手
 "
 "set_hard","Hard","Difícil","Difficile","Schwer",Hard
-"set_hard_desc","Enemies are faster, smarter, more aggressive, and do more damage. Not for the faint of heart.","Los enemigos son más rápidos, más inteligentes, más agresivos y hacen más daño. No apto para los débiles de corazón.","Les ennemis sont plus rapides, intelligents et hargneux et ils infligent plus de dégâts. Âmes sensibles s'abstenir.","Die Feinde sind schneller, schlauer, aggressiver und richten mehr Schaden an. Nichts für schwache Nerven.","Enemies are faster, smarter, more aggressive, and do more damage. Not for the faint of heart."
-"set_head","Head","Cabeza","Tête","Kopf",Head
+"set_hard_desc","Enemies are faster, smarter, more aggressive, and do more damage. Not for the faint of heart.","Los enemigos son más rápidos, más inteligentes, más agresivos y hacen más daño. No apto para los débiles de corazón.","Les ennemis sont plus rapides, intelligents et hargneux et ils infligent plus de dégâts. Âmes sensibles s'abstenir.","Die Feinde sind schneller, schlauer, aggressiver und richten mehr Schaden an. Nichts für schwache Nerven.",素早く、賢く、積極的なエネミーと被ダメージ増加。上級者向け。
+"set_head","Head","Cabeza","Tête","Kopf",頭
 "set_hud","HUD","Interfaz","ATH","HUD",HUD
-"set_hud_default","Default","Por defecto","Par défaut","Standard",Default
+"set_hud_default","Default","Por defecto","Par défaut","Standard",デフォルト
 "set_hud_donotdisturb","Do Not Disturb","No molestar","Ne pas déranger","Bitte nicht stören",Do Not Disturb
-"set_hud_immersive","Immersive","Inmersiva","Immersif","Immersiv",Immersive
-"set_hudpresets","HUD Presets:","Ajustes por defecto de interfaz:","Préréglages ATH :","HUD-Voreinstellungen:",HUD Presets:
+"set_hud_immersive","Immersive","Inmersiva","Immersif","Immersiv",インタラクション
+"set_hudpresets","HUD Presets:","Ajustes por defecto de interfaz:","Préréglages ATH :","HUD-Voreinstellungen:",HUDプリセット:
 "set_increment","Snap Increment:","Desplazamiento de imagen:","Rotation par à-coups :","Einrasten-Erhöhung:",Snap Increment:
-"set_jump","Jumping:","Saltar:","Sauter :","Springen:",Jumping:
-"set_lighting","Lighting Quality:","Calidad de iluminación:","Qualité de l'éclairage :","Beleuchtungsqualität:",Lighting Quality:
-"set_locomotion","Locomotion","Movimiento","Locomotion","Fortbewegung",Locomotion
-"set_lowhealth","Low Health FX:","Efecto de vida baja:","Effets du niveau de santé bas :","Sound bei niedriger Gesundheit:",Low Health FX:
-"set_mastervol","Master Volume:","Volumen general:","Volume général :","Gesamtlautstärke:",Master Volume:
-"set_menumusic","Menu Music:","Música del menú:","Musique du menu :","Menümusik:",Menu Music:
-"set_mirror","Mirror Input:","Copiar entrada:","Entrée inversée :","Gespiegelte Eingabe:",Mirror Input:
-"set_models","Model Quality:","Calidad de los modelos:","Qualité du modèle :","Modellqualität:",Model Quality:
-"set_musicvol","Music Volume:","Volumen de música:","Volume de la musique :","Musiklautstärke:",Music Volume:
+"set_jump","Jumping:","Saltar:","Sauter :","Springen:",ジャンプ:
+"set_lighting","Lighting Quality:","Calidad de iluminación:","Qualité de l'éclairage :","Beleuchtungsqualität:",ライティング品質:
+"set_locomotion","Locomotion","Movimiento","Locomotion","Fortbewegung",移動方式
+"set_lowhealth","Low Health FX:","Efecto de vida baja:","Effets du niveau de santé bas :","Sound bei niedriger Gesundheit:",瀕死時エフェクト:
+"set_mastervol","Master Volume:","Volumen general:","Volume général :","Gesamtlautstärke:",マスター音量:
+"set_menumusic","Menu Music:","Música del menú:","Musique du menu :","Menümusik:",メニューBGM:
+"set_mirror","Mirror Input:","Copiar entrada:","Entrée inversée :","Gespiegelte Eingabe:",LRスティック入れ替え:
+"set_models","Model Quality:","Calidad de los modelos:","Qualité du modèle :","Modellqualität:",モデル品質:
+"set_musicvol","Music Volume:","Volumen de música:","Volume de la musique :","Musiklautstärke:",BGM音量:
 "set_normal","Normal","Normal","Normale","Normal",Normal
-"set_normal_desc","Default difficulty. A solid challenge and the recommended experience.","Dificultad por defecto. Un buen desafío y la experiencia recomendada.","Difficulté par défaut. Un défi intéressant et l'expérience recommandée.","Standard-Schwierigkeit. Eine solide Herausforderung und die empfohlene Erfahrung.",Default difficulty. A solid challenge and the recommended experience.
-"set_noTurn","Off","No","Désactivée","Aus",Off
-"set_off","Off","No","Désactivé","Aus",Off
-"set_on","On","Sí","Activé","Ein",On
-"set_orient","Orientation:","Orientación:","Orientation :","Orientierung:",Orientation:
-"set_pfx","Post FX Quality:","Calidad de efectos posteriores:","Qualité Post-FX :","Nachbearbeitungsqualität:",Post FX Quality:
-"set_progressnotes","Progress Notifications:","Notificaciones de progreso:","Notifications de progression :","Fortschrittsbenachrichtigungen:",Progress Notifications:
-"set_pulse","Pulse","Pulso","Pulsations","Pulsieren",Pulse
-"set_qualityPreset","Quality Preset:","Calidad por defecto:","Préréglage de qualité :","Qualitätsvoreinstellung:",Quality Preset:
-"set_revert","Revert","Revertir","Annuler","Umkehren",Revert
-"set_screenshake","Screen Shake:","Movimiento de pantalla:","Vibration de l'écran :","Bildschirmrütteln:",Screen Shake:
-"set_seasick","Reduce Seasickness:","Reducir mareo:","Réduction du mal de mer :","Seekrankheit verringern:",Reduce Seasickness:
-"set_seated","Seated Mode","Modo sentado","Mode assis","Sitzender Modus",Seated Mode
-"set_shadows","Shadow Quality:","Calidad de las sombras:","Qualité des ombres :","Schattenqualität:",Shadow Quality:
-"set_skinning","Skinning Quality:","Calidad del ajuste de piel:","Qualité du squelettage :","Skinning-Qualität:",Skinning Quality:
-"set_smooth","Smooth","Suavizado","Fluide","Glatt",Smooth
-"set_smoothLoco","Smooth Locomotion:","Movimiento suave:","Locomotion fluide :","Sanfte Fortbewegung:",Smooth Locomotion:
-"set_snap","Snap","Chasquido","Saccadée","Einrasten",Snap
-"set_softParticles","Soft Particles","Partículas adaptadas","Particules atténuées","Weiche Partikel",Soft Particles
-"set_textures","Texture Quality:","Calidad de las texturas:","Qualité de la texture :","Texturqualität:",Texture Quality:
-"set_turnFast","Fast","Rápido","Rapide","Schnell",Fast
-"set_turning","Turning:","Giro:","Rotation :","Drehen:",Turning:
-"set_turnMedium","Med","Medio","Moyenne","Mittel",Med
-"set_turnSlow","Slow","Lento","Lente","Langsam",Slow
-"set_turnspeed","Turning Speed:","Velocidad de giro:","Vitesse de rotation :","Wendegeschwindigkeit:",Turning Speed:
-"set_vignette","Vignette","Viñeta","Vignette","Vignette",Vignette
-"set_waterdynamics","GPU Water Dynamics:","Dinámica del agua de GPU:","Dynamique graphique de l'eau :","GPU-Wasserdynamik:",GPU Water Dynamics:
-"set_wheelammo","Weapon Wheel Ammo Display:","Mostrar munición en ruleta de armas:","Munitions affichées dans le menu des armes :","Waffenrad-Munitionsanzeige:",Weapon Wheel Ammo Display:
-"spec_drone","Spectator Drone","Dron espectador","Drone spectateur","Beobachter-Drohne",Spectator Drone
+"set_normal_desc","Default difficulty. A solid challenge and the recommended experience.","Dificultad por defecto. Un buen desafío y la experiencia recomendada.","Difficulté par défaut. Un défi intéressant et l'expérience recommandée.","Standard-Schwierigkeit. Eine solide Herausforderung und die empfohlene Erfahrung.",通常の難易度。ほどよい歯ごたえのおすすめ設定。
+"set_noTurn","Off","No","Désactivée","Aus",オフ
+"set_off","Off","No","Désactivé","Aus",オフ
+"set_on","On","Sí","Activé","Ein",オン
+"set_orient","Orientation:","Orientación:","Orientation :","Orientierung:",進行方向:
+"set_pfx","Post FX Quality:","Calidad de efectos posteriores:","Qualité Post-FX :","Nachbearbeitungsqualität:",ポストエフェクト品質:
+"set_progressnotes","Progress Notifications:","Notificaciones de progreso:","Notifications de progression :","Fortschrittsbenachrichtigungen:",進行度通知:
+"set_pulse","Pulse","Pulso","Pulsations","Pulsieren",パルス
+"set_qualityPreset","Quality Preset:","Calidad por defecto:","Préréglage de qualité :","Qualitätsvoreinstellung:",プリセット:
+"set_revert","Revert","Revertir","Annuler","Umkehren",元に戻す
+"set_screenshake","Screen Shake:","Movimiento de pantalla:","Vibration de l'écran :","Bildschirmrütteln:",画面揺れ:
+"set_seasick","Reduce Seasickness:","Reducir mareo:","Réduction du mal de mer :","Seekrankheit verringern:",酔い低減:
+"set_seated","Seated Mode","Modo sentado","Mode assis","Sitzender Modus",座位モード
+"set_shadows","Shadow Quality:","Calidad de las sombras:","Qualité des ombres :","Schattenqualität:",影品質:
+"set_skinning","Skinning Quality:","Calidad del ajuste de piel:","Qualité du squelettage :","Skinning-Qualität:",スキン品質:
+"set_smooth","Smooth","Suavizado","Fluide","Glatt",スムーズ
+"set_smoothLoco","Smooth Locomotion:","Movimiento suave:","Locomotion fluide :","Sanfte Fortbewegung:",スムーズ移動:
+"set_snap","Snap","Chasquido","Saccadée","Einrasten",スナップ
+"set_softParticles","Soft Particles","Partículas adaptadas","Particules atténuées","Weiche Partikel",ソフトパーティクル
+"set_textures","Texture Quality:","Calidad de las texturas:","Qualité de la texture :","Texturqualität:",テクスチャ品質:
+"set_turnFast","Fast","Rápido","Rapide","Schnell",速い
+"set_turning","Turning:","Giro:","Rotation :","Drehen:",回転:
+"set_turnMedium","Med","Medio","Moyenne","Mittel",普通
+"set_turnSlow","Slow","Lento","Lente","Langsam",遅い
+"set_turnspeed","Turning Speed:","Velocidad de giro:","Vitesse de rotation :","Wendegeschwindigkeit:",回転スピード:
+"set_vignette","Vignette","Viñeta","Vignette","Vignette",視界低減
+"set_waterdynamics","GPU Water Dynamics:","Dinámica del agua de GPU:","Dynamique graphique de l'eau :","GPU-Wasserdynamik:",GPUウォーターダイナミクス:
+"set_wheelammo","Weapon Wheel Ammo Display:","Mostrar munición en ruleta de armas:","Munitions affichées dans le menu des armes :","Waffenrad-Munitionsanzeige:",ホイールメニューの弾薬表示:
+"spec_drone","Spectator Drone","Dron espectador","Drone spectateur","Beobachter-Drohne",観戦ドローン
 "spec_droneinfo","DRONE INFO:
 Control with WASD + QE + Mouse
 Return to player with R","INFORMACIÓN DEL DRON:
@@ -4465,18 +4465,18 @@ Return to player with R","INFORMACIÓN DEL DRON:
 Contrôler avec WASD + QE + Souris
 Retourner au joueur avec R","DROHNENINFO:
  Steuerung mit WASD + QE + Maus
- Rückkehr zum Spieler mit R","DRONE INFO:
-Control with WASD + QE + Mouse
-Return to player with R"
-"spec_fov","Field of View:","Campo de visión:","Champ de vision :","Sichtfeld:",Field of View:
-"spec_hd","HD Spectator View","Vista de espectador en HD","Vue spectateur HD","HD-Zuschaueransicht",HD Spectator View
-"spec_hp","Show Player Health","Mostrar la salud del jugador","Afficher la santé du joueur","Spielergesundheit anzeigen",Show Player Health
-"spec_none","No Spectator View","Sin vista de espectador","Mode spectateur désactivé","Keine Zuschaueransicht",No Spectator View
-"spec_quality","Reduce quality in-headset","Reducir la calidad en el casco","Réduire la qualité du casque","Kopfhörer-Qualität reduzieren",Reduce quality in-headset
-"spec_smoothing","Head Motion Smoothing:","Suavizado de movimiento de la cabeza:","Atténuation des mouvements de tête :","Kopfbewegung glätten:",Head Motion Smoothing:
-"spec_third","Third Person View","Vista en tercera persona","Vue subjective","Third-Person-Ansicht",Third Person View
-"spec_tilt","Reduce tilting","Reducir inclinación","Réduire l'inclinaison","Kippen reduzieren",Reduce tilting
-"spec_timer","Show Game Timer","Mostrar temporizador de juego","Afficher le chronomètre","Spiel-Timer anzeigen",Show Game Timer
+ Rückkehr zum Spieler mit R","ドローン情報:
+WASDとQEとマウスで操作
+Rでプレイヤーに戻る"
+"spec_fov","Field of View:","Campo de visión:","Champ de vision :","Sichtfeld:",FOV:
+"spec_hd","HD Spectator View","Vista de espectador en HD","Vue spectateur HD","HD-Zuschaueransicht",高品質観戦ビュー
+"spec_hp","Show Player Health","Mostrar la salud del jugador","Afficher la santé du joueur","Spielergesundheit anzeigen",ヘルス表示
+"spec_none","No Spectator View","Sin vista de espectador","Mode spectateur désactivé","Keine Zuschaueransicht",観戦ビューなし
+"spec_quality","Reduce quality in-headset","Reducir la calidad en el casco","Réduire la qualité du casque","Kopfhörer-Qualität reduzieren",ヘッドセット側の画質低減
+"spec_smoothing","Head Motion Smoothing:","Suavizado de movimiento de la cabeza:","Atténuation des mouvements de tête :","Kopfbewegung glätten:",視点ぶれ補正:
+"spec_third","Third Person View","Vista en tercera persona","Vue subjective","Third-Person-Ansicht",三人称視点
+"spec_tilt","Reduce tilting","Reducir inclinación","Réduire l'inclinaison","Kippen reduzieren",傾き低減
+"spec_timer","Show Game Timer","Mostrar temporizador de juego","Afficher le chronomètre","Spiel-Timer anzeigen",タイマー表示
 "stage_assembly","Assembly Required","Se requiere ensamblaje","Montage requis","Montage erforderlich",Assembly Required
 "stage_assembly_summary","Sonja explores the robot assembly floor, searching for a way to unlock the sealed Core.","Sonja explora la planta de ensamblaje de robots en busca de una forma de acceder al núcleo sellado.","Sonja explore l'étage de montage des robots, en cherchant un moyen de déverrouiller le cœur verrouillé.","Sonja erkundet die Roboter-Montagehalle und sucht nach einem Weg, den versiegelten Kern zu entriegeln.","Sonja explores the robot assembly floor, searching for a way to unlock the sealed Core."
 "stage_bonvoyage","Bon Voyage","Bon voyage","Bon voyage","Bon Voyage",Bon Voyage
@@ -4543,11 +4543,11 @@ Return to player with R"
 "stage_vladimir","Vladimir","Vladimir","Vladimir","Vladimir",Vladimir
 "stage_vladimir_summary","A tamed bonehead monarch, pet of the Automata Collective.","Un monarca cabezahueso domesticado, mascota del Colectivo de Autómatas.","Un monarque tête-dure domestiqué, compagnon du Collectif des automates.","Ein gezähmter Knochenkopf-Monarch, Haustier des Automata-Kollektivs.","A tamed bonehead monarch, pet of the Automata Collective."
 "stage_vladimir_warning","Warning: replaying this fight will override your allegiance to be with the Rebels.","Advertencia: Reproducir esta pelea cambiará tu alineamiento al bando de los rebeldes.","Avertissement : refaire ce combat annulera votre allégeance aux rebelles.","Achtung: Wenn du diesen Kampf wiederholst, wird deine Loyalität zu den Rebellen aufgehoben.",Warning: replaying this fight will override your allegiance to be with the Rebels.
-"t_daysAgo","{0} Days Ago","Hace {0} días","il y a {0} jours","vor {0} Tagen",{0} Days Ago
-"t_hoursAgo","{0} Hours Ago","Hace {0} horas","il y a {0} heures","vor {0} Stunden",{0} Hours Ago
-"t_minutesAgo","{0} Minutes Ago","Hace {0} minutos","il y a {0} minutes","vor {0} Minuten",{0} Minutes Ago
-"t_secondsAgo","{0} Seconds Ago","Hace {0} segundos","il y a {0} secondes","vor {0} Sekunden",{0} Seconds Ago
-"title_4monthsago","8 Months ago","Hace 8 meses","Il y a 8 mois","vor 8 Monaten",8 Months ago
+"t_daysAgo","{0} Days Ago","Hace {0} días","il y a {0} jours","vor {0} Tagen",{0}日前
+"t_hoursAgo","{0} Hours Ago","Hace {0} horas","il y a {0} heures","vor {0} Stunden",{0}時間前
+"t_minutesAgo","{0} Minutes Ago","Hace {0} minutos","il y a {0} minutes","vor {0} Minuten",{0}分前
+"t_secondsAgo","{0} Seconds Ago","Hace {0} segundos","il y a {0} secondes","vor {0} Sekunden",{0}秒前
+"title_4monthsago","8 Months ago","Hace 8 meses","Il y a 8 mois","vor 8 Monaten",8ヶ月前
 "title_zach","a game by
 Zach Tsiakalis-Brown","Un juego de
  Zach Tsiakalis-Brown","un jeu de
@@ -4560,14 +4560,14 @@ presents","Zulubo Productions
 présente","Zulubo Productions
  präsentiert","Zulubo Productions
 presents"
-"tooltip_ammobackpack","Lets you grab ammo from over your shoulder","Te permite coger munición por encima del hombro","Permet de prendre des munitions par-dessus votre épaule.","Ermöglicht das Greifen von Munition über die Schulter",Lets you grab ammo from over your shoulder
-"tooltip_ammoheight","Change height of ammo belt","Cambia la altura del cinturón de munición","Change la hauteur de la ceinture de munitions.","Höhe des Munitionsgürtels ändern",Change height of ammo belt
-"tooltip_autoreload","Guns will auto-reload when not used for a time.","Las armas se recargarán automáticamente cuando llevan un tiempo sin usarse","Les armes se rechargent automatiquement si elles ne sont pas utilisées pendant un certain temps.","Die Waffen werden automatisch nachgeladen, wenn sie eine Zeit lang nicht benutzt werden.",Guns will auto-reload when not used for a time.
-"tooltip_bammcomm","Receive communications from other characters.","Recibirás mensajes de otros personajes","Recevez des communications d'autres personnages.","Empfange Mitteilungen von anderen Charakteren.",Receive communications from other characters.
-"tooltip_bammnotes","Receive notifications for health, ammo, etc.","Recibirás notificaciones de vida, munición, etc.","Recevez des notifications sur la santé, les munitions, etc.","Erhalte Benachrichtigungen für Gesundheit, Munition usw.","Receive notifications for health, ammo, etc."
-"tooltip_hud_donotdisturb","Disables all HUD elements","Deshabilita todos los elementos de la interfaz","Désactive tous les éléments de l'ATH","Deaktiviert alle HUD-Elemente",Disables all HUD elements
-"tooltip_hud_immersive","Disables non in-world elements","Deshabilita los elementos que no forman parte del mundo","Désactive tous les éléments qui ne sont pas du monde.","Deaktiviert nicht-weltliche Elemente",Disables non in-world elements
-"tooltip_jump","Adds a jump button. Optional, but fun.","Añade el botón de saltar. Opcional, pero divertido","Ajoute un bouton de saut. Facultatif, mais sympa.","Fügt eine Sprungtaste hinzu. Optional, aber lustig.","Adds a jump button. Optional, but fun."
+"tooltip_ammobackpack","Lets you grab ammo from over your shoulder","Te permite coger munición por encima del hombro","Permet de prendre des munitions par-dessus votre épaule.","Ermöglicht das Greifen von Munition über die Schulter",肩越しに弾薬をつかむ
+"tooltip_ammoheight","Change height of ammo belt","Cambia la altura del cinturón de munición","Change la hauteur de la ceinture de munitions.","Höhe des Munitionsgürtels ändern",弾薬ベルトの高さを変更
+"tooltip_autoreload","Guns will auto-reload when not used for a time.","Las armas se recargarán automáticamente cuando llevan un tiempo sin usarse","Les armes se rechargent automatiquement si elles ne sont pas utilisées pendant un certain temps.","Die Waffen werden automatisch nachgeladen, wenn sie eine Zeit lang nicht benutzt werden.",銃をしばらく使わずにいると自動的にリロードされます。
+"tooltip_bammcomm","Receive communications from other characters.","Recibirás mensajes de otros personajes","Recevez des communications d'autres personnages.","Empfange Mitteilungen von anderen Charakteren.",他のキャラクターからの通信を受ける。
+"tooltip_bammnotes","Receive notifications for health, ammo, etc.","Recibirás notificaciones de vida, munición, etc.","Recevez des notifications sur la santé, les munitions, etc.","Erhalte Benachrichtigungen für Gesundheit, Munition usw.",ヘルスや弾薬などの通知を受け取る。
+"tooltip_hud_donotdisturb","Disables all HUD elements","Deshabilita todos los elementos de la interfaz","Désactive tous les éléments de l'ATH","Deaktiviert alle HUD-Elemente",すべてのHUDを非表示にする
+"tooltip_hud_immersive","Disables non in-world elements","Deshabilita los elementos que no forman parte del mundo","Désactive tous les éléments qui ne sont pas du monde.","Deaktiviert nicht-weltliche Elemente",ゲーム内アイテムに干渉できないようにする
+"tooltip_jump","Adds a jump button. Optional, but fun.","Añade el botón de saltar. Opcional, pero divertido","Ajoute un bouton de saut. Facultatif, mais sympa.","Fügt eine Sprungtaste hinzu. Optional, aber lustig.",ジャンプボタンを有効化。必須じゃない、けど楽しい。
 "tooltip_mirrorinput","Flips to traditional gamepad input for left handed mode.","Cambia a la configuración de mando tradicional para el modo zurdo","Passe à la configuration de manette traditionnelle pour le mode main gauche.","Schaltet auf traditionelle Gamepad-Eingabe um, wenn du Linkshänder bist.",Flips to traditional gamepad input for left handed mode.
 "tooltip_newgameplus","When New Game Plus is enabled:
 
@@ -4596,76 +4596,76 @@ presents"
 -  Enemies are more powerful
 -  BAMM does not restore health"
 "tooltip_progressnotes","Show progress popups, e.g. for new encyclopedia entries.","Mostrar ventanas emergentes de progreso, por ejemplo, cuando se obtienen nuevas entradas de la enciclopedia.","Affiche les pop-ups de progression, par exemple, les nouveaux articles de l'encyclopédie.","Fortschritts-Pop-ups anzeigen, z. B. für neue Enzyklopädie-Einträge.","Show progress popups, e.g. for new encyclopedia entries."
-"tooltip_seasick","Reduces sway on boats and other vehicles.","Reduce el balanceo en barcos y otros vehículos.","Stabilise un peu plus les bateaux et les autres véhicules.","Reduziert das Schwanken von Booten und anderen Fahrzeugen.",Reduces sway on boats and other vehicles.
-"tooltip_seatedmode","Overrides floor height and adds crouching.","Anula la altura del suelo y permite agacharse.","Ignore la hauteur du sol et ajoute la position accroupie.","Überschreibt die Bodenhöhe und fügt das Hocken hinzu.",Overrides floor height and adds crouching.
+"tooltip_seasick","Reduces sway on boats and other vehicles.","Reduce el balanceo en barcos y otros vehículos.","Stabilise un peu plus les bateaux et les autres véhicules.","Reduziert das Schwanken von Booten und anderen Fahrzeugen.",ボートや車両の揺れを低減する。
+"tooltip_seatedmode","Overrides floor height and adds crouching.","Anula la altura del suelo y permite agacharse.","Ignore la hauteur du sol et ajoute la position accroupie.","Überschreibt die Bodenhöhe und fügt das Hocken hinzu.",床の高さをオーバーライドし、しゃがみボタンを有効にする。
 "tooltip_secretweapons","[{0}] for Secret Weapons","[{0}] para armas secretas","[{0}] pour les armes secrètes","[{0}] für Geheimwaffen",[{0}] for Secret Weapons
 "tooltip_wheelammo","Show ammo levels when switching weapons.","Muestra la munición disponible al cambiar de arma.","Affiche les niveaux de munition en changeant d'arme.","Zeige den Munitionsbestand an, wenn du die Waffen wechselst.",Show ammo levels when switching weapons.
 "tooltip_gunangle","Tilt guns up or down","Incline las pistolas hacia arriba o hacia abajo","Inclinez les pistolets vers le haut ou vers le bas","Kippen Sie die Pistole nach oben oder unten",Tilt guns up or down
-"tutorial_ammo","Ammo","Munición","Munitions","Munition",Ammo
-"tutorial_beginreload","Begin Reload","Empezar recarga","Commencer à recharger","Nachladen beginnen",Begin Reload
-"tutorial_break","Break","Abrir","Briser","Pause",Break
-"tutorial_fire","Fire","Disparar","Tirer","Feuern",Fire
-"tutorial_grab","Grab","Coger","Prendre","Greifen",Grab
-"tutorial_load","Load","Cargar","Charger","Laden",Load
-"tutorial_rack","Rack","Deslizar","Armer","Ablegen",Rack
-"tutorial_reload","Reload","Recargar","Recharger","Nachladen",Reload
-"tutorial_switchcolor","Switch Color","Cambiar color","Changer de couleur","Farbe wechseln",Switch Color
-"tutorial_switchweapons","Switch Weapons","Cambiar armas","Changer d'armes","Waffen wechseln",Switch Weapons
-"tutorial_turn","Turn","Girar","Tourner","Drehen",Turn
-"upgrade_altershock_firerate","Heat Sink","Disipador térmico","Dissipateur thermique","Kühlkörper",Heat Sink
-"upgrade_altershock_firerate_desc","An external heat sink that allows faster firing without melting the interior of the gun.","Un disipador de calor externo que permite disparar más rápido sin derretir el interior del arma.","Un dissipateur thermique externe qui permet de tirer plus rapidement sans faire fondre l'intérieur de l'arme.","Ein externer Kühlkörper, der einen schnelleren Abschuss ermöglicht, ohne das Innere der Waffe zu schmelzen.",An external heat sink that allows faster firing without melting the interior of the gun.
-"upgrade_altershock_lasersight","Laser Sight","Mira láser","Viseur laser","Laservisier",Laser Sight
-"upgrade_altershock_lasersight_desc","A laser sight enables high accuracy hip fire. Put a laser on your laser.","Una mira láser permite disparar con alta precisión sin apuntar cuidadosamente. Pon un láser en tu láser.","Un viseur laser qui permet de tirer à l'aveugle avec une grande précision. Mettez un laser sur votre laser.","Ein Laservisier ermöglicht hochpräzises Hüftfeuer. Setze einen Laser auf deinen Laser.",A laser sight enables high accuracy hip fire. Put a laser on your laser.
-"upgrade_altershock_lastshot","Entropy Accumulator","Acumulador de entropía","Accumulateur entropique","Entropie-Akkumulator",Entropy Accumulator
-"upgrade_altershock_lastshot_desc","A module that collects waste energy. It discharges for the final shot of each magazine, dealing triple damage.","Un módulo que recoge la energía residual. Se descarga con el último disparo de cada cargador, causando el triple de daño.","Un module qui collecte l'énergie perdue. Il la décharge au dernier tir de chaque chargeur, infligeant des dégâts triples.","Ein Modul, das überschüssige Energie sammelt. Es entlädt sich beim letzten Schuss eines jeden Magazins und verursacht dreifachen Schaden.","A module that collects waste energy. It discharges for the final shot of each magazine, dealing triple damage."
-"upgrade_altershock_scope","Scope","Visor","Lunette","Zielfernrohr",Scope
-"upgrade_altershock_scope_desc","A magnifying scope. ","Un visor de aumento.","Une loupe.","Ein Zielfernrohr.",A magnifying scope.
-"upgrade_altershock_stabilizer","Gyro Stock","Culata giroestabilizada","Crosse gyro","Gyro-Stab",Gyro Stock
-"upgrade_altershock_stabilizer_desc","An actively-stabilized stock that increases precision. Press trigger part-way to activate.","Una culata estabilizada que aumenta la precisión. Presiona el gatillo hasta la mitad para activarla.","Une crosse activement stabilisée qui augmente la précision. Appuyez partiellement sur la gâchette pour l'activer.","Ein aktiv stabilisierter Stab, der die Präzision erhöht. Drücke den Abzug halb durch, um ihn zu aktivieren.",An actively-stabilized stock that increases precision. Press trigger part-way to activate.
-"upgrade_annihilator_damage","Pellet Resonator","Resonador de perdigones","Résonateur de plomb","Schrotkugel-Resonator",Pellet Resonator
-"upgrade_annihilator_damage_desc","A module that energizes antimatter buckshot as it passes through the barrel to increase damage.","Un módulo que energiza los perdigones de antimateria cuando atraviesan el cañón para aumentar el daño.","Un module qui énergise la chevrotine d'antimatière quand elle passe dans le canon pour en augmenter les dégâts.","Ein Modul, das Antimaterie-Schrot beim Durchgang durch den Lauf mit Energie versorgt, um den Schaden zu erhöhen.",A module that energizes antimatter buckshot as it passes through the barrel to increase damage.
-"upgrade_annihilator_extendedmags","Bottle Efficiency","Eficiencia embotellada","Efficacité en bouteille","Flaschen-Effizienz",Bottle Efficiency
-"upgrade_annihilator_extendedmags_desc","A firmware module increasing ammo efficiency, allowing more shots before needing a reload.","Un módulo de firmware que aumenta la eficiencia de la munición y permite realizar más disparos antes de necesitar una recarga.","Un module micrologiciel qui augmente l'efficacité des munitions : plus de tirs pour moins de recharges.","Ein Firmware-Modul, das die Munitionseffizienz erhöht und mehr Schüsse ermöglicht, bevor nachgeladen werden muss.","A firmware module increasing ammo efficiency, allowing more shots before needing a reload."
-"upgrade_annihilator_holosight","Holographic Sight","Mira holográfica","Lunette holographique","Holografisches Visier",Holographic Sight
-"upgrade_annihilator_holosight_desc","A mounted sight that allows for more precise aiming.","Una mira montada que proporciona una puntería más precisa.","Une lunette montée qui permet une visée plus précise.","Ein montiertes Visier, das ein präziseres Zielen ermöglicht.",A mounted sight that allows for more precise aiming.
-"upgrade_annihilator_semiauto","Semi-Auto","Semiautomática","Semi-auto","Semi-Auto",Semi-Auto
-"upgrade_annihilator_semiauto_desc","Converts from pump-action to semi-automatic. No more need to pump after every shot!","Convierte un arma de bombeo en semiautomática. ¡Ya no es necesario recargar después de cada disparo!","Convertit un fusil à pompe en fusil semi-automatique. Pas besoin d'actionner la pompe après chaque tir !","Kann von Pump-Action auf Halbautomatik umgestellt werden. Du musst nicht mehr nach jedem Schuss pumpen!",Converts from pump-action to semi-automatic. No more need to pump after every shot!
-"upgrade_annihilator_spreaddown","Tuned Coils","Bobinas mejoradas","Bobines ajustées","Abgestimmte Spulen",Tuned Coils
-"upgrade_annihilator_spreaddown_desc","High quality electromagnets that reduce spread.","Electroimanes de alta calidad que reducen la dispersión.","Des électroaimants de grande qualité qui réduisent la dispersion.","Hochwertige Elektromagnete, die die Streuung reduzieren.",High quality electromagnets that reduce spread.
-"upgrade_ionizer_extendedmags","Extended Magazines","Cartuchos ampliados","Chargeurs élargis","Erweiterte Magazine",Extended Magazines
-"upgrade_ionizer_extendedmags_desc","Longer tubes means more shots before reloading!","¡Tener cargadores más grandes supone más disparos antes de recargar!","Des tubes plus longs pour plus de tirs avant de recharger !","Längere Rohre bedeuten mehr Schüsse vor dem Nachladen!",Longer tubes means more shots before reloading!
-"upgrade_ionizer_holosight","Holographic Sight","Mira holográfica","Lunette holographique","Holografisches Visier",Holographic Sight
-"upgrade_ionizer_holosight_desc","A mounted sight that allows for more precise aiming.","Una mira montada que proporciona una puntería más precisa.","Une lunette montée qui permet une visée plus précise.","Ein montiertes Visier, das ein präziseres Zielen ermöglicht.",A mounted sight that allows for more precise aiming.
-"upgrade_ionizer_homing","Smart Plasma","Plasma inteligente","Plasma intelligent","Smart-Plasma",Smart Plasma
-"upgrade_ionizer_homing_desc","A high-tech projectile guidance system that steers your shots to their target.","Un sistema de guía de proyectiles de alta tecnología que dirige tus disparos a su objetivo.","Un système high-tech de guidage de projectiles qui oriente vos tirs vers la cible.","Ein Hightech-Projektil-Leitsystem, das deine Schüsse ins Ziel lenkt.",A high-tech projectile guidance system that steers your shots to their target.
-"upgrade_ionizer_overclock","Overclocker","Sobrecargador","Overclocker","Übertakter",Overclocker
-"upgrade_ionizer_overclock_desc","A firmware module that raises damage output significantly. This will void your warranty.","Un módulo de firmware que aumenta significativamente el daño infligido. Esto anulará tu garantía.","Un module micrologiciel qui augmente considérablement les dégâts infligés. Ceci annulera votre garantie.","Ein Firmware-Modul, das die Schadensleistung deutlich erhöht. Dadurch wird deine Garantie ungültig.",A firmware module that raises damage output significantly. This will void your warranty.
-"upgrade_ionizer_suppressor","Suppressor","Supresor","Silencieux","Schalldämpfer",Suppressor
-"upgrade_ionizer_suppressor_desc","A suppressor that makes shots undetectable. Slightly reduces muzzle velocity but does not affect damage.","Un supresor que hace que los disparos sean indetectables. Reduce ligeramente la velocidad de disparo, pero no afecta al daño.","Un silencieux qui rend les tirs indétectables. Il réduit légèrement la rapidité du canon, mais n'a aucun effet sur les dégâts.","Ein Schalldämpfer, der Schüsse unhörbar macht. Verringert die Mündungsgeschwindigkeit geringfügig, hat aber keinen Einfluss auf den Schaden.",A suppressor that makes shots undetectable. Slightly reduces muzzle velocity but does not affect damage.
-"upgrade_meatnailer_ammo","Ammo Upgrade","Mejora de munición","Amélioration de munitions","Munitionsupgrade",Ammo Upgrade
-"upgrade_meatnailer_ammo_desc","Upgrades ammo synthesis capacity.","Mejora la capacidad de síntesis de munición.","Améliore la capacité de synthèse des munitions.","Verbessert die Kapazität der Munitionssynthese.",Upgrades ammo synthesis capacity.
-"upgrade_meatnailer_bullettime","Temporal Focus","Concentración temporal","Attention temporaire","Zeit-Fokus",Temporal Focus
-"upgrade_meatnailer_bullettime_desc","An experimental mind-machine interface. Slows down subjective time while aiming. Press trigger part-way to activate.","Una interfaz mente-máquina experimental. Ralentiza la percepción subjetiva del tiempo al apuntar. Presiona el gatillo hasta la mitad para activarla.","Une interface expérimentale esprit-machine. Ralentit le temps subjectif en visant. Appuyez partiellement sur la gâchette pour l'activer.","Eine experimentelle Schnittstelle zwischen Mensch und Maschine. Verlangsamt die subjektive Zeit, während du zielst. Drücke den Auslöser halb durch, um ihn zu aktivieren.",An experimental mind-machine interface. Slows down subjective time while aiming. Press trigger part-way to activate.
-"upgrade_phage_ammoCounter","Ammo Counter","Contador de munición","Compteur de munitions","Munitionszähler",Ammo Counter
-"upgrade_phage_ammoCounter_desc","An implanted device that detects how many bombs the macrophage has inside its body.","Un dispositivo implantado que detecta cuántas bombas tiene el macrófago dentro de su cuerpo.","Un dispositif implanté qui détecte le nombre de bombes dans le corps du macrophage.","Ein implantiertes Gerät, das feststellt, wie viele Bomben der Makrophage in seinem Körper hat.",An implanted device that detects how many bombs the macrophage has inside its body.
-"upgrade_phage_increasedammo","Ammo Upgrade","Mejora de munición","Amélioration de munitions","Munitionsupgrade",Ammo Upgrade
-"upgrade_phage_increasedammo_desc","Upgrades ammo synthesis capacity.","Mejora la capacidad de síntesis de munición.","Améliore la capacité de synthèse des munitions.","Verbessert die Kapazität der Munitionssynthese.",Upgrades ammo synthesis capacity.
-"upgrade_phage_lasersight","Laser Sight","Mira láser","Viseur laser","Laservisier",Laser Sight
-"upgrade_phage_lasersight_desc","An implanted laser sight that projects the trajectory of bombs","Una mira láser implantada que proyecta la trayectoria de las bombas.","Un viseur laser implanté qui projette la trajectoire des bombes.","Ein implantiertes Laserzielgerät, das die Flugbahn von Bomben projiziert.",An implanted laser sight that projects the trajectory of bombs
-"upgrade_phage_magnetbombs","Magnet Bombs","Bombas magnéticas","Bombes à aimant","Magnetbomben",Magnet Bombs
-"upgrade_phage_magnetbombs_desc","Rudimentary homing devices inserted into each bomb steers their path towards targets.","Dispositivos de rastreo rudimentarios insertados en cada bomba que hacen que se dirijan hacia los objetivos.","Des dispositifs autoguidés rudimentaires insérés dans chaque bombe orientent leur trajectoire vers les cibles.","Rudimentäre Zielsuchgeräte, die in jede Bombe eingebaut sind, lenken ihren Weg zum Ziel.",Rudimentary homing devices inserted into each bomb steers their path towards targets.
-"upgrade_trident_autoeject","Smart Eject","Eyección inteligente","Éjection ingénieuse","Smart-Auswurf",Smart Eject
-"upgrade_trident_autoeject_desc","A firmware module that automatically ejects empty magazines to speed up reloads.","Un módulo de firmware que expulsa automáticamente los cargadores vacíos para acelerar las recargas.","Un module micrologiciel qui éjecte automatiquement les chargeurs vides pour accélérer la recharge.","Ein Firmware-Modul, das leere Magazine automatisch auswirft, um das Nachladen zu beschleunigen.",A firmware module that automatically ejects empty magazines to speed up reloads.
-"upgrade_trident_firerate","Heat Sink","Disipador térmico","Dissipateur thermique","Kühlkörper",Heat Sink
-"upgrade_trident_firerate_desc","An external heat sink that allows faster firing without melting the interior of the gun.","Un disipador de calor externo que permite disparar más rápido sin derretir el interior del arma.","Un dissipateur thermique externe qui permet de tirer plus rapidement sans faire fondre l'intérieur de l'arme.","Ein externer Kühlkörper, der einen schnelleren Abschuss ermöglicht, ohne das Innere der Waffe zu schmelzen.",An external heat sink that allows faster firing without melting the interior of the gun.
-"upgrade_trident_holosight","Holographic Sight","Mira holográfica","Lunette holographique","Holografisches Visier",Holographic Sight
-"upgrade_trident_holosight_desc","A mounted sight that allows for more precise aiming.","Una mira montada que proporciona una puntería más precisa.","Une lunette montée qui permet une visée plus précise.","Ein montiertes Visier, das ein präziseres Zielen ermöglicht.",A mounted sight that allows for more precise aiming.
-"upgrade_trident_recoildown","Inertial Sink","Disipador de inercia","Dissipateur inertiel","Trägheitsdämpfer",Inertial Sink
-"upgrade_trident_recoildown_desc","An active inertial dampener to soften recoil.","Un amortiguador de inercia activo para reducir el retroceso.","Un absorbeur à inertie actif pour adoucir le recul.","Ein aktiver Trägheitsdämpfer zur Dämpfung des Rückstoßes.",An active inertial dampener to soften recoil.
-"upgrade_trident_singleshot","Flow Cycler","Ciclador de flujo","Valve de débit","Durchflusszyklierer",Flow Cycler
-"upgrade_trident_singleshot_desc","A precise cycling valve that increases the damage of rapidfire shots.","Una válvula de ciclo precisa que aumenta el daño de los disparos rápidos.","Une valve précise à cycles qui augmente les dégâts des tirs rapides.","Ein präzises Zyklusventil, das den Schaden von Schnellfeuerschüssen erhöht.",A precise cycling valve that increases the damage of rapidfire shots.
-"upgrade_trident_tripleshot","Wave Harmonizer","Armonizador de ondas","Accordeur d'ondes","Wellenharmonisator",Wave Harmonizer
-"upgrade_trident_tripleshot_desc","An electromagnetic barrel extension that optimises damage of heavy triple-barrel shots.","Una extensión de cañón electromagnética que optimiza el daño de los disparos de arma pesada de triple cañón.","Une extension de canon électromagnétique qui optimise les dégâts des coups lourds du triple canon.","Eine elektromagnetische Laufverlängerung, die den Schaden von schweren Dreifachschüssen optimiert.",An electromagnetic barrel extension that optimises damage of heavy triple-barrel shots.
+"tutorial_ammo","Ammo","Munición","Munitions","Munition",弾薬
+"tutorial_beginreload","Begin Reload","Empezar recarga","Commencer à recharger","Nachladen beginnen",リロードを開始
+"tutorial_break","Break","Abrir","Briser","Pause",ポーズ
+"tutorial_fire","Fire","Disparar","Tirer","Feuern",発砲
+"tutorial_grab","Grab","Coger","Prendre","Greifen",つかむ
+"tutorial_load","Load","Cargar","Charger","Laden",ロード
+"tutorial_rack","Rack","Deslizar","Armer","Ablegen",ラック
+"tutorial_reload","Reload","Recargar","Recharger","Nachladen",リロード
+"tutorial_switchcolor","Switch Color","Cambiar color","Changer de couleur","Farbe wechseln",色の切り替え
+"tutorial_switchweapons","Switch Weapons","Cambiar armas","Changer d'armes","Waffen wechseln",武器の切り替え
+"tutorial_turn","Turn","Girar","Tourner","Drehen",回転
+"upgrade_altershock_firerate","Heat Sink","Disipador térmico","Dissipateur thermique","Kühlkörper",ヒートシンク
+"upgrade_altershock_firerate_desc","An external heat sink that allows faster firing without melting the interior of the gun.","Un disipador de calor externo que permite disparar más rápido sin derretir el interior del arma.","Un dissipateur thermique externe qui permet de tirer plus rapidement sans faire fondre l'intérieur de l'arme.","Ein externer Kühlkörper, der einen schnelleren Abschuss ermöglicht, ohne das Innere der Waffe zu schmelzen.",外付けヒートシンクにより、銃内部が溶けることなく発射速度を向上させる。
+"upgrade_altershock_lasersight","Laser Sight","Mira láser","Viseur laser","Laservisier",レーザーサイト
+"upgrade_altershock_lasersight_desc","A laser sight enables high accuracy hip fire. Put a laser on your laser.","Una mira láser permite disparar con alta precisión sin apuntar cuidadosamente. Pon un láser en tu láser.","Un viseur laser qui permet de tirer à l'aveugle avec une grande précision. Mettez un laser sur votre laser.","Ein Laservisier ermöglicht hochpräzises Hüftfeuer. Setze einen Laser auf deinen Laser.",腰撃ち精度を上昇させるレーザーサイト。レーザー銃にレーザーを装着だ。
+"upgrade_altershock_lastshot","Entropy Accumulator","Acumulador de entropía","Accumulateur entropique","Entropie-Akkumulator",エントロピー・コレクター
+"upgrade_altershock_lastshot_desc","A module that collects waste energy. It discharges for the final shot of each magazine, dealing triple damage.","Un módulo que recoge la energía residual. Se descarga con el último disparo de cada cargador, causando el triple de daño.","Un module qui collecte l'énergie perdue. Il la décharge au dernier tir de chaque chargeur, infligeant des dégâts triples.","Ein Modul, das überschüssige Energie sammelt. Es entlädt sich beim letzten Schuss eines jeden Magazins und verursacht dreifachen Schaden.",エネルギーロスを集約するモジュール。マガジン内の最後のショットで発動し、通常の3倍のダメージを与える。
+"upgrade_altershock_scope","Scope","Visor","Lunette","Zielfernrohr",スコープ
+"upgrade_altershock_scope_desc","A magnifying scope. ","Un visor de aumento.","Une loupe.","Ein Zielfernrohr.",拡大スコープ。
+"upgrade_altershock_stabilizer","Gyro Stock","Culata giroestabilizada","Crosse gyro","Gyro-Stab",ジャイロストック
+"upgrade_altershock_stabilizer_desc","An actively-stabilized stock that increases precision. Press trigger part-way to activate.","Una culata estabilizada que aumenta la precisión. Presiona el gatillo hasta la mitad para activarla.","Une crosse activement stabilisée qui augmente la précision. Appuyez partiellement sur la gâchette pour l'activer.","Ein aktiv stabilisierter Stab, der die Präzision erhöht. Drücke den Abzug halb durch, um ihn zu aktivieren.",射撃精度が向上する動的ストック。トリガー半押しで発動。
+"upgrade_annihilator_damage","Pellet Resonator","Resonador de perdigones","Résonateur de plomb","Schrotkugel-Resonator",ペレット・レゾネーター
+"upgrade_annihilator_damage_desc","A module that energizes antimatter buckshot as it passes through the barrel to increase damage.","Un módulo que energiza los perdigones de antimateria cuando atraviesan el cañón para aumentar el daño.","Un module qui énergise la chevrotine d'antimatière quand elle passe dans le canon pour en augmenter les dégâts.","Ein Modul, das Antimaterie-Schrot beim Durchgang durch den Lauf mit Energie versorgt, um den Schaden zu erhöhen.",バレルを通過する際に反物質バックショットをエネルギー化するモジュール。与えるダメージが増加する。
+"upgrade_annihilator_extendedmags","Bottle Efficiency","Eficiencia embotellada","Efficacité en bouteille","Flaschen-Effizienz",ボトル効率化
+"upgrade_annihilator_extendedmags_desc","A firmware module increasing ammo efficiency, allowing more shots before needing a reload.","Un módulo de firmware que aumenta la eficiencia de la munición y permite realizar más disparos antes de necesitar una recarga.","Un module micrologiciel qui augmente l'efficacité des munitions : plus de tirs pour moins de recharges.","Ein Firmware-Modul, das die Munitionseffizienz erhöht und mehr Schüsse ermöglicht, bevor nachgeladen werden muss.",弾薬の効率を向上させ、一度のリロードでより多くの射撃が可能となるファームウェアモジュール。
+"upgrade_annihilator_holosight","Holographic Sight","Mira holográfica","Lunette holographique","Holografisches Visier",ホログラフィックサイト
+"upgrade_annihilator_holosight_desc","A mounted sight that allows for more precise aiming.","Una mira montada que proporciona una puntería más precisa.","Une lunette montée qui permet une visée plus précise.","Ein montiertes Visier, das ein präziseres Zielen ermöglicht.",マウントすることで、より正確な射撃を可能とするサイト。
+"upgrade_annihilator_semiauto","Semi-Auto","Semiautomática","Semi-auto","Semi-Auto",セミオート
+"upgrade_annihilator_semiauto_desc","Converts from pump-action to semi-automatic. No more need to pump after every shot!","Convierte un arma de bombeo en semiautomática. ¡Ya no es necesario recargar después de cada disparo!","Convertit un fusil à pompe en fusil semi-automatique. Pas besoin d'actionner la pompe après chaque tir !","Kann von Pump-Action auf Halbautomatik umgestellt werden. Du musst nicht mehr nach jedem Schuss pumpen!",ポンプアクションからセミオートに変更する。もはやスライドする必要なし！
+"upgrade_annihilator_spreaddown","Tuned Coils","Bobinas mejoradas","Bobines ajustées","Abgestimmte Spulen",コイル最適化
+"upgrade_annihilator_spreaddown_desc","High quality electromagnets that reduce spread.","Electroimanes de alta calidad que reducen la dispersión.","Des électroaimants de grande qualité qui réduisent la dispersion.","Hochwertige Elektromagnete, die die Streuung reduzieren.",発射時の弾のばらつきを低減する高品質な電磁コイル。
+"upgrade_ionizer_extendedmags","Extended Magazines","Cartuchos ampliados","Chargeurs élargis","Erweiterte Magazine",拡張マガジン
+"upgrade_ionizer_extendedmags_desc","Longer tubes means more shots before reloading!","¡Tener cargadores más grandes supone más disparos antes de recargar!","Des tubes plus longs pour plus de tirs avant de recharger !","Längere Rohre bedeuten mehr Schüsse vor dem Nachladen!",チューブが長くなることで、一度のリロードでより多くの射撃が可能！
+"upgrade_ionizer_holosight","Holographic Sight","Mira holográfica","Lunette holographique","Holografisches Visier",ホログラフィックサイト
+"upgrade_ionizer_holosight_desc","A mounted sight that allows for more precise aiming.","Una mira montada que proporciona una puntería más precisa.","Une lunette montée qui permet une visée plus précise.","Ein montiertes Visier, das ein präziseres Zielen ermöglicht.",マウントすることで、より正確な射撃を可能とするサイト。
+"upgrade_ionizer_homing","Smart Plasma","Plasma inteligente","Plasma intelligent","Smart-Plasma",スマートプラズマ
+"upgrade_ionizer_homing_desc","A high-tech projectile guidance system that steers your shots to their target.","Un sistema de guía de proyectiles de alta tecnología que dirige tus disparos a su objetivo.","Un système high-tech de guidage de projectiles qui oriente vos tirs vers la cible.","Ein Hightech-Projektil-Leitsystem, das deine Schüsse ins Ziel lenkt.",ターゲットに向けて弾丸を誘導するハイテク銃弾ガイドシステム。
+"upgrade_ionizer_overclock","Overclocker","Sobrecargador","Overclocker","Übertakter",オーバークロッカー
+"upgrade_ionizer_overclock_desc","A firmware module that raises damage output significantly. This will void your warranty.","Un módulo de firmware que aumenta significativamente el daño infligido. Esto anulará tu garantía.","Un module micrologiciel qui augmente considérablement les dégâts infligés. Ceci annulera votre garantie.","Ein Firmware-Modul, das die Schadensleistung deutlich erhöht. Dadurch wird deine Garantie ungültig.",ダメージ出力を大幅に向上させるファームウェアモジュール。ただしメーカー保証対象外となります。
+"upgrade_ionizer_suppressor","Suppressor","Supresor","Silencieux","Schalldämpfer",サプレッサー
+"upgrade_ionizer_suppressor_desc","A suppressor that makes shots undetectable. Slightly reduces muzzle velocity but does not affect damage.","Un supresor que hace que los disparos sean indetectables. Reduce ligeramente la velocidad de disparo, pero no afecta al daño.","Un silencieux qui rend les tirs indétectables. Il réduit légèrement la rapidité du canon, mais n'a aucun effet sur les dégâts.","Ein Schalldämpfer, der Schüsse unhörbar macht. Verringert die Mündungsgeschwindigkeit geringfügig, hat aber keinen Einfluss auf den Schaden.",発射音で気付かれなくなるサプレッサー。弾速はわずかに遅くなりますが、ダメージは変わりません。
+"upgrade_meatnailer_ammo","Ammo Upgrade","Mejora de munición","Amélioration de munitions","Munitionsupgrade",弾薬アップグレード
+"upgrade_meatnailer_ammo_desc","Upgrades ammo synthesis capacity.","Mejora la capacidad de síntesis de munición.","Améliore la capacité de synthèse des munitions.","Verbessert die Kapazität der Munitionssynthese.",弾薬の合成容量をアップグレードします。
+"upgrade_meatnailer_bullettime","Temporal Focus","Concentración temporal","Attention temporaire","Zeit-Fokus",コンセントレーター
+"upgrade_meatnailer_bullettime_desc","An experimental mind-machine interface. Slows down subjective time while aiming. Press trigger part-way to activate.","Una interfaz mente-máquina experimental. Ralentiza la percepción subjetiva del tiempo al apuntar. Presiona el gatillo hasta la mitad para activarla.","Une interface expérimentale esprit-machine. Ralentit le temps subjectif en visant. Appuyez partiellement sur la gâchette pour l'activer.","Eine experimentelle Schnittstelle zwischen Mensch und Maschine. Verlangsamt die subjektive Zeit, während du zielst. Drücke den Auslöser halb durch, um ihn zu aktivieren.",実験的な精神インターフェース。照準時に主観的時間感覚を遅らせる。トリガー半押しで発動。
+"upgrade_phage_ammoCounter","Ammo Counter","Contador de munición","Compteur de munitions","Munitionszähler",残弾数カウンター
+"upgrade_phage_ammoCounter_desc","An implanted device that detects how many bombs the macrophage has inside its body.","Un dispositivo implantado que detecta cuántas bombas tiene el macrófago dentro de su cuerpo.","Un dispositif implanté qui détecte le nombre de bombes dans le corps du macrophage.","Ein implantiertes Gerät, das feststellt, wie viele Bomben der Makrophage in seinem Körper hat.",マクロファージが体内に保有する爆弾の数を検出するインプラントデバイス。
+"upgrade_phage_increasedammo","Ammo Upgrade","Mejora de munición","Amélioration de munitions","Munitionsupgrade",弾薬アップグレード
+"upgrade_phage_increasedammo_desc","Upgrades ammo synthesis capacity.","Mejora la capacidad de síntesis de munición.","Améliore la capacité de synthèse des munitions.","Verbessert die Kapazität der Munitionssynthese.",弾薬の合成容量をアップグレードします。
+"upgrade_phage_lasersight","Laser Sight","Mira láser","Viseur laser","Laservisier",レーザーサイト
+"upgrade_phage_lasersight_desc","An implanted laser sight that projects the trajectory of bombs","Una mira láser implantada que proyecta la trayectoria de las bombas.","Un viseur laser implanté qui projette la trajectoire des bombes.","Ein implantiertes Laserzielgerät, das die Flugbahn von Bomben projiziert.",軌道を投影するインプラント型のレーザーサイト。
+"upgrade_phage_magnetbombs","Magnet Bombs","Bombas magnéticas","Bombes à aimant","Magnetbomben",マグネットボム
+"upgrade_phage_magnetbombs_desc","Rudimentary homing devices inserted into each bomb steers their path towards targets.","Dispositivos de rastreo rudimentarios insertados en cada bomba que hacen que se dirijan hacia los objetivos.","Des dispositifs autoguidés rudimentaires insérés dans chaque bombe orientent leur trajectoire vers les cibles.","Rudimentäre Zielsuchgeräte, die in jede Bombe eingebaut sind, lenken ihren Weg zum Ziel.",ターゲットに向けて爆弾を誘導する、原始的なホーミング装置。
+"upgrade_trident_autoeject","Smart Eject","Eyección inteligente","Éjection ingénieuse","Smart-Auswurf",スマートイジェクター
+"upgrade_trident_autoeject_desc","A firmware module that automatically ejects empty magazines to speed up reloads.","Un módulo de firmware que expulsa automáticamente los cargadores vacíos para acelerar las recargas.","Un module micrologiciel qui éjecte automatiquement les chargeurs vides pour accélérer la recharge.","Ein Firmware-Modul, das leere Magazine automatisch auswirft, um das Nachladen zu beschleunigen.",空のマガジンを自動的に排出してリロード速度を向上させるファームウェアモジュール。
+"upgrade_trident_firerate","Heat Sink","Disipador térmico","Dissipateur thermique","Kühlkörper",ヒートシンク
+"upgrade_trident_firerate_desc","An external heat sink that allows faster firing without melting the interior of the gun.","Un disipador de calor externo que permite disparar más rápido sin derretir el interior del arma.","Un dissipateur thermique externe qui permet de tirer plus rapidement sans faire fondre l'intérieur de l'arme.","Ein externer Kühlkörper, der einen schnelleren Abschuss ermöglicht, ohne das Innere der Waffe zu schmelzen.",外付けヒートシンクにより、銃内部が溶けることなく発射速度を向上させる。
+"upgrade_trident_holosight","Holographic Sight","Mira holográfica","Lunette holographique","Holografisches Visier",ホログラフィックサイト
+"upgrade_trident_holosight_desc","A mounted sight that allows for more precise aiming.","Una mira montada que proporciona una puntería más precisa.","Une lunette montée qui permet une visée plus précise.","Ein montiertes Visier, das ein präziseres Zielen ermöglicht.",マウントすることで、より正確な射撃を可能とするサイト。
+"upgrade_trident_recoildown","Inertial Sink","Disipador de inercia","Dissipateur inertiel","Trägheitsdämpfer",慣性吸収ユニット
+"upgrade_trident_recoildown_desc","An active inertial dampener to soften recoil.","Un amortiguador de inercia activo para reducir el retroceso.","Un absorbeur à inertie actif pour adoucir le recul.","Ein aktiver Trägheitsdämpfer zur Dämpfung des Rückstoßes.",反動を動的に軽減するための慣性ダンパー。
+"upgrade_trident_singleshot","Flow Cycler","Ciclador de flujo","Valve de débit","Durchflusszyklierer",フロー・サイクラー
+"upgrade_trident_singleshot_desc","A precise cycling valve that increases the damage of rapidfire shots.","Una válvula de ciclo precisa que aumenta el daño de los disparos rápidos.","Une valve précise à cycles qui augmente les dégâts des tirs rapides.","Ein präzises Zyklusventil, das den Schaden von Schnellfeuerschüssen erhöht.",連射時に与えるダメージを増加させる、精密なサイクリングバルブ。
+"upgrade_trident_tripleshot","Wave Harmonizer","Armonizador de ondas","Accordeur d'ondes","Wellenharmonisator",ウェーブ・ハーモナイザー
+"upgrade_trident_tripleshot_desc","An electromagnetic barrel extension that optimises damage of heavy triple-barrel shots.","Una extensión de cañón electromagnética que optimiza el daño de los disparos de arma pesada de triple cañón.","Une extension de canon électromagnétique qui optimise les dégâts des coups lourds du triple canon.","Eine elektromagnetische Laufverlängerung, die den Schaden von schweren Dreifachschüssen optimiert.",トリプルバレルショットのダメージを最適化する電磁バレル拡張。
 "Alien_Quarantine_00_Hey_caption_00","Hey! Hey!! Help me!","¡Eh! ¡¡Eh!! ¡Ayúdame!","Hé ! Hé ! Aide-moi !","Hey! Hey! Hilf mir!",Hey! Hey!! Help me!
 "Alien_Quarantine_00_Hey_caption_01"," I don't know where the hell I am!","¡No sé dónde diablos estoy!","Je ne sais pas où je suis tombé !","Ich weiß nicht, wo zum Teufel ich bin!", I don't know where the hell I am!
 "Alien_Quarantine_01_DontLeave_caption_00","Oh god, don't leave me over here!","¡Dios mío, no me dejes aquí!","Oh non, ne me laisse pas là !","Oh Gott, lass mich hier nicht allein!","Oh god, don't leave me over here!"
