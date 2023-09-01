@@ -2390,7 +2390,7 @@ ROLE: Security
 MANUFACTURER: <link=0>Planck Intdl.</link>
 "
 "enc_mk.i_security_drone_sub","jumping taser","Táser saltarín","taser sauteur","springender Taser",jumping taser
-"enc_mudrunner","Mudrunner","Correbarro","Fouisseur","Schlammläufer",Mudrunner
+"enc_mudrunner","Mudrunner","Correbarro","Fouisseur","Schlammläufer",マッドランナー
 "enc_mudrunner_desc","Mudrunners are a highly invasive species that has taken quite a hold in some parts of the reactor. They specialise in a number of roles in colonies including tunnel diggers, soldiers, and the common scout or worker.
 
 They display rich societal structure and organization in the larger colonies, despite being of medium intelligence individually, similar to some insect species.","Los correbarro son una especie altamente invasiva que se ha apoderado bastante de algunas partes del reactor. Desempeñan funciones especializadas en las colonias, y pueden ser excavadores de túneles o soldados o simples exploradores o trabajadores.
@@ -2399,9 +2399,9 @@ Muestran una rica estructura y organización social en las colonias más grandes
 
 Dans les colonies plus grandes, ils ont une structure sociétale riche et une bonne organisation bien que les individus aient une intelligence moyenne, semblable à certaines espèces d'insectes.","Schlammläufer sind eine sehr invasive Spezies, die sich in einigen Teilen des Reaktors festgesetzt hat. Sie haben sich in den Kolonien auf verschiedene Aufgaben spezialisiert, unter anderem als Tunnelgräber, Soldaten und Späher oder Arbeiter.
  
- In größeren Kolonien weisen sie eine ausgeprägte gesellschaftliche Struktur und Organisation auf, obwohl sie als Einzelwesen nur über eine mittlere Intelligenz verfügen, ähnlich wie einige Insektenarten.","Mudrunners are a highly invasive species that has taken quite a hold in some parts of the reactor. They specialise in a number of roles in colonies including tunnel diggers, soldiers, and the common scout or worker.
+ In größeren Kolonien weisen sie eine ausgeprägte gesellschaftliche Struktur und Organisation auf, obwohl sie als Einzelwesen nur über eine mittlere Intelligenz verfügen, ähnlich wie einige Insektenarten.","マッドランナーはリアクター周辺の一部地域で大きな勢力を持つ、非常に侵略性の強い種族だ。コロニー内には、トンネル掘り、兵隊、斥候といった様々な役割に特化した個体が存在する。
 
-They display rich societal structure and organization in the larger colonies, despite being of medium intelligence individually, similar to some insect species."
+個々の知性は平均的であるにも関わらず、大きなコロニーにおいては一部の昆虫種に見られるような豊かな社会構造と組織性が展開される。"
 "enc_mudrunner_stats","SCIENTIFIC NAME: Pteroarachnida Roseus
 UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
 CLASSIFICATION: FA-H:3
@@ -2411,11 +2411,10 @@ CLASIFICACIÓN: FA-H:3","NOM SCIENTIFIQUE : Pteroarachnida Roseus
 UNIVERS D'ORIGINE : <link=0>438-Eurydice</link>
 CLASSIFICATION : FA-H:3","WISSENSCHAFTLICHER NAME: Pteroarachnida Roseus
  HERKUNFTSUNIVERSUM: <link=0>438-Eurydice</link>
- KLASSIFIKATION: FA-H:3","SCIENTIFIC NAME: Pteroarachnida Roseus
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:3
-"
-"enc_mudrunner_sub","leggy","Patilargo","belles pattes","langbeinig",leggy
+ KLASSIFIKATION: FA-H:3","学名: アカイロツチグモ
+起源宇宙: <link=0>438-エウリュディケ</link>
+分類: FA-H:3"
+"enc_mudrunner_sub","leggy","Patilargo","belles pattes","langbeinig",カサカサ
 "enc_nani","Nani","Nani","Nani","Nani",Nani
 "enc_nani_desc","Nani lives a peaceful life in <link=1>a cave near the reactor</link>, playing his hyperlute and reminiscing about his home universe.
 
@@ -2829,7 +2828,7 @@ UNIVERSE OF ORIGIN: <link=0>B6454</link>
 CLASSIFICATION: FA-H:5
 "
 "enc_ruptipod_sub","woop woop woop","Woop, woop, woop","trop fort","woop woop woop",woop woop woop
-"enc_sapling","Sapling","Retoño","Jeune pousse","Setzling",Sapling
+"enc_sapling","Sapling","Retoño","Jeune pousse","Setzling",サプリン兵
 "enc_sapling_desc","One of the defensive mechanisms of the Hearttree. Saplings are blobs of sap imbued with the tree's energy, bringing them to life with the sole purpose of protecting the Heartfruit. They often wield primitive weapons made from the tree's wood.
 
 They are not fully alive, just projections of the Hearttree. ","Uno de los mecanismos defensivos del árbol corazón. Los retoños son montones de savia imbuidos de la energía del árbol, lo que les da vida con el único propósito de proteger al árbol corazón. Suelen empuñar armas primitivas hechas con la madera del árbol.
@@ -2837,9 +2836,9 @@ They are not fully alive, just projections of the Hearttree. ","Uno de los mecan
 No están completamente vivos, solo son proyecciones del árbol corazón.","L'un des mécanismes de défense de l'arboricœur. Les jeunes pousses sont des masses molles de sève imprégnée de l'énergie de l'arbre qui leur donne naissance dans le but unique de protéger le fruiticœur. Elles utilisent souvent des armes primitives fabriquées à partir du bois de l'arbre.
 Elles ne sont pas totalement vivantes, ce sont de simples projections de l'arboricœur.","Einer der Verteidigungsmechanismen des Herzbaums. Setzlinge sind Safttropfen, die mit der Energie des Baumes durchtränkt sind und zum Leben erweckt werden, um die Herzfrucht zu schützen. Sie führen oft primitive Waffen aus dem Holz des Baumes.
  
- Sie sind nicht lebendig, sondern nur Projektionen des Herzbaums.","One of the defensive mechanisms of the Hearttree. Saplings are blobs of sap imbued with the tree's energy, bringing them to life with the sole purpose of protecting the Heartfruit. They often wield primitive weapons made from the tree's wood.
+ Sie sind nicht lebendig, sondern nur Projektionen des Herzbaums.","ハートツリーが備える防衛機構の一つ。サプリン兵はツリーがエネルギーを注入した樹液の塊で、ハートフルーツを守るためだけに命を与えられている。ツリーの木材を用いた原始的な武器をよく用いる。
 
-They are not fully alive, just projections of the Hearttree. "
+彼らは生命体というより、ハートツリーの操り人形だ。"
 "enc_sapling_stats","SCIENTIFIC NAME: N/A
 UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
 CLASSIFICATION: FA-H:3","NOMBRE CIENTÍFICO: N/A
@@ -2848,11 +2847,11 @@ CLASIFICACIÓN: FA-H:3","NOM SCIENTIFIQUE : N/D
 UNIVERS D'ORIGINE : <link=0>438-Eurydice</link>
 CLASSIFICATION : FA-H:3","WISSENSCHAFTLICHER NAME: K. A.
  HERKUNFTSUNIVERSUM: <link=0>438-Eurydice</link>
- KLASSIFIKATION: FA-H:3","SCIENTIFIC NAME: N/A
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:3"
-"enc_sapling_sub","sticky","Pegajoso","ça colle","klebrig",sticky
-"enc_saplord","Saplord","Señora de la savia","Sèveur","Saftlord",Saplord
+ KLASSIFIKATION: FA-H:3","学名: N/A
+起源宇宙: <link=0>438-エウリュディケ</link>
+分類: FA-H:3"
+"enc_sapling_sub","sticky","Pegajoso","ça colle","klebrig",ベトベト
+"enc_saplord","Saplord","Señora de la savia","Sèveur","Saftlord",サプリンロード
 "enc_saplord_desc","The saplord is the last line of defense for the Hearttree. Unlike the much smaller and less dangerous <link=1>saplings,</link> the saplord is an independent entity from the tree (although it is not classified as a separate species, as it is made of the tree's biomass). 
 
 It grows from a wooden polyp that takes the form of a skull and detaches from the tree upon reaching maturity, with a relatively complex nervous system contained within. It is then able to coordinate with the Hearttree to form a body of sap and other tree material. 
@@ -2877,13 +2876,13 @@ Lorsqu'un sèveur est éliminé, un autre commence sa gestation. En quelques sem
  
  Der Saftlord nutzt seine immense Masse und Stärke, um seine Feinde zu überwältigen. Er wirft auch Saftklumpen, um andere bewegungsunfähig zu machen. Wie Setzlinge baut der Saftlord aus den Materialien des Baumes robuste Behelfswaffen wie Keulen und Hämmer.
  
- Wenn ein Saftlord getötet wird, beginnt die Trächtigkeit eines neuen Saftlords, der innerhalb weniger Wochen voll ausgewachsen ist.","The saplord is the last line of defense for the Hearttree. Unlike the much smaller and less dangerous <link=1>saplings,</link> the saplord is an independent entity from the tree (although it is not classified as a separate species, as it is made of the tree's biomass).
+ Wenn ein Saftlord getötet wird, beginnt die Trächtigkeit eines neuen Saftlords, der innerhalb weniger Wochen voll ausgewachsen ist.","サプリンロードはハートツリーの最終防衛ラインだ。比較的小さくて危険も少ない<link=1>サプリン兵</link>と違って、サプロードはツリーから独立したエンティティである。 (ツリーのバイオマスから作られるため、別種としては分類されていない)
 
-It grows from a wooden polyp that takes the form of a skull and detaches from the tree upon reaching maturity, with a relatively complex nervous system contained within. It is then able to coordinate with the Hearttree to form a body of sap and other tree material.
+それはツリーにできる頭蓋骨状のポリープから始まり、成長すると比較的複雑な神経系を有するようになってツリーから分離する。そしてハートツリーと連携し、樹液やその他の材料から身体を形成できるようになる。
 
-The saplord uses its immense mass and strength to overpower enemies. Blobs of sap can also be thrown to immobilize. Like saplings, the saplord constructs sturdy makeshift weapons, such as clubs and hammers, from the tree's materials.
+サプリンロードはその巨大な質量と力を利用して敵を圧倒する。また、敵に樹液の塊を投げつけて身動きを取れなくすることもある。サプリン兵と同様、ツリーの材料を使ってクラブやハンマーといった即席の武器を作り出す。
 
-When a saplord is slain, another one will begin gestation and will be fully grown in a matter of weeks."
+サプリンロードが倒されると別のポリープが生み出され、数週間で成長を遂げる。"
 "enc_saplord_stats","SCIENTIFIC NAME: N/A
 UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
 CLASSIFICATION: FA-H:7","NOMBRE CIENTÍFICO: N/A
@@ -2892,10 +2891,10 @@ CLASIFICACIÓN: FA-H:7","NOM SCIENTIFIQUE : N/D
 UNIVERS D'ORIGINE : <link=0>438-Eurydice</link>
 CLASSIFICATION : FA-H:7","WISSENSCHAFTLICHER NAME: K. A.
  HERKUNFTSUNIVERSUM: <link=0>438-Eurydice</link>
- KLASSIFIKATION: FA-H:7","SCIENTIFIC NAME: N/A
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:7"
-"enc_saplord_sub","she speaks for the tree","Habla en nombre del árbol","le grand sauveur de l'arbre","sie spricht für den Baum",she speaks for the tree
+ KLASSIFIKATION: FA-H:7","学名: N/A
+起源宇宙: <link=0>438-エウリュディケ</link>
+分類: FA-H:7"
+"enc_saplord_sub","she speaks for the tree","Habla en nombre del árbol","le grand sauveur de l'arbre","sie spricht für den Baum",ツリーに語りかけます
 "enc_security_stronghold","Security Stronghold","Baluarte de seguridad","Bastion de sécurité","Sicherheitshochburg",Security Stronghold
 "enc_security_stronghold_desc","Security strongholds are the final layer of security protecting the reactor core. They are a hub for security activity, a choke point for core access, and a physical barrier all in one. 
 
@@ -3000,7 +2999,7 @@ FABRICANT : <link=0>Planck Intdl.</link>","NAME DER EINHEIT: PS-42
 ROLE: Security - Sniper
 MANUFACTURER: <link=0>Planck Intdl.</link>"
 "enc_sniper_bot_sub","he sees you when you're sleeping","Te vigila cuando duermes","il vous observe quand vous dormez","er sieht dich, wenn du schläfst",he sees you when you're sleeping
-"enc_snowman","Snowman","Muñeco de nieve","Être de neige","Schneemann",Snowman
+"enc_snowman","Snowman","Muñeco de nieve","Être de neige","Schneemann",スノーマン
 "enc_snowman_desc","The snowman is a ambush hunter, with the unique ability of burrowing through the ground. 
 
 They lie somewhere between arthropod and mammal with their spider-like eyes and mandibles.
@@ -3015,11 +3014,11 @@ Il préfère chasser de petites proies, mais n'hésitera pas à défendre hargne
  
  Mit ihren spinnenartigen Augen und Mandibeln liegen sie irgendwo zwischen Gliederfüßern und Säugetieren.
  
- Sie jagen am liebsten kleine Beute, verteidigen ihr Rudel aber auch aggressiv gegen größere Bedrohungen. Sie jagen mit einer langen, mit Gift überzogenen Zunge.","The snowman is a ambush hunter, with the unique ability of burrowing through the ground.
+ Sie jagen am liebsten kleine Beute, verteidigen ihr Rudel aber auch aggressiv gegen größere Bedrohungen. Sie jagen mit einer langen, mit Gift überzogenen Zunge.","スノーマンは、地面に潜るユニークな能力を使って奇襲を仕掛けるハンターだ。
 
-They lie somewhere between arthropod and mammal with their spider-like eyes and mandibles.
+蜘蛛のような目と大きな顎を持ち、節足動物と哺乳類の特徴を併せ持つ。
 
-They prefer hunting small prey, but will aggressively defend their pack even from larger threats. They hunt with a long venom-coated tongue. "
+小さな獲物を狩ることを好むが、より大きな脅威が相手でも群れを守るために攻撃する。その長い舌に毒を塗布して狩りに用いる。"
 "enc_snowman_stats","SCIENTIFIC NAME: Linguaentomon Nivosus
 UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
 CLASSIFICATION: FA-H:3
@@ -3029,12 +3028,11 @@ CLASIFICACIÓN: FA-H:3","NOM SCIENTIFIQUE : Linguaentomon Nivosus
 UNIVERS D'ORIGINE : <link=0>182-Kappa</link>
 CLASSIFICATION : FA-H:3","WISSENSCHAFTLICHER NAME: Linguaentomon Nivosus
  HERKUNFTSUNIVERSUM: <link=0>182-Kappa</link>
- KLASSIFIKATION: FA-H:3","SCIENTIFIC NAME: Linguaentomon Nivosus
-UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
-CLASSIFICATION: FA-H:3
-"
-"enc_snowman_sub","dreaming of a black christmas","Oh, negra Navidad","ils rêvent d'un noël noir","träume von einer schwarzen Weihnacht",dreaming of a black christmas
-"enc_sonja","Sonja","Sonja","Sonja","Sonja",Sonja
+ KLASSIFIKATION: FA-H:3","学名: ドクゼツユキダルマモドキ
+起源宇宙: <link=0>182-カッパ</link>
+分類: FA-H:3"
+"enc_snowman_sub","dreaming of a black christmas","Oh, negra Navidad","ils rêvent d'un noël noir","träume von einer schwarzen Weihnacht",ブラッククリスマスを夢見てる
+"enc_sonja","Sonja","Sonja","Sonja","Sonja",ソニア
 "enc_sonja_desc","A human from the universe <link=1>Vetus-4</link>, pulled into the <link=2>quantum reactor</link> just like the rest of the hapless aliens here. 
 
 Sonja almost reached the surface and escaped, but was stopped by <link=3>Gentlehand</link> and dropped deep back into the depths. Rescued by <link=4>Brian,</link> she is now searching for a new way back to her home.","Una humana del universo <link=1>Vetus-4</link>, arrastrada al <link=2>reactor cuántico</link> al igual que el resto de los desafortunados extraterrestres que pululan por el lugar. 
@@ -3043,15 +3041,15 @@ Sonja estuvo a punto de llegar a la superficie para escapar, pero <link=3>Manoam
 
 Sonja a presque réussi à atteindre la surface et à s'échapper, mais <link=3>Gentlemain</link> l'a arrêtée et l'a rejetée dans les profondeurs. Secourue par <link=4>Brian,</link> elle cherche à présent un nouveau moyen de rentrer chez elle.","Ein Mensch aus dem Universum <link=1>Vetus-4</link>, der in den <link=2>Quantenreaktor</link> hineingezogen wurde, genau wie der Rest der unglücklichen Außerirdischen hier. 
  
- Sonja erreichte fast die Oberfläche und entkam, wurde aber von <link=3>Gentlehand</link> aufgehalten und tief in die Tiefe zurückgeworfen. Gerettet von <link=4>Brian,</link> sucht sie jetzt nach einem neuen Weg zurück in ihre Heimat.","A human from the universe <link=1>Vetus-4</link>, pulled into the <link=2>quantum reactor</link> just like the rest of the hapless aliens here.
+ Sonja erreichte fast die Oberfläche und entkam, wurde aber von <link=3>Gentlehand</link> aufgehalten und tief in die Tiefe zurückgeworfen. Gerettet von <link=4>Brian,</link> sucht sie jetzt nach einem neuen Weg zurück in ihre Heimat.","<link=1>ヴェトス-4</link>宇宙から来た人間。ここにいる他の不運なエイリアンと同様、<link=2>クォンタムリアクター</link>に引き寄せられた。
 
-Sonja almost reached the surface and escaped, but was stopped by <link=3>Gentlehand</link> and dropped deep back into the depths. Rescued by <link=4>Brian,</link> she is now searching for a new way back to her home."
+ソニアは地表の目前まで辿り着いたが、<link=3>ジェントルハンド</link>に阻止され奈落の底へと突き落とされた。<link=4>ブライアン</link>に救出された彼女は、元いた世界に帰るため新しい道を探している。"
 "enc_sonja_stats","SPECIES: <link=[quot]Creatures/Human[quot]>Human</link>
 AGE: 25","ESPECIE: <link=[quot]Creatures/Human[quot]>Humana</link>
 EDAD: 25","ESPÈCE : <link=[quot]Creatures/Human[quot]>humaine</link>
 ÂGE : 25 ans","SPEZIES: <link=[quot]Creatures/Human[quot]>Mensch</link>
- ALTER: 25","SPECIES: <link=[quot]Creatures/Human[quot]>Human</link>
-AGE: 25"
+ ALTER: 25","種族: <link=[quot]Creatures/Human[quot]>人間</link>
+年齢: 25"
 "enc_sosig","Sosig","Salchi","Sossis","Sosig",ソーシグ
 "enc_sosig_desc","An intelligent and heavily armed species with a strong resemblance to a hot dog. Sosigs display advanced knowledge of firearms and are capable in combat, but are highly vulnerable to gunfire themselves.
 
@@ -3834,7 +3832,7 @@ Think back to his words on the open sea.
 Defy the deadly fate that He has planned,
 The vortex shall deliver you to me.
 "
-"loadingTip_custom_name","Fun Fact: research shows that people named [quot]{0}[quot] are up to {1}% worse at this game.","Dato curioso: Las investigaciones muestran que las personas llamadas [quot]{0}[quot] son hasta ​​un {1}% peores en este juego.","Le saviez-vous ? Selon les recherches, les gens nommés [quot]{0}[quot] sont {1} % pires que les autres à ce jeu.","Funfact: Untersuchungen zeigen, dass Menschen mit dem Namen [quot]{0}[quot] bis zu {1} % schlechter in diesem Spiel sind.",Fun Fact: research shows that people named [quot]{0}[quot] are up to {1}% worse at this game.
+"loadingTip_custom_name","Fun Fact: research shows that people named [quot]{0}[quot] are up to {1}% worse at this game.","Dato curioso: Las investigaciones muestran que las personas llamadas [quot]{0}[quot] son hasta ​​un {1}% peores en este juego.","Le saviez-vous ? Selon les recherches, les gens nommés [quot]{0}[quot] sont {1} % pires que les autres à ce jeu.","Funfact: Untersuchungen zeigen, dass Menschen mit dem Namen [quot]{0}[quot] bis zu {1} % schlechter in diesem Spiel sind.",豆知識: 「{0}」と名付けられた人は、このゲームをプレイするのが他の人と比べて最大{1}%下手であることが調査で判明しています。
 "loadingTips","Tip: Kill enemies to win. Get killed by enemies to lose.
 Tip: If your health reaches zero, you die. If your health reaches -7000, your anus prolapses.
 Tip: Your BAMM can recover up to 50% of your health over time.
@@ -4164,90 +4162,89 @@ Astuce : ne tournez pas le dos aux ennemis, en particulier les boss.","Tipp: T�
  Tipp: Einige Gegner sind schwach gegen bestimmte Schadensarten.
  Tipp: Wenn du ein [quot]Neuer-Enzyklopädie-Eintrag[quot]-Pop-up bekommst, pausiere das Spiel, um den neuen Eintrag sofort zu öffnen.
  Tipp: Beim Teleportieren bist du nicht unbesiegbar. Es ist kein Ausweichmanöver.
- Tipp: Drehe Feinden, vor allem Bossen, nicht den Rücken zu.","Tip: Kill enemies to win. Get killed by enemies to lose.
-Tip: If your health reaches zero, you die. If your health reaches -7000, your anus prolapses.
-Tip: Your BAMM can recover up to 50% of your health over time.
-Tip: To move your hands in VR, move your hands in real life.
-Tip: Switch weapons often to best suit the circumstances.
-Tip: Don't ever, for any reason, do anything, to anyone, no matter what, or who, or who you are with, or where you've been, ever, for any reason whatsoever.
-Tip: Reload guns by putting ammo in them.
-Tip: Make sure to explore. You never know what you'll find.
-Tip: Don't try to mate with the aliens.
-Tip: Don't trust anyone.
-If you're stuck, bored, or like to cheat, open the developer console with the tilde key.
-Tip: Teleporting is a great way to get to cover quickly.
-Tip: Don't forget to utilize your teleporter, even if you prefer smooth locomotion.
-Tip: Explosive tanks will kill just about anything. Use the environment to your advantage.
-Tip: Most enemies have a weak spot that will yield critical damage. Good aim pays off.
-Tip: Keep mobile in combat or risk being cornered.
-Tip: Some robots can be driven to cover with suppressing fire. Spray some shots off to buy time.
-Tip: If the game is too hard, give up.
-Tip: If you don't like the game, send abusive online messages to the developer.
-Tip: If you find a bug, please don□t report it. We have enough to deal with as it is.
-Fun Fact: Nani knows your address.
-Fun Fact: Nani is looking at you through the window right now but you can't see him because you're in VR.
-Fun Fact: Nani has just broken into your house.
-Fun Fact: Nani is currently stealing food from your fridge.
-Fun Fact: When you leave a bad review on Steam, Nani comes to your house and beats you up.
-Fun Fact: Vertigo 2 is the first VR game with guns.
-Fun Fact: Vertigo 2 is the first video game to have both aliens and robots.
-Fun Fact: Vertigo 2 is one of the video games ever.
-Fun Fact: I'm getting tired of writing these loading screens.
-Fun Fact: You're a bad person for having fun playing this violent video game.
-Fun Fact: The BAMM's health indicator is an actual artificial consciousness instilled with a fear of death.
-Fun Fact: JoeJeffs don't feel physical pain, but they do feel emotional pain.
-Fun Fact: The speed of light only differs a few meters/second between realms.
-Tip: Try harder.
-Tip: Git Good.
-Tip: Shotguns are most effective when applied directly to the target.
-Tip: Strike true fear into the robotic menace’s cold unfeeling soul by raining down an unending maelstrom of purifying plasma unto their gangly mechanical bodies.
-Tip: Robots are a great place to store all of your extra ammunition.
-Tip: Swords never run out of ammo. Except for the sword that takes ammo.
-Tip: If the game is too much of a challenge, try a sick 80’s movie training montage.
-Tip: Don’t let anyone else's opinion stop you from doing what you enjoy doing; even if that's lathering your tubby body in gallons of tartar sauce.
-Tip: Next time you’re on an airplane, try tampering with the smoke detectors.
-Tip: Everyone can hear you scream in VR.
-Tip: Turn off the lights while you’re in VR. Save the trees.
-If God exists, may He smite us all for our sins.
-Tip: Instead of playing VR games all day, try encroaching upon russian territorial waters in a small military vessel.
-Tip: Avoid any crab larger than a toddler.
-Tip: If caught in the unassailable grip of a large crab, offer a can of cat food to the crab god Carcinus and pray for forgiveness.
-Tip: Who needs lasers and plasma when 7.62x39mm does the same job better?
-Tip: Selling fraudulent Somali passports will only get you so far in this world.
-Fun Fact: I have no mouth and I must scream.
-Fun Fact: Nobody actually knows how to spell the word timpani.
-Tip: It is important to be able to reload your guns quickly in stressful situations. Practice makes perfect.
-Tip: Almost all guns can be stabilized by holding them with two hands. This also reduces recoil.
-Tip: Guns will automatically reload after not being used for some time. This can be turned off in the options.
-Tip: Every enemy has strengths and weaknesses. Find the right approach for each one!
-Tip: Rapid teleporting triggers a cooldown. Use few, longer teleports to cover ground most efficiently.
-Tip: Do not eat mysterious unidentified fungi.
-Tip: Eat mysterious unidentified fungi.
-Tip: There are six secret weapons hidden throughout the game.
-Tip: Some secret weapons are easy to stumble across, while some are deviously well hidden.
-Tip: Secret weapons can be accessed by pressing the trigger while the weapon wheel is open.
-Tip: If you don't like a weapon mod, you can disable it in the pause menu.
-Tip: Check the encyclopedia for information about enemies. You might learn their weakness.
-Fun Fact: Even though he could if he wanted, Nani will not help you.
-Tip: If your gun is not working, try reloading it.
-Tip: When you run out of ammo, switching to a different gun is smarter than waiting around for it to refill.
-Tip: Don't be afraid to use your most powerful weapons, the ammo will replenish once used up!
-Fun Fact: The game only gets worse from here on.
-Tip: Feeling stuck? Try a different weapon or playstyle. You've got options.
-Tip: Certain powerful shots can penetrate multiple enemies and even their shields.
-Tip: On very large enemies, the eyes may be the weak point rather than the head.
-Tip: Slow-moving projectiles can be shot out of the air. This is especially helpful when they are homing!
-Tip: You can turn on jumping in the locomotion options.
-Tip: If you're feeling queasy, take a break or check out the comfort and locomotion options.
-Tip: Some enemies can be staggered when taking enough damage or critical hits.
-Tip: Security bots can communicate your position to each other.
-Tip: Some challenges and boss fights only allow using a specific weapon. Your other guns are still there, don't worry.
-Tip: You can replay earlier levels to look for weapon mod stations you missed.
-Tip: Some enemies are weak to particular damage types.
-Tip: When you get a [quot]New Encyclopedia Entry[quot] popup, pause the game to instantly open the new entry.
-Tip: You are not invincible while teleporting. It's not a dodge roll.
-Tip: Don't turn your back to enemies, especially bosses.
-"
+ Tipp: Drehe Feinden, vor allem Bossen, nicht den Rücken zu.","Tip: 敵を殺せば勝利します。敵に殺されれば敗北します。
+Tip: ヘルスが0になると死亡します。ヘルスが-7,000になると脱肛します。
+Tip: 腕に付けているBAMMがヘルスの50%までは自然回復してくれる。
+Tip: VRで手を動かしたい時は、現実で手を動かしてみよう。
+Tip: 武器を切り替えて柔軟に対応しよう。
+Tip: 絶対に、いかなるときも、どこでも、誰でも、誰に対しても、誰といても、何があっても、どんな理由があっても、何があっても、何がなんでも、どんな風にも、してはいけない。
+Tip: 銃に弾薬を入れるとリロードできる。
+Tip: 探索を忘れずに。何か見つかるかもしれない。
+Tip: エイリアンと交尾しようとしないでくれ。
+Tip: 誰も信じてはいけない。
+スタックしたり、飽きたり、チートを使いたい時はチルダキーを押して開発者コンソールを開いてみよう。
+Tip: 素早く遮蔽に入りたい時はテレポートが便利だ。
+Tip: スムーズ移動方式でも、テレポートを使うのを忘れないように。
+Tip: タンクの爆発で大体の相手は殺せる。周囲の環境を利用して有利に立ち回ろう。
+Tip: ほとんどの敵はクリティカルダメージが発生する弱点を持つ。精密な射撃は役に立つ。
+Tip: 移動せずに戦闘していると、追い詰められてしまうぞ。
+Tip: 一部のロボットは、威嚇射撃を受けると遮蔽物に隠れる。何発か撃つと時間稼ぎになるぞ。
+Tip: ゲームが難しいと感じたら、諦めよう。
+Tip: ゲームが面白くなかったら、開発者に文句を送りつけよう。
+Tip: バグを見つけたら報告しないでおきましょう。こちとら十分忙しいのでね。
+豆知識: ナニーはあなたの住所を知っている。
+豆知識: ナニーはいま窓越しにあなたを見ているが、VRをしているあなたからは見えない。
+豆知識: ナニーがあなたの家に侵入しました。
+豆知識: ナニーがあなたの冷蔵庫を開けて食料を漁っています。
+豆知識: Steamに低評価レビューを残すと、ナニーがあなたの家までぶん殴りに行きます。
+豆知識: 銃が登場するVRゲームはVertigo 2が初めてです。
+豆知識: エイリアンとロボットが一緒に登場するゲームはVertigo 2が初めてです。
+豆知識: Vertigo 2は歴史上、最初のゲームです。
+豆知識: そろそろ、このロード画面を書くのも飽きてきた。
+豆知識: こんな暴力的なゲームを遊ぶなんて、あなたは悪人ですね。
+豆知識: BAMMのヘルスゲージは、実際に死の恐怖を持つ人工意識です。
+豆知識: ジョージェフスは物理的な痛みを感じませんが、感情的な痛みは感じます。
+豆知識: 各並行宇宙において、光速は数メートル/秒しか違いがない。
+Tip: がんばれ。
+Tip: 練習すればGit上達する。
+Tip: ショットガンは目標に接近した時が最も有効だ。
+Tip: 全てを浄化するプラズマの嵐を、ロボット連中の機械の身体に降らせろ。その何も感じない冷たい魂に、真の恐怖を刻み込んでやれ。
+Tip: 余った弾薬はすべてロボットの体内に保管してあげよう。
+Tip: 剣を使えば弾切れになることはない。その剣が弾薬を使わない限りはね。
+Tip: ゲームが難しすぎると感じたら、80年代の映画によくあるトレーニングのシーンを真似してみよう。
+Tip: 自分が好きなことを他人の意見で止めるのはよくない。例えそれが、ぽっちゃりボディにタルタルソースをガロン単位で塗る行為であってもね。
+Tip: 次に飛行機に乗る時は火災報知器にイタズラしてみよう。
+Tip: VRで叫ぶと周りに聞こえる。
+Tip: VRゲームで遊ぶときは明かりを消そう。電気を大切にね。
+神が存在するとしたら、全人類の罪に罰を与えるだろう。
+Tip: 一日中VRゲームをしてないで、小型軍艦でロシアに領海侵犯してみてはどうかな。
+Tip: 幼児より大きなカニには近付かないほうがよい。
+Tip: 巨大カニのハサミに捕まって逃げられない時は、カニゴッドのカルキヌスに猫缶を捧げて赦しを乞うのだ。
+Tip: 7.62x39mm弾の方が使いやすいのに、レーザーやプラズマなんて要る？
+Tip: こんな世界でソマリアの偽造パスポートを売っても、大したものは得られない。
+豆知識: 僕には口がないから叫びたくても叫べない。
+豆知識: 実は誰もティンパニーの綴りを知らない。
+Tip: いかなる状況でも素早くリロードできるのは重要だ。練習して完璧を目指そう。
+Tip: ほとんどの銃は両手で持つことで安定させられる。これには反動を低減する効果もある。
+Tip: 銃をしばらく使わないでいると自動的にリロードされる。この機能はオプションでオフにできる。
+Tip: どんな敵にも長所と弱点がある。それぞれ適切なアプローチを見つけよう！
+Tip: テレポートを連発するとクールダウンが発生する。長い距離を少ない回数で効率的にテレポートしよう。
+Tip: 謎の未確認キノコを食べてはいけない。
+Tip: 謎の未確認キノコを食べてみよう。
+Tip: ゲーム全体で6種類のシークレットウェポンが隠されています。
+Tip: シークレットウェポンの中には、見つけやすいものもあれば、巧妙に隠されているものもあります。
+Tip: ホイールメニューを開いてトリガーを押すと、シークレットウェポンにアクセスできます。
+Tip: 気に入らない改造パーツがあったら、ポーズメニューから無効化できる。
+Tip: 図鑑で敵の情報を調べてみよう。思わぬ弱点が見つかるかもしれない。
+豆知識: ナニーは例え手助けできる状況でも、あなたを助けてはくれない。
+Tip: 銃が作動しない時は、リロードしてみよう。
+Tip: 弾薬がなくなった時は、回復するまで待つよりも武器を切り替えたほうが賢い。
+Tip: 強力な武器を迷わず使ってみよう。時間が経てば弾薬は補充される！
+豆知識: ここから先、ゲームはますます悪い方向に進む。
+Tip: 行き詰まった？ 他の武器やプレイスタイルを試してみよう。選択肢はあるはずだ。
+Tip: 一部の強力な銃は、複数の敵やシールドさえも貫通する。
+Tip: 超大型の敵は、頭よりも眼が弱点かもしれない。
+Tip: 速度が遅い弾丸は撃ち落とすことができる。ホーミング弾には特に有効だ！
+Tip: 移動方式オプションから、ジャンプ機能を有効にできる。
+Tip: 吐き気を感じたら休憩をとるか、快適性や移動方式オプションを見直そう。
+Tip: 一部の敵は、一定量のダメージやクリティカルダメージが発生するとノックバックすることがある。
+Tip: セキュリティロボットは通信であなたの位置を共有している。
+Tip: 一部のステージやボス戦では、特定の武器しか使用できないことがある。他の武器は保管してあるのでご安心あれ。
+Tip: プレイ済みのステージからやり直して、取り逃した改造パーツを回収できる。
+Tip: 一部の敵は、特定のダメージタイプが弱点になっていることがある。
+Tip: 図鑑登録通知を受け取った時にポーズすれば、すぐにそのページが開く。
+Tip: テレポート中もダメージは食らう。ローリングをしてる訳じゃないんだ。
+Tip: 敵、特にボスに背を向けるべきではない。"
 "lastPlayed","last played:","Última partida:","Dernière partie :","zuletzt gespielt:",前回プレイ:
 "left","Left","Izquierda","Gauche","Links",左
 "loading","Loading","Cargando","Chargement","Laden",Loading
@@ -4300,7 +4297,7 @@ Confirmer ?","Das Löschen von Daten ist sehr dauerhaft.
 "menu_options","Options","Opciones","Options","Optionen",オプション
 "menu_play","PLAY","JUGAR","JOUER","SPIELEN",プレイ
 "menu_playBeginning","Play from Beginning","Jugar desde el principio","Jouer du début","Von Anfang an spielen",ニューゲーム
-"menu_previousmodsrequired","Previous Mods Required","Módulos anteriores requeridos","Modules précédents requis","Vorherige Mods erforderlich",Previous Mods Required
+"menu_previousmodsrequired","Previous Mods Required","Módulos anteriores requeridos","Modules précédents requis","Vorherige Mods erforderlich",前の改造が必要
 "menu_QJProg","Quantum Juice Progress:","Progreso en el zumo cuántico:","Progression du jus quantique :","Quantensaft-Fortschritt:",クォンタムジュース状況:
 "menu_quit","Quit","Salir","Quitter","Beenden",終了
 "menu_resume","Resume Game","Reanudar juego","Reprendre","Spiel fortsetzen",ゲームに戻る
@@ -4314,12 +4311,12 @@ Confirmer ?","Das Löschen von Daten ist sehr dauerhaft.
 "menu_stageSelect","Stage Select","Selección de fase","Choix du niveau","Stufenauswahl",ステージセレクト
 "menu_stats","Stats","Estadísticas","Statistiques","Statistiken",プレイデータ
 "menu_synthesize","SYNTHESIZE","SINTETIZAR","SYNTHÉTISER","SYNTHETISIEREN",合成
-"menu_synthesizerdepleted","Synthesizer Depleted","Sintetizador agotado","Synthétiseur épuisé","Synthesizer erschöpft",使用済み合成装置
+"menu_synthesizerdepleted","Synthesizer Depleted","Sintetizador agotado","Synthétiseur épuisé","Synthesizer erschöpft",合成済み
 "menu_synthesizing","Synthesizing...","Sintetizando...","Synthétisation...","Synthese ...",合成中……
 "menu_upgradeProg","Upgrade Progress: ","Progreso de la mejora:","Progression de l'amélioration :","Upgrade-Fortschritt:",アップグレード状況:
-"menu_weaponmods","Weapon Mods","Módulos de arma","Modules d'armes","Waffen-Mods",Weapon Mods
-"menu_weaponmodselect","Select Compatible Firearm","Seleccionar arma de fuego compatible","Choisir une arme compatible","Kompatible Waffe auswählen",Select Compatible Firearm
-"menu_weaponmodsynth","WEAPON MOD SYNTHESIZER","SINTETIZADOR DE MÓDULOS DE ARMAS","SYNTHÉTISEUR DE MODULES D'ARMES","WAFFEN-MOD-SYNTHESIZER",WEAPON MOD SYNTHESIZER
+"menu_weaponmods","Weapon Mods","Módulos de arma","Modules d'armes","Waffen-Mods",改造パーツ
+"menu_weaponmodselect","Select Compatible Firearm","Seleccionar arma de fuego compatible","Choisir une arme compatible","Kompatible Waffe auswählen",武器を選択してください
+"menu_weaponmodsynth","WEAPON MOD SYNTHESIZER","SINTETIZADOR DE MÓDULOS DE ARMAS","SYNTHÉTISEUR DE MODULES D'ARMES","WAFFEN-MOD-SYNTHESIZER",改造パーツ合成装置
 "outpost_admin","Security Admin","Administrador de seguridad","Administration de la sécurité","Sicherheitsadministrator",Security Admin
 "outpost_liftinglockdown","Lifting Lockdown...","Cancelando el confinamiento...","Annulation du confinement...","Sperre aufheben ...",Lifting Lockdown...
 "outpost_liftlockdown","Lift Lockdown","Cancelar confinamiento","Annuler le confinement","Sperre aufheben",Lift Lockdown
@@ -4376,7 +4373,7 @@ Confirmer ?","Das Löschen von Daten ist sehr dauerhaft.
 "recap","Recap","Resumen","Récapitulatif","Zusammenfassung",Recap
 "recap_skip","Skip Recap","Omitir resumen","Passer","Zusammenfassung überspringen",Skip Recap
 "right","Right","Derecha","Droite","Rechts",右
-"set_ammobackpack","Ammo Backpack:","Mochila de munición:","Sac de munitions :","Munitionsrucksack:",弾薬の収納:
+"set_ammobackpack","Ammo Backpack:","Mochila de munición:","Sac de munitions :","Munitionsrucksack:",弾薬バックパック:
 "set_ammoOffset","Ammo Height Adjust:","Ajuste de altura de la munición:","Ajuster la hauteur des munitions :","Munitionshöhe einstellen:",弾薬ベルトの高さ:
 "set_antialiasing","Antialiasing:","Suavizado de bordes:","Anticrénelage :","Antialiasing:",アンチエイリアス:
 "set_apply","Apply
@@ -4414,14 +4411,14 @@ Confirmer ?","Das Löschen von Daten ist sehr dauerhaft.
 "set_head","Head","Cabeza","Tête","Kopf",頭
 "set_hud","HUD","Interfaz","ATH","HUD",HUD
 "set_hud_default","Default","Por defecto","Par défaut","Standard",デフォルト
-"set_hud_donotdisturb","Do Not Disturb","No molestar","Ne pas déranger","Bitte nicht stören",Do Not Disturb
-"set_hud_immersive","Immersive","Inmersiva","Immersif","Immersiv",インタラクション
+"set_hud_donotdisturb","Do Not Disturb","No molestar","Ne pas déranger","Bitte nicht stören",非表示
+"set_hud_immersive","Immersive","Inmersiva","Immersif","Immersiv",イマーシブ
 "set_hudpresets","HUD Presets:","Ajustes por defecto de interfaz:","Préréglages ATH :","HUD-Voreinstellungen:",HUDプリセット:
-"set_increment","Snap Increment:","Desplazamiento de imagen:","Rotation par à-coups :","Einrasten-Erhöhung:",Snap Increment:
+"set_increment","Snap Increment:","Desplazamiento de imagen:","Rotation par à-coups :","Einrasten-Erhöhung:",スナップ角度:
 "set_jump","Jumping:","Saltar:","Sauter :","Springen:",ジャンプ:
 "set_lighting","Lighting Quality:","Calidad de iluminación:","Qualité de l'éclairage :","Beleuchtungsqualität:",ライティング品質:
 "set_locomotion","Locomotion","Movimiento","Locomotion","Fortbewegung",移動方式
-"set_lowhealth","Low Health FX:","Efecto de vida baja:","Effets du niveau de santé bas :","Sound bei niedriger Gesundheit:",瀕死時エフェクト:
+"set_lowhealth","Low Health FX:","Efecto de vida baja:","Effets du niveau de santé bas :","Sound bei niedriger Gesundheit:",ヘルス減少時エフェクト:
 "set_mastervol","Master Volume:","Volumen general:","Volume général :","Gesamtlautstärke:",マスター音量:
 "set_menumusic","Menu Music:","Música del menú:","Musique du menu :","Menümusik:",メニューBGM:
 "set_mirror","Mirror Input:","Copiar entrada:","Entrée inversée :","Gespiegelte Eingabe:",LRスティック入れ替え:
@@ -4456,7 +4453,7 @@ Confirmer ?","Das Löschen von Daten ist sehr dauerhaft.
 "set_vignette","Vignette","Viñeta","Vignette","Vignette",視界低減
 "set_waterdynamics","GPU Water Dynamics:","Dinámica del agua de GPU:","Dynamique graphique de l'eau :","GPU-Wasserdynamik:",GPUウォーターダイナミクス:
 "set_wheelammo","Weapon Wheel Ammo Display:","Mostrar munición en ruleta de armas:","Munitions affichées dans le menu des armes :","Waffenrad-Munitionsanzeige:",ホイールメニューの弾薬表示:
-"spec_drone","Spectator Drone","Dron espectador","Drone spectateur","Beobachter-Drohne",観戦ドローン
+"spec_drone","Spectator Drone","Dron espectador","Drone spectateur","Beobachter-Drohne",ドローン視点
 "spec_droneinfo","DRONE INFO:
 Control with WASD + QE + Mouse
 Return to player with R","INFORMACIÓN DEL DRON:
@@ -4465,13 +4462,13 @@ Return to player with R","INFORMACIÓN DEL DRON:
 Contrôler avec WASD + QE + Souris
 Retourner au joueur avec R","DROHNENINFO:
  Steuerung mit WASD + QE + Maus
- Rückkehr zum Spieler mit R","ドローン情報:
+ Rückkehr zum Spieler mit R","ドローン:
 WASDとQEとマウスで操作
 Rでプレイヤーに戻る"
 "spec_fov","Field of View:","Campo de visión:","Champ de vision :","Sichtfeld:",FOV:
-"spec_hd","HD Spectator View","Vista de espectador en HD","Vue spectateur HD","HD-Zuschaueransicht",高品質観戦ビュー
+"spec_hd","HD Spectator View","Vista de espectador en HD","Vue spectateur HD","HD-Zuschaueransicht",HD観戦カメラ
 "spec_hp","Show Player Health","Mostrar la salud del jugador","Afficher la santé du joueur","Spielergesundheit anzeigen",ヘルス表示
-"spec_none","No Spectator View","Sin vista de espectador","Mode spectateur désactivé","Keine Zuschaueransicht",観戦ビューなし
+"spec_none","No Spectator View","Sin vista de espectador","Mode spectateur désactivé","Keine Zuschaueransicht",観戦カメラなし
 "spec_quality","Reduce quality in-headset","Reducir la calidad en el casco","Réduire la qualité du casque","Kopfhörer-Qualität reduzieren",ヘッドセット側の画質低減
 "spec_smoothing","Head Motion Smoothing:","Suavizado de movimiento de la cabeza:","Atténuation des mouvements de tête :","Kopfbewegung glätten:",視点ぶれ補正:
 "spec_third","Third Person View","Vista en tercera persona","Vue subjective","Third-Person-Ansicht",三人称視点
@@ -4560,15 +4557,15 @@ presents","Zulubo Productions
 présente","Zulubo Productions
  präsentiert","Zulubo Productions
 presents"
-"tooltip_ammobackpack","Lets you grab ammo from over your shoulder","Te permite coger munición por encima del hombro","Permet de prendre des munitions par-dessus votre épaule.","Ermöglicht das Greifen von Munition über die Schulter",肩越しに弾薬をつかむ
+"tooltip_ammobackpack","Lets you grab ammo from over your shoulder","Te permite coger munición por encima del hombro","Permet de prendre des munitions par-dessus votre épaule.","Ermöglicht das Greifen von Munition über die Schulter",肩越しに弾薬を取り出せるようになる
 "tooltip_ammoheight","Change height of ammo belt","Cambia la altura del cinturón de munición","Change la hauteur de la ceinture de munitions.","Höhe des Munitionsgürtels ändern",弾薬ベルトの高さを変更
 "tooltip_autoreload","Guns will auto-reload when not used for a time.","Las armas se recargarán automáticamente cuando llevan un tiempo sin usarse","Les armes se rechargent automatiquement si elles ne sont pas utilisées pendant un certain temps.","Die Waffen werden automatisch nachgeladen, wenn sie eine Zeit lang nicht benutzt werden.",銃をしばらく使わずにいると自動的にリロードされます。
 "tooltip_bammcomm","Receive communications from other characters.","Recibirás mensajes de otros personajes","Recevez des communications d'autres personnages.","Empfange Mitteilungen von anderen Charakteren.",他のキャラクターからの通信を受ける。
 "tooltip_bammnotes","Receive notifications for health, ammo, etc.","Recibirás notificaciones de vida, munición, etc.","Recevez des notifications sur la santé, les munitions, etc.","Erhalte Benachrichtigungen für Gesundheit, Munition usw.",ヘルスや弾薬などの通知を受け取る。
 "tooltip_hud_donotdisturb","Disables all HUD elements","Deshabilita todos los elementos de la interfaz","Désactive tous les éléments de l'ATH","Deaktiviert alle HUD-Elemente",すべてのHUDを非表示にする
-"tooltip_hud_immersive","Disables non in-world elements","Deshabilita los elementos que no forman parte del mundo","Désactive tous les éléments qui ne sont pas du monde.","Deaktiviert nicht-weltliche Elemente",ゲーム内アイテムに干渉できないようにする
+"tooltip_hud_immersive","Disables non in-world elements","Deshabilita los elementos que no forman parte del mundo","Désactive tous les éléments qui ne sont pas du monde.","Deaktiviert nicht-weltliche Elemente",世界観に合うHUDのみ表示する
 "tooltip_jump","Adds a jump button. Optional, but fun.","Añade el botón de saltar. Opcional, pero divertido","Ajoute un bouton de saut. Facultatif, mais sympa.","Fügt eine Sprungtaste hinzu. Optional, aber lustig.",ジャンプボタンを有効化。必須じゃない、けど楽しい。
-"tooltip_mirrorinput","Flips to traditional gamepad input for left handed mode.","Cambia a la configuración de mando tradicional para el modo zurdo","Passe à la configuration de manette traditionnelle pour le mode main gauche.","Schaltet auf traditionelle Gamepad-Eingabe um, wenn du Linkshänder bist.",Flips to traditional gamepad input for left handed mode.
+"tooltip_mirrorinput","Flips to traditional gamepad input for left handed mode.","Cambia a la configuración de mando tradicional para el modo zurdo","Passe à la configuration de manette traditionnelle pour le mode main gauche.","Schaltet auf traditionelle Gamepad-Eingabe um, wenn du Linkshänder bist.",左利き用に入力設定を左右入れ替える。
 "tooltip_newgameplus","When New Game Plus is enabled:
 
 -  All weapons are available in all chapters
@@ -4595,12 +4592,12 @@ presents"
 -  Ammo for Kauboi's Revolver can be synthesized
 -  Enemies are more powerful
 -  BAMM does not restore health"
-"tooltip_progressnotes","Show progress popups, e.g. for new encyclopedia entries.","Mostrar ventanas emergentes de progreso, por ejemplo, cuando se obtienen nuevas entradas de la enciclopedia.","Affiche les pop-ups de progression, par exemple, les nouveaux articles de l'encyclopédie.","Fortschritts-Pop-ups anzeigen, z. B. für neue Enzyklopädie-Einträge.","Show progress popups, e.g. for new encyclopedia entries."
+"tooltip_progressnotes","Show progress popups, e.g. for new encyclopedia entries.","Mostrar ventanas emergentes de progreso, por ejemplo, cuando se obtienen nuevas entradas de la enciclopedia.","Affiche les pop-ups de progression, par exemple, les nouveaux articles de l'encyclopédie.","Fortschritts-Pop-ups anzeigen, z. B. für neue Enzyklopädie-Einträge.",進捗ポップアップを表示する。例: 図鑑登録通知
 "tooltip_seasick","Reduces sway on boats and other vehicles.","Reduce el balanceo en barcos y otros vehículos.","Stabilise un peu plus les bateaux et les autres véhicules.","Reduziert das Schwanken von Booten und anderen Fahrzeugen.",ボートや車両の揺れを低減する。
 "tooltip_seatedmode","Overrides floor height and adds crouching.","Anula la altura del suelo y permite agacharse.","Ignore la hauteur du sol et ajoute la position accroupie.","Überschreibt die Bodenhöhe und fügt das Hocken hinzu.",床の高さをオーバーライドし、しゃがみボタンを有効にする。
 "tooltip_secretweapons","[{0}] for Secret Weapons","[{0}] para armas secretas","[{0}] pour les armes secrètes","[{0}] für Geheimwaffen",[{0}] for Secret Weapons
-"tooltip_wheelammo","Show ammo levels when switching weapons.","Muestra la munición disponible al cambiar de arma.","Affiche les niveaux de munition en changeant d'arme.","Zeige den Munitionsbestand an, wenn du die Waffen wechselst.",Show ammo levels when switching weapons.
-"tooltip_gunangle","Tilt guns up or down","Incline las pistolas hacia arriba o hacia abajo","Inclinez les pistolets vers le haut ou vers le bas","Kippen Sie die Pistole nach oben oder unten",Tilt guns up or down
+"tooltip_wheelammo","Show ammo levels when switching weapons.","Muestra la munición disponible al cambiar de arma.","Affiche les niveaux de munition en changeant d'arme.","Zeige den Munitionsbestand an, wenn du die Waffen wechselst.",武器切り替え時に手持ちの弾薬を表示する。
+"tooltip_gunangle","Tilt guns up or down","Incline las pistolas hacia arriba o hacia abajo","Inclinez les pistolets vers le haut ou vers le bas","Kippen Sie die Pistole nach oben oder unten",銃の角度を上下に回転する。
 "tutorial_ammo","Ammo","Munición","Munitions","Munition",弾薬
 "tutorial_beginreload","Begin Reload","Empezar recarga","Commencer à recharger","Nachladen beginnen",リロードを開始
 "tutorial_break","Break","Abrir","Briser","Pause",ポーズ
@@ -6368,27 +6365,27 @@ Only when the time is right will I grant you a cartridge."
 "villagers_reunion_confront_sintho_caption_09","There’s no running away this time. ","Esta vez, no tendrás escapatoria.","Vous ne pourrez pas vous échapper cette fois-ci.","Diesmal gibt es kein Weglaufen.",There’s no running away this time.
 "villagers_reunion_confront_sintho_caption_10","It’s time to face the consequences once and for all.","Es hora de hacer frente a las consecuencias de una vez por todas.","Il est temps d'assumer les conséquences de vos actes.","Es ist an der Zeit, ein für alle Mal die Konsequenzen zu ziehen.",It’s time to face the consequences once and for all.
 "villagers_reunion_die_caption_00","Aaah!","¡Aaaah!","Aaah !","Aaah!",Aaah!
-"Saplord_00_intro_caption_00","You’ve defeated my saplings, but to prove yourself worthy of the Heartfruit you’ll need to go through me! ","Has derrotado a mis retoños, ¡pero tendrás que pasar por encima de mí para demostrar que eres digna de la fruta corazón!","Tu as vaincu mes jeunes pousses, mais pour prouver que tu es digne du fruiticœur, tu devras me passer sur le corps !","Du hast meine Setzlinge besiegt, aber um dich der Herzfrucht würdig zu erweisen, musst du durch mich hindurchgehen!","You’ve defeated my saplings, but to prove yourself worthy of the Heartfruit you’ll need to go through me! "
-"Saplord_01_saplord_caption_00","I am Saplord, guardian of the fruit!  ","Soy la señora de la savia, el guardián de la fruta.","Je suis le Séveur, gardien du fruit !","Ich bin Saftlord, der Hüter der Frucht!","I am Saplord, guardian of the fruit!  "
-"Saplord_02_tree_caption_00","Few who climb this tree return. You shall not number among them! ","Son muy pocos los que vuelven tras trepar por este árbol. ¡No permitiré que seas una de ellos!","Rares sont ceux qui grimpent dans cet arbre et en reviennent. Tu n'en seras pas !","Nur wenige, die diesen Baum erklimmen, kehren zurück. Du sollst nicht zu ihnen zählen!",Few who climb this tree return. You shall not number among them!
-"Saplord_03_cannons_caption_00","Your cannons sting, but I have absorbed worthier foes than you! ","Puedo sentir lo que lanzan tus cañones, ¡pero he absorbido a enemigos muy superiores a ti!","Tes canons piquent, mais j'ai absorbé des ennemis plus nobles que toi !","Deine Kanonen schmerzen, aber ich habe schon würdigere Feinde als dich verschlungen!","Your cannons sting, but I have absorbed worthier foes than you! "
-"Saplord_04_life_caption_00","The Hearttree gives us life, and we shall give you death! ","El árbol corazón nos da la vida, ¡y a ti te daremos muerte!","L'arboricœur nous donne la vie, et nous te donnerons la mort !","Der Herzbaum gibt uns das Leben, und wir geben euch den Tod!","The Hearttree gives us life, and we shall give you death! "
-"Saplord_05_amber_caption_00","We shall preserve your skeleton in amber, to laugh at your tenacity! ","Preservaremos tu esqueleto en ámbar, ¡como burla por tu tenacidad!","Nous préserverons ton squelette dans l'ambre, pour rire de ta ténacité !","Wir werden dein Skelett in Bernstein aufbewahren, um über deine Hartnäckigkeit zu lachen!","We shall preserve your skeleton in amber, to laugh at your tenacity! "
-"Saplord_06_bones_caption_00","I will split your bones and count the rings to see how old you are! ","¡Partiré tus huesos y contaré sus anillos para averiguar cuántos años tienes!","Je briserai tes os et compterai les cernes pour en déduire ton âge !","Ich werde deine Knochen spalten und die Ringe zählen, um zu sehen, wie alt du bist!",I will split your bones and count the rings to see how old you are!
-"Saplord_07_grasshopper_caption_00","If you keep jumping around like a grasshopper, I will crush you like one! ","Si sigues saltando como un saltamontes, ¡tendré que aplastarte como a un insecto!","Arrête de sauter comme une sauterelle ou je t'écraserai comme un insecte !","Wenn du weiter wie eine Heuschrecke herumspringst, werde ich dich wie eine zerquetschen!","If you keep jumping around like a grasshopper, I will crush you like one! "
-"Saplord_08_replenish_caption_00","Curses, I must replenish my body.","Maldita sea... Tengo que restaurar mi cuerpo.","Malédiction, je dois remplir mon corps.","Verflucht, ich muss meinen Körper wieder auftanken.","Curses, I must replenish my body."
-"Saplord_08_replenish_caption_01","Time out, stay away!","¡Tiempo muerto! ¡Apártate!","Temps mort, ne t'approche pas !","Auszeit, bleib weg!","Time out, stay away!"
-"Saplord_10_replenished_caption_00","Hah! You fool, now I am replenished. Your death will be swift! ","¡Ja! Idiota, he repuesto mis fuerzas. ¡Tu muerte será rápida!","Hah ! Misérable, je suis revitalisé. Ta mort sera rapide !","Hah! Du Narr, jetzt bin ich wieder aufgetankt. Dein Tod wird schnell kommen!","Hah! You fool, now I am replenished. Your death will be swift! "
-"Saplord_11_eye_caption_00","Aah! My eye socket! You do not respect the rules of time-out.","¡Aaah! ¡La cuenca de mi ojo! ¿Es que no respetas los tiempos muertos?","Aah ! Mon œil ! Tu ne respectes pas les règles du temps mort.","Aah! Meine Augenhöhle! Du hältst dich nicht an die Regeln der Auszeit.",Aah! My eye socket! You do not respect the rules of time-out.
-"Saplord_11_eye_caption_01","Very well, if you will play dirty, so will I.  ","Está bien... Si juegas sucio, yo haré lo mismo.","Très bien, si tu veux tricher, je le peux aussi.","Nun gut, wenn du schmutzig spielen willst, werde ich es auch tun.","Very well, if you will play dirty, so will I.  "
-"Saplord_12_saplings_caption_00","My saplings, kill the interloper! ","Retoños, ¡matad a la intrusa!","Mes jeunes pousses, tuez cette intruse !","Meine Setzlinge, tötet den Eindringling!","My saplings, kill the interloper! "
-"Saplord_13_complaining_caption_00","Yes, yes, I know you failed to kill her earlier, but now I am at your side!  ","Sí, sí, ya sé que antes no la habéis podido matar, ¡pero ahora estoy con vosotros!.","Oui, oui, je sais que vous n'avez pas réussi plus tôt, mais je suis là maintenant !","Ja, ja, ich weiß, dass ihr es vorhin nicht geschafft habt, sie zu töten, aber jetzt bin ich an eurer Seite!","Yes, yes, I know you failed to kill her earlier, but now I am at your side!  "
-"Saplord_13_complaining_caption_01","Stop complaining!  ","¡Dejad de quejaros!","Arrêtez de vous plaindre !","Hört auf zu jammern!",Stop complaining!
-"Saplord_14_depth_caption_00","This is more difficult without depth perception! ","¡Esto es más difícil sin percepción de profundidad!","C'est plus difficile sans percevoir la profondeur !","Ohne Tiefenwahrnehmung ist das noch schwieriger!",This is more difficult without depth perception!
-"Saplord_15_killing_caption_00","You are killing my saplings with ruthless disregard for their young lives. I commend you! ","Estás matando a mis retoños sin que te importe lo jóvenes que son. ¡Te felicito!","Tu tues mes pousses impitoyablement sans te soucier de leur jeune vie. Je t'admire !","Du tötest meine Setzlinge mit rücksichtsloser Missachtung ihres jungen Lebens. Ich verachte dich!",You are killing my saplings with ruthless disregard for their young lives. I commend you!
-"Saplord_16_drained_caption_00","Agh, not again! My body, drained. ","¡Agh! ¡Otra vez no! Mi cuerpo se ha quedado sin energía...","Argh, pas encore ! Mon corps, vidé.","Ah, nicht schon wieder! Mein Körper, ausgelaugt.","Agh, not again! My body, drained. "
-"Saplord_17_upright_caption_00","Hah, upright once more! Let us finish this quickly. ","¡Ja, otra vez como nuevo! Acabemos con esto cuanto antes.","Hah, en pleine forme à nouveau ! Finissons-en, et vite.","Hah, noch einmal aufrecht! Lass uns das schnell beenden.","Hah, upright once more! Let us finish this quickly. "
-"Saplord_18_Ow_caption_00","Ow!","¡Ay!","Ouille !","Au!",Ow!
+"Saplord_00_intro_caption_00","You’ve defeated my saplings, but to prove yourself worthy of the Heartfruit you’ll need to go through me! ","Has derrotado a mis retoños, ¡pero tendrás que pasar por encima de mí para demostrar que eres digna de la fruta corazón!","Tu as vaincu mes jeunes pousses, mais pour prouver que tu es digne du fruiticœur, tu devras me passer sur le corps !","Du hast meine Setzlinge besiegt, aber um dich der Herzfrucht würdig zu erweisen, musst du durch mich hindurchgehen!",サプリン兵を退けた程度で、ハートフルーツにふさわしいと思っているなら大間違いだ！
+"Saplord_01_saplord_caption_00","I am Saplord, guardian of the fruit!  ","Soy la señora de la savia, el guardián de la fruta.","Je suis le Séveur, gardien du fruit !","Ich bin Saftlord, der Hüter der Frucht!",果実の守護者、このサプリンロードを倒してみせよ！
+"Saplord_02_tree_caption_00","Few who climb this tree return. You shall not number among them! ","Son muy pocos los que vuelven tras trepar por este árbol. ¡No permitiré que seas una de ellos!","Rares sont ceux qui grimpent dans cet arbre et en reviennent. Tu n'en seras pas !","Nur wenige, die diesen Baum erklimmen, kehren zurück. Du sollst nicht zu ihnen zählen!",この木を登った者に待つのは悲惨な死だ 。貴様にも同じ末路を辿らせてやろう！
+"Saplord_03_cannons_caption_00","Your cannons sting, but I have absorbed worthier foes than you! ","Puedo sentir lo que lanzan tus cañones, ¡pero he absorbido a enemigos muy superiores a ti!","Tes canons piquent, mais j'ai absorbé des ennemis plus nobles que toi !","Deine Kanonen schmerzen, aber ich habe schon würdigere Feinde als dich verschlungen!",さっきのは効いたぞ。だが、貴様より強大な相手さえも取り込んできたのだ！
+"Saplord_04_life_caption_00","The Hearttree gives us life, and we shall give you death! ","El árbol corazón nos da la vida, ¡y a ti te daremos muerte!","L'arboricœur nous donne la vie, et nous te donnerons la mort !","Der Herzbaum gibt uns das Leben, und wir geben euch den Tod!",ハートツリーよ、我々に命を賜りたまえ！ 我は貴様に死を賜ってやろう！
+"Saplord_05_amber_caption_00","We shall preserve your skeleton in amber, to laugh at your tenacity! ","Preservaremos tu esqueleto en ámbar, ¡como burla por tu tenacidad!","Nous préserverons ton squelette dans l'ambre, pour rire de ta ténacité !","Wir werden dein Skelett in Bernstein aufbewahren, um über deine Hartnäckigkeit zu lachen!",樹液に閉じ込められた貴様のむくろは、永遠に笑いものになる！
+"Saplord_06_bones_caption_00","I will split your bones and count the rings to see how old you are! ","¡Partiré tus huesos y contaré sus anillos para averiguar cuántos años tienes!","Je briserai tes os et compterai les cernes pour en déduire ton âge !","Ich werde deine Knochen spalten und die Ringe zählen, um zu sehen, wie alt du bist!",貴様の骨を折って年輪を数えるのが楽しみだ！
+"Saplord_07_grasshopper_caption_00","If you keep jumping around like a grasshopper, I will crush you like one! ","Si sigues saltando como un saltamontes, ¡tendré que aplastarte como a un insecto!","Arrête de sauter comme une sauterelle ou je t'écraserai comme un insecte !","Wenn du weiter wie eine Heuschrecke herumspringst, werde ich dich wie eine zerquetschen!",バッタのように跳び回るなら、バッタらしく潰してやる！
+"Saplord_08_replenish_caption_00","Curses, I must replenish my body.","Maldita sea... Tengo que restaurar mi cuerpo.","Malédiction, je dois remplir mon corps.","Verflucht, ich muss meinen Körper wieder auftanken.",なんということだ、身体を補充しなければ。
+"Saplord_08_replenish_caption_01","Time out, stay away!","¡Tiempo muerto! ¡Apártate!","Temps mort, ne t'approche pas !","Auszeit, bleib weg!",タイムアウトだ、離れろ！
+"Saplord_10_replenished_caption_00","Hah! You fool, now I am replenished. Your death will be swift! ","¡Ja! Idiota, he repuesto mis fuerzas. ¡Tu muerte será rápida!","Hah ! Misérable, je suis revitalisé. Ta mort sera rapide !","Hah! Du Narr, jetzt bin ich wieder aufgetankt. Dein Tod wird schnell kommen!",ハ、馬鹿め！ 身体を取り戻したぞ。すぐに地獄へ送ってやる！
+"Saplord_11_eye_caption_00","Aah! My eye socket! You do not respect the rules of time-out.","¡Aaah! ¡La cuenca de mi ojo! ¿Es que no respetas los tiempos muertos?","Aah ! Mon œil ! Tu ne respectes pas les règles du temps mort.","Aah! Meine Augenhöhle! Du hältst dich nicht an die Regeln der Auszeit.",あぁ、我が眼が！ タイムアウトのルールを知らないとでもいうのか。
+"Saplord_11_eye_caption_01","Very well, if you will play dirty, so will I.  ","Está bien... Si juegas sucio, yo haré lo mismo.","Très bien, si tu veux tricher, je le peux aussi.","Nun gut, wenn du schmutzig spielen willst, werde ich es auch tun.",いいだろう、汚い手段に出るなら容赦はしない。
+"Saplord_12_saplings_caption_00","My saplings, kill the interloper! ","Retoños, ¡matad a la intrusa!","Mes jeunes pousses, tuez cette intruse !","Meine Setzlinge, tötet den Eindringling!",サプリン兵よ、侵入者を生きて帰すな！
+"Saplord_13_complaining_caption_00","Yes, yes, I know you failed to kill her earlier, but now I am at your side!  ","Sí, sí, ya sé que antes no la habéis podido matar, ¡pero ahora estoy con vosotros!.","Oui, oui, je sais que vous n'avez pas réussi plus tôt, mais je suis là maintenant !","Ja, ja, ich weiß, dass ihr es vorhin nicht geschafft habt, sie zu töten, aber jetzt bin ich an eurer Seite!",そうか、奴を殺し損ねたか。だが、今は我がついておる！
+"Saplord_13_complaining_caption_01","Stop complaining!  ","¡Dejad de quejaros!","Arrêtez de vous plaindre !","Hört auf zu jammern!",文句を言うんじゃあない！
+"Saplord_14_depth_caption_00","This is more difficult without depth perception! ","¡Esto es más difícil sin percepción de profundidad!","C'est plus difficile sans percevoir la profondeur !","Ohne Tiefenwahrnehmung ist das noch schwieriger!",これでは奥行きが分からんではないか！
+"Saplord_15_killing_caption_00","You are killing my saplings with ruthless disregard for their young lives. I commend you! ","Estás matando a mis retoños sin que te importe lo jóvenes que son. ¡Te felicito!","Tu tues mes pousses impitoyablement sans te soucier de leur jeune vie. Je t'admire !","Du tötest meine Setzlinge mit rücksichtsloser Missachtung ihres jungen Lebens. Ich verachte dich!",貴様は若きサプリン兵を躊躇いなく殺すのだな。なんと無慈悲なことだ！
+"Saplord_16_drained_caption_00","Agh, not again! My body, drained. ","¡Agh! ¡Otra vez no! Mi cuerpo se ha quedado sin energía...","Argh, pas encore ! Mon corps, vidé.","Ah, nicht schon wieder! Mein Körper, ausgelaugt.",うぐ、またか！ 身体が吸い込まれていく。
+"Saplord_17_upright_caption_00","Hah, upright once more! Let us finish this quickly. ","¡Ja, otra vez como nuevo! Acabemos con esto cuanto antes.","Hah, en pleine forme à nouveau ! Finissons-en, et vite.","Hah, noch einmal aufrecht! Lass uns das schnell beenden.",ハ、見たか！ 貴様を打ち倒すために立ち上がったぞ！
+"Saplord_18_Ow_caption_00","Ow!","¡Ay!","Ouille !","Au!",あぁ！
 "seer_00_intro_caption_00","I was blessed with sight. To see into the fields of reality. ","Me han bendecido con el don de la visión para ver los campos de la realidad.","J'ai été bénie par la vision. Pour voir dans les champs de la réalité.","Ich war mit Augenlicht gesegnet. Ich konnte in die Felder der Realität sehen.",I was blessed with sight. To see into the fields of reality.
 "seer_00_intro_caption_01","For so many years, it was but a flicker in the periphery.","Durante muchos años, solo era un parpadeo en la periferia.","Pendant de nombreuses années, ce n'était qu'un clignotement à la périphérie.","So viele Jahre lang war es nur ein Flackern in der Peripherie.","For so many years, it was but a flicker in the periphery."
 "seer_00_intro_caption_02","But when I added more eyes, the visions clarified.","Sin embargo, cuando fui añadiendo más ojos, las visiones estuvieron más claras.","Mais en ajoutant des yeux, les visions se sont clarifiées.","Aber als ich mehr Augen hinzufügte, wurden die Visionen klarer.","But when I added more eyes, the visions clarified."
