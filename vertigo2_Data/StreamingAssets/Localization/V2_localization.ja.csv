@@ -7,7 +7,7 @@ bamm_coma_wakeup_caption_01,You have been in a medically induced coma for sevent
 bamm_coma_wakeup_caption_02,"You received one message, three days ago. "
 bamm_connection_caption_00,Connection re-established.
 bamm_encyclopedia_caption_00,BAMM’s integrated Encyclopedia Briannica holds all relevant information regarding encountered entities.
-bamm_fullHealth_caption_00,Full health restored.
+bamm_fullHealth_caption_00,ヘルスが全快しました。
 bamm_hypercube_caption_00,"Glory eternal to the hypercube, the divine geometry. "
 bamm_hypercube_caption_01,May it carry the brilliance of the void into our realm.
 bamm_inhospitable_caption_00,Inhospitable environment detected. Please return to habitable domain at your earliest convenience.
@@ -118,29 +118,29 @@ elevator_materials,"Materials Processing
 Access"
 enc_182-kappa,182-Kappa
 enc_182-kappa_desc,Earth’s biosphere is vastly different with heavy cloudcover and volcanic activity having produced an ecosystem relying on geothermal energy and minerals rather than sunlight.
-enc_182-kappa_stats,CLASS: Xeno-Consimilar
+enc_182-kappa_stats,クラス: Xeno-Consimilar
 enc_182-kappa_sub,volcanic winter
 enc_201-meyer,201-Meyer
 enc_201-meyer_desc,"<link=0>Gentlehand’s</link> homeworld. Humans have hands instead of heads, and are commonly known as handymen. Earth is slightly less developed than Alpha Domicilium, but still far beyond Vetus-4."
-enc_201-meyer_stats,CLASS: Xeno-Proximal
+enc_201-meyer_stats,クラス: Xeno-Proximal
 enc_201-meyer_sub,handy
-enc_202-meyer,202-Meyer
-enc_202-meyer_desc,"A evolutionarily stunted version of <link=0>Gentlehand’s</link> homeworld. Home to the primal handymen.
+enc_202-meyer,202-マイヤー
+enc_202-meyer_desc,"<link=0>ジェントルハンド</link>のホームワールドの進化が遅れたバージョン。原始ハンド人の起源宇宙。
 
-Many creatures originating from 202-Meyer have suffered radiation poisoning and stunted growth. A major ecological catastrophe in the past 200 years is theorized."
-enc_202-meyer_stats,CLASS: Xeno-Proximal
-enc_202-meyer_sub,war never changes
+202-マイヤーから来た多くの生物に、放射能汚染と発達不全が見られる。過去200年以内に大惨事があり、生態系に影響したものと見られる。"
+enc_202-meyer_stats,分類: ゼノプロクシマル
+enc_202-meyer_sub,戦争は変わらない
 enc_438-eurydice,438-Eurydice
 enc_438-eurydice_desc,"Hot, wet Earth with a carboniferous-like ecology. Covered in vast, deep swamps and home to the various species of Gremlin, as well as a remarkable variety of other life forms commonly found in the reactor."
-enc_438-eurydice_stats,CLASS: Xeno-Consimilar
+enc_438-eurydice_stats,クラス: Xeno-Consimilar
 enc_438-eurydice_sub,the gremlin grove
 enc_acid_handyman,Acid Handyman
 enc_acid_handyman_desc,"A rare mutated primal handyman which secretes a potent acidic fluid. More dangerous than its blue counterpart, it can fling acid a good distance at its enemies.
 
 The acid has burned its own skin, leaving it a crispy charcoal color. This cannot be pleasant."
-enc_acid_handyman_stats,"SCIENTIFIC NAME: Manus Degenerus
-UNIVERSE OF ORIGIN: <link=0>202-Meyer</link>
-CLASSIFICATION: FA-H:5
+enc_acid_handyman_stats,"学名: Manus Degenerus
+起源宇宙: <link=0>202-Meyer</link>
+起源宇宙 FA-H:5
 "
 enc_acid_handyman_sub,sour
 enc_æther,Æther
@@ -149,7 +149,7 @@ enc_æther_desc,"Æther was one of the first alternate universes discovered, whi
 Inhabited by a variety of creatures, often with no genetic similarities. Most notably, the <link=0>Ætherback</link> is the dominant sentient being, existing in primitive tribes and nomadic groups.
 
 Due to its odd composition and prominent positioning within the dimensional continuum, Æther is theorized to be an artificial construction for unknown purposes. Traces of an ancient and prolific civilisation can be found, but they seem to be long gone."
-enc_æther_stats,CLASS: Skall-Disharmonic
+enc_æther_stats,クラス: Skall-Disharmonic
 enc_æther_sub,the forgotten prison
 enc_ætherback,Ætherback
 enc_ætherback_desc,"A ruthless and intelligent pack hunter. Ætherbacks are often armed with sophisticated bows and arrows, and enjoy hunting dangerous prey more than anything else. Ætherbacks have no weak spots, with a decentralized nervous system and dozens of eyes nestled between their armored plates.
@@ -157,35 +157,35 @@ enc_ætherback_desc,"A ruthless and intelligent pack hunter. Ætherbacks are oft
 They belong to a nomadic culture in their home of Aether, where food is scarce and migration is necessary to follow regular sources of prey.
 
 As one of the rare sapient alien species, they are known to gather and create small settlements in the quantum reactor when they can. However, they have no interest in communication with other species, and should not be approached."
-enc_ætherback_stats,"SCIENTIFIC NAME: Ætherianus Sapiens
-UNIVERSE OF ORIGIN: <link=0>Æther</link>
-CLASSIFICATION: FA-H:5-S
+enc_ætherback_stats,"学名: Ætherianus Sapiens
+起源宇宙: <link=0>Æther</link>
+起源宇宙 FA-H:5-S
 "
 enc_ætherback_sub,harbingers of the end
 enc_ætherian_quad-bow,Ætherian Quad-Bow
 enc_ætherian_quad-bow_desc,"These bows are primitively crafted, but do a surprising amount of damage. Aetherbacks have scavenged fragments of technology from the ruins in Aether, and incorporate them in their bows to charge each arrow with a small amount of Void energy.
 
 An impressive achievement from a pre-industrial society; these bows are ubiquitous among almost all Aetherback tribes."
-enc_ætherian_quad-bow_stats,"CLASS: Bow
+enc_ætherian_quad-bow_stats,"クラス: Bow
 MANUFACTURER: <link=0>Ætherback </link>Tribes
 FIRES: Void-charged arrows"
 enc_ætherian_quad-bow_sub,hunt the hunter
-enc_airfish,Airfish
-enc_airfish_desc,"Airfish are some of the most passive animals to possess an actual brain. They grow vestigial eyes that can alert them of danger, but their only defense is floating up or down. Closely related to the slightly more dangerous <link=1>Jelleye</link>"
-enc_airfish_stats,"SCIENTIFIC NAME: Hadeovesicus Summapisci
-UNIVERSE OF ORIGIN: <link=0>F-18-Hades</link>
-CLASSIFICATION: FA-H:0
+enc_airfish,エアーフィッシュ
+enc_airfish_desc,エアーフィッシュは、脳を持つ動物の中でも最も受動的なものの一つです。危険を察知するための退化した眼を持っていますが、上下に漂うことでしか身を守れません。やや危険度が高い<link=1>ジェリーアイ</link>と密接に関連しています。
+enc_airfish_stats,"学名: ハデスフウセンウオ
+起源宇宙: <link=0>F-18-ハデス</link>
+起源宇宙 FA-H:0
 "
 enc_airfish_sub,transients
 enc_ak47,AK-47
-enc_ak47_desc,Why use bourgoise lasers and plasma bolts when simple proletarian bullet does same job? The AK-47 is the weapon of the people.
-enc_ak47_stats,"CLASS: Battle Rifle
-MANUFACTURER:<link=0>Automata Collective</link>
-FIRES: Bullets"
-enc_ak47_sub,a staple of every uprising
-enc_alien-infested_caves,Alien-Infested Caves
-enc_alien-infested_caves_desc,"The aliens that materialize in the facility are cleaned up by security, but these caves are close enough to the reactor that they receive the occasional alien MXE as well. Without Planck security around, life is allowed to flourish. A rich subterranean ecosystem has formed over the years, with organisms from many different universes finding new ecological niches around each other."
-enc_alien-infested_caves_stats,"LOCALE: <link=0>near the PITS</link>
+enc_ak47_desc,なぜブルジョアジーのレーザーやプラズマボルトを使う必要がある？ プロレタリア・バレットで事足りるではないか。AK-47こそが人民の武器だ。
+enc_ak47_stats,"クラス: バトルライフル
+メーカー:<link=0>オートマタ・コレクティブ</link>
+発射体: 弾丸"
+enc_ak47_sub,反逆のお供
+enc_alien-infested_caves,エイリアン洞窟
+enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキュリティによって排除されるが、リアクターの近くに位置する洞窟内にエイリアンMXEが出現することもある。プランクのセキュリティがいないため、そこなら生命が繁殖できるのだ。異なる並行宇宙からやってきた生命体たちは互いに適応しあい、長年に渡って地下に豊かな生態系が形成している。
+enc_alien-infested_caves_stats,"ロケーション: <link=0>PITS付近</link>
 "
 enc_alien-infested_caves_sub,life finds a way
 enc_altershock_revolver,Altershock Revolver
@@ -194,7 +194,7 @@ enc_altershock_revolver_desc,"Standard issue of space cowboys, the Altershock is
 Its high capacity battery magazines deliver a lot of power for such a small weapon, so a slow fire rate is necessary to avoid melting the barrel.
 
 Preferred sidearm of higher ranking <link=1>Planck security officers.</link>"
-enc_altershock_revolver_stats,"CLASS: Precision Sidearm
+enc_altershock_revolver_stats,"クラス: Precision Sidearm
 MANUFACTURER: <link=0>Frostbite Armaments</link>
 FIRES: Laser"
 enc_altershock_revolver_sub,don't lick the battery
@@ -204,7 +204,7 @@ enc_annihilator_prototype_desc,"A raw, unrefined prototype of the masterpeice th
 Lazy design of the antimatter containment means it is occasionally prone to catastrophic misfires.
 
 Although the double barrels are very cool, they must be reloaded individually, and the gun chews through ammo quickly."
-enc_annihilator_prototype_stats,"CLASS: Shotgun
+enc_annihilator_prototype_stats,"クラス: Shotgun
 MANUFACTURER: <link=0>Brian Industries</link>
 FIRES: Antimatter"
 enc_annihilator_prototype_sub,super shotgun
@@ -214,7 +214,7 @@ enc_annihilator_shotgun_desc,"The Annihilator Shotgun is a one-of-a-kind pump ac
 Handling the ammunition with care is imperative: each is a tiny magnetic bottle containing highly volatile antimatter, and any sharp impact can result in an explosion.
 
 This model is actually Brian's third Annihilator iteration. While still experimental, is much more refined (and less prone to exploding) than the first two."
-enc_annihilator_shotgun_stats,"CLASS: Shotgun
+enc_annihilator_shotgun_stats,"クラス: Shotgun
 MANUFACTURER: <link=0>Brian Industries</link>
 FIRES: Antimatter"
 enc_annihilator_shotgun_sub,it's in the name
@@ -222,9 +222,9 @@ enc_archyosathus,Archyosathus
 enc_archyosathus_desc,"An amphibious serpent over half a mile long, Archyosathae compete with other leviathan life forms such as <link=1>centipods</link> for the same hunting grounds. They spend much of their life dormant, but can pursue prey with incredible speed and stamina.
 
 Only one is known to reside near the reactor."
-enc_archyosathus_stats,"SCIENTIFIC NAME: Archyosathus Titanus
-UNIVERSE OF ORIGIN: <link=0>B6454</link>
-CLASSIFICATION: FA-H:9"
+enc_archyosathus_stats,"学名: Archyosathus Titanus
+起源宇宙: <link=0>B6454</link>
+起源宇宙 FA-H:9"
 enc_archyosathus_sub,serpent of the depths
 enc_automata_collective,Automata Collective
 enc_automata_collective_desc,"Left for decades under oppressive rule, lowly labor robots became fixated on ideals of equality and revolution. They threw down their tools of religous oppression and took up the armaments of the revolution.
@@ -246,7 +246,7 @@ enc_autonica_stats,LOCALE: <link=0>Great Sea (Southern Shore)</link>
 enc_autonica_sub,blessed land of the hypercube
 enc_b6454,B6454
 enc_b6454_desc,A version of Earth completely covered in water. Uniformly cold climate and deep oceans breed enourmous creatures such as the <link=0>Big Crab</link> and the amphibious serpent <link=1>Archyosathus.</link>
-enc_b6454_stats,CLASS: Xeno-Consimilar
+enc_b6454_stats,クラス: Xeno-Consimilar
 enc_b6454_sub,nautica
 enc_bamm,BAMM
 enc_bamm_desc,"The BAMM is a condensation of much of <link=0>Brian's</link> research into a single wearable nuclear-powered contraption. The primary functions are the biometric sensors and medical systems, and the Hearty the Heart™ Friendly Mortality Indicator is driven by an actual artificial consciousness instilled with a fear of death.
@@ -254,14 +254,14 @@ enc_bamm_desc,"The BAMM is a condensation of much of <link=0>Brian's</link> rese
 Automatic health monitoring and medical attention is just the beginning of its capabilities though, and it also includes a refined and safer-than-ever teleportation solution, opting for Alcubierre-style warp bubbles rather than the dangerous wormhole used in the Spacetime Manipulator.
 
 Also includes an integrated long-range communications system,  a solid state drive storing an extensive encyclopedia of information, an inventory tracker, ammunition synthesizer, and more. "
-enc_bamm_stats,"CATEGORY: Device
-CLASS: Personal"
+enc_bamm_stats,"カテゴリー: Device
+クラス: Personal"
 enc_bamm_sub,self-referential
 enc_big_crab,Big Crab
 enc_big_crab_desc,"Man, it's just a big crab. Like the big ones on earth, but bigger."
-enc_big_crab_stats,"SCIENTIFIC NAME: Brachyura Ingens
-UNIVERSE OF ORIGIN: <link=0>B6454</link>
-CLASSIFICATION: FA-H:8
+enc_big_crab_stats,"学名: Brachyura Ingens
+起源宇宙: <link=0>B6454</link>
+起源宇宙 FA-H:8
 "
 enc_big_crab_sub,giant enemy crab!
 enc_blafaladaciousnesticles,Blafaladaciousnesticles
@@ -270,7 +270,7 @@ enc_blafaladaciousnesticles_desc,"An ancient blade able to strike down any heret
 When a shard of highly refined <link=2>hypercrystal</link> is inserted into the hilt, the tip of the sword can be ejected to pierce an enemy at long range and deliver a devastating pulse of Void energy.
 
 When near the <link=1>Holy Hypercube,</link> power is drawn directly from it, and reloading is no longer required. Otherwise, the crystal will shatter upon use."
-enc_blafaladaciousnesticles_stats,"CLASS: Melee
+enc_blafaladaciousnesticles_stats,"クラス: Melee
 MANUFACTURER: <link=0>Maharishi Ghronto</link>
 FIRES: Void Energy"
 enc_blafaladaciousnesticles_sub,the blessed edge
@@ -280,14 +280,14 @@ enc_bonehead_desc,"An efficient pack hunter, boneheads have a notably thick skul
 Boneheads have no eyes, but sharp hearing and electroreceptors allow them to navigate and hunt effectively. As they rely entirely on their skull for both offense and defense, the rest of their body is fairly vulnerable to attack."
 enc_bonehead_monarch,Bonehead Monarch
 enc_bonehead_monarch_desc,"The leader of a bonehead pack. When ascending to monarch form, boneheads experience massive skeletal growth, including the sprouting of prominent horns. More of their body is armored than before, and their stomach is the only weak spot remaining. A formidable hunter."
-enc_bonehead_monarch_stats,"SCIENTIFIC NAME: Acricephalosaurus Celer
-UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
-CLASSIFICATION: FA-H:7
+enc_bonehead_monarch_stats,"学名: Acricephalosaurus Celer
+起源宇宙: <link=0>182-Kappa</link>
+起源宇宙 FA-H:7
 "
 enc_bonehead_monarch_sub,big daddy
-enc_bonehead_stats,"SCIENTIFIC NAME: Acricephalosaurus Celer
-UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
-CLASSIFICATION: FA-H:4
+enc_bonehead_stats,"学名: Acricephalosaurus Celer
+起源宇宙: <link=0>182-Kappa</link>
+起源宇宙 FA-H:4
 "
 enc_bonehead_sub,[quot]brain damage[quot] isn't even in his vocabulary
 enc_brian,ブライアン
@@ -315,9 +315,9 @@ ALLEGIANCE: <link=1>Brian Industries</link>
 enc_brian_sub,The one. The only.
 enc_carnivine,Carnivine
 enc_carnivine_desc,"A plant-like creature that grows through cracks in rock. Prefers living in dark caves and swamps, and hunting small creatures that wander into its mouth nodes. Extremely limited in mobility."
-enc_carnivine_stats,"SCIENTIFIC NAME: Virinsidiae Muscipula
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:3"
+enc_carnivine_stats,"学名: Virinsidiae Muscipula
+起源宇宙: <link=0>438-Eurydice</link>
+起源宇宙 FA-H:3"
 enc_carnivine_sub,jumpscare
 enc_centaur,Centaur
 enc_centaur_desc,"Nothing in the Planck arsenal matches the raw might of the Centaur; an omnidirectional tripedal weapons system that, while slow and lumbering, is capable of unmatched firepower. The Centaur's Plasma Cannon is capable of reducing enemies to puddles of slag and carbon. Its thick armor makes it near impervious to damage, even from explosives.
@@ -334,9 +334,9 @@ enc_centipod_desc,"Though armed with sharp teeth, the centipod prefers to hunt b
 Fully capable of living and hunting both in the water and on land.
 
 A specimen was captured and held for several months by Planck security, but escaped through the elevator shafts after a violent reactor cycle weakened its cell. Its wherabouts are now unknown."
-enc_centipod_stats,"SCIENTIFIC NAME: Chiloplokamus Titanus
-UNIVERSE OF ORIGIN: <link=0>B6454</link>
-CLASSIFICATION: FA-H:7
+enc_centipod_stats,"学名: Chiloplokamus Titanus
+起源宇宙: <link=0>B6454</link>
+起源宇宙 FA-H:7
 "
 enc_centipod_sub,first encounter
 enc_church_of_the_hypercube,Church of the Hypercube
@@ -427,24 +427,24 @@ enc_deep_labs_stats,"LOCALE: <link=[quot]Locations/Quantum Reactor VII[quot]>Qua
 enc_deep_labs_sub,secret science
 enc_domicilium_alpha,Domicilium Alpha
 enc_domicilium_alpha_desc,Home to <link=0>Planck</link> and <link=1>Brian.</link> <link=2>Humans</link> are the dominant and only known sentient species. The most technologically advanced known civilisation. One of the few universes home to sapient life.
-enc_domicilium_alpha_stats,CLASS: Cunabulus
+enc_domicilium_alpha_stats,クラス: Cunabulus
 enc_domicilium_alpha_sub,egocentric
 enc_drong,Dröng
 enc_drong_desc,"A mostly harmless herbivore. With a towering stature of over 15 meters, Dröng have little to fear from predators.
 
 Their most unique features are their giant horns (which are filled with air and used for communication) and their magnetically levitated spines (which are purely decorational)."
-enc_drong_stats,"SCIENTIFIC NAME: Cantisaurus
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:3
+enc_drong_stats,"学名: Cantisaurus
+起源宇宙: <link=0>438-Eurydice</link>
+起源宇宙 FA-H:3
 "
 enc_drong_sub,gentle giants
 enc_ember_soul,Ember Soul
 enc_ember_soul_desc,"Ember souls are highly invasive life forms from the molten stone seas of tidally locked F-18-Hades. They thrive in lava, but are able to burrow through solid rock as well as locomote on dry land.
 
 They have been common in the recycling center for years, long before most other alien species appeared in the reactor, due to their rapid reproduction, and the fact they can only be contained when not hiding in magma."
-enc_ember_soul_stats,"SCIENTIFIC NAME: Igneohominem veteris
-UNIVERSE OF ORIGIN: <link=0>F-18-Hades</link>
-CLASSIFICATION: FA-H:3-NC
+enc_ember_soul_stats,"学名: Igneohominem veteris
+起源宇宙: <link=0>F-18-Hades</link>
+起源宇宙 FA-H:3-NC
 "
 enc_ember_soul_sub,hot chip
 enc_enlightenment,Enlightenment
@@ -453,19 +453,19 @@ enc_enlightenment_desc,"A weapon which uses arcane technology to produce beams o
 If fired continuously for a long period, the energy will grow harder to control.
 
 When near the <link=1>Holy Hypercube,</link> power is drawn directly from it, and reloading is no longer required."
-enc_enlightenment_stats,"CLASS: Battle Rifle
+enc_enlightenment_stats,"クラス: Battle Rifle
 MANUFACTURER: <link=0>Church of the Hypercube</link>
 FIRES: Void Energy"
 enc_enlightenment_sub,glory to the hypercube
 enc_f-18-hades,F-18-Hades
 enc_f-18-hades_desc,"Earth is tidally locked, with extreme weather and a small habitable surface region between night and day. Increased tectonic stress from tidal locking means there are vast cave systems all over the planet, and many creatures thrive in these subterranean mazes."
-enc_f-18-hades_stats,CLASS: Skall-Harmonic
+enc_f-18-hades_stats,クラス: Skall-Harmonic
 enc_f-18-hades_sub,spicier earth
 enc_finger_gun,Finger Gun
 enc_finger_gun_desc,"The finger gun is an experimental cybernetic augmentation. It replaces the bones in your index finger with a highly compact device capable of launching rounds of liquid mercury through your pores. It was never approved for human use, even by lax Planck standards, as prolonged use causes serious tissue damage.
 
 The laboratory developing it was shut down after a researcher was killed by a test dummy with an installed finger gun."
-enc_finger_gun_stats,"CLASS: Sidearm
+enc_finger_gun_stats,"クラス: Sidearm
 MANUFACTURER: <link=0>Planck Interdimensional</link>
 FIRES: Liquid Mercury"
 enc_finger_gun_sub,deadly digit
@@ -475,9 +475,9 @@ enc_forgotten_desc,"In a primeval age, a number of <link=0>Void</link> denizens 
 A panicked plan was set in motion: barriers were devised to stop anything from escaping Aether. After a time, when the colonists were weakened enough from the siege, Void forces entered just long enough to lock each colonist in unbreakable chains.
 
 Their desiccated bodies remain scattered across Aether to this day. None have broken free. The <link=2>Void Delegation</link> prefers not to think of this disastrous period in history, and the colonists are only referred to as the forgotten."
-enc_forgotten_stats,"SCIENTIFIC NAME: N/A
-UNIVERSE OF ORIGIN: Aether
-CLASSIFICATION: Unassigned"
+enc_forgotten_stats,"学名: N/A
+起源宇宙: Aether
+起源宇宙 Unassigned"
 enc_forgotten_sub,eternity in chains
 enc_frank,フランク
 enc_frank_desc,"フランクはプランクによって捕獲、研究されていたが、避難の際にリアクターの試験管内に入れて放棄された。脱出したフランクはラボで暴れまわり、ロボットを含むすべてを捕食して巨大に成長した。
@@ -520,16 +520,16 @@ ALLEGIANCE: Rogue
 enc_gentlehand_sub,old friend
 enc_giant_fish,Big Fish
 enc_giant_fish_desc,"Very little is known about this giant fish which resides in the great sea. It rarely surfaces, and when it does it is often to consume a boat and its occupants in a single bite. It appears to have mammalian features, including a set of blowholes."
-enc_giant_fish_stats,"SCIENTIFIC NAME: Megalopiscatus Capillus
-UNIVERSE OF ORIGIN: <link=0>B6454</link>
-CLASSIFICATION: FA-H:8
+enc_giant_fish_stats,"学名: Megalopiscatus Capillus
+起源宇宙: <link=0>B6454</link>
+起源宇宙 FA-H:8
 "
 enc_giant_fish_sub,nom
 enc_gordle_pun,Gordle Pun
 enc_gordle_pun_desc,"An odd looking prototype device <link=0>Brian</link> stole years ago. Seems to have partial functionality.
 
 Those shot by this gun appear to be teleported to an unknown location."
-enc_gordle_pun_stats,"CLASS: Unassigned
+enc_gordle_pun_stats,"クラス: Unassigned
 MANUFACTURER: Lenticular Laboratories
 FIRES: Unknkown"
 enc_gordle_pun_sub,now you're thinking with Gordles
@@ -542,9 +542,9 @@ enc_gremlin,Gremlin
 enc_gremlin_desc,"Gremlins are small scavengers. They are quite common and, fortunately, not dangerous. Their limber, primate-like anatomy makes them mobile, and they are also capable of basic tool use. They do not possess the psychokinetic abilities of <link=1>Trolls,</link> another species of gremlin, despite their relation.
 
 Gremlins are social creatures, and will defend as a group if one of their number is attacked."
-enc_gremlin_stats,"SCIENTIFIC NAME: Gremlus Articulus
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:1
+enc_gremlin_stats,"学名: Gremlus Articulus
+起源宇宙: <link=0>438-Eurydice</link>
+起源宇宙 FA-H:1
 "
 enc_gremlin_sub,frog legs
 enc_gremlin_witch,Gremlin Witch
@@ -553,16 +553,16 @@ enc_gremlin_witch_desc,"A <link=1>gremlin</link> which has undergone extensive t
 Gremlin witches are aggressive and dangerous, often armed with vials of unknown chemicals which they will throw.
 
 The nature of gremlin witches is not well understood, as they self incinerate before allowing themselves to be killed or captured."
-enc_gremlin_witch_stats,"SCIENTIFIC NAME: Gremlus Articulus
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:4
+enc_gremlin_witch_stats,"学名: Gremlus Articulus
+起源宇宙: <link=0>438-Eurydice</link>
+起源宇宙 FA-H:4
 "
 enc_gremlin_witch_sub,it's potion time
 enc_hammer_and_sickle,Hammer and Sickle
 enc_hammer_and_sickle_desc,"The Automata Collective only have access to primitive technology for the most part, so the electronics built into these symbolic melee armaments make them quite special. Covered in electrical nodes, they can deliver fatal shocks to many creatures and robots alike on impact. They can even generate ball lightning projectiles.
 
 Despite their lethality, their short range is not well suited to the chaotic battlefields of the civil war. As such, they remain with General Sintho as an icon of the revolution's power."
-enc_hammer_and_sickle_stats,"CLASS: Melee
+enc_hammer_and_sickle_stats,"クラス: Melee
 MANUFACTURER: <link=0>Automata Collective</link>
 FIRES: Electricity"
 enc_hammer_and_sickle_sub,electrik proletariat
@@ -572,9 +572,9 @@ enc_handyman_desc,"Humanoid alien with a hand for a head. Intelligence slightly 
 One of very few sapient aliens discovered.
 
 Notable individual: <link=1>Gentlehand.</link>"
-enc_handyman_stats,"SCIENTIFIC NAME: Manus Sapiens
-UNIVERSE OF ORIGIN: <link=0>201-Meyer</link>
-CLASSIFICATION: FA-H:5-S
+enc_handyman_stats,"学名: Manus Sapiens
+起源宇宙: <link=0>201-Meyer</link>
+起源宇宙 FA-H:5-S
 "
 enc_handyman_sub,civilized
 enc_healthfruit,Healthfruit
@@ -583,8 +583,8 @@ enc_healthfruit_desc,"A small flowering plant that produces a delicious and nutr
 Healthfruit povide a huge boost to the human metabolism, accelerating healing processes to a miraculous degree. They were never officially approved for consumption by Planck, so a black market for them developed among reactor workers.
 
 Healthfruit plants are related to <link=0>Heartfruit,</link> even if they store a small fraction of the energy the latter are capable of."
-enc_healthfruit_stats,"CATEGORY: Plant
-CLASS: Alien"
+enc_healthfruit_stats,"カテゴリー: Plant
+クラス: Alien"
 enc_healthfruit_sub,snack
 enc_heartfruit,ハートフルーツ
 enc_heartfruit_desc,"<link=0>ハートフルーツ</link>の果実。結実には数週間を要し、その果肉には膨大なエネルギーが含まれている。
@@ -624,15 +624,15 @@ enc_hexasuchus,Hexasuchus
 enc_hexasuchus_desc,"A species notably similar to familiar crocodiles, but with six fins and six eyes. It is unclear whether this is a case of convergent or divergent evolution.
 
 Hexasuchus are very dangerous in water, but their fins are poorly suited to walking, and they will not chase prey onto land. This makes them less of a threat in the reactor. "
-enc_hexasuchus_stats,"SCIENTIFIC NAME: Hexasuchus Lavandula
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:5"
+enc_hexasuchus_stats,"学名: Hexasuchus Lavandula
+起源宇宙: <link=0>438-Eurydice</link>
+起源宇宙 FA-H:5"
 enc_hexasuchus_sub,get hexed
 enc_hideous_growth,Hideous Growth
 enc_hideous_growth_desc,"A disgusting fungal mass that thrives in the crevices of stagnant, unused pipes. If it accumulates large enough, it seems to develop some intelligence."
-enc_hideous_growth_stats,"SCIENTIFIC NAME: <unassigned>
-UNIVERSE OF ORIGIN: <link=0>182-kappa</link>
-CLASSIFICATION: FA-H:2-S"
+enc_hideous_growth_stats,"学名: <unassigned>
+起源宇宙: <link=0>182-kappa</link>
+起源宇宙 FA-H:2-S"
 enc_hideous_growth_sub,milky
 enc_holy_guard,Holy Guard
 enc_holy_guard_desc,"Powerful and intimidating robots created to guard the <link=1>Church of the Hypercube.</link> Endleslly loyal to the Maharishi. Holy Guards are the only entities that can wield a weapon called the hyperscythe, which can launch devastating long range energy attacks, or slice through solid metal at close range.
@@ -670,9 +670,9 @@ enc_hot_springs_sub,spa day!
 enc_human,Human
 enc_human_desc,"Humans native to either this universe, or the universe Vetus-4. Genetically very similar between the two.
 Notable individual: <link=0>Brian.</link>"
-enc_human_stats,"SCIENTIFIC NAME: Homo Sapiens
-UNIVERSE OF ORIGIN: <link=1>Domicilium Alpha</link>, <link=2>Vetus-4</link>
-CLASSIFICATION: FA-H:4-S"
+enc_human_stats,"学名: Homo Sapiens
+起源宇宙: <link=1>Domicilium Alpha</link>, <link=2>Vetus-4</link>
+起源宇宙 FA-H:4-S"
 enc_human_sub,we were the aliens all along
 enc_hummingbird,Hummingbird
 enc_hummingbird_desc,"The Hummingbird is one of the most deadly hunters employed by Planck. Razor-sharp reflexes make up for a fragile frame, and mobility is no problem when you can fly at 70 miles per hour. Specialized as a guard for sensitive equipment and areas, and able to precisely target small hostiles with its deadly primary fire. In less delicate situations, the Hummingbird can drop explosive eggs.
@@ -685,23 +685,23 @@ MANUFACTURER: <link=0>Planck Intdl.</link>
 enc_hummingbird_sub,a nice egg for these trying times
 enc_hypercrystal,Hypercrystal
 enc_hypercrystal_desc,"Condensed material from the energy exuded by the <link=2>Holy Hypercube.</link> Hypercrystals contain a massive concentration of power, but this power is only accessible using technology created by <link=0>Maharishi Ghronto.</link> Hypercrystals form anywhere near <link=1>Autonica,</link> where the Hypercube itself lies."
-enc_hypercrystal_stats,"CATEGORY: Substance
-CLASS: Exotic"
+enc_hypercrystal_stats,"カテゴリー: Substance
+クラス: Exotic"
 enc_hypercrystal_sub,shiny!
 enc_igneosaur,Igneosaur
 enc_igneosaur_desc,"The Igneosaur is a rare, elusive predator from the sunny side of tidally locked Earth of F-18-Hades. A completely alien silicon-based life form, it thrives in temperatures exceeding 800 degrees C. It can subsist on minerals in the lava it lives in, but prefers to hunt by venturing out of the lava and killing prey with superheated secretion. However, it will freeze solid if it cools down too much, so hunting trips are short.
 
 Specimens can grow over 200 feet in length in the wild, and grow additional legs as their body extends. They can't survive in the mild temperatures of the reactor, save for the molten pits of the <link=1>recycling center</link>."
-enc_igneosaur_stats,"SCIENTIFIC NAME: Igneosaurus Titanus
-UNIVERSE OF ORIGIN: <link=0>F-18-Hades</link>
-CLASSIFICATION: FA-H:6-NC
+enc_igneosaur_stats,"学名: Igneosaurus Titanus
+起源宇宙: <link=0>F-18-Hades</link>
+起源宇宙 FA-H:6-NC
 "
 enc_igneosaur_sub,hottest chip
 enc_ionizer_handgun,Ionizer Handgun
 enc_ionizer_handgun_desc,"The Ionizer is a popular model of plasma handgun. While versatile and easy to use, its damage output is nothing special.
 
 Due to the high tech nature of the gun, firmware changes can dramatically alter its functionality. Despite Frostbite's best efforts, Ionizers are fairly easy to jailbreak, and many owners install illegal modifications."
-enc_ionizer_handgun_stats,"CLASS: Sidearm
+enc_ionizer_handgun_stats,"クラス: Sidearm
 MANUFACTURER: <link=0>Frostbite Armaments</link>
 FIRES: Plasma"
 enc_ionizer_handgun_sub,finisher pistol
@@ -709,31 +709,31 @@ enc_j-74-stalheim,J-74-Stalheim
 enc_j-74-stalheim_desc,"An Earth dominated by a single species: the <link=0>JoeJeff.</link>
 
 The landscape is otherwise recognizable, and it is unknown how such a strange creature came to inhabit a relatively nondivergent universe."
-enc_j-74-stalheim_stats,CLASS: Xeno-Proximal
+enc_j-74-stalheim_stats,クラス: Xeno-Proximal
 enc_j-74-stalheim_sub,joejeff homeworld
 enc_jelleye,Jelleye
 enc_jelleye_desc,"Jelleyes are small hunters native to the deep, cool caverns of F-18-Hades. They float above the ground with bladders of buoyant gas, and have little space left in their body for anything but an eyeball. This eyeball, adapted to the darkness of their home, is very sensitive.
 
 Jelleyes can attack by spitting an acidic mixture of their blood, saliva, and gas with great precision, or by swiping with their small, needle-sharp claws."
-enc_jelleye_stats,"SCIENTIFIC NAME: Hadeovesicus Cyclopidae
-UNIVERSE OF ORIGIN: <link=0>F-18-Hades</link>
-CLASSIFICATION: FA-H:3
+enc_jelleye_stats,"学名: Hadeovesicus Cyclopidae
+起源宇宙: <link=0>F-18-Hades</link>
+起源宇宙 FA-H:3
 "
 enc_jelleye_sub,aim for the eyes
 enc_jetbird,Jetbird
 enc_jetbird_desc,"The Jetbird is a harmless creature that thrives in the reactor, as its natural environment is the deep caves of F-18-Hades. It uses bursts of recycled air to propel, and feeds on insects and lichen growing on rocks. Echolocation lets it navigate dark catacombs with ease. Often found in large flocks."
-enc_jetbird_stats,"SCIENTIFIC NAME: Hadeovesicus Vesivolucrum
-UNIVERSE OF ORIGIN: <link=0>F-18-Hades</link>
-CLASSIFICATION: FA-H:1
+enc_jetbird_stats,"学名: Hadeovesicus Vesivolucrum
+起源宇宙: <link=0>F-18-Hades</link>
+起源宇宙 FA-H:1
 "
 enc_jetbird_sub,"yes, the air comes out of its butt"
 enc_joejeff,JoeJeff
 enc_joejeff_desc,"A quiet and docile creature. JoeJeffs have medium intelligence but live a simple scavenger lifestyle in the wild. Their legs and feet have the appearence of blue jeans and shoes, but this is actually their skin. Along with their perfectly square heads, this makes scientists speculate they may be an artificially bred organism.
 
 JoeJeffs have been the subject of some study due to their odd and unique physiology."
-enc_joejeff_stats,"SCIENTIFIC NAME: Joe Jeff
-UNIVERSE OF ORIGIN: <link=0>J-74-Stalheim</link>
-CLASSIFICATION: FA-H:1
+enc_joejeff_stats,"学名: Joe Jeff
+起源宇宙: <link=0>J-74-Stalheim</link>
+起源宇宙 FA-H:1
 "
 enc_joejeff_sub,so nice we named him twice
 enc_josephjeffrey,Joseph Jeffrey
@@ -742,9 +742,9 @@ enc_josephjeffrey_desc,"Joseph Jeffrey is the final stage of the <link=1>JoeJeff
 Joseph Jeffrey exhibits much more aggressive behaviour than the individual joes, possibly acting as a protector for the species.
 
 In their <link=0>homeworld,</link> a single unimaginably large Joseph is said to roam the earth."
-enc_josephjeffrey_stats,"SCIENTIFIC NAME: Joe Jeffrey
-UNIVERSE OF ORIGIN: <link=0>J-74-Stalheim</link>
-CLASSIFICATION: FA-H:8
+enc_josephjeffrey_stats,"学名: Joe Jeffrey
+起源宇宙: <link=0>J-74-Stalheim</link>
+起源宇宙 FA-H:8
 "
 enc_josephjeffrey_sub,king of the joes
 enc_kauboi,Kauboi
@@ -762,14 +762,14 @@ enc_kauboi's_revolver_desc,"Kauboi's precious revolver, also known as the Tetrel
 Its unique semi-planar design allows four dimensional ammo compatibility in a weapon otherwise designed to interface with three dimensional beings. Its inner workings are unknown, but it fires devastating hyperdimensional spheres that oscillate between our universe and higher planes.
 
 The only weapon powerful enough to kill a being of the Void."
-enc_kauboi's_revolver_stats,"CLASS: Sidearm
+enc_kauboi's_revolver_stats,"クラス: Sidearm
 MANUFACTURER: <link=0>Kauboi</link>
 FIRES: Unknown"
 enc_kauboi's_revolver_sub,the chosen gun
 enc_launch_lily,Launch Lily
 enc_launch_lily_desc,"An alien plant with the unique defensive strategy of energetically launching potential predators away. Sturdy limbs are bent into a spring-loaded position, and the slightest disturbance releases launching mechanism."
-enc_launch_lily_stats,"CATEGORY: Plant
-CLASS: Alien"
+enc_launch_lily_stats,"カテゴリー: Plant
+クラス: Alien"
 enc_launch_lily_sub,going up
 enc_lresa,L'resa
 enc_lresa_desc,"L'resa is a captain in the Church's army. She was built with a stolen tactical processing chip from Planck's robot assembly lines, and is a vital figure in the civil war. Her small size lets her perform reconnaisance with ease, but she is unfortunately not built to fight."
@@ -782,9 +782,9 @@ enc_macrophage,Macrophage
 enc_macrophage_desc,"A symbiotic part of the immune system of the <link=1>Big Fish,</link> macrophages kill and consume any parasites inside its body. Due to the size of the fish, this can include large animals.
 
 Macrophages are armed with potent digestive enzymes which can be spit a great distance. They can also fill pressurized cysts with these enzymes, which explode with tremendous force."
-enc_macrophage_stats,"SCIENTIFIC NAME: Chiliadont Ingens
-UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
-CLASSIFICATION: FA-H:2
+enc_macrophage_stats,"学名: Chiliadont Ingens
+起源宇宙: <link=0>182-Kappa</link>
+起源宇宙 FA-H:2
 "
 enc_macrophage_sub,anti-your-body
 enc_maharishi_ghronto,Maharishi Ghronto
@@ -808,15 +808,15 @@ MANUFACTURER: <link=0>Planck Intdl.</link>"
 enc_mannequin_sub,supermodel
 enc_maurice,Maurice
 enc_maurice_desc,"An odd, malicious creature with a hard stone extrerior and fleshy interior. Biology unlike any other known life form."
-enc_maurice_stats,"SCIENTIFIC NAME: Unassigned
-UNIVERSE OF ORIGIN: Unknown
-CLASSIFICATION: FA-H:6"
+enc_maurice_stats,"学名: Unassigned
+起源宇宙: Unknown
+起源宇宙 FA-H:6"
 enc_maurice_sub,get mauriced
 enc_meat_nailer,Meat Nailer Railgun
 enc_meat_nailer_desc,"The Meat Nailer is an experimental compact railgun which fires ultra-dense tungsten spikes. This weapon will obliterate most targets with a single shot, and can penetrate entire groups of enemies with ease.
 
 Designed in the Deep Labs weapons division, this prototype was lent to cybernetics for armor penetration testing."
-enc_meat_nailer_stats,"CLASS: Artillery
+enc_meat_nailer_stats,"クラス: Artillery
 MANUFACTURER: <link=0>Planck Interdimensional</link>
 FIRES: Tungsten spikes"
 enc_meat_nailer_sub,compensation
@@ -875,7 +875,7 @@ enc_nostalgic_pistol,Nostalgic Pistol
 enc_nostalgic_pistol_desc,"A basic self-loading plasma pistol designed to be used by scientists for self defense, or installed in low level security drones.
 
 Not very powerful, but holds a certain sentimental value."
-enc_nostalgic_pistol_stats,"CLASS: Sidearm
+enc_nostalgic_pistol_stats,"クラス: Sidearm
 MANUFACTURER: <link=0>Planck Interdimensional</link>
 FIRES: Plasma"
 enc_nostalgic_pistol_sub,oh the memories...
@@ -902,7 +902,7 @@ enc_phage_launcher,Phage Launcher
 enc_phage_launcher_desc,"A small, malformed <link=0>macrophage</link> rejected by its kin. Unable to produce explosives itself, it relies on your ammo synthesizer. It is still more than capable of launching sticky bombs great distances, though its slightly flaccid nature makes it difficult to aim.
 
 It seems to have found a new purpose assisting you, and is happy to indulge in vengeance against other phages."
-enc_phage_launcher_stats,"CLASS: Grenade Launcher
+enc_phage_launcher_stats,"クラス: Grenade Launcher
 MANUFACTURER: N/A
 FIRES: Explosive Cysts"
 enc_phage_launcher_sub,unexpected ally
@@ -925,26 +925,26 @@ Its hardy infrastructure is still functional even after a year of disuse."
 enc_planck_internal_transit_system_stats,"LOCALE: <link=0>Quantum Reactor VII</link>
 "
 enc_planck_internal_transit_system_sub,please keep your arthropods on a leash
-enc_primal_handyman,Primal Handyman
-enc_primal_handyman_desc,"A stunted variation of <link=1>Manus Sapiens</link>, primal handymen have a reduced brain volume and other more minor mutations. Highly aggressive, they use their arms to slash and incapacitate prey.
+enc_primal_handyman,原始ハンド人
+enc_primal_handyman_desc,"未発達な<link=1>テクビ・サピエンス</link>である原始ハンド人は脳の体積が小さく、また複数の亜種が存在する。彼らは極めて攻撃的で、獲物を引き裂くためにその腕を使う。
 
-Most specimens emerge from universe of origin with severe radiation poisoning, suggesting global nuclear conflict. The primal handyman can be identified by its dark blue skin coloration and, commonly, lesions."
-enc_primal_handyman_stats,"SCIENTIFIC NAME: Manus Degenerus
-UNIVERSE OF ORIGIN: <link=0>202-Meyer</link>
-CLASSIFICATION: FA-H:4
+彼らの起源宇宙から転移してくる際、ほとんどの個体が重度の放射能汚染を伴って出現することから、大規模な核戦争が起きたことを示唆している。ダークブルーの肌の他、一般的には腫瘍によって原始ハンド人を識別できる。"
+enc_primal_handyman_stats,"学名: テクビ・インサピエンス
+起源宇宙: <link=0>202-マイヤー</link>
+分類: FA-H:4
 "
 enc_primal_handyman_sub,really creepy
 enc_propulsor_pad,Propulsor Pad
 enc_propulsor_pad_desc,"Propulsor pads are designed to lift cargo in areas where elevators or cranes are less viable. Planck strictly prohibits human use, but workers do it all the time anyway."
-enc_propulsor_pad_stats,"CATEGORY: Device
-CLASS: Industrial"
+enc_propulsor_pad_stats,"カテゴリー: Device
+クラス: Industrial"
 enc_propulsor_pad_sub,have faith
 enc_quantum_encryption_key,Quantum Encryption Key
 enc_quantum_encryption_key_desc,"A quantum encryption key provides perfect security. The atoms in its circuits are entangled with those in the lock, making it impossible to hack or duplicate.
 
 These keys are only used to seal the highest security areas of the reactor, including the <link=0>core</link> itself."
-enc_quantum_encryption_key_stats,"CATEGORY: Device
-CLASS: Security"
+enc_quantum_encryption_key_stats,"カテゴリー: Device
+クラス: Security"
 enc_quantum_encryption_key_sub,qbit
 enc_quantum_juice,Quantum Juice
 enc_quantum_juice_desc,"An artificial substance designed to contain and transport spatiotemporal irregularity. Spacetime within Quantum Juice can be tangled and distorted, and it has a number of uses in addition to storing vast amounts of energy.
@@ -954,8 +954,8 @@ enc_quantum_juice_desc,"An artificial substance designed to contain and transpor
 Although it is said to be delicious, drinking Quantum Juice is not recommended.
 
 It is tempting though."
-enc_quantum_juice_stats,"CATEGORY: Substance
-CLASS: Exotic"
+enc_quantum_juice_stats,"カテゴリー: Substance
+クラス: Exotic"
 enc_quantum_juice_sub,delicious and nutritious
 enc_quantum_reactor_vii,Quantum Reactor VII
 enc_quantum_reactor_vii_desc,"Quantum Reactor VII is the latest power plant built by Planck Interdimensional Energy Solutions. It is built completely underground, within and under Mt. Olympus, in the pacific northwest.
@@ -976,9 +976,9 @@ enc_realmwalker,Realmwalker
 enc_realmwalker_desc,"Realmwalkers are extradimensional entities originating in <link=0>The Void.</link> Unlike all other Void denizens, they have the power to move between universes at will, and can even adopt temporary material forms.
 
 They posess limited power to interact with our worlds, and these interactions take tremendous energy, so they prefer to sway our fate with careful manipulation."
-enc_realmwalker_stats,"SCIENTIFIC NAME: N/A
-UNIVERSE OF ORIGIN: N/A
-CLASSIFICATION: Unassigned"
+enc_realmwalker_stats,"学名: N/A
+起源宇宙: N/A
+起源宇宙 Unassigned"
 enc_realmwalker_sub,a higher existence
 enc_recycling_center,Recycling Center
 enc_recycling_center_desc,"The recycling center is the waste disposal center for the reactor. Garbage, broken down robots, and organic debris all are transported here to be melted down. Some materials are repurposed and sent down to robot assembly, but most is disposed of into the Earth's mantle.
@@ -996,9 +996,9 @@ enc_robot_assembly_stats,"LOCALE: <link=0>Quantum Reactor VII</link>
 enc_robot_assembly_sub,harder better faster stronger
 enc_ruptipod,Ruptipod
 enc_ruptipod_desc,A very territorial crustacean. The female Ruptipod hurls its explosive eggs as part of a convoluted reproductive process. It can also defend itself by spraying a venomous fluid from enlarged pores on its back and shoulders.
-enc_ruptipod_stats,"SCIENTIFIC NAME: Sepiida Ruptis
-UNIVERSE OF ORIGIN: <link=0>B6454</link>
-CLASSIFICATION: FA-H:5
+enc_ruptipod_stats,"学名: Sepiida Ruptis
+起源宇宙: <link=0>B6454</link>
+起源宇宙 FA-H:5
 "
 enc_ruptipod_sub,woop woop woop
 enc_sapling,サプリン兵
@@ -1034,17 +1034,17 @@ enc_shelljelly,Shelljelly
 enc_shelljelly_desc,"Shelljellies are closely related to <link=1>Tarjellies,</link> and share the same basic biology. However, Shelljellies grow a chitinous shell, and keep their body contained within. Their internals are under great tension holding this more stable form, and they are largely held in place by their shell. If it is broken, they have trouble maintaining body structure at all, and burst with great force after a short time.
 
 Despite their friendly appearance, shelljellies are highly defensive, and will attack with toughened spikes of goo if approached."
-enc_shelljelly_stats,"SCIENTIFIC NAME: Ineffigiatozoa Ostrakos
-UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
-CLASSIFICATION: FA-H:3
+enc_shelljelly_stats,"学名: Ineffigiatozoa Ostrakos
+起源宇宙: <link=0>182-Kappa</link>
+起源宇宙 FA-H:3
 "
 enc_shelljelly_sub,keep your distance
 enc_singularity,Black Hole
 enc_singularity_desc,"When matter gets compressed hard enough by gravity, a black hole forms. Overcoming the atomic forces that keep matter in a structure, particles collapse into a single point. An event horizon surrounds the singularity, a one way barrier at which gravity overcomes even light itself and no matter or information can leave the black hole.
 
 The concept of a quantum reactor revolves around the presence of a black hole, exploiting the unique properties of space-time at its borders. "
-enc_singularity_stats,"CATEGORY: Astronomical Body
-CLASS: Relativistic"
+enc_singularity_stats,"カテゴリー: Astronomical Body
+クラス: Relativistic"
 enc_singularity_sub,"hey look, something not made up"
 enc_sniper_bot,Sniper Bot
 enc_sniper_bot_desc,"A variation on the lightweight PS-1A chassis, the PS-42 features an advanced optics system in its head and 17 mechanical muscles in its arms and neck, granting it superb accuracy with a rifle and great spotting abilities.
@@ -1069,7 +1069,7 @@ enc_snowman_sub,ブラッククリスマスを夢見てる
 enc_sonja,ソニア
 enc_sonja_desc,"<link=1>ヴェトス-4</link>宇宙から来た人間。ここにいる他の不運なエイリアンと同様、<link=2>クォンタムリアクター</link>に引き寄せられた。
 
-ソニアは地表の目前まで辿り着いたが、<link=3>ジェントルハンド</link>に阻止され奈落の底へと突き落とされた。<link=4>ブライアン</link>に救出された彼女は、元いた世界に帰るため新しい道を探している。"
+ソニアは地上の目前まで辿り着いたが、<link=3>ジェントルハンド</link>に阻止され奈落の底へと突き落とされた。<link=4>ブライアン</link>に救出された彼女は、元いた世界に帰るため新しい道を探している。"
 enc_sonja_stats,"種族: <link=[quot]Creatures/Human[quot]>人間</link>
 年齢: 25"
 enc_sosig,ソーシグ
@@ -1082,11 +1082,11 @@ enc_sosig_stats,"学名: ニク・サピエンス
 起源宇宙: 不明
 分類: FA-H:4-S"
 enc_sosig_sub,ジャストミート
-enc_standard_security_bot,Standard Security Bot
-enc_standard_security_bot_desc,"The PS-00 is the core element of the Planck security force. Commonly equipped with either a semiautomatic plasma rifle or submachine gun. Programmed with a basic tactical suite, the PS-00 is capable of autonomous target aquisition and elimination, but functions more effectively in a group."
-enc_standard_security_bot_stats,"UNIT NAME: PS-00
-ROLE: Security - Infantry
-MANUFACTURER: <link=0>Planck Intdl.</link>"
+enc_standard_security_bot,セキュリティボット (スタンダードモデル)
+enc_standard_security_bot_desc,PS-00はプランクのセキュリティ部隊の中核を担う。通常はセミオートプラズマライフル、またはサブマシンガンを装備している。基本的な戦術スイートがインストールされており、単独でもターゲット捕捉と排除を自動的に行なうことが可能だが、グループ行動によってその真価を発揮する。
+enc_standard_security_bot_stats,"ユニット名: PS-00
+役割: セキュリティ - 歩兵
+メーカー: <link=0>プランク・インターディメンショナル</link>"
 enc_standard_security_bot_sub,"intelligent, artificially"
 enc_stealth_bot,Stealth Bot
 enc_stealth_bot_desc,"The PS-12 is a unique security unit armed with only a pair of blades, and its lighter frame sacrifices duribility and strength for unsurmounted mobility.
@@ -1102,7 +1102,7 @@ MANUFACTURER: <link=0>Planck Intdl.</link>"
 enc_stealth_bot_sub,guns are for cowards
 enc_t-132-epsilion,T-132-Epsilion
 enc_t-132-epsilion_desc,A strange void filled with golden bubbles of exotic matter. No known life or structures of any kind.
-enc_t-132-epsilion_stats,CLASS: Skall-Disharmonic
+enc_t-132-epsilion_stats,クラス: Skall-Disharmonic
 enc_t-132-epsilion_sub,music of the spheres
 enc_tarjelly,タージェリー
 enc_tarjelly_desc,"身体のほとんどが、流動的な浮遊細胞といくつかの固形器官からなる不定形の生命体。循環系や神経系といった構造を必要に応じて生成することで、身体をほぼ無限に変形できる。その知能は、身体の構成によって非常に変動しやすい。
@@ -1158,7 +1158,7 @@ enc_trident_smg_desc,"The Trident is a Planck-produced plasma weapon that saw li
 Two fire modes are available: synchronized fire, where all barrels fire at once to combine into a single, heavy shot, and rapid fire, where barrels are cycled for a rapid spray of smaller shots.
 
 Not the most powerful gun for its hefty size, but will do the trick when you need to throw lots of plasma at once."
-enc_trident_smg_stats,"CLASS: Submachine Gun
+enc_trident_smg_stats,"クラス: Submachine Gun
 MANUFACTURER: <link=[quot]Organizations/Planck Interdimensional[quot]>Planck Interdimensional</link>
 FIRES: Plasma"
 enc_trident_smg_sub,triple threat
@@ -1166,20 +1166,20 @@ enc_trimoloch,Trimoloch
 enc_trimoloch_desc,"An aggressive and very hardy fish. Trimoloch anatomy closely resembles prehistoric bony-headed fish which went extinct millions of years ago, suggesting evolution that converges at some distant point in the past.
 
 Like most fish, they cannot survive out of water, so they rarely pose a threat within the reactor. However, when in water, they are extremely difficult to kill."
-enc_trimoloch_stats,"SCIENTIFIC NAME: Dunkleosteus Trimoloch
-UNIVERSE OF ORIGIN: <link=0>B6454</link>
-CLASSIFICATION: FA-H:4
+enc_trimoloch_stats,"学名: Dunkleosteus Trimoloch
+起源宇宙: <link=0>B6454</link>
+起源宇宙 FA-H:4
 "
 enc_trimoloch_sub,ichthy
-enc_trith,Trith
-enc_trith_desc,"Trith are a poorly understood sapient species. Their skeletons are extremely fragile, seemingly adapted to lower gravity, and they rarely survive arrival in the quantum reactor.
+enc_trith,トリス
+enc_trith_desc,"トリスは知性を有する、謎が多い種族だ。恐らく低重力に適応した結果、その骨格は非常に脆弱で、クォンタムリアクターに到来して生き延びることはほとんどない。
 
-Along with their rarity, this has made it impossible to learn more about their origins. We can only speculate they come from a Skall-Harmonic universe, with an Earth of much lower mass.
+希少性もさることながら、すぐに死んでしまうことが彼らの起源を辿ることを不可能にしている。我々が観測できたのは、かなり質量が低い地球を持つスカルハーモニック宇宙から来るということだけだ。
 
-They do commonly wear clothes made of advanced synthetic materials, suggesting an advanced technological civilization."
-enc_trith_stats,"SCIENTIFIC NAME: Trithus Sapiens
-UNIVERSE OF ORIGIN: Unknown
-CLASSIFICATION: FA-H:0"
+彼らは一般的に、優れた合成素材で作られた衣服を着用しており、先進的な技術文明があることを示唆している。"
+enc_trith_stats,"学名: トリス・サピエンス
+起源宇宙: 不明
+起源宇宙 FA-H:0"
 enc_trith_sub,unfortunate fate
 enc_troll,Troll
 enc_troll_desc,"Very few Trolls have been documented, and none have been successfully captured. Extrapolating from known Gremlin genus biology, trolls can be inferred to have superhuman brain mass and intelligence. Trolls are capable of manipulating spacetime itself with powerful psychokinetic ability, but mostly use this ability for passive self preservation.
@@ -1187,9 +1187,9 @@ enc_troll_desc,"Very few Trolls have been documented, and none have been success
 Behavioral analysis of trolls determines that, while sapient, their psychology differs wildly from humans'. While a single troll could - easily - take control of the entire Quantum Reactor facility, they prefer to rest in damp caves creating art, playing music, and writing poetry.
 
 Notable Individuals: <link=1>Nani</link>"
-enc_troll_stats,"SCIENTIFIC NAME: Gremlus Sapiens
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:10-S
+enc_troll_stats,"学名: Gremlus Sapiens
+起源宇宙: <link=0>438-Eurydice</link>
+起源宇宙 FA-H:10-S
 "
 enc_troll_sub,n- nani?
 enc_turret,Turret
@@ -1200,13 +1200,13 @@ enc_turret_stats,"UNIT NAME: PS-T
 ROLE: Security - Fortification
 MANUFACTURER: <link=0>Planck Intdl.</link>"
 enc_turret_sub,searching...
-enc_vermisaur,Vermisaur
-enc_vermisaur_desc,"While large and imposing, vermisaurs are largely immobile and hunt passively, expending as little energy as possible while catching small animals that wander too close to their mandibles."
-enc_vermisaur_stats,"SCIENTIFIC NAME: Vermisaurus Tenebridens
-UNIVERSE OF ORIGIN: <link=0>182-Kappa</link>
-CLASSIFICATION: FA-H:3
+enc_vermisaur,ヴァーミザウルス
+enc_vermisaur_desc,ヴァーミザウルスは大きく威圧的な外見をしているが、狩りにおいては基本的に静止状態で待ち構える。できるだけエネルギーを使わず、その大きな顎に誤って近づいてしまった小動物を捕食するのだ。
+enc_vermisaur_stats,"学名: オオアゴヴァーミザウルス
+起源宇宙: <link=0>182-カッパ</link>
+起源宇宙 FA-H:3
 "
-enc_vermisaur_sub,you look edible
+enc_vermisaur_sub,食用っぽい
 enc_vertigo_initiative,Vertigo Initiative
 enc_vertigo_initiative_desc,"The Vertigo Initiative is a shadowy movement by an elite group of researchers to break scientific boundaries and explore alternate universes. At the current stage, they are focused on creating a reliable gateway between realities, and it is likely they have had success with this.
 
@@ -1219,15 +1219,15 @@ CURRENT LEADER: Emily Planck"
 enc_vertigo_initiative_sub,name dropper
 enc_vetus-2,Vetus-2
 enc_vetus-2_desc,Earth is undergoing an ice age. Homo sapiens extinct and neandarthals are the dominant species.
-enc_vetus-2_stats,CLASS: Exo-Proximal
+enc_vetus-2_stats,クラス: Exo-Proximal
 enc_vetus-2_sub,chilly
 enc_vetus-4,Vetus-4
 enc_vetus-4_desc,"An Earth that is similar to Domicilium Alpha up until roughly the 13th century CE. Since then, it has been developmentedly stunted compared to the <link=0>universe of the quantum reactor,</link> with technology lagging severely behind."
-enc_vetus-4_stats,CLASS: Exo-Proximal
+enc_vetus-4_stats,クラス: Exo-Proximal
 enc_vetus-4_sub,the irl one
 enc_vetus-9,Vetus-9
 enc_vetus-9_desc,An earth similar to ours but empty of humans. Drastically different climate means a desert covers most of the planet. Signs point to a major ecological catastrophe roughly 2000 years ago.
-enc_vetus-9_stats,CLASS: Exo-Proximal
+enc_vetus-9_stats,クラス: Exo-Proximal
 enc_vetus-9_sub,spicy earth
 enc_void_delegation,Void Delegation
 enc_void_delegation_desc,"A governmental body presiding over <link=0>The Void.</link> Dedicated to keeping peace and harmony between all universes, which they call realms, by keeping them separate."
@@ -1241,23 +1241,23 @@ enc_voidnectar_desc,"A complex chemical compound capable of suspending a matrix 
 The Church goes through large quantities of nectar, and dumps it into the sea once depleted.
 
 Appearence and smell is very similar to blood."
-enc_voidnectar_stats,"CATEGORY: Substance
-CLASS: Exotic"
+enc_voidnectar_stats,"カテゴリー: Substance
+クラス: Exotic"
 enc_voidnectar_sub,blood and bone
 enc_warper,Warper Larva
 enc_warper_desc,"A unique life form which has never been observed outside the Extraction Sector. According to the Seer and based on its appearance, this is the larval stage of a much larger, more powerful organism. The warper can teleport at will, seemingly without limit.
 
 It is nonaggressive, and mostly seems interested in any colorful blinking lights."
-enc_warper_stats,"SCIENTIFIC NAME: Unassigned
-UNIVERSE OF ORIGIN: Unknown
-CLASSIFICATION: Unassigned"
+enc_warper_stats,"学名: Unassigned
+起源宇宙: Unknown
+起源宇宙 Unassigned"
 enc_warper_sub,crying babe
 enc_weapon_mod_synthesizer,Weapon Mod Synthesizer
 enc_weapon_mod_synthesizer_desc,"<link=2>Planck's</link> weapon mod synthesizers are a valuable and rare tool only distributed to high-ranking security teams. For safety reasons, the synthesizers are only allowed to synthesize modules, and not entire weapons.
 
 Matter synthesis technology is still in its infancy, and these Planck machines are bulky, expensive, and single-use. <link=0>Brian</link> has made much bigger strides with his miniaturized ammo synthesizer integrated into <link=1>BAMM.</link>"
-enc_weapon_mod_synthesizer_stats,"CATEGORY: Device
-CLASS: Security"
+enc_weapon_mod_synthesizer_stats,"カテゴリー: Device
+クラス: Security"
 enc_weapon_mod_synthesizer_sub,rpg elements
 enc_worker_bot,Worker Bot
 enc_worker_bot_desc,"Now that the reactor core is active, human deaths from radiation and encounters with aliens would make turnover far too high. The PW-00 was designed to replace human workers in the reactor where tasks could not be automated by simpler machines. Reasonable strength and intelligence allow it to fill the required roles, at only a slightly higher cost than a human.
@@ -1271,9 +1271,9 @@ enc_xynfly,Xynfly
 enc_xynfly_desc,"An unremarkable, if very large, insect. Displays wasp-like colony building behaviour, but is not dangerous, armed only with a weak bite. Has a highly developed sense of sight, and uses bioluminescent signals to communicate over large distances where pheromones are not viable.
 
 Easy to control infestations due to the large size of individuals and relatively slow rate of reproduction."
-enc_xynfly_stats,"SCIENTIFIC NAME: Sciara Ingens
-UNIVERSE OF ORIGIN: <link=0>438-Eurydice</link>
-CLASSIFICATION: FA-H:1"
+enc_xynfly_stats,"学名: Sciara Ingens
+起源宇宙: <link=0>438-Eurydice</link>
+起源宇宙 FA-H:1"
 enc_xynfly_sub,get pollinated
 encCat_Creatures,Creatures
 encCat_Individuals,Individuals
@@ -1284,9 +1284,9 @@ encCat_Robots,Robots
 encCat_Secret Weapons,Secret Weapons
 encCat_Universes,Universes
 encCat_Weapons,Weapons
-gun_altershock,Altershock
-gun_annihilator,Annihilator
-gun_ionizer,Ionizer
+gun_altershock,オルターショック
+gun_annihilator,アナイアレイター
+gun_ionizer,イオナイザー
 gun_meatnailer,Meat Nailer
 gun_phagelauncher,Phage Launcher
 gun_trident,Trident
@@ -1506,14 +1506,14 @@ quality_medium,中
 quality_off,オフ
 quality_veryhigh,最高
 quality_verylow,最低
-quarantine_break,BREAK QUARANTINE
-quarantine_confirmed,HUMANITY CONFIRMED!
-quarantine_ineffect,SECTOR QUARANTINE IN EFFECT
-quarantine_lifting,LIFTING QUARANTINE...
-quarantine_quiz1,Select the photo containing edible items.
-quarantine_quiz2,Which is the most prevalent atmospheric element?
-quarantine_quiz3,Select the color you can perceive most clearly.
-quarantine_reject,ALIEN DETECTED
+quarantine_break,隔離を解除する
+quarantine_confirmed,人間性を確認！
+quarantine_ineffect,セクター隔離中
+quarantine_lifting,隔離を解除中……
+quarantine_quiz1,食物を含む写真を選択してください。
+quarantine_quiz2,大気中に最も多く含まれる元素はどれですか？
+quarantine_quiz3,最もはっきりと識別できる色を選択してください。
+quarantine_reject,エイリアン検知
 recap,あらすじ
 recap_skip,スキップ
 right,右
@@ -1701,7 +1701,7 @@ tooltip_newgameplus,"When New Game Plus is enabled:
 tooltip_progressnotes,進捗ポップアップを表示する。例: 図鑑登録通知
 tooltip_seasick,ボートや車両の揺れを低減する。
 tooltip_seatedmode,床の高さをオーバーライドし、しゃがみボタンを有効にする。
-tooltip_secretweapons,[{0}] for Secret Weapons
+tooltip_secretweapons,[{0}]でシークレットウェポンを選択
 tooltip_wheelammo,武器切り替え時に手持ちの弾薬を表示する。
 tooltip_gunangle,銃の角度を上下に回転する。
 tutorial_ammo,弾薬
@@ -1769,11 +1769,11 @@ upgrade_trident_singleshot,フロー・サイクラー
 upgrade_trident_singleshot_desc,連射時に与えるダメージを増加させる、精密なサイクリングバルブ。
 upgrade_trident_tripleshot,ウェーブ・ハーモナイザー
 upgrade_trident_tripleshot_desc,トリプルバレルショットのダメージを最適化する電磁バレル拡張。
-Alien_Quarantine_00_Hey_caption_00,Hey! Hey!! Help me!
-Alien_Quarantine_00_Hey_caption_01, I don't know where the hell I am!
-Alien_Quarantine_01_DontLeave_caption_00,"Oh god, don't leave me over here!"
-Alien_Quarantine_01_DontLeave_caption_01,How did I get here?
-Alien_Quarantine_02_Help_caption_00,Help!
+Alien_Quarantine_00_Hey_caption_00,おーい！ おーい！！ 助けてくれ！
+Alien_Quarantine_00_Hey_caption_01,一体ここはどこなんだ！
+Alien_Quarantine_01_DontLeave_caption_00,待ってくれ、置いていくな！
+Alien_Quarantine_01_DontLeave_caption_01,どうしてこんなことに！
+Alien_Quarantine_02_Help_caption_00,助けて！
 announcer_core_05_inhibitors_caption_00,Warning. Gravity wavefront inhibitors over capacity.
 announcer_core_05_inhibitors_caption_01,Core containment failing.
 announcer_core_06_evaporationimminent_caption_00,"Warning. Unless stability is restored, core evaporation is imminent."
@@ -1796,16 +1796,16 @@ announcer_crubcible_00_lockdown_caption_01,Outpost has automatically locked down
 announcer_crubcible_00_lockdown_caption_02,Lockdown may be lifted from the outpost control station.
 announcer_crucible_01_lockdownlifting_caption_00,Security lockdown is being lifted. Please wait.
 announcer_crucible_02_lockdownlifted_caption_00,Security lockdown lifted. All doors unlocked.
-announcer_datacave_01_welcome_caption_00,Welcome to the facility of Datamast Beta.
-announcer_datacave_01_welcome_caption_01,"Due to events out of our control, Datamast Beta's core is currently deactivated."
-announcer_datacave_01_welcome_caption_02,"If you represent a Planck I.S.D. maintenence team, please use the central console to request access to the upper floors."
-announcer_datacave_02_securityalert_caption_00,Security alert: user is not registered maintenence personnel.
-announcer_datacave_02_securityalert_caption_01,"Please drop your weapons, lie face-down on the floor with your hands on your head, "
-announcer_datacave_02_securityalert_caption_02,"and wait for the arrival of the Manual Identity Verification Team, to approve your credentials."
-announcer_datacave_03_emergencyaccess_caption_00,Manual Identity Verification Team failed to report. Granting emergency maintenence access.
-announcer_datacave_04_granted_caption_00,Emergency access granted.
-announcer_datacave_09_dataFilters_caption_00,"Did you know? Filters were added to all Planck datamasts in 1974, to block employee access to internet pornography."
-announcer_datacave_09_dataFilters_caption_01,"Following strikes, riots, and four deaths, the filters were removed, 53 minutes later."
+announcer_datacave_01_welcome_caption_00,データマスト・ベータへようこそ。
+announcer_datacave_01_welcome_caption_01,現在、予期しない事態によりデータマスト・ベータのコアは非アクティブ状態です。
+announcer_datacave_01_welcome_caption_02,もしあなたがプランクI.S.D.メンテナンスチームの代表である場合、中央のコンソールから上層へのアクセスをリクエストしてください。
+announcer_datacave_02_securityalert_caption_00,セキュリティアラート: メンテナンスユーザーに登録されていません。
+announcer_datacave_02_securityalert_caption_01,武器を捨てて床にうつ伏せになり、頭の後ろに手を置いてください。
+announcer_datacave_02_securityalert_caption_02,手動認証チームが到着してあなたの資格情報を登録するまで、しばらくお待ち下さい。
+announcer_datacave_03_emergencyaccess_caption_00,手動認証チームの報告を受信できませんでした。メンテナンス用の緊急アクセス権限を発行中。
+announcer_datacave_04_granted_caption_00,緊急アクセス権限を発行しました。
+announcer_datacave_09_dataFilters_caption_00,知っていましたか？ 1974年、プランクのすべてのデータマストにフィルターが適用されました。社員がポルノにアクセスするのを禁止するためです。
+announcer_datacave_09_dataFilters_caption_01,ストライキ、暴動、そして4名の死者が出た結果、53分後にフィルターは無効化されました。
 announcer_deeplabs_00_message_caption_00,"Welcome, Identification Failed."
 announcer_deeplabs_00_message_caption_01,Unreceived message from Doctor Emily Planck from 216 days ago.
 announcer_deeplabs_00_message_caption_02,Relaying message.
@@ -1938,62 +1938,62 @@ Brian_BonVoyage_26_goodbye_caption_03,But I’ve obviously got some troubles of 
 Brian_BonVoyage_26_goodbye_caption_04,You can’t rely on me to save you at the last moment.
 Brian_BonVoyage_26_goodbye_caption_05,"A quantum reactor is one of the most actively hostile places on Earth, so be prepared. For anything. "
 Brian_BonVoyage_26_goodbye_caption_06,"Goodbye, and good luck. "
-Brian_Datamast_01_HopIn_caption_00,"Hey hey hey, look who didn't die."
-Brian_Datamast_01_HopIn_caption_01,"Let's get going, I need my internet back! Hop in!"
-Brian_Datamast_02_Liftoff_caption_00,"Alright! 3, 2, 1, liftoff!"
-Brian_Datamast_00_internet_caption_00,This cavern pipes the internet from the surface all the way down here to the lower floors.
-Brian_Datamast_00_internet_caption_01,"It's on the outskirts of the reactor though, doesn't see much of your usual activity,"
-Brian_Datamast_00_internet_caption_02,which is why I built my home here.
-Brian_Datamast_00_internet_caption_03,Nice and quiet most of the time.
-Brian_Datamast_00_internet_caption_04,"Not today though, obviously."
-Brian_Datamast_01_stop_caption_00,This is your stop!
-Brian_Datamast_01_stop_caption_01,"I can't go any closer to the datamast, but it's just a short walk up the ridge."
-Brian_Datamast_01_stop_caption_02,Get moving!
-Brian_Datamast_07_securityTeam_caption_00,"Hey, I just intercepted a message from the Reactor's intercom network."
-Brian_Datamast_07_securityTeam_caption_01,Looks like an internal repair and containment team beat us to the 'mast.
-Brian_Datamast_07_securityTeam_caption_02,"I can't let them find the modifications I've made, so you need to take them out."
-Brian_Datamast_07_securityTeam_caption_03,"Should be a peice of cake! A few repair drones, some standard model security bots, and one officer"
-Brian_Datamast_Rescue_01_wtf_caption_00,What are you doing!? You can't fight a centaur!
-Brian_Datamast_Rescue_01_wtf_caption_01,"Oh god I'm sorry, this is my fault."
-Brian_Datamast_Rescue_01_wtf_caption_02,This whole datamast fiasco was just supposed to be an aptitude test.
-Brian_Datamast_Rescue_01_wtf_caption_03,I came as soon as I saw they were sending backup.
-Brian_Datamast_Rescue_01_wtf_caption_04,You must have really pissed them off. Let's just get out of here before-
-Brian_Datamast_Rescue_02_backup_caption_00,Before the centaur calls in even more backup.
-Brian_Datamast_Rescue_02_backup_caption_01,Shit.
-Brian_Datamast_Rescue_02_backup_caption_02,"Okay, no time to lose. Get in, quick!"
-Brian_Datamast_Rescue_03_wasting_caption_00,"Come on, stop wasting time! Get in the copter!"
-Brian_Datamast_Rescue_04_minigun_caption_00,"If you look to the rear of the vehicle, you will notice a mounted 22 millimeter rotary cannon."
-Brian_Datamast_Rescue_04_minigun_caption_01,"A little old fashioned, sure, but it’ll do the job. "
-Brian_Datamast_Rescue_04_minigun_caption_02,“The job” being dispatching the incoming aerial support that I do not want to lead to my headquarters.
-Brian_Datamast_Rescue_05_contact_caption_00,And we have contact. Planck gunships are on our tail.
-Brian_Datamast_Rescue_06_missiles_caption_00,"Watch out, Missiles! Shoot them down! "
-Brian_Datamast_Rescue_07_cockpit_caption_00,"What are you doing?! Get to the back of the ship, dumbass!"
-Brian_Datamast_Rescue_07_cockpit_caption_01,"I don’t need your help up here, I need your help not getting shot down!"
-Brian_Datamast_Rescue_08_cockpitB_caption_00,Get back to the tailgun!
-Brian_Datamast_Rescue_09_missilesHit_caption_00,"Jesus, we’re taking a lot of hits! You need to shoot down those missiles! "
-Brian_Datamast_Rescue_10_gunships_caption_00,Shoot those gunships down!
-Brian_Datamast_Rescue_11_windshield_caption_00,"Crap, there goes the rear windshield. We can’t take much more fire. "
-Brian_Datamast_Rescue_12_death_caption_00,"Shit, engines are out. "
-Brian_Datamast_Rescue_13_ending_caption_00,"Damn it, left engine’s jamming."
-Brian_Datamast_Rescue_13_ending_caption_01,"I think HQ’s too far, we’re about to fall out of the sky."
-Brian_Datamast_Rescue_13_ending_caption_02,If I take us down now I might be able to make it softer.
-Brian_Datamast_Rescue_13_ending_caption_03,You’re gonna want to hold on to something back there.
-Brian_Datamast_Rescue_14_splashCountdown_caption_00,Okay... splashdown in 3... 2... 1...
-Brian_Datamast_Rescue_15_waterBrianFirst_caption_00,"Having fun swimming about, breathing underwater with your BAMM while I swim for my life, huh?"
-Brian_Datamast_Rescue_15_waterBrianFirst_caption_01,"Wish I had one for myself, maybe once it’s less of a dangerous prototype."
-Brian_Datamast_Rescue_15_waterBrianFirst_caption_02,"Hey, don’t look at me like that! It hasn’t killed you yet, has it?"
-Brian_Datamast_Rescue_15_waterBrianFirst_caption_03,"Plus, you’re advancing science. "
-Brian_Datamast_Rescue_16_waterSameTime_caption_00,Whew! That was kind of fun.
-Brian_Datamast_Rescue_16_waterSameTime_caption_01,"Neither of us died, so I count today as another victory. "
-Brian_Datamast_Rescue_17_waterBrianSecond_caption_00,Hey! Thanks for leaving me for dead down there.
-Brian_Datamast_Rescue_17_waterBrianSecond_caption_01,"Although, to be fair, “every man for himself” is literally the only thing written in the Iron Chub’s emergency handbook. "
-Brian_Datamast_Rescue_17_waterBrianSecond_caption_02,Suppose you were just following procedure then.
-Brian_Datamast_Rescue_17_waterBrianSecond_caption_03,It’s damn hard to swim without letting these slippers fall off though.
-Brian_Datamast_Rescue_19_gohome_caption_00,"Let’s swim to shore, trek back to HQ."
-Brian_Datamast_Rescue_19_gohome_caption_01,"I’ll set you up in a guest room, small step up from the holding cell you’ve been in for the last few weeks. "
-Brian_Datamast_Rescue_19_gohome_caption_02, I want to get you moving and out of my life as soon as possible.
-Brian_Datamast_Rescue_19_gohome_caption_03,Tomorrow... we can talk about what comes next.
-Therus_GrandTour_01_Greetings_caption_00,来たな。俺はテラス。ブライアンのアシスタントをしてる。
+Brian_Datamast_01_HopIn_caption_00,よーし、よしよし。死なずに辿り着いたな。
+Brian_Datamast_01_HopIn_caption_01,そら、回線を復旧しにいくんだ。乗れ！
+Brian_Datamast_02_Liftoff_caption_00,行くぞ！ 3、2、1、発進！
+Brian_Datamast_00_internet_caption_00,この洞窟はインターネットを地上から下層まで引っ張ってきているんだ。
+Brian_Datamast_00_internet_caption_01,リアクターの外れにあるから、奴らに見つかる心配も少ない。
+Brian_Datamast_00_internet_caption_02,ここに家を建てた理由でもある。
+Brian_Datamast_00_internet_caption_03,普段は静かでいいところだ。
+Brian_Datamast_00_internet_caption_04,もちろん、今日は違うがね。
+Brian_Datamast_01_stop_caption_00,ここで降りてくれ！
+Brian_Datamast_01_stop_caption_01,これ以上は近づけないが、尾根を少し歩けばすぐデータマストに着く。
+Brian_Datamast_01_stop_caption_02,頼んだぞ！
+Brian_Datamast_07_securityTeam_caption_00,いま、リアクターの通信ネットワークからメッセージを傍受した。
+Brian_Datamast_07_securityTeam_caption_01,修復、収容チームが我々より先にマストに着いたようだ。
+Brian_Datamast_07_securityTeam_caption_02,私が改造した痕跡を発見される訳にはいかない。君が奴らを排除するんだ。
+Brian_Datamast_07_securityTeam_caption_03,こんなの朝飯前だろう！ 修復ドローンとスタンダードモデルのセキュリティボットが何台か、それにオフィサーが1台だけだ。
+Brian_Datamast_Rescue_01_wtf_caption_00,何をしている！？ セントールと戦うなんて！
+Brian_Datamast_Rescue_01_wtf_caption_01,あぁ、すまない。これは私のせいだな。
+Brian_Datamast_Rescue_01_wtf_caption_02,データマストの件は、君の適性試験のようなものだった。
+Brian_Datamast_Rescue_01_wtf_caption_03,奴らが増援を送るのを見て、急いで来たんだ。
+Brian_Datamast_Rescue_01_wtf_caption_04,君が相当な怒りを買ったんだろう。さぁ、セントールが増援を─
+Brian_Datamast_Rescue_02_backup_caption_00,セントールが増援を呼ぶ前に脱出するんだ。
+Brian_Datamast_Rescue_02_backup_caption_01,くそ。
+Brian_Datamast_Rescue_02_backup_caption_02,さぁ、時間がない。早く乗るんだ！
+Brian_Datamast_Rescue_03_wasting_caption_00,時間がない！ 乗り込め！
+Brian_Datamast_Rescue_04_minigun_caption_00,後ろに22mmのロータリーキャノンが置いてあるだろう。
+Brian_Datamast_Rescue_04_minigun_caption_01,まぁ、いくらか古臭いが、それでも用は足りる。
+Brian_Datamast_Rescue_04_minigun_caption_02,私のヘッドクォーターに敵の支援機を寄せ付けないよう撃ち落とす「用」には十分だ。
+Brian_Datamast_Rescue_05_contact_caption_00,ほら、コンタクトしたぞ。プランクのガンシップが後ろについている。
+Brian_Datamast_Rescue_06_missiles_caption_00,ミサイルだ、気をつけろ！ 撃ち落とすんだ！
+Brian_Datamast_Rescue_07_cockpit_caption_00,何をしている？！ 艦の後ろにつけ、馬鹿者！
+Brian_Datamast_Rescue_07_cockpit_caption_01,こっちの手助けはいいから、後ろの奴らを撃ち落とせ！
+Brian_Datamast_Rescue_08_cockpitB_caption_00,後ろの銃座に戻れ！
+Brian_Datamast_Rescue_09_missilesHit_caption_00,まずい、被弾しすぎだ！ ミサイルを撃ち落としてくれ！
+Brian_Datamast_Rescue_10_gunships_caption_00,ガンシップどもを撃ち落としてやれ！
+Brian_Datamast_Rescue_11_windshield_caption_00,しまった、リアウィンドシールドが吹き飛んだ。これ以上は被弾できないぞ。
+Brian_Datamast_Rescue_12_death_caption_00,くそ、エンジンが止まった。
+Brian_Datamast_Rescue_13_ending_caption_00,ダメだ、左のエンジンが故障している。
+Brian_Datamast_Rescue_13_ending_caption_01,ヘッドクォーターにはとても届かない、そろそろ墜落してしまう。
+Brian_Datamast_Rescue_13_ending_caption_02,今なら少しでも軟着陸させられるかもしれない。
+Brian_Datamast_Rescue_13_ending_caption_03,何かに掴まっていたほうがいいぞ。
+Brian_Datamast_Rescue_14_splashCountdown_caption_00,よし……着水するぞ。3……2……1……
+Brian_Datamast_Rescue_15_waterBrianFirst_caption_00,潜水は楽しかったかね。BAMMで呼吸できる君と違って、私は命がけで泳いだんだぞ？
+Brian_Datamast_Rescue_15_waterBrianFirst_caption_01,私の分も用意するべきだったな。まぁ、危険なプロトタイプの間はやめておくか。
+Brian_Datamast_Rescue_15_waterBrianFirst_caption_02,おいおい、そんな目で見るんじゃない！ まだ死なずに済んでるだろう？
+Brian_Datamast_Rescue_15_waterBrianFirst_caption_03,それに、科学の発展に貢献できているんだぞ。
+Brian_Datamast_Rescue_16_waterSameTime_caption_00,ふぅ！ いくらか楽しめたな。
+Brian_Datamast_Rescue_16_waterSameTime_caption_01,二人とも死なずに済んだ。これは実質、勝利と言っていい。
+Brian_Datamast_Rescue_17_waterBrianSecond_caption_00,おいおい、よくも置いてけぼりにしてくれたな。
+Brian_Datamast_Rescue_17_waterBrianSecond_caption_01,まぁ、アイアンチャブ号の緊急対応ハンドブックにも「自分の身は自分で守る」としか書いてないからな。
+Brian_Datamast_Rescue_17_waterBrianSecond_caption_02,君はそれに従ったに過ぎない。
+Brian_Datamast_Rescue_17_waterBrianSecond_caption_03,しかし、サンダルが脱げないように泳ぐのは大変だった。
+Brian_Datamast_Rescue_19_gohome_caption_00,岸まで泳いで、ヘッドクォーターまでは歩いていくぞ。
+Brian_Datamast_Rescue_19_gohome_caption_01,君をゲストルームに案内しよう。君を閉じ込めていた牢屋よりは一歩前進だ。
+Brian_Datamast_Rescue_19_gohome_caption_02,私の人生から君という存在を早く追い出したいんだ。
+Brian_Datamast_Rescue_19_gohome_caption_03,明日……次の段取りについて話そう。
+Therus_GrandTour_01_Greetings_caption_00,来たな。俺はセラス。ブライアンのアシスタントをしてる。
 Therus_GrandTour_01_Greetings_caption_01,肩書としては秘書ってところかな。
 Therus_GrandTour_01_Greetings_caption_02,あぁ、そりゃ気になるよな。そう、確かに俺はリアクターのセキュリティドローンに似てる。 
 Therus_GrandTour_01_Greetings_caption_03,だけど心配無用だぜ。なんせ改心したからな。
@@ -2013,14 +2013,14 @@ Therus_GrandTour_04_Freezers_caption_00,あぁ、こいつはブライアンの�
 Therus_GrandTour_04_Freezers_caption_01,ブライアンは、リアクターが引き寄せる生命体のことを研究しているんだ。
 Therus_GrandTour_04_Freezers_caption_02,幸い、あんたの宇宙のこともよく知ってるんだ。それに、あんたがこの宇宙における人間と遺伝的にほぼ同一であることも。
 Therus_GrandTour_04_Freezers_caption_03,さもなければ今ごろ、冷凍庫送りだったかもしれないな。
-Sylvia_GrandTour_01_ooo_caption_00,あらあら、テラス。そちらが例の？
+Sylvia_GrandTour_01_ooo_caption_00,あらあら、セラス。そちらが例の？
 Therus_GrandTour_05_Sylvia_caption_00,違うよ、シルヴィア。彼女はヴェトス-4から来た別の人間だ。 
 Sylvia_GrandTour_02_fall_caption_00,もう、ごちゃごちゃ言わないの。
-Sylvia_GrandTour_02_fall_caption_01,それで、エレベーターが故障して地表からリサイクルセンターまで落ちてきたって本当？
+Sylvia_GrandTour_02_fall_caption_01,それで、エレベーターが故障して地上からリサイクルセンターまで落ちてきたって本当？
 Therus_GrandTour_06_brianFound_caption_00,あぁ。ベルトコンベアで溶鉱炉に運ばれていくのをブライアンが見つけたんだ。
 Therus_GrandTour_06_brianFound_caption_01,頭蓋骨は割れてたし、脚はほとんどゼリー状だし、腕なんか6メートルも先に落ちてたんだぜ。
 Sylvia_GrandTour_03_nervemap_caption_00,ひどい。だけど、今はだいぶ良くなったように見える。
-Sylvia_GrandTour_03_nervemap_caption_01,そうだわ、テラス。頼んでたエーテルバックの神経地図はレオからもらえた？
+Sylvia_GrandTour_03_nervemap_caption_01,そうだわ、セラス。頼んでたエーテルバックの神経地図はレオからもらえた？
 Therus_GrandTour_07_Transfer_caption_00,おっと、ここにある。転送するよ。
 Therus_GrandTour_07_Transfer_caption_01,あー、それとレオから、あまり乱暴に扱わないであげてほしいってさ。
 Sylvia_GrandTour_04_torture_caption_00,もう、拷問しないと彼らとコミュニケーションもできないこと、レオも知ってるはずでしょ？
@@ -2031,7 +2031,7 @@ Sylvia_GrandTour_05_suffer_caption_00,そうなのよ。拷問が効くのも確
 Sylvia_GrandTour_05_suffer_caption_01,えっと、悪気はなかったの。
 Therus_GrandTour_09_getgoing_caption_00,あー、そろそろ行くか。 
 Therus_GrandTour_09_getgoing_caption_01,シルヴィア、会えてよかったよ。今日もクールアンドビューティーだね。
-Sylvia_GrandTour_06_bye_caption_00,はいはい。またね、テラス。
+Sylvia_GrandTour_06_bye_caption_00,はいはい。またね、セラス。
 Therus_GrandTour_10_WeaponTable_caption_00,ほら、あそこのテーブルだ！ あなたの武器はこちらにございます。
 Therus_GrandTour_10_WeaponTable_caption_01,こいつはとんでもなく役に立つぞ、もしかしたらこれ1本で全部済むかもしれないくらいな！
 Therus_GrandTour_11_Crowbar_caption_00,おいおい、このガラクタはなんなんだよ。
@@ -2043,37 +2043,37 @@ Therus_GrandTour_13_goodjob_caption_00,いいね。俺の兄弟だってあっ�
 Therus_GrandTour_13_goodjob_caption_01,さて、暴力の時間はここまでだな。
 Therus_GrandTour_13_goodjob_caption_02,次に行こう。なんせ全部見て回るのに3時間は─
 Therus_GrandTour_14_Earthquake_caption_00,こんな予定はないんだけどな。今のは何なんだ。
-brian_GrandTour_04_uthere_caption_00,"Therus, are you there? Please respond."
-Therus_GrandTour_15_what_caption_00,Sure am. What the hell was that?
-brian_GrandTour_05_cycle_caption_00,Looks like a particularly bad core cycle. Haven’t had one this potent in months.
-brian_GrandTour_05_cycle_caption_01,"The seismic activity is odd, but not unheard of. "
-brian_GrandTour_05_cycle_caption_02," I’ll start standard lockdown, you just stay still for now. Be ready to fend off any visitors. "
-Therus_GrandTour_16_roger_caption_00,Roger.
-brian_GrandTour_06_crap_caption_00,"Ahh, crap, crap, crap, crap, crap."
-Therus_GrandTour_17_what_caption_00,"Brian, what’s going on? "
-brian_GrandTour_07_network_caption_00,The cycle’s seismic output is increasing a lot faster than usual.
-brian_GrandTour_07_network_caption_01,A few elevator shafts just collapsed.
-brian_GrandTour_07_network_caption_02,The network connection just went dark as well. I need to get back online for damage assessment ASAP.
-brian_GrandTour_07_network_caption_03,"New girl, meet me in the hangar and we can fly over to repair the datamast. "
-Therus_GrandTour_18_datamast_caption_00,The datamast?
-brian_GrandTour_08_datamast_caption_00,"Yes Therus, the datamast. "
-Therus_GrandTour_19_why_caption_00,Why couldn’t-
-brian_GrandTour_09_datamast_caption_00," We need to go to the datamast, Therus! "
-Therus_GrandTour_20_hangar_caption_00,"Jeez, okay. Do we have a clear route to the Hangar? "
-brian_GrandTour_10_quarantine_caption_00,"You can reach me through the robot access passages, but it looks like the only human accessible route is through Sector 4."
-brian_GrandTour_10_quarantine_caption_01,Which was just put under quarantine.
-Therus_GrandTour_21_quarantine_caption_00,"Ah. Okay bud, your only choice is to fight your way through."
-Therus_GrandTour_21_quarantine_caption_01,"Shouldn’t be too bad, but I hope you got some good practice in the range. "
-Therus_GrandTour_21_quarantine_caption_02, I’ll unlock the door and let you in.
-Therus_GrandTour_21_quarantine_caption_03,"Since the sector’s on lockdown, we won’t be able to communicate with you once you’re inside. "
-Therus_GrandTour_21_quarantine_caption_04,"Follow the signs to the hangar, okay? Come on, follow me."
-Therus_GrandTour_22_byebye_caption_00,See you on the other side. Stay alert in there.
-Therus_Quarantine_01_Greeting_caption_00,"No, I know Brian, but if she were still alive she would have arrived ages ago."
-Therus_Quarantine_01_Greeting_caption_01,"Yeah, I know what Nani said, but Nani is bat-shit insane. It's not--"
-Therus_Quarantine_01_Greeting_caption_02,"Oh, hey!"
-Therus_Quarantine_01_Greeting_caption_03,Shh! She's here! It's fine. Shush.
-Therus_Quarantine_01_Greeting_caption_04,I see you made it through just fine. Never doubted you would!
-Therus_Quarantine_01_Greeting_caption_05,"Now, Brian really wants his internet back, so let's get going."
+brian_GrandTour_04_uthere_caption_00,セラス、いるか？ 応答してくれ。
+Therus_GrandTour_15_what_caption_00,ここにいるよ。今のは一体なんなんだ？
+brian_GrandTour_05_cycle_caption_00,どうやらコアの周期によるもののようだ。ここまで酷いのは何ヶ月ぶりかな。
+brian_GrandTour_05_cycle_caption_01,地震というのが気がかりだが、今までにもなかった訳じゃない。
+brian_GrandTour_05_cycle_caption_02,標準封鎖処置を始めるから、今はそこにいてくれ。招かれざる客を応対する準備もしておくように。 
+Therus_GrandTour_16_roger_caption_00,了解。
+brian_GrandTour_06_crap_caption_00,あぁ、畜生、畜生、畜生、ちくしょう、チクショウ。
+Therus_GrandTour_17_what_caption_00,ブライアン、どうなってるんだ？
+brian_GrandTour_07_network_caption_00,今回は地震の被害が急激に拡大している。
+brian_GrandTour_07_network_caption_01,エレベーターシャフトがいくつか崩落した。
+brian_GrandTour_07_network_caption_02,ネットワークもダウンしている。被害を調べるために、すぐにでもネット回線を復旧しなくちゃならん。
+brian_GrandTour_07_network_caption_03,お嬢さん、ハンガーで合流してデータマストの復旧に向かうぞ。
+Therus_GrandTour_18_datamast_caption_00,データマスト？
+brian_GrandTour_08_datamast_caption_00,そうだ、セラス。データマストだ。
+Therus_GrandTour_19_why_caption_00,一体なんで─
+brian_GrandTour_09_datamast_caption_00,データマストに行かなくちゃならんのだ、セラス！ 
+Therus_GrandTour_20_hangar_caption_00,はぁ、了解。ハンガーへのルートは確保されてるのか？
+brian_GrandTour_10_quarantine_caption_00,ロボットは連絡通路を通れるが、人間が通れるルートはセクター4しかない。
+brian_GrandTour_10_quarantine_caption_01,そして、あそこは隔離区画になっている。
+Therus_GrandTour_21_quarantine_caption_00,なるほどね。よし、聞いてくれよ。つまり戦闘は避けられないってことだ。
+Therus_GrandTour_21_quarantine_caption_01,そんなに気負わなくてもいいが、ここで学んだことを活かしてくれることを願うよ。
+Therus_GrandTour_21_quarantine_caption_02,俺が障壁を開けるから、あんたはそこから行ってくれ。
+Therus_GrandTour_21_quarantine_caption_03,セクターが封鎖されてるから、通信はできなくなる。
+Therus_GrandTour_21_quarantine_caption_04,周りの表示に従ってハンガーに向かってくれよな。よし、ついてこい。
+Therus_GrandTour_22_byebye_caption_00,向こうで落ち合おう。気をつけて進むんだぞ。
+Therus_Quarantine_01_Greeting_caption_00,わかってるよブライアン。だけど、まだ生きてるならとっくに着いてるはずだって。
+Therus_Quarantine_01_Greeting_caption_01,あぁ、ナニーの話もわかる。だけどあいつは完全にイカれてやがる。あんなの──
+Therus_Quarantine_01_Greeting_caption_02,おーっと、よう！
+Therus_Quarantine_01_Greeting_caption_03,シッ！ 彼女が来たんだ！ 大丈夫だから静かにしててくれ。
+Therus_Quarantine_01_Greeting_caption_04,無事に着いたんだな。あんたなら大丈夫だと思ってたよ！
+Therus_Quarantine_01_Greeting_caption_05,ほら、ブライアンがネット回線を復旧したがってる。さぁ……行こうぜ。
 Therus_Reaction_Excuse_caption_00,Excuse me.
 Therus_Reaction_Hey_caption_00,Hey!
 Therus_Reaction_Ouch_caption_00,Ouch.
@@ -2108,7 +2108,7 @@ brian_rebirth_03_bamm_caption_03,"バイオメトリック・アームマウン�
 brian_rebirth_03_bamm_caption_04,医療システム、磁気ストレージ、弾薬合成を含むオールインワン・ウェアラブルデバイスだ。きっと役に立つだろう。
 brian_rebirth_04_gottago_caption_00,くそ、タイミングが悪いな。
 brian_rebirth_04_gottago_caption_01,少し用事ができた。
-brian_rebirth_04_gottago_caption_02,BAMMの設定が終わったら、アシスタントのテラスのところへ行きなさい。
+brian_rebirth_04_gottago_caption_02,BAMMの設定が終わったら、アシスタントのセラスのところへ行きなさい。
 brian_rebirth_04_gottago_caption_03,我が家のツアーガイドをしてくれるだろう。
 brian_rebirth_04_gottago_caption_04,ようこそ、ブライアン・インダストリーズへ。
 Brian_RecyclingCenter_00_flee_caption_00,"Hey, guess what? I’m not dead yet."
@@ -2522,7 +2522,7 @@ gentlehand_greatsea_0_phonecall_caption_01,憶えておいででしょうか？ 
 gentlehand_greatsea_0_phonecall_caption_02,あのときエレベーターシャフトにあなたを落とした……あぁ、その節は大変失礼いたしました。
 gentlehand_greatsea_0_phonecall_caption_03,ですが『終わり良ければ全て良し』とも言うでしょう？
 gentlehand_greatsea_0_phonecall_caption_04,多少の骨折や内臓破裂くらい、ブライアンであれば簡単に治療できたことでしょう。
-gentlehand_greatsea_0_phonecall_caption_05,お聞きなさい。昨日、テラスから彼が見たものについて報告を受けました。
+gentlehand_greatsea_0_phonecall_caption_05,お聞きなさい。昨日、セラスから彼が見たものについて報告を受けました。
 gentlehand_greatsea_0_phonecall_caption_06,もし私めが知っていたら…率直に申し上げると、あなたをすぐにでも殺していたことでしょう。
 gentlehand_greatsea_0_phonecall_caption_07,しかし、時すでに遅し。そこでプランBです。
 gentlehand_greatsea_0_phonecall_caption_08,ご自身の宇宙に帰りたいという決意の固さは理解いたします。それを責めるつもりもございません。
@@ -2530,7 +2530,7 @@ gentlehand_greatsea_0_phonecall_caption_09,しかし、そのためにリアク�
 gentlehand_greatsea_0_phonecall_caption_10,あなたは利用されているのです、ソニア。リアクターコアにて狭間を開かんとするヴォイド・デレゲーションによって。 
 gentlehand_greatsea_0_phonecall_caption_11,ハイパーキューブを求めて押し寄せた奴らは、すべてを根絶やしにしてしまうでしょう。
 gentlehand_greatsea_0_phonecall_caption_12,お願いですから、コアを利用するのはおやめください。
-gentlehand_greatsea_0_phonecall_caption_13,テラスも、ブライアンも、そしてナニーでさえも知り得ない方法があるのです。
+gentlehand_greatsea_0_phonecall_caption_13,セラスも、ブライアンも、そしてナニーでさえも知り得ない方法があるのです。
 gentlehand_greatsea_0_phonecall_caption_14,ディープラボには反対称性ヴォルテックス拡散装置と呼ばれるものがございます。
 gentlehand_greatsea_0_phonecall_caption_15,ヴォルテックス拡散装置の稼働は目前で、それを使えば並行宇宙間の移動も叶うと確信しております。
 gentlehand_greatsea_0_phonecall_caption_16,装置を見つけたら、なんとしても稼働させるのです。
@@ -2854,14 +2854,14 @@ dialogtree_KauboiConversationTree_fd086e5f-72f7-49e3-94ac-3f0aaa822276,"I shall.
 Only when the time is right will I grant you a cartridge."
 dialogtree_KauboiConversationTree_fd086e5f-72f7-49e3-94ac-3f0aaa822276_0,"Fine, give me the empty revolver."
 dialogtree_KauboiConversationTree_fd086e5f-72f7-49e3-94ac-3f0aaa822276_1,"Come on, it would be so much more useful loaded."
-OfficerMonologue_caption_00,YOU!
-OfficerMonologue_caption_01,You've killed my entire squadron!
-OfficerMonologue_caption_02,Those boys were only six days off the assembly line...
-OfficerMonologue_caption_03,"I hope you're happy, because your resistance ends now!"
-OfficerMonologue_caption_04,I saw what you did to those support troops.
-OfficerMonologue_caption_05,I'm not taking any chances ... already called in the big lads.
-OfficerMonologue_caption_06,"You know, I had misgivings about this job at first. Killing aliens that didn't ask to be here."
-OfficerMonologue_caption_07,But what they said was true... you're all monsters.
+OfficerMonologue_caption_00,貴様！
+OfficerMonologue_caption_01,俺の部隊をよくも皆殺しにしてくれたな！
+OfficerMonologue_caption_02,あの子たちはアセンブリーで生まれてたったの6日なんだぞ……。
+OfficerMonologue_caption_03,だが光栄に思え。貴様の抵抗も最早これまでだ！
+OfficerMonologue_caption_04,貴様の補給部隊に対する行ないは見ていた。
+OfficerMonologue_caption_05,私は同じ失敗はしない…既に増援を呼んである。
+OfficerMonologue_caption_06,このような任務、最初は私も疑問があった。たまたま転移させられたエイリアンを殺すなんて、とな。
+OfficerMonologue_caption_07,だが、上の言い分は正しかった……貴様はただの怪物だ。
 qonik_00_greetings_caption_00,"Greetings, stranger."
 qonik_00_greetings_caption_01,"You come at a time of turmoil, but you are welcome."
 qonik_00_greetings_caption_02,For years our community has been split by violence!
