@@ -1879,43 +1879,43 @@ Brian_BonVoyage_04_plan_caption_00,君の回復を待つ間、私はその計算
 Brian_BonVoyage_04_plan_caption_01,波面インヒビターのファームウェアを調整すれば、君を帰らせることもできるだろう。
 Brian_BonVoyage_04_plan_caption_02,私の望みはただ一つ。大変なことだろうと思うが、君がリアクターのコアまで無事に辿り着くことだ。
 Brian_BonVoyage_04_plan_caption_03,私の心の奥底にある、優しさとでも言うべきだろうか。
-Therus_BonVoyage_06_situation_caption_00,"Brian, we've got a situation."
-Brian_BonVoyage_05_situation_caption_00,"Not a great time, Therus. But, uh, what kind of situation? "
-Therus_BonVoyage_07_camera_caption_00,Grab the live feed of camera B-84
-Brian_BonVoyage_06_cam_caption_00,"Ok, uhhh, B... 84... "
-Brian_BonVoyage_07_escapades_caption_00,"Ah, that is a situation. "
-Brian_BonVoyage_07_escapades_caption_01,Perhaps our escapades yesterday caught a bit more attention than I thought.
-Brian_BonVoyage_07_escapades_caption_02,"That’s a Planck security battalion, and if I’m not mistaken it’s the one led by- "
-Brian_BonVoyage_08_officer13_caption_00,Officer 13.
-officer13_bonvoyage_00_brian_caption_00,Brian! Good to see you. How’s my favorite human?
-Brian_BonVoyage_09_crap_caption_00,"Cut the crap 13, how did you find me here? "
-officer13_bonvoyage_01_qr_caption_00,"Oh, Brian. You’re still within Quantum Reactor 7, it’s our job to know everything that happens within Quantum Reactor 7."
-officer13_bonvoyage_01_qr_caption_01,Also...
-Brian_BonVoyage_10_therusidea_caption_00,That was Therus’ idea!
-Therus_BonVoyage_08_idea_caption_00,That was not my idea!
-Brian_BonVoyage_11_therusoff_caption_00,"Therus, get off the line!"
-Therus_BonVoyage_09_yessir_caption_00,"Yes, sir."
-officer13_bonvoyage_02_friend_caption_00,"So, Brian, who’s your little friend? A new science experiment?"
-officer13_bonvoyage_02_friend_caption_01,Is Brian holding you against your will? Blink twice if--
-Brian_BonVoyage_12_help_caption_00,"No, no no no, it’s not like that! "
-Brian_BonVoyage_12_help_caption_01,"I’m trying to help her, I’m doing her a favor. "
-officer13_bonvoyage_03_character_caption_00,"Hm, well that’s certainly out of character."
-Brian_BonVoyage_13_heart_caption_00,"Maybe I’ve had a change of heart, 13. "
-officer13_bonvoyage_04_troops_caption_00,Tell that to the dozens of security troops you and your friend killed yesterday.
-Brian_BonVoyage_14_defending_caption_00,"Ah, well, you see, it was us or them. "
-Brian_BonVoyage_14_defending_caption_01,We were just defending ourselves.
-officer13_bonvoyage_05_threat_caption_00,"You were trespassing on Planck property. Listen Brian, we’ve been putting up with your bullshit for years. "
-officer13_bonvoyage_05_threat_caption_01,"But you’re a criminal and a fugitive, and I just can’t ignore an assault of yesterday’s magnitude."
-officer13_bonvoyage_05_threat_caption_02,"You are officially a threat to the security of the Reactor, and I will be treating you as one from here on out."
-Brian_BonVoyage_15_embarassing_caption_00,"Oh, this is embarrassing. "
-officer13_bonvoyage_06_containment_caption_00,I know. I almost feel bad.
-officer13_bonvoyage_06_containment_caption_01,"Let’s make this quick. Containment squad, bring the life forms to the transport."
-Brian_BonVoyage_18_saved_caption_00,Hah! saved!
-Brian_BonVoyage_18_1_justintime_caption_00,Therus! You’re just in time!
-Therus_BonVoyage_10_dramatic_caption_00,Oh I've been right outside the door the whole time.
-Therus_BonVoyage_10_dramatic_caption_01,I just wanted to be dramatic.
-Brian_BonVoyage_19_follow_caption_00,Well you succeeded.
-Brian_BonVoyage_19_follow_caption_01,"Now, we’ve got no time to waste! "
+Therus_BonVoyage_06_situation_caption_00,ブライアン、問題発生だ。
+Brian_BonVoyage_05_situation_caption_00,良いタイミングとは言えないな、セラス。それで、どんな問題だ？
+Therus_BonVoyage_07_camera_caption_00,カメラB-84のライブ映像を確認してくれ。
+Brian_BonVoyage_06_cam_caption_00,オーケー。えー、B……84……。
+Brian_BonVoyage_07_escapades_caption_00,なるほど、これは問題だ。
+Brian_BonVoyage_07_escapades_caption_01,昨日の騒ぎが思った以上に注意を引いたのかもしれん。
+Brian_BonVoyage_07_escapades_caption_02,あれはプランクのセキュリティ大隊だ。隊長は確か─
+Brian_BonVoyage_08_officer13_caption_00,オフィサー13。
+officer13_bonvoyage_00_brian_caption_00,ブライアン！ お気に入りの人間と話ができて嬉しいよ。
+Brian_BonVoyage_09_crap_caption_00,冗談はよせ、サーティーン。どうやってここを見つけた？
+officer13_bonvoyage_01_qr_caption_00,おいおい、ブライアン。俺たちの仕事はリアクターVIIで起きたことをすべて把握すること。そしてお前がいるのはリアクターVIIの中だ。
+officer13_bonvoyage_01_qr_caption_01,それに……ほら。
+Brian_BonVoyage_10_therusidea_caption_00,それはセラスのアイデアだ！
+Therus_BonVoyage_08_idea_caption_00,俺じゃねぇ！
+Brian_BonVoyage_11_therusoff_caption_00,セラス、通信を切れ！
+Therus_BonVoyage_09_yessir_caption_00,イェッサー。
+officer13_bonvoyage_02_friend_caption_00,ところでブライアン。その小さなお友達はどなたかな？ 新しい実験対象？
+officer13_bonvoyage_02_friend_caption_01,もしかしてブライアンに無理やり？ もしそうなら瞬きを2回──
+Brian_BonVoyage_12_help_caption_00,違う、違うぞ。そんなんじゃない！
+Brian_BonVoyage_12_help_caption_01,彼女の力になろうとしている。人助けをしているんだ。
+officer13_bonvoyage_03_character_caption_00,ほう、珍しいこともあるものだな。
+Brian_BonVoyage_13_heart_caption_00,心を入れ替えたのかもしれんよ、サーティーン。
+officer13_bonvoyage_04_troops_caption_00,昨日、お友達と一緒になって殺した数十体のセキュリティ部隊にも同じことを言ってやれよ。
+Brian_BonVoyage_14_defending_caption_00,あぁ、それは、殺すか殺されるかだったんだ。
+Brian_BonVoyage_14_defending_caption_01,あれは正当防衛だった。
+officer13_bonvoyage_05_threat_caption_00,お前はプランクの施設に侵入した。いいか、ブライアン。俺たちはお前の戯言に長年付き合わされてきた。
+officer13_bonvoyage_05_threat_caption_01,だが、お前は犯罪者で、逃亡犯だ。昨日みたいな大がかりな襲撃を見逃すことはできん。
+officer13_bonvoyage_05_threat_caption_02,お前は公然とリアクターの安全を脅かす存在であり、今後そのように扱うことにする。
+Brian_BonVoyage_15_embarassing_caption_00,おっと、これは気まずいな。
+officer13_bonvoyage_06_containment_caption_00,そうだな。悪いとは思うよ。
+officer13_bonvoyage_06_containment_caption_01,さっさと済ませよう。収容部隊、この生命体を輸送車に乗せろ。
+Brian_BonVoyage_18_saved_caption_00,あぁ！ 助かったぞ！
+Brian_BonVoyage_18_1_justintime_caption_00,セラス！ ナイスタイミングだ！
+Therus_BonVoyage_10_dramatic_caption_00,実はずっとそこで待ってたんだ。
+Therus_BonVoyage_10_dramatic_caption_01,こういうのはドラマティックにいかないとな。
+Brian_BonVoyage_19_follow_caption_00,それは大成功だったな。
+Brian_BonVoyage_19_follow_caption_01,さぁ、時間はないぞ！
 Brian_BonVoyage_19_follow_caption_02,"Let’s get you on your way, Therus can fend off security for a few minutes."
 Brian_BonVoyage_19_follow_caption_03,"Follow me, I have a secret tunnel leading to the recycling center that will take us around our friends outside. "
 officer13_bonvoyage_07_surrounded_caption_00,"Brian, where do you think you’re going? We have your building surrounded."
