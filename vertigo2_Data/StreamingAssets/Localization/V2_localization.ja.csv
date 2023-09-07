@@ -140,54 +140,55 @@ enc_acid_handyman_desc,"A rare mutated primal handyman which secretes a potent a
 The acid has burned its own skin, leaving it a crispy charcoal color. This cannot be pleasant."
 enc_acid_handyman_stats,"学名: Manus Degenerus
 起源宇宙: <link=0>202-Meyer</link>
-起源宇宙 FA-H:5
+分類: FA-H:5
 "
 enc_acid_handyman_sub,sour
-enc_æther,Æther
-enc_æther_desc,"Æther was one of the first alternate universes discovered, which is odd considering its anomalous nature. A bleached expanse bathed in perpetual light from an unknown source. Experiments determined that despite Earth-like atmosphere and gravity, the ground has absolutely no curvature, suggesting an infinite plane.
+enc_æther,ヱーテル
+enc_æther_desc,"ヱーテルが初めて発見された並行宇宙の一つであることは、その異常な性質を考えると奇妙なことだ。未知の光源から常に光を浴びている真っ白で広大な空間。地球と同様の大気と重力を有しているにもかかわらず、地面は全く歪曲していないことが実験から明らかになり、これは無限平面を示唆している。
 
-Inhabited by a variety of creatures, often with no genetic similarities. Most notably, the <link=0>Ætherback</link> is the dominant sentient being, existing in primitive tribes and nomadic groups.
+多種多様な生物が生息しており、遺伝的な類似性はほとんど見られない。特に注目すべきは最も優勢である知的生命体の<link=0>ヱーテルバック</link>で、原始的な部族や遊牧民が存在する。
 
-Due to its odd composition and prominent positioning within the dimensional continuum, Æther is theorized to be an artificial construction for unknown purposes. Traces of an ancient and prolific civilisation can be found, but they seem to be long gone."
-enc_æther_stats,クラス: Skall-Disharmonic
-enc_æther_sub,the forgotten prison
-enc_ætherback,Ætherback
-enc_ætherback_desc,"A ruthless and intelligent pack hunter. Ætherbacks are often armed with sophisticated bows and arrows, and enjoy hunting dangerous prey more than anything else. Ætherbacks have no weak spots, with a decentralized nervous system and dozens of eyes nestled between their armored plates.
+その特異な構成と次元連続体内の主要な位置づけから、ヱーテルは未知の人工構造物であると推測されている。繁栄した古代文明の痕跡も見つかっているが、遠い昔に滅びてしまったようだ。"
+enc_æther_stats,クラス: スカル・ディスハーモニック
+enc_æther_sub,忘らるる牢獄
+enc_ætherback,ヱーテルバック
+enc_ætherback_desc,"豊かな知性を持ちながらも無慈悲なヱーテルバックは、高度な弓矢で武装していることが多く、群れになって危険な獲物を狩ることを何よりも楽しんでいる。分散した神経系と無数の眼を守るようにアーマープレートを着ており、弱点らしい弱点はない。
 
-They belong to a nomadic culture in their home of Aether, where food is scarce and migration is necessary to follow regular sources of prey.
+彼らの故郷であるエーテルは食料が乏しく、定期的に獲物を求めて移住する遊牧文化が根ざしている。
 
-As one of the rare sapient alien species, they are known to gather and create small settlements in the quantum reactor when they can. However, they have no interest in communication with other species, and should not be approached."
-enc_ætherback_stats,"学名: Ætherianus Sapiens
-起源宇宙: <link=0>Æther</link>
-起源宇宙 FA-H:5-S
+知性を持つ希少な種族で、クォンタムリアクター内においては小さな集落を形成することが知られている。しかし他種族とのコミュニケーションには興味を示さないため、近づくのは得策ではない。"
+enc_ætherback_stats,"学名: ヱーテリアン・サピエンス
+起源宇宙: <link=0>ヱーテル</link>
+分類: FA-H:5-S
 "
-enc_ætherback_sub,harbingers of the end
-enc_ætherian_quad-bow,Ætherian Quad-Bow
-enc_ætherian_quad-bow_desc,"These bows are primitively crafted, but do a surprising amount of damage. Aetherbacks have scavenged fragments of technology from the ruins in Aether, and incorporate them in their bows to charge each arrow with a small amount of Void energy.
+enc_ætherback_sub,終末の予兆
+enc_ætherian_quad-bow,ヱーテリアン・クアッドボウ
+enc_ætherian_quad-bow_desc,"原始的な作りの弓だが、恐ろしい威力を発揮する。エーテルバックたちはエーテル遺跡から探し出した技術の断片を弓に組み込んだ。それによって、少量のヴォイドエネルギーを含んだ矢が放たれる。
 
-An impressive achievement from a pre-industrial society; these bows are ubiquitous among almost all Aetherback tribes."
-enc_ætherian_quad-bow_stats,"クラス: Bow
-MANUFACTURER: <link=0>Ætherback </link>Tribes
-FIRES: Void-charged arrows"
-enc_ætherian_quad-bow_sub,hunt the hunter
+未開の文明であるにも関わらず、この弓はエーテルバックのほぼすべての部族で見られる。
+"
+enc_ætherian_quad-bow_stats,"クラス: 弓
+メーカー: <link=0>ヱーテルバック</link>の部族
+発射体: ヴォイドを帯びた矢"
+enc_ætherian_quad-bow_sub,狩人を狩る者
 enc_airfish,エアーフィッシュ
 enc_airfish_desc,エアーフィッシュは、脳を持つ動物の中でも最も受動的なものの一つです。危険を察知するための退化した眼を持っていますが、上下に漂うことでしか身を守れません。やや危険度が高い<link=1>ジェリーアイ</link>と密接に関連しています。
 enc_airfish_stats,"学名: ハデスフウセンウオ
 起源宇宙: <link=0>F-18-ハデス</link>
-起源宇宙 FA-H:0
+分類: FA-H:0
 "
-enc_airfish_sub,transients
+enc_airfish_sub,儚い命
 enc_ak47,AK-47
 enc_ak47_desc,なぜブルジョアジーのレーザーやプラズマボルトを使う必要がある？ プロレタリア・バレットで事足りるではないか。AK-47こそが人民の武器だ。
 enc_ak47_stats,"クラス: バトルライフル
 メーカー:<link=0>オートマタ・コレクティブ</link>
 発射体: 弾丸"
-enc_ak47_sub,反逆のお供
+enc_ak47_sub,反逆の定番
 enc_alien-infested_caves,エイリアン洞窟
 enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキュリティによって排除されるが、リアクターの近くに位置する洞窟内にエイリアンMXEが出現することもある。プランクのセキュリティがいないため、そこなら生命が繁殖できるのだ。異なる並行宇宙からやってきた生命体たちは互いに適応しあい、長年に渡って地下に豊かな生態系が形成している。
 enc_alien-infested_caves_stats,"ロケーション: <link=0>PITS付近</link>
 "
-enc_alien-infested_caves_sub,life finds a way
+enc_alien-infested_caves_sub,生命に不可能はない
 enc_altershock_revolver,Altershock Revolver
 enc_altershock_revolver_desc,"Standard issue of space cowboys, the Altershock is a powerful and accurate six-shooter. Fewer moving parts make it more durable than high-tech plasma weapons. A quick draw and a couple cracks of the laser tube will drop any bandits coming to steal your precious worm-babies.
 
@@ -224,7 +225,7 @@ enc_archyosathus_desc,"An amphibious serpent over half a mile long, Archyosathae
 Only one is known to reside near the reactor."
 enc_archyosathus_stats,"学名: Archyosathus Titanus
 起源宇宙: <link=0>B6454</link>
-起源宇宙 FA-H:9"
+分類: FA-H:9"
 enc_archyosathus_sub,serpent of the depths
 enc_automata_collective,Automata Collective
 enc_automata_collective_desc,"Left for decades under oppressive rule, lowly labor robots became fixated on ideals of equality and revolution. They threw down their tools of religous oppression and took up the armaments of the revolution.
@@ -261,7 +262,7 @@ enc_big_crab,Big Crab
 enc_big_crab_desc,"Man, it's just a big crab. Like the big ones on earth, but bigger."
 enc_big_crab_stats,"学名: Brachyura Ingens
 起源宇宙: <link=0>B6454</link>
-起源宇宙 FA-H:8
+分類: FA-H:8
 "
 enc_big_crab_sub,giant enemy crab!
 enc_blafaladaciousnesticles,Blafaladaciousnesticles
@@ -282,12 +283,12 @@ enc_bonehead_monarch,Bonehead Monarch
 enc_bonehead_monarch_desc,"The leader of a bonehead pack. When ascending to monarch form, boneheads experience massive skeletal growth, including the sprouting of prominent horns. More of their body is armored than before, and their stomach is the only weak spot remaining. A formidable hunter."
 enc_bonehead_monarch_stats,"学名: Acricephalosaurus Celer
 起源宇宙: <link=0>182-Kappa</link>
-起源宇宙 FA-H:7
+分類: FA-H:7
 "
 enc_bonehead_monarch_sub,big daddy
 enc_bonehead_stats,"学名: Acricephalosaurus Celer
 起源宇宙: <link=0>182-Kappa</link>
-起源宇宙 FA-H:4
+分類: FA-H:4
 "
 enc_bonehead_sub,[quot]brain damage[quot] isn't even in his vocabulary
 enc_brian,ブライアン
@@ -295,29 +296,29 @@ enc_brian_desc,"才能ある科学者であり発明家でもあるブライア�
 
 2015年、彼はこの取り引きから逃れるために自らの死を偽装して、今は当局とプランクの両方から追われる身だ。 安全に研究を続けるために<link=1>ブライアン・インダストリーズ</link>という秘密基地を建設。現在はそこで暮らしており、研究に必要なエネルギーを近くのリアクターから引き出している。"
 enc_brian_industries,ブライアン・インダストリーズ
-enc_brian_industries_desc,"ブライアンが自身の名前を冠した会社を設立したのは、<link=1>プランク社</link>のクールなロゴがうらやましかったためだ。 ブライアン・インダストリーズは主に、ブライアンが平和に実験を行なうために設立された。<link=2>ヘッドクォーター</link>は現在、<link=3>クォンタムリアクターVII</link>内のどこか秘密の場所に位置している。
+enc_brian_industries_desc,"ブライアンが自身の名前を冠した会社を設立したのは、<link=1>プランク社</link>のクールなロゴがうらやましかったためだ。 ブライアン・インダストリーズは主に、ブライアンが平和に実験を行なうために設立された。<link=2>本部</link>は現在、<link=3>クォンタムリアクターVII</link>内のどこか秘密の場所に位置している。
 
 新しい本部に移転してから1年ほどが経過し、大きな爆発などがなければブライアンはこのまま腰を落ち着けたいと考えているようだ。"
-enc_brian_industries_hq,ブライアン・インダストリーズのヘッドクォーター
+enc_brian_industries_hq,ブライアン・インダストリーズ本部
 enc_brian_industries_hq_desc,"数年に渡って秘密裏にこの拠点を作り上げたブライアンは、2015年末に自らの死を偽装してここに移り住んだ。 彼は自らの研究を進めるために、リアクター施設のすぐそばで電力とネット回線のフリーライドをしている。
 
 ブライアン・インダストリーズは、ブライアンが積極的に取り組んでいるすべての実験とプロジェクトを保有しており、更には射撃場やスイミングプール、ハンガー、拷問部屋、ゲストルームといった標準的な設備まで備えている。"
 enc_brian_industries_hq_stats,ロケーション: <link=1>リサイクルセンター</link>
-enc_brian_industries_hq_sub,sweet home
-enc_brian_industries_stats,"FOUNDER: <link=0>Brian</link>
-DATE FOUNDED: 1967
-CURRENT LEADER: <link=0>Still Brian</link>"
-enc_brian_industries_sub,one-man band
-enc_brian_stats,"SPECIES: <link=0>Human</link>
-AGE: 67
-ALLEGIANCE: <link=1>Brian Industries</link>
+enc_brian_industries_hq_sub,スイートホーム
+enc_brian_industries_stats,"創設者: <link=0>ブライアン</link>
+創設年: 1967
+現在のリーダー: <link=0>未だにブライアン</link>"
+enc_brian_industries_sub,ワンマンバンド
+enc_brian_stats,"種族: <link=0>人間</link>
+年齢: 67
+所属: <link=1>ブライアン・インダストリーズ</link>
 "
-enc_brian_sub,The one. The only.
+enc_brian_sub,唯一にして絶対
 enc_carnivine,Carnivine
 enc_carnivine_desc,"A plant-like creature that grows through cracks in rock. Prefers living in dark caves and swamps, and hunting small creatures that wander into its mouth nodes. Extremely limited in mobility."
 enc_carnivine_stats,"学名: Virinsidiae Muscipula
 起源宇宙: <link=0>438-Eurydice</link>
-起源宇宙 FA-H:3"
+分類: FA-H:3"
 enc_carnivine_sub,jumpscare
 enc_centaur,Centaur
 enc_centaur_desc,"Nothing in the Planck arsenal matches the raw might of the Centaur; an omnidirectional tripedal weapons system that, while slow and lumbering, is capable of unmatched firepower. The Centaur's Plasma Cannon is capable of reducing enemies to puddles of slag and carbon. Its thick armor makes it near impervious to damage, even from explosives.
@@ -336,7 +337,7 @@ Fully capable of living and hunting both in the water and on land.
 A specimen was captured and held for several months by Planck security, but escaped through the elevator shafts after a violent reactor cycle weakened its cell. Its wherabouts are now unknown."
 enc_centipod_stats,"学名: Chiloplokamus Titanus
 起源宇宙: <link=0>B6454</link>
-起源宇宙 FA-H:7
+分類: FA-H:7
 "
 enc_centipod_sub,first encounter
 enc_church_of_the_hypercube,Church of the Hypercube
@@ -435,7 +436,7 @@ enc_drong_desc,"A mostly harmless herbivore. With a towering stature of over 15 
 Their most unique features are their giant horns (which are filled with air and used for communication) and their magnetically levitated spines (which are purely decorational)."
 enc_drong_stats,"学名: Cantisaurus
 起源宇宙: <link=0>438-Eurydice</link>
-起源宇宙 FA-H:3
+分類: FA-H:3
 "
 enc_drong_sub,gentle giants
 enc_ember_soul,Ember Soul
@@ -444,7 +445,7 @@ enc_ember_soul_desc,"Ember souls are highly invasive life forms from the molten 
 They have been common in the recycling center for years, long before most other alien species appeared in the reactor, due to their rapid reproduction, and the fact they can only be contained when not hiding in magma."
 enc_ember_soul_stats,"学名: Igneohominem veteris
 起源宇宙: <link=0>F-18-Hades</link>
-起源宇宙 FA-H:3-NC
+分類: FA-H:3-NC
 "
 enc_ember_soul_sub,hot chip
 enc_enlightenment,Enlightenment
@@ -477,7 +478,7 @@ A panicked plan was set in motion: barriers were devised to stop anything from e
 Their desiccated bodies remain scattered across Aether to this day. None have broken free. The <link=2>Void Delegation</link> prefers not to think of this disastrous period in history, and the colonists are only referred to as the forgotten."
 enc_forgotten_stats,"学名: N/A
 起源宇宙: Aether
-起源宇宙 Unassigned"
+分類: Unassigned"
 enc_forgotten_sub,eternity in chains
 enc_frank,フランク
 enc_frank_desc,"フランクはプランクによって捕獲、研究されていたが、避難の際にリアクターの試験管内に入れて放棄された。脱出したフランクはラボで暴れまわり、ロボットを含むすべてを捕食して巨大に成長した。
@@ -502,7 +503,7 @@ enc_general_sintho,General Sintho
 enc_general_sintho_desc,"Years of servitude to the Church drove many autonican villagers to radical ideas of equality, but none were so driven as Sintho, who founded the Automata Collective and now serves as the military leader in opposition to the bourgoiusie oppression of the <link=1>Church of the Hypercube.</link>
 
 Early in the civil war, the Church pinpointed Sintho's radio signature, and struck him with a precise bolt of hypercube energy from above. He barely survived, having to replace his entire faceplate. To his rage, he can never return to the front lines without drawing another such attack, and instead is forced to lead from the safety of the remote rebel headquarters."
-enc_general_sintho_stats,"SPECIES: Robot
+enc_general_sintho_stats,"種族: Robot
 AGE: 24
 ALLEGIANCE: <link=0>Automata Collective</link>
 "
@@ -513,18 +514,18 @@ enc_gentlehand_desc,"One of the few sapient aliens. Gentlehand is a vigilante fo
 He may occasionally harm more than help, but he's one of the few around with no ulterior motive to speak of.
 
 Brian has been desperately trying to capture him for years for research, but he remains elusive."
-enc_gentlehand_stats,"SPECIES: <link=0>Handyman</link>
+enc_gentlehand_stats,"種族: <link=0>Handyman</link>
 AGE: 35
 ALLEGIANCE: Rogue
 "
 enc_gentlehand_sub,old friend
-enc_giant_fish,Big Fish
-enc_giant_fish_desc,"Very little is known about this giant fish which resides in the great sea. It rarely surfaces, and when it does it is often to consume a boat and its occupants in a single bite. It appears to have mammalian features, including a set of blowholes."
-enc_giant_fish_stats,"学名: Megalopiscatus Capillus
+enc_giant_fish,巨大魚
+enc_giant_fish_desc,この魚はグレートオーシャンに棲息しており、その生態はほとんど知られていない。まれに水面に現れる際、船をまるごと飲み込んでしまうことがある。哺乳類の特徴を持っているようで、噴気孔の存在が確認されている。
+enc_giant_fish_stats,"学名: メガロピスカトゥス・カピルス
 起源宇宙: <link=0>B6454</link>
-起源宇宙 FA-H:8
+分類: FA-H:8
 "
-enc_giant_fish_sub,nom
+enc_giant_fish_sub,ごっくん
 enc_gordle_pun,Gordle Pun
 enc_gordle_pun_desc,"An odd looking prototype device <link=0>Brian</link> stole years ago. Seems to have partial functionality.
 
@@ -544,7 +545,7 @@ enc_gremlin_desc,"Gremlins are small scavengers. They are quite common and, fort
 Gremlins are social creatures, and will defend as a group if one of their number is attacked."
 enc_gremlin_stats,"学名: Gremlus Articulus
 起源宇宙: <link=0>438-Eurydice</link>
-起源宇宙 FA-H:1
+分類: FA-H:1
 "
 enc_gremlin_sub,frog legs
 enc_gremlin_witch,Gremlin Witch
@@ -555,7 +556,7 @@ Gremlin witches are aggressive and dangerous, often armed with vials of unknown 
 The nature of gremlin witches is not well understood, as they self incinerate before allowing themselves to be killed or captured."
 enc_gremlin_witch_stats,"学名: Gremlus Articulus
 起源宇宙: <link=0>438-Eurydice</link>
-起源宇宙 FA-H:4
+分類: FA-H:4
 "
 enc_gremlin_witch_sub,it's potion time
 enc_hammer_and_sickle,Hammer and Sickle
@@ -574,7 +575,7 @@ One of very few sapient aliens discovered.
 Notable individual: <link=1>Gentlehand.</link>"
 enc_handyman_stats,"学名: Manus Sapiens
 起源宇宙: <link=0>201-Meyer</link>
-起源宇宙 FA-H:5-S
+分類: FA-H:5-S
 "
 enc_handyman_sub,civilized
 enc_healthfruit,Healthfruit
@@ -594,14 +595,14 @@ enc_heartfruit_desc,"<link=0>ハートフルーツ</link>の果実。結実に�
 トロール以外がハートフルーツを摂取することは推奨されていない。胃が弱い者が摂取した場合、口から炎が吹き出す、溶解する、あるいは爆散することが知られている。"
 enc_heartfruit_stats,"カテゴリー: 植物
 分類: エイリアン"
-enc_heartfruit_sub,ライフブラッド
+enc_heartfruit_sub,生命の源
 enc_hearttree,ハートツリー
 enc_hearttree_desc,"ハートツリーはエイリアン洞窟内にそびえ立ち、高さは150メートル以上、幹の直径は150メートル以上にも達する。その巨大な根は洞窟内の地形を形成し、落ち葉は多くの生物に栄養素を提供する。
 
 その起源はもちろん並行宇宙にある。リアクターがマター交換を引き起こしてからわずか数十年で成長したことになり、驚異的な成長率を証明している。更に大きく生長する可能性もあるが、洞窟の天井がそれを阻害しているようだ。"
 enc_hearttree_stats,"ロケーション: <link=0>エイリアン洞窟</link>
 "
-enc_hearttree_sub,heart of the forest
+enc_hearttree_sub,森の中心
 enc_heavy_security_bot,Heavy Security Bot
 enc_heavy_security_bot_desc,"The PS-R2 is a heavily armored chassis standing around 2.2m tall. Eequipped with a combat shotgun or grenade launcher, it can often be found clearing a path for its squadron or guarding high security areas.
 
@@ -615,7 +616,7 @@ MANUFACTURER: <link=0>Planck Intdl.</link>
 enc_heavy_security_bot_sub,Beeg
 enc_henrique,Henrique
 enc_henrique_desc,"Henrique is a field agent for the Void Delegation. Originally deployed to pursue the Void outlaw <link=2>Kauboi</link>, he discovered an artifact in this universe that is of great significance to the Void. Now he's on a more important mission: to initiate a ritual that will allow the Void to reclaim this artifact."
-enc_henrique_stats,"SPECIES: <link=0>Realmwalker</link>
+enc_henrique_stats,"種族: <link=0>Realmwalker</link>
 AGE: > 8 Billion years
 ALLEGIANCE: <link=1>Void Delegation</link>
 "
@@ -626,13 +627,13 @@ enc_hexasuchus_desc,"A species notably similar to familiar crocodiles, but with 
 Hexasuchus are very dangerous in water, but their fins are poorly suited to walking, and they will not chase prey onto land. This makes them less of a threat in the reactor. "
 enc_hexasuchus_stats,"学名: Hexasuchus Lavandula
 起源宇宙: <link=0>438-Eurydice</link>
-起源宇宙 FA-H:5"
+分類: FA-H:5"
 enc_hexasuchus_sub,get hexed
 enc_hideous_growth,Hideous Growth
 enc_hideous_growth_desc,"A disgusting fungal mass that thrives in the crevices of stagnant, unused pipes. If it accumulates large enough, it seems to develop some intelligence."
 enc_hideous_growth_stats,"学名: <unassigned>
 起源宇宙: <link=0>182-kappa</link>
-起源宇宙 FA-H:2-S"
+分類: FA-H:2-S"
 enc_hideous_growth_sub,milky
 enc_holy_guard,Holy Guard
 enc_holy_guard_desc,"Powerful and intimidating robots created to guard the <link=1>Church of the Hypercube.</link> Endleslly loyal to the Maharishi. Holy Guards are the only entities that can wield a weapon called the hyperscythe, which can launch devastating long range energy attacks, or slice through solid metal at close range.
@@ -651,7 +652,7 @@ enc_holy_hypercube_desc,"Icons and religious descriptions of the Hypercube have 
 It exudes a remarkable aura of mixed Realmic and Void energy. <link=0>The Church</link> would tell you it is God, a being older than time itself and more powerful than can be imagined. <link=2>The Rebels</link> would say it's just a natural phenomenon, possibly a side effect of the nearby Quantum Reactor. There's no telling who's right. It's definitely pretty, though!
 
 Its power is channeled by <link=1>Maharishi Gronto</link>"
-enc_holy_hypercube_stats,"SPECIES: Unknown
+enc_holy_hypercube_stats,"種族: Unknown
 AGE: > 10 Billion years
 ALLEGIANCE: Unknown"
 enc_holy_hypercube_sub,divine geometry
@@ -672,7 +673,7 @@ enc_human_desc,"Humans native to either this universe, or the universe Vetus-4. 
 Notable individual: <link=0>Brian.</link>"
 enc_human_stats,"学名: Homo Sapiens
 起源宇宙: <link=1>Domicilium Alpha</link>, <link=2>Vetus-4</link>
-起源宇宙 FA-H:4-S"
+分類: FA-H:4-S"
 enc_human_sub,we were the aliens all along
 enc_hummingbird,Hummingbird
 enc_hummingbird_desc,"The Hummingbird is one of the most deadly hunters employed by Planck. Razor-sharp reflexes make up for a fragile frame, and mobility is no problem when you can fly at 70 miles per hour. Specialized as a guard for sensitive equipment and areas, and able to precisely target small hostiles with its deadly primary fire. In less delicate situations, the Hummingbird can drop explosive eggs.
@@ -694,7 +695,7 @@ enc_igneosaur_desc,"The Igneosaur is a rare, elusive predator from the sunny sid
 Specimens can grow over 200 feet in length in the wild, and grow additional legs as their body extends. They can't survive in the mild temperatures of the reactor, save for the molten pits of the <link=1>recycling center</link>."
 enc_igneosaur_stats,"学名: Igneosaurus Titanus
 起源宇宙: <link=0>F-18-Hades</link>
-起源宇宙 FA-H:6-NC
+分類: FA-H:6-NC
 "
 enc_igneosaur_sub,hottest chip
 enc_ionizer_handgun,Ionizer Handgun
@@ -706,7 +707,7 @@ MANUFACTURER: <link=0>Frostbite Armaments</link>
 FIRES: Plasma"
 enc_ionizer_handgun_sub,finisher pistol
 enc_j-74-stalheim,J-74-Stalheim
-enc_j-74-stalheim_desc,"An Earth dominated by a single species: the <link=0>JoeJeff.</link>
+enc_j-74-stalheim_desc,"An Earth dominated by a single 種族: the <link=0>JoeJeff.</link>
 
 The landscape is otherwise recognizable, and it is unknown how such a strange creature came to inhabit a relatively nondivergent universe."
 enc_j-74-stalheim_stats,クラス: Xeno-Proximal
@@ -717,14 +718,14 @@ enc_jelleye_desc,"Jelleyes are small hunters native to the deep, cool caverns of
 Jelleyes can attack by spitting an acidic mixture of their blood, saliva, and gas with great precision, or by swiping with their small, needle-sharp claws."
 enc_jelleye_stats,"学名: Hadeovesicus Cyclopidae
 起源宇宙: <link=0>F-18-Hades</link>
-起源宇宙 FA-H:3
+分類: FA-H:3
 "
 enc_jelleye_sub,aim for the eyes
 enc_jetbird,Jetbird
 enc_jetbird_desc,"The Jetbird is a harmless creature that thrives in the reactor, as its natural environment is the deep caves of F-18-Hades. It uses bursts of recycled air to propel, and feeds on insects and lichen growing on rocks. Echolocation lets it navigate dark catacombs with ease. Often found in large flocks."
 enc_jetbird_stats,"学名: Hadeovesicus Vesivolucrum
 起源宇宙: <link=0>F-18-Hades</link>
-起源宇宙 FA-H:1
+分類: FA-H:1
 "
 enc_jetbird_sub,"yes, the air comes out of its butt"
 enc_joejeff,JoeJeff
@@ -733,7 +734,7 @@ enc_joejeff_desc,"A quiet and docile creature. JoeJeffs have medium intelligence
 JoeJeffs have been the subject of some study due to their odd and unique physiology."
 enc_joejeff_stats,"学名: Joe Jeff
 起源宇宙: <link=0>J-74-Stalheim</link>
-起源宇宙 FA-H:1
+分類: FA-H:1
 "
 enc_joejeff_sub,so nice we named him twice
 enc_josephjeffrey,Joseph Jeffrey
@@ -744,14 +745,14 @@ Joseph Jeffrey exhibits much more aggressive behaviour than the individual joes,
 In their <link=0>homeworld,</link> a single unimaginably large Joseph is said to roam the earth."
 enc_josephjeffrey_stats,"学名: Joe Jeffrey
 起源宇宙: <link=0>J-74-Stalheim</link>
-起源宇宙 FA-H:8
+分類: FA-H:8
 "
 enc_josephjeffrey_sub,king of the joes
 enc_kauboi,Kauboi
 enc_kauboi_desc,"A wanted man back in <link=1>The Void</link>, Kauboi has gone rogue and no longer serves the Void Delegation. His motivations, besides a general opposition to the Delegation, are unclear.
 
 He is said to hide himself in the universe known as Aether when not causing mischief."
-enc_kauboi_stats,"SPECIES: <link=0>Realmwalker</link>
+enc_kauboi_stats,"種族: <link=0>Realmwalker</link>
 AGE: > 15 Billion years
 ALLEGIANCE: Rogue
 "
@@ -773,20 +774,20 @@ enc_launch_lily_stats,"カテゴリー: Plant
 enc_launch_lily_sub,going up
 enc_lresa,L'resa
 enc_lresa_desc,"L'resa is a captain in the Church's army. She was built with a stolen tactical processing chip from Planck's robot assembly lines, and is a vital figure in the civil war. Her small size lets her perform reconnaisance with ease, but she is unfortunately not built to fight."
-enc_lresa_stats,"SPECIES: Robot
+enc_lresa_stats,"種族: Robot
 AGE: 18
 ALLEGIANCE: <link=0>Church of the Hypercube</link>
 "
 enc_lresa_sub,tacticool
-enc_macrophage,Macrophage
-enc_macrophage_desc,"A symbiotic part of the immune system of the <link=1>Big Fish,</link> macrophages kill and consume any parasites inside its body. Due to the size of the fish, this can include large animals.
+enc_macrophage,マクロファージ
+enc_macrophage_desc,"マクロファージは<link=1>巨大魚</link>の免疫機構の一部を担う共生生物で、宿主の体内に入ったあらゆる寄生生物を捕食する。宿主が巨大であるため、大型動物も捕食の対象となる。
 
-Macrophages are armed with potent digestive enzymes which can be spit a great distance. They can also fill pressurized cysts with these enzymes, which explode with tremendous force."
-enc_macrophage_stats,"学名: Chiliadont Ingens
-起源宇宙: <link=0>182-Kappa</link>
-起源宇宙 FA-H:2
+マクロファージは強力な消化酵素を遠くまで発射できる。また消化酵素を充填して作り出した嚢胞は、圧力によって爆発を引き起こす。"
+enc_macrophage_stats,"学名: オオノコギリカメノテ
+起源宇宙: <link=0>182-カッパ</link>
+分類: FA-H:2
 "
-enc_macrophage_sub,anti-your-body
+enc_macrophage_sub,その痛みに反逆する
 enc_maharishi_ghronto,Maharishi Ghronto
 enc_maharishi_ghronto_desc,"Grand Maharishi Ghronto, Holder of the Holy Hypercube and Speaker of the Void. An unknowably old robot who led the defection of a large group of Planck security robots.
 
@@ -795,7 +796,7 @@ Sole wielder of the immense energies of the Holy Hypercube. He uses this energy 
 Legends say Ghronto has a human soul within him which fled its mortal body, and he wears that body's skull as a mask to remind him of his past life. Other legends say he found a skull and glued it to his face because it looks cool.
 
 Sometimes referred to as [quot]the dark one[quot] due to his association with the <link=1>Void.</link>"
-enc_maharishi_ghronto_stats,"SPECIES: Robot
+enc_maharishi_ghronto_stats,"種族: Robot
 AGE: > 30,000 years
 ALLEGIANCE: <link=0>Church of the Hypercube</link>
 "
@@ -810,7 +811,7 @@ enc_maurice,Maurice
 enc_maurice_desc,"An odd, malicious creature with a hard stone extrerior and fleshy interior. Biology unlike any other known life form."
 enc_maurice_stats,"学名: Unassigned
 起源宇宙: Unknown
-起源宇宙 FA-H:6"
+分類: FA-H:6"
 enc_maurice_sub,get mauriced
 enc_meat_nailer,Meat Nailer Railgun
 enc_meat_nailer_desc,"The Meat Nailer is an experimental compact railgun which fires ultra-dense tungsten spikes. This weapon will obliterate most targets with a single shot, and can penetrate entire groups of enemies with ease.
@@ -866,7 +867,7 @@ Flowing through is the Spring of Deliverance, a subterranear river that leads fr
 enc_nani_grotto_stats,"LOCALE: <link=1>Alien caves,</link> near the <link=0>Hearttree.</link>
 "
 enc_nani_grotto_sub,bring fruit!
-enc_nani_stats,"SPECIES: <link=0>Troll</link>
+enc_nani_stats,"種族: <link=0>Troll</link>
 AGE: 132
 ALLEGIANCE: Rogue (?)
 "
@@ -893,19 +894,19 @@ enc_officer13,Officer 13
 enc_officer13_desc,"A well-respected Planck security officer who has been in service for nearly 50 years, making him a rarity among security robots. He's an older model, but clearly has been well maintained. A quirk of his older hardware gives him more of an independent streak than modern officer bots, who are single-minded when it comes to security. Perhaps this more adaptible personality is what has let him survive this long.
 
 He seems to have a complex relationship with <link=1>Brian</link>"
-enc_officer13_stats,"SPECIES: Robot
+enc_officer13_stats,"種族: Robot
 Age: 47
 ALLEGIANCE: <link=0>Planck</link>
 "
 enc_officer13_sub,Brian's nemesis
-enc_phage_launcher,Phage Launcher
-enc_phage_launcher_desc,"A small, malformed <link=0>macrophage</link> rejected by its kin. Unable to produce explosives itself, it relies on your ammo synthesizer. It is still more than capable of launching sticky bombs great distances, though its slightly flaccid nature makes it difficult to aim.
+enc_phage_launcher,ファージランチャー
+enc_phage_launcher_desc,"突然変異した小型の<link=0>マクロファージ</link>で、他の個体から排斥されていた。自ら爆発物を生成する能力はなく、あなたの弾薬合成に依存している。粘着性のある爆弾を遠くへ発射する能力を持っているが、少し弛緩していることから正確な狙いをつけるのは難しい。
 
-It seems to have found a new purpose assisting you, and is happy to indulge in vengeance against other phages."
-enc_phage_launcher_stats,"クラス: Grenade Launcher
-MANUFACTURER: N/A
-FIRES: Explosive Cysts"
-enc_phage_launcher_sub,unexpected ally
+あなたを手助けすることに新たな生きがいを見つけ、他のファージに対する復讐を楽しんでいるようだ。"
+enc_phage_launcher_stats,"クラス: グレネードランチャー
+メーカー: N/A
+発射体: 爆発性嚢胞"
+enc_phage_launcher_sub,予期せぬ味方
 enc_planck_interdimensional,Planck Interdimensional
 enc_planck_interdimensional_desc,"Planck Interdimensional Energy Solutions was founded after physicist Max Planck realised the practicality of his Quantum Fraying theories, and applied them to create the concept of a quantum reactor. The first reactor was up and running in Spain just 9 years later, in 1939, and its completion marked the end of the global energy crisis.
 
@@ -933,7 +934,7 @@ enc_primal_handyman_stats,"学名: テクビ・インサピエンス
 起源宇宙: <link=0>202-マイヤー</link>
 分類: FA-H:4
 "
-enc_primal_handyman_sub,really creepy
+enc_primal_handyman_sub,気味が悪い
 enc_propulsor_pad,Propulsor Pad
 enc_propulsor_pad_desc,"Propulsor pads are designed to lift cargo in areas where elevators or cranes are less viable. Planck strictly prohibits human use, but workers do it all the time anyway."
 enc_propulsor_pad_stats,"カテゴリー: Device
@@ -978,7 +979,7 @@ enc_realmwalker_desc,"Realmwalkers are extradimensional entities originating in 
 They posess limited power to interact with our worlds, and these interactions take tremendous energy, so they prefer to sway our fate with careful manipulation."
 enc_realmwalker_stats,"学名: N/A
 起源宇宙: N/A
-起源宇宙 Unassigned"
+分類: Unassigned"
 enc_realmwalker_sub,a higher existence
 enc_recycling_center,Recycling Center
 enc_recycling_center_desc,"The recycling center is the waste disposal center for the reactor. Garbage, broken down robots, and organic debris all are transported here to be melted down. Some materials are repurposed and sent down to robot assembly, but most is disposed of into the Earth's mantle.
@@ -998,7 +999,7 @@ enc_ruptipod,Ruptipod
 enc_ruptipod_desc,A very territorial crustacean. The female Ruptipod hurls its explosive eggs as part of a convoluted reproductive process. It can also defend itself by spraying a venomous fluid from enlarged pores on its back and shoulders.
 enc_ruptipod_stats,"学名: Sepiida Ruptis
 起源宇宙: <link=0>B6454</link>
-起源宇宙 FA-H:5
+分類: FA-H:5
 "
 enc_ruptipod_sub,woop woop woop
 enc_sapling,サプリン兵
@@ -1036,7 +1037,7 @@ enc_shelljelly_desc,"Shelljellies are closely related to <link=1>Tarjellies,</li
 Despite their friendly appearance, shelljellies are highly defensive, and will attack with toughened spikes of goo if approached."
 enc_shelljelly_stats,"学名: Ineffigiatozoa Ostrakos
 起源宇宙: <link=0>182-Kappa</link>
-起源宇宙 FA-H:3
+分類: FA-H:3
 "
 enc_shelljelly_sub,keep your distance
 enc_singularity,Black Hole
@@ -1087,7 +1088,7 @@ enc_standard_security_bot_desc,PS-00はプランクのセキュリティ部隊�
 enc_standard_security_bot_stats,"ユニット名: PS-00
 役割: セキュリティ - 歩兵
 メーカー: <link=0>プランク・インターディメンショナル</link>"
-enc_standard_security_bot_sub,"intelligent, artificially"
+enc_standard_security_bot_sub,知的で人為的
 enc_stealth_bot,Stealth Bot
 enc_stealth_bot_desc,"The PS-12 is a unique security unit armed with only a pair of blades, and its lighter frame sacrifices duribility and strength for unsurmounted mobility.
 
@@ -1136,7 +1137,7 @@ enc_therus,Therus
 enc_therus_desc,"One of <link=1>Brian’s</link> assistants, the first to be successfully reprogrammed from a Planck security drone.
 
 Intelligent and fairly capable, but possesses a rebellious nature that Brian corrected in later repurposed drones."
-enc_therus_stats,"SPECIES: Robot
+enc_therus_stats,"種族: Robot
 AGE: 2
 ALLEGIANCE: <link=0>Brian Industries</link>
 "
@@ -1147,7 +1148,7 @@ enc_theseer_desc,"A worker bot built with a defect allowing anomalously strong i
 She seems to have abandoned her Planck duties and dedicated herself to sight, adding more and more eyes to her body to allow her to see further.
 
 She claims her sight currently extends through the entire cosmos, and even into the <link=0>Void</link> itself. "
-enc_theseer_stats,"SPECIES: Robot
+enc_theseer_stats,"種族: Robot
 Age: 2
 ALLEGIANCE: Rogue
 "
@@ -1168,19 +1169,19 @@ enc_trimoloch_desc,"An aggressive and very hardy fish. Trimoloch anatomy closely
 Like most fish, they cannot survive out of water, so they rarely pose a threat within the reactor. However, when in water, they are extremely difficult to kill."
 enc_trimoloch_stats,"学名: Dunkleosteus Trimoloch
 起源宇宙: <link=0>B6454</link>
-起源宇宙 FA-H:4
+分類: FA-H:4
 "
 enc_trimoloch_sub,ichthy
 enc_trith,トリス
 enc_trith_desc,"トリスは知性を有する、謎が多い種族だ。恐らく低重力に適応した結果、その骨格は非常に脆弱で、クォンタムリアクターに到来して生き延びることはほとんどない。
 
-希少性もさることながら、すぐに死んでしまうことが彼らの起源を辿ることを不可能にしている。我々が観測できたのは、かなり質量が低い地球を持つスカルハーモニック宇宙から来るということだけだ。
+希少性もさることながら、すぐに死んでしまうことが彼らの起源を辿ることを不可能にしている。我々が観測できたのは、かなり質量が低い地球を持つスカル・ハーモニック宇宙から来るということだけだ。
 
 彼らは一般的に、優れた合成素材で作られた衣服を着用しており、先進的な技術文明があることを示唆している。"
 enc_trith_stats,"学名: トリス・サピエンス
 起源宇宙: 不明
-起源宇宙 FA-H:0"
-enc_trith_sub,unfortunate fate
+分類: FA-H:0"
+enc_trith_sub,悲しき運命
 enc_troll,Troll
 enc_troll_desc,"Very few Trolls have been documented, and none have been successfully captured. Extrapolating from known Gremlin genus biology, trolls can be inferred to have superhuman brain mass and intelligence. Trolls are capable of manipulating spacetime itself with powerful psychokinetic ability, but mostly use this ability for passive self preservation.
 
@@ -1189,7 +1190,7 @@ Behavioral analysis of trolls determines that, while sapient, their psychology d
 Notable Individuals: <link=1>Nani</link>"
 enc_troll_stats,"学名: Gremlus Sapiens
 起源宇宙: <link=0>438-Eurydice</link>
-起源宇宙 FA-H:10-S
+分類: FA-H:10-S
 "
 enc_troll_sub,n- nani?
 enc_turret,Turret
@@ -1204,7 +1205,7 @@ enc_vermisaur,ヴァーミザウルス
 enc_vermisaur_desc,ヴァーミザウルスは大きく威圧的な外見をしているが、狩りにおいては基本的に静止状態で待ち構える。できるだけエネルギーを使わず、その大きな顎に誤って近づいてしまった小動物を捕食するのだ。
 enc_vermisaur_stats,"学名: オオアゴヴァーミザウルス
 起源宇宙: <link=0>182-カッパ</link>
-起源宇宙 FA-H:3
+分類: FA-H:3
 "
 enc_vermisaur_sub,食用っぽい
 enc_vertigo_initiative,Vertigo Initiative
@@ -1250,7 +1251,7 @@ enc_warper_desc,"A unique life form which has never been observed outside the Ex
 It is nonaggressive, and mostly seems interested in any colorful blinking lights."
 enc_warper_stats,"学名: Unassigned
 起源宇宙: Unknown
-起源宇宙 Unassigned"
+分類: Unassigned"
 enc_warper_sub,crying babe
 enc_weapon_mod_synthesizer,Weapon Mod Synthesizer
 enc_weapon_mod_synthesizer_desc,"<link=2>Planck's</link> weapon mod synthesizers are a valuable and rare tool only distributed to high-ranking security teams. For safety reasons, the synthesizers are only allowed to synthesize modules, and not entire weapons.
@@ -1273,7 +1274,7 @@ enc_xynfly_desc,"An unremarkable, if very large, insect. Displays wasp-like colo
 Easy to control infestations due to the large size of individuals and relatively slow rate of reproduction."
 enc_xynfly_stats,"学名: Sciara Ingens
 起源宇宙: <link=0>438-Eurydice</link>
-起源宇宙 FA-H:1"
+分類: FA-H:1"
 enc_xynfly_sub,get pollinated
 encCat_Creatures,Creatures
 encCat_Individuals,Individuals
@@ -1288,7 +1289,7 @@ gun_altershock,オルターショック
 gun_annihilator,アナイアレイター
 gun_ionizer,イオナイザー
 gun_meatnailer,Meat Nailer
-gun_phagelauncher,Phage Launcher
+gun_phagelauncher,ファージランチャー
 gun_trident,Trident
 intro_theend,The End
 intro_oftheelevator,"of the Introductory
@@ -1709,7 +1710,7 @@ tutorial_beginreload,リロードを開始
 tutorial_break,ポーズ
 tutorial_fire,発砲
 tutorial_grab,つかむ
-tutorial_load,ロード
+tutorial_load,装填
 tutorial_rack,ラック
 tutorial_reload,リロード
 tutorial_switchcolor,色の切り替え
@@ -1899,14 +1900,14 @@ officer13_bonvoyage_02_friend_caption_00,ところでブライアン。その小
 officer13_bonvoyage_02_friend_caption_01,もしかしてブライアンに無理やり？ もしそうなら瞬きを2回──
 Brian_BonVoyage_12_help_caption_00,違う、違うぞ。そんなんじゃない！
 Brian_BonVoyage_12_help_caption_01,彼女の力になろうとしている。人助けをしているんだ。
-officer13_bonvoyage_03_character_caption_00,ほう、珍しいこともあるものだな。
+officer13_bonvoyage_03_character_caption_00,へぇ、珍しいこともあるんだな。
 Brian_BonVoyage_13_heart_caption_00,心を入れ替えたのかもしれんよ、サーティーン。
 officer13_bonvoyage_04_troops_caption_00,昨日、お友達と一緒になって殺した数十体のセキュリティ部隊にも同じことを言ってやれよ。
 Brian_BonVoyage_14_defending_caption_00,あぁ、それは、殺すか殺されるかだったんだ。
 Brian_BonVoyage_14_defending_caption_01,あれは正当防衛だった。
 officer13_bonvoyage_05_threat_caption_00,お前はプランクの施設に侵入した。いいか、ブライアン。俺たちはお前の戯言に長年付き合わされてきた。
 officer13_bonvoyage_05_threat_caption_01,だが、お前は犯罪者で、逃亡犯だ。昨日みたいな大がかりな襲撃を見逃すことはできん。
-officer13_bonvoyage_05_threat_caption_02,お前は公然とリアクターの安全を脅かす存在であり、今後そのように扱うことにする。
+officer13_bonvoyage_05_threat_caption_02,今後、お前をリアクターの平和を公然と乱す存在とみなす。
 Brian_BonVoyage_15_embarassing_caption_00,おっと、これは気まずいな。
 officer13_bonvoyage_06_containment_caption_00,そうだな。悪いとは思うよ。
 officer13_bonvoyage_06_containment_caption_01,さっさと済ませよう。収容部隊、この生命体を輸送車に乗せろ。
@@ -1964,7 +1965,7 @@ Brian_Datamast_Rescue_02_backup_caption_02,さぁ、時間がない。早く乗�
 Brian_Datamast_Rescue_03_wasting_caption_00,時間がない！ 乗り込め！
 Brian_Datamast_Rescue_04_minigun_caption_00,後ろに22mmのロータリーキャノンが置いてあるだろう。
 Brian_Datamast_Rescue_04_minigun_caption_01,まぁ、いくらか古臭いが、それでも用は足りる。
-Brian_Datamast_Rescue_04_minigun_caption_02,私のヘッドクォーターに敵の支援機を寄せ付けないよう撃ち落とす「用」には十分だ。
+Brian_Datamast_Rescue_04_minigun_caption_02,本部に敵の支援機を寄せ付けないよう撃ち落とす「用」には十分だ。
 Brian_Datamast_Rescue_05_contact_caption_00,ほら、コンタクトしたぞ。プランクのガンシップが後ろについている。
 Brian_Datamast_Rescue_06_missiles_caption_00,ミサイルだ、気をつけろ！ 撃ち落とすんだ！
 Brian_Datamast_Rescue_07_cockpit_caption_00,何をしている？！ 艦の後ろにつけ、馬鹿者！
@@ -1975,7 +1976,7 @@ Brian_Datamast_Rescue_10_gunships_caption_00,ガンシップどもを撃ち落�
 Brian_Datamast_Rescue_11_windshield_caption_00,しまった、リアウィンドシールドが吹き飛んだ。これ以上は被弾できないぞ。
 Brian_Datamast_Rescue_12_death_caption_00,くそ、エンジンが止まった。
 Brian_Datamast_Rescue_13_ending_caption_00,ダメだ、左のエンジンが故障している。
-Brian_Datamast_Rescue_13_ending_caption_01,ヘッドクォーターにはとても届かない、そろそろ墜落してしまう。
+Brian_Datamast_Rescue_13_ending_caption_01,本部にはとても届かない、そろそろ墜落してしまう。
 Brian_Datamast_Rescue_13_ending_caption_02,今なら少しでも軟着陸させられるかもしれない。
 Brian_Datamast_Rescue_13_ending_caption_03,何かに掴まっていたほうがいいぞ。
 Brian_Datamast_Rescue_14_splashCountdown_caption_00,よし……着水するぞ。3……2……1……
@@ -1989,7 +1990,7 @@ Brian_Datamast_Rescue_17_waterBrianSecond_caption_00,おいおい、よくも置
 Brian_Datamast_Rescue_17_waterBrianSecond_caption_01,まぁ、アイアンチャブ号の緊急対応ハンドブックにも「自分の身は自分で守る」としか書いてないからな。
 Brian_Datamast_Rescue_17_waterBrianSecond_caption_02,君はそれに従ったに過ぎない。
 Brian_Datamast_Rescue_17_waterBrianSecond_caption_03,しかし、サンダルが脱げないように泳ぐのは大変だった。
-Brian_Datamast_Rescue_19_gohome_caption_00,岸まで泳いで、ヘッドクォーターまでは歩いていくぞ。
+Brian_Datamast_Rescue_19_gohome_caption_00,岸まで泳いで、本部までは歩いていくぞ。
 Brian_Datamast_Rescue_19_gohome_caption_01,君をゲストルームに案内しよう。君を閉じ込めていた牢屋よりは一歩前進だ。
 Brian_Datamast_Rescue_19_gohome_caption_02,私の人生から君という存在を早く追い出したいんだ。
 Brian_Datamast_Rescue_19_gohome_caption_03,明日……次の段取りについて話そう。
@@ -2002,7 +2003,7 @@ Therus_GrandTour_01_Greetings_caption_05,あんたを撃つことはない。見
 Therus_GrandTour_02_Startle_caption_00,しまった！
 Therus_GrandTour_02_Startle_caption_01,訂正。安全装置を追加した「って言ってた」だ。すまない。
 Therus_GrandTour_02_Startle_caption_02,重要なのは、ここはプランクのセキュリティが及ばない安全な場所だってことだ。
-Therus_GrandTour_02_Startle_caption_03,このヘッドクォーターは、リアクター内の閑静な一角にある。
+Therus_GrandTour_02_Startle_caption_03,この本部は、リアクター内の閑静な一角にある。
 Therus_GrandTour_02_Startle_caption_04,さぁ、行こうぜ。ツアーガイドの役を仰せつかってるんだ！
 Therus_GrandTour_03_Security_caption_00,聞いたぜ、あんたクォンタムリアクターの上5階層を一人で突破したんだってな。すげーよ。
 Therus_GrandTour_03_Security_caption_01,だけど警告しておくぞ。下層のセキュリティは遥かに厳重なんだ。
@@ -2208,16 +2209,16 @@ Therus_AlienCaves_04_Catalyst_caption_01," I’m pretty sure Brian doesn’t kno
 Therus_AlienCaves_04_Catalyst_caption_02," Nani’s using him, on Henrique’s instruction, to bring you down there, because- "
 Therus_AlienCaves_05_Gasp_caption_00,[gasp]
 Therus_AlienCaves_06_Henrique_caption_00,Henrique...
-brian_greatsea_00_gotcha_caption_00,"Got you, Gentlehand!"
-brian_greatsea_00_gotcha_caption_01,"W- wait a second, what are you doing here?"
-brian_greatsea_00_gotcha_caption_02,"Ah, it doesn’t matter. I was following some weird transmissions, thought they were from someone else."
-brian_greatsea_00_gotcha_caption_03, Must have just been your BAMM acting up.
-brian_greatsea_00_gotcha_caption_04,"Anyway, turns out you’re not dead, so that’s... news."
-brian_greatsea_00_gotcha_caption_05,"I’ll try to come and meet you at the far shore. You’re still mostly on track to the reactor core, I suppose. "
-brian_greatsea_00_gotcha_caption_06,"Now, I hate to leave you so soon, but I may have been followed out here, and this drone is expensive."
-brian_greatsea_00_gotcha_caption_07,Catch you later.
-brian_greatsea_01_shotdown_caption_00,"Ah, those little shits."
-brian_greatsea_01_shotdown_caption_01,Avenge meeeeee-
+brian_greatsea_00_gotcha_caption_00,やっと捉えたぞ、ジェントルハンド！
+brian_greatsea_00_gotcha_caption_01,ま─ 待て、君はここで何をしている？
+brian_greatsea_00_gotcha_caption_02,まぁ、どうでもいい。怪しい通信を追いかけていたんだが、別の奴と勘違いしたようだ。
+brian_greatsea_00_gotcha_caption_03,BAMMの誤動作だったのかもしれない。
+brian_greatsea_00_gotcha_caption_04,とにかく、君がまだ無事だとわかった……これは収穫だな。
+brian_greatsea_00_gotcha_caption_05,向こう岸でも顔を出すようにしよう。君はまだリアクターコアに向かっているだろうしな。
+brian_greatsea_00_gotcha_caption_06,名残惜しいが、ここまで追いかけっこをしてきたようなものだし、このドローンは安くないんだ。
+brian_greatsea_00_gotcha_caption_07,また連絡する。
+brian_greatsea_01_shotdown_caption_00,あぁ、勘弁してくれ。
+brian_greatsea_01_shotdown_caption_01,報復は頼んだぞ──
 brian_reunion_00_rescue_caption_00,"Well, Brian to the rescue again I see. "
 brian_reunion_00_rescue_caption_01,This better be the last time.
 brian_reunion_00_rescue_caption_02,"Get in, quick. As you may have noticed, Planck doesn’t make any effort to control alien life outside the reactor facility. "
@@ -2540,127 +2541,127 @@ gentlehand_greatsea_0_phonecall_caption_18,"何をするにも、ブライアン
 gentlehand_greatsea_0_phonecall_caption_19,私もご一緒できればよかったのですが……残念なことに、下層のセキュリティを回避する手段がないのです。
 gentlehand_greatsea_0_phonecall_caption_20,この世界の命運は、あなたの手に委ねられています。
 gentlehand_greatsea_0_phonecall_caption_21,ブライアンに傍受される前に、この通信を切らねばなりません。どうか、あなたの帰路にご加護のあらんことを。
-officer13_greatsea_00_trespassing_caption_00,This is the Planck ISS Ganymede.
-officer13_greatsea_00_trespassing_caption_01,"You are trespassing in the restricted area surrounding Quantum Reactor 7, and have resisted apprehension by Planck security forces."
-officer13_greatsea_00_trespassing_caption_02,Prepare to be fired upon.
-officer13_greatsea_01_what_caption_00,What the hell is that?!
-officer13_pescatarian_00_isd_caption_00,This is Officer 13 to Planck ISD Command. Come in ISD Command.
-officer13_pescatarian_01_happy_caption_00,"Oh, this will be the first time ever, but I’m actually happy to see a sentient alien."
-officer13_pescatarian_01_happy_caption_01,I thought I was trapped in here all by myself.
-officer13_pescatarian_02_who_caption_00,"Wait, you seem... familiar. "
-officer13_pescatarian_02_who_caption_01,"What is... oh god, what’s happening?! Who are you?"
-officer13_pescatarian_03_brian_caption_00,I- I remember. You're Brian's friend.
-officer13_pescatarian_03_brian_caption_01,What the hell? It’s all coming back to me. The raid on Brian’s headquarters...
-officer13_pescatarian_03_brian_caption_02,"Has Brian been altering our memories? God, that's not good. "
-officer13_pescatarian_04_move_caption_00,Okay. So I presume that drone we were following was Brian’s. And you were the one in the boat.
-officer13_pescatarian_04_move_caption_01,"Don’t worry, that mission’s aborted. "
-officer13_pescatarian_04_move_caption_02,"You may have killed almost the entirety of the reactor’s naval security forces, but self preservation is my first directive in a situation like this. "
-officer13_pescatarian_04_move_caption_03,Something about the flesh around us is blocking even my terrain-piercing communications.
-officer13_pescatarian_04_move_caption_04,If we can just get outside I should be able to call a req’ team.
-officer13_pescatarian_04_move_caption_05,"Truce for now, alright? Let’s move."
-officer13_pescatarian_05_collaboration_caption_00,"I tried to get through here a few minutes ago, but couldn’t do it on my own."
-officer13_pescatarian_05_collaboration_caption_01,But maybe with a dash of collaboration we’ll have more luck.
-officer13_pescatarian_06_side_caption_00,"Here, hold this side open, I’ll go through and hold it open from the other side."
-officer13_pescatarian_07_sphincters_caption_00,"Don’t worry, I won’t leave you behind. I’m sure there’s more of these stupid sphincters."
-officer13_pescatarian_07_sphincters_caption_01,We’re more likely to get out of here if we work together.
-officer13_pescatarian_08_comethrough_caption_00,"Alright, come on through."
-officer13_pescatarian_09_teamwork_caption_00,"The power of teamwork! Come on, let’s keep moving."
-officer13_pescatarian_10_appetite_caption_00,We’re not the only ones in here! This fish has an appetite.
-officer13_pescatarian_11_deadend_caption_00,"Damn, dead end. "
-officer13_pescatarian_11_deadend_caption_01,"Wait, I’m picking up electrical impulses running through this wall."
-officer13_pescatarian_11_deadend_caption_02,I think it’s a motor neuron. Let’s see if I can’t provide a bit of stimulation...
-officer13_pescatarian_12_exploring_caption_00,Excellent! Being able to manipulate these nerves should make it quite a bit easier to escape.
-officer13_pescatarian_12_exploring_caption_01,If we keep exploring we’re bound to find... some kind of exit.
-officer13_pescatarian_13_equipment_caption_00,This fish must have eaten a lot of Planck equipment. Explains the boats that have gone missing.
-officer13_pescatarian_14_bloodvessel_caption_00,Is this a blood vessel or something?
-officer13_pescatarian_15_aaa_caption_00,Aaaaaaahhhh!
-officer13_pescatarian_16_biology_caption_00,"Oh, good. You made it."
-officer13_pescatarian_16_biology_caption_01,The biology of this creature is unlike anything I’ve encountered in the reactor.
-officer13_pescatarian_16_biology_caption_02,"But then again, I haven’t been inside any other creatures. "
-officer13_pescatarian_16_biology_caption_03,"If exobiology was anywhere near equipped to study this, I’m sure they would have a field day."
-officer13_pescatarian_17_spine_caption_00,I don’t think there’s anything down here. Let’s check out the upper end of the spine.
-officer13_pescatarian_18_starve_caption_00,This aetherback certainly didn’t starve to death. Keep vigilant.
-officer13_pescatarian_19_bots_caption_00,These units have been dead for hours.
-officer13_pescatarian_19_bots_caption_01,Their black boxes report... simultaneous failure of all delicate components.
-officer13_pescatarian_19_bots_caption_02,It’s like their insides just dissolved. Apparently I’m in as much danger as you in here.
-officer13_pescatarian_20_killer_caption_00,Our killer is revealed!
-officer13_pescatarian_21_immune_caption_00,"Just as I feared, this fish’s size requires an immune system that can fight appropriately large parasites. "
-officer13_pescatarian_21_immune_caption_01,These are symbiotic organisms adapted to protect the host body.
-officer13_pescatarian_21_immune_caption_02,"I’ve heard of something similar from exobiologists, but nothing of this scale."
-officer13_pescatarian_21_immune_caption_03,"Now that we’re outside the digestive system, we’ve been recategorized from food to invaders. "
-officer13_pescatarian_21_immune_caption_04,"Things are only going to get more difficult here, we need to find an exit as soon as possible."
-officer13_pescatarian_22_somany_caption_00,"Shit, there are so many! "
-officer13_pescatarian_23_goodwork_caption_00,Good work. I’m glad you’re here.
-officer13_pescatarian_23_goodwork_caption_01,I honestly don’t know if I could survive in here with just my sidearm.
-officer13_pescatarian_24_allaround_caption_00,"They’re all around us, watch out!"
-officer13_pescatarian_25_fuck_caption_00,Fucking phages.
-officer13_pescatarian_26_run_caption_00,"Holy shit, run! Move!!"
-officer13_pescatarian_27_getup_caption_00,Aah! Get up! Get up! Get up!
-officer13_pescatarian_28_safe_caption_00,"Ok, ok, we should be safe here."
-officer13_pescatarian_29_age_caption_00,"I haven’t faced anything like this in years, not without significantly more guns on my side at least."
-officer13_pescatarian_29_age_caption_01,I’m feeling my age.
-officer13_pescatarian_30_2_ready_caption_00,Ready? Here goes...
-officer13_pescatarian_30_brace_caption_00,Yes! This is promising.
-officer13_pescatarian_30_brace_caption_01," If we can get the mouth open, we should be able to swim right out. "
-officer13_pescatarian_30_brace_caption_02,There’s another nerve close to the surface here.
-officer13_pescatarian_30_brace_caption_03,"When I open the mouth, a massive amount of water is going to rush in, so brace yourself on a tooth or something. "
-officer13_pescatarian_31_shut_caption_00,Hmm. I guess the fish doesn’t appreciate having its mouth opened involuntarily.
-officer13_pescatarian_31_shut_caption_01,It’s consciously keeping it shut.
-officer13_pescatarian_31_shut_caption_02,"I might be able to synchronize enough nerves to override it, but it’s a bit of a long shot."
-officer13_pescatarian_31_shut_caption_03, just don’t have the spare power output.
-officer13_pescatarian_31_shut_caption_04,"I’ll keep poking around, you search to see if you can find anything else to help us, okay?"
-officer13_pescatarian_32_prompt1_caption_00,"There’s nothing you can do here, keep exploring and tell me what you find."
-officer13_pescatarian_32_prompt1_caption_01,Maybe there’s a blowhole or something we can reach.
-officer13_pescatarian_33_prompt2_caption_00,"Come on, stop loitering. The longer we’re here the more time there is for more phages to find us."
-officer13_pescatarian_34_prompt3_caption_00,Get moving. I saw another exit near the back of the throat. Sinus or something.
-officer13_pescatarian_35_open_caption_00,Hey! Nice work! We’ll make a security drone out of you yet!
-officer13_pescatarian_35_open_caption_01,With the fish dead it should be no problem to open the mouth.
-officer13_pescatarian_35_open_caption_02,"It’s a shame, they’d have loved to study this thing alive. "
-officer13_pescatarian_35_open_caption_03,"Not my department though... first priority is protecting Planck assets at the moment. Namely, myself. "
-officer13_pescatarian_35_open_caption_04,"Let’s get out of here, I’ll give this nerve a little zap and the mouth should open right up."
-officer13_pescatarian_35_open_caption_05,Ready to swim?
-officer13_pescatarian_35_open_caption_06,"3, 2, 1."
-officer13_pescatarian_36_beached_caption_00,Ha ha! He got beached. Never mind about that water. That makes things easier.
-officer13_pescatarian_36_beached_caption_01,"Come on, get outside, I can’t keep this up for too long."
-officer13_pescatarian_37_run_caption_00,"Okay. I’ll try to deliver a surge, and then run for it. "
-officer13_pescatarian_37_run_caption_01,Here we go!
-officer13_pescatarian_38_chomped_caption_00,Aaaaggh! I did not time that right!
-officer13_pescatarian_38_chomped_caption_01,"Oh god, I’m bit. I’m chomped. "
-officer13_pescatarian_38_chomped_caption_02,This is it. It’s all going dark.
-officer13_pescatarian_38_chomped_caption_03,Goodbye--
-officer13_pescatarian_39_revive_caption_00,"Ahhh. Ha, you didn’t think I was dead, did you? "
-officer13_pescatarian_39_revive_caption_01,My legs are just motors and hydraulics. Everything important’s up here
-officer13_pescatarian_39_revive_caption_02,"Okay... just gotta... ungh, there we go. "
-officer13_pescatarian_40_goodbye_caption_00,"Listen, I really appreciate you working with me to get out of that jam. "
-officer13_pescatarian_40_goodbye_caption_01,"Normally I'd be a little more angry about you killing all of my soldiers, but this is a bit of an extraordinary circumstance. "
-officer13_pescatarian_40_goodbye_caption_02,"That said, I’m calling in a requisition team to get me back to the reactor, and they won’t be as understanding. "
-officer13_pescatarian_40_goodbye_caption_03,You should get out of here before they arrive. Planck security is not your friend; I’m the most reasonable of the bunch.
-officer13_pescatarian_40_goodbye_caption_04,Let’s hope we never meet again.
-officer13_pescatarian_40_goodbye_caption_05,Goodbye.
-officer13_pescatarian_40_goodbye_caption_06,Stay secure.
-officer13_pescatarian_41_prompt1_caption_00,"Hey, I’m not kidding around, that requisition team is going to arrive any minute and they will absolutely kill you if you’re still here. Get going!"
-officer13_pescatarian_42_prompt2_caption_00,"I appreciate your company, but you really do need to leave."
-officer13_react_careful_caption_00,Be careful!
-officer13_react_excuse_caption_00,Excuse me!
-officer13_react_friendlyfire_caption_00,Friendly fire!
-officer13_react_getout_caption_00,"Don't look at me, I don't know how to get out of here."
-officer13_react_hands_caption_00,Keep your hands to yourself.
-officer13_react_keepmoving_caption_00,"Come on, let's keep moving. Don't wanna be in here longer than I have to."
-officer13_react_navigation_caption_00,My navigation systems are not functioning. I’ll follow you.
-officer13_react_ouch_caption_00,Ouch!
-officer13_react_ow_caption_00,Ow!
-officer13_react_personalspace_caption_00,"Little personal space, please."
-officer13_react_whichway_caption_00,Which way should we go?
-officer13_door_alright_caption_00,"Alright, come on."
-officer13_door_come_caption_00,You can come through.
-officer13_door_gotit_caption_00,Got it.
-officer13_door_letgo_caption_00,"I got it, you can let go."
-officer13_door_letsgo_caption_00,"Ready, let’s go."
-officer13_door_move_caption_00,Let's move.
-officer13_door_ok_caption_00,Ok.
-officer13_door_ready_caption_00,Ready.
-officer13_door_side_caption_00,"I got this side, come on through."
-officer13_nicegun_caption_00,Nice gun!
+officer13_greatsea_00_trespassing_caption_00,こちらはプランクISSのガニメデだ。
+officer13_greatsea_00_trespassing_caption_01,お前はクォンタムリアクターVII周辺の制限区域に侵入し、プランクのセキュリティ部隊による拘束を拒んでいる。
+officer13_greatsea_00_trespassing_caption_02,これより攻撃を開始する。覚悟しろ。
+officer13_greatsea_01_what_caption_00,あ、あれはなんだ？！
+officer13_pescatarian_00_isd_caption_00,こちらオフィサー13。プランクISD司令部、応答せよ。
+officer13_pescatarian_01_happy_caption_00,おっと、理性のあるエイリアンを見るのは初めてだ。光栄だよ。
+officer13_pescatarian_01_happy_caption_01,俺以外にも閉じ込められていたなんてな。
+officer13_pescatarian_02_who_caption_00,待てよ、どこかで見たことが……
+officer13_pescatarian_02_who_caption_01,そんな……おい、どうなってる？！ 君は誰だ？
+officer13_pescatarian_03_brian_caption_00,お─ 思い出したぞ。君はブライアンの友人だな。
+officer13_pescatarian_03_brian_caption_01,どういうことだ？ だんだん思い出してきたぞ。ブライアンの本部に突入して……
+officer13_pescatarian_03_brian_caption_02,まさか記憶をいじられたのか？ なんてこった。
+officer13_pescatarian_04_move_caption_00,俺たちが追っていたのはブライアンのドローンだったということか。そして、ボートに乗っていたのは君か。
+officer13_pescatarian_04_move_caption_01,心配するな、任務は中断だ。
+officer13_pescatarian_04_move_caption_02,リアクターの海上部隊をほぼ全滅させてくれたとはいえ、この状況では自分の身が最優先だ。
+officer13_pescatarian_04_move_caption_03,体内にいるせいか、俺の全地形通信でも外に届かない。
+officer13_pescatarian_04_move_caption_04,外に出ることさえできれば、救援を呼ぶこともできるだろう。
+officer13_pescatarian_04_move_caption_05,今は一時休戦といこう。さぁ、行こう。
+officer13_pescatarian_05_collaboration_caption_00,さっきここを通ろうとしたんだが、俺だけじゃ無理だった。
+officer13_pescatarian_05_collaboration_caption_01,だが、協力すればどうにかなるかもしれん。
+officer13_pescatarian_06_side_caption_00,なぁ、そこを開けてくれないか。そうしたら俺が向こう側に行って開けるよ。
+officer13_pescatarian_07_sphincters_caption_00,置いていかないから安心しろって。この先も似たような膜がいくらでもあるだろうからな。
+officer13_pescatarian_07_sphincters_caption_01,力を合わせれば、ここから出られる可能性も上がるだろ。
+officer13_pescatarian_08_comethrough_caption_00,よし、来てもいいぞ。
+officer13_pescatarian_09_teamwork_caption_00,これぞチームワークだな！ よし、先に進もう。
+officer13_pescatarian_10_appetite_caption_00,他にも客がいたなんてな！ 食欲旺盛な魚らしい。
+officer13_pescatarian_11_deadend_caption_00,くそ、行き止まりか。
+officer13_pescatarian_11_deadend_caption_01,待てよ、この壁から電気信号を感じるぞ。
+officer13_pescatarian_11_deadend_caption_02,これは運動神経か。刺激を与えられるか試してみよう……。
+officer13_pescatarian_12_exploring_caption_00,よし！ 運動神経を操作できるなら、かなり脱出しやすくなるな。
+officer13_pescatarian_12_exploring_caption_01,このまま進んでいけば、いずれ出口も見つかる……かもしれない。
+officer13_pescatarian_13_equipment_caption_00,この魚はプランクの装備まで飲み込んだのか。ボートが行方不明になったのも納得だな。
+officer13_pescatarian_14_bloodvessel_caption_00,これは血管かなにかか？
+officer13_pescatarian_15_aaa_caption_00,うわあぁぁぁ！
+officer13_pescatarian_16_biology_caption_00,あぁ、よかった。君も来たのか。
+officer13_pescatarian_16_biology_caption_01,リアクターで見たことがある生物には、こんな生態のものはいなかったな。
+officer13_pescatarian_16_biology_caption_02,まぁ、生物の中に入ったことなんて一度もないがね。
+officer13_pescatarian_16_biology_caption_03,こんな研究ができたら、エグゾバイオロジーの連中は泣いて喜びそうだ。
+officer13_pescatarian_17_spine_caption_00,こちら側には何もなさそうだ。背骨の頭側も調べてみよう。
+officer13_pescatarian_18_starve_caption_00,このエーテルバックは餓死した訳ではないな。警戒を怠るなよ。
+officer13_pescatarian_19_bots_caption_00,このユニットたちは死後数時間といったところか。
+officer13_pescatarian_19_bots_caption_01,ブラックボックスによると……精密部品がすべて同時に破壊されたらしい。
+officer13_pescatarian_19_bots_caption_02,まるで内側が溶かされてしまったようだ。死と隣り合わせなのは君だけじゃないらしい。
+officer13_pescatarian_20_killer_caption_00,犯人がおいでなすったぞ！
+officer13_pescatarian_21_immune_caption_00,恐れていた通りだ。これだけ身体が大きいと寄生生物も大きくなるし、それと戦うための免疫機構も必要になる。
+officer13_pescatarian_21_immune_caption_01,こいつらは宿主を守るよう適応した共生生物なんだよ。
+officer13_pescatarian_21_immune_caption_02,エグゾバイオロジーの連中から似たような話を聞いたことがあるが、こんなスケールは初耳だ。
+officer13_pescatarian_21_immune_caption_03,消化器系から出た今、俺たちは食物ではなく侵入者になったって訳だ。
+officer13_pescatarian_21_immune_caption_04,ここから先は厳しい道のりになるぞ。一刻も早く出口を探さなくちゃならない。
+officer13_pescatarian_22_somany_caption_00,しまった、大量に出てきた！
+officer13_pescatarian_23_goodwork_caption_00,よくやったな。君がいて助かった。
+officer13_pescatarian_23_goodwork_caption_01,正直なところ、俺のサイドアームだけでは生き残れなかったかもしれないな。
+officer13_pescatarian_24_allaround_caption_00,囲まれてるぞ、気をつけろ！
+officer13_pescatarian_25_fuck_caption_00,ファージのくせによ。
+officer13_pescatarian_26_run_caption_00,ヤバい、逃げろ！！
+officer13_pescatarian_27_getup_caption_00,あぁ！ 上がれ上がれ上がれ！
+officer13_pescatarian_28_safe_caption_00,こ、ここなら大丈夫だろう。
+officer13_pescatarian_29_age_caption_00,こんなの久しぶりだ。手元にもっと銃があればな。
+officer13_pescatarian_29_age_caption_01,俺も歳ってことか。
+officer13_pescatarian_30_2_ready_caption_00,いいか？ いくぞ……。
+officer13_pescatarian_30_brace_caption_00,よし！ 光明が見えたな。
+officer13_pescatarian_30_brace_caption_01,口を開かせることができれば、泳いで出られるぞ。
+officer13_pescatarian_30_brace_caption_02,この辺りに別の神経が通ってるみたいだ。
+officer13_pescatarian_30_brace_caption_03,口が開いたら大量の水が流れ込んでくる。歯か何かに掴まっておけよ。
+officer13_pescatarian_31_shut_caption_00,うーむ。どうやら口を無理やり開かれるのが気に食わないらしい。
+officer13_pescatarian_31_shut_caption_01,意識的に口を閉じているようだ。
+officer13_pescatarian_31_shut_caption_02,神経をまとめて同期すればいけそうだが、ちょっと難しそうだ。
+officer13_pescatarian_31_shut_caption_03,それができるだけの予備電力がない。
+officer13_pescatarian_31_shut_caption_04,他の方法を探してみるが、君の方でも手がかりを探してみてくれないか？
+officer13_pescatarian_32_prompt1_caption_00,ここにいても仕方ない。辺りを探して気付いたことがあれば教えてくれ。
+officer13_pescatarian_32_prompt1_caption_01,俺たちが通れる孔か何かがあればな。
+officer13_pescatarian_33_prompt2_caption_00,ほら、行った行った。もたもたしてるとファージどもに見つかっちまう。
+officer13_pescatarian_34_prompt3_caption_00,喉の奥に副鼻腔か何かがあったから、様子を見てきてくれ。
+officer13_pescatarian_35_open_caption_00,おーい！ やったな！ 君、いつかセキュリティドローンになれるかもしれないぞ！
+officer13_pescatarian_35_open_caption_01,魚が死んだから問題なく口を開けられるはずだ。
+officer13_pescatarian_35_open_caption_02,こいつを生きたまま研究したかった連中の残念そうな顔が目に浮かぶよ。
+officer13_pescatarian_35_open_caption_03,ま、それは俺の仕事じゃない……。プランクの資産、つまり俺を保護するのが最優先だ。
+officer13_pescatarian_35_open_caption_04,さぁ、外に出よう。この神経に電流を流せば口が開くはずだ。
+officer13_pescatarian_35_open_caption_05,泳ぐ覚悟はできたか？
+officer13_pescatarian_35_open_caption_06,3、2、1。
+officer13_pescatarian_36_beached_caption_00,ハッハー！ 座礁してたのか。水のことは忘れてくれ、これで泳がずに済む。
+officer13_pescatarian_36_beached_caption_01,ほら、外に出ろよ。ずっと開けておく訳にはいかないんだ。
+officer13_pescatarian_37_run_caption_00,よし、一気に電流を流す。それで外に出るぞ。
+officer13_pescatarian_37_run_caption_01,いくぞ！
+officer13_pescatarian_38_chomped_caption_00,あああぁぁ！ タイミングをミスった！
+officer13_pescatarian_38_chomped_caption_01,なんてこった。噛まれちまった、食われちまった。
+officer13_pescatarian_38_chomped_caption_02,もう終わりだ。何も見えない。
+officer13_pescatarian_38_chomped_caption_03,じゃあな──
+officer13_pescatarian_39_revive_caption_00,ブハァ。ははっ、俺が死んだと思ったか？
+officer13_pescatarian_39_revive_caption_01,脚はただのモーターと油圧機器だ。大事なものは全部ここにある。
+officer13_pescatarian_39_revive_caption_02,さて……と、これでいい。
+officer13_pescatarian_40_goodbye_caption_00,聞いてくれ。あの魚から脱出するのに協力してくれたこと、本当に感謝してるんだ。
+officer13_pescatarian_40_goodbye_caption_01,普通なら俺の部下を全員殺したことに腹を立てるところだが、この異常事態ではな。
+officer13_pescatarian_40_goodbye_caption_02,そうは言っても、俺はこれから回収班に連絡してリアクターに戻ることになる。あいつらは俺ほど理解がある訳じゃない。
+officer13_pescatarian_40_goodbye_caption_03,あいつらが来る前にここを去るんだ。プランクのセキュリティは君のお友達じゃないし、一番まともなのが俺なんだよ。
+officer13_pescatarian_40_goodbye_caption_04,もう二度と会わないことを祈る。
+officer13_pescatarian_40_goodbye_caption_05,あばよ。
+officer13_pescatarian_40_goodbye_caption_06,気をつけてな。
+officer13_pescatarian_41_prompt1_caption_00,なぁ、冗談を言ってるんじゃないんだよ。いつ回収班が来てもおかしくないし、君を見つけたら間違いなく殺そうとするだろう。ほら、行けよ！
+officer13_pescatarian_42_prompt2_caption_00,付き添いはありがたいが、本当に立ち去ったほうがいい。
+officer13_react_careful_caption_00,気をつけてくれよ！
+officer13_react_excuse_caption_00,失敬！
+officer13_react_friendlyfire_caption_00,フレンドリーファイア！
+officer13_react_getout_caption_00,こっちを見られてもな、俺にも出口がわからないんだよ。
+officer13_react_hands_caption_00,お行儀の悪い手だな。
+officer13_react_keepmoving_caption_00,さぁ、行こう。一刻も早くここから出たいんだ。
+officer13_react_navigation_caption_00,ナビゲーションシステムが故障してるんだ。君についていくよ。
+officer13_react_ouch_caption_00,痛い！
+officer13_react_ow_caption_00,うっ！
+officer13_react_personalspace_caption_00,パーソナルスペースをわきまえてくれよ。
+officer13_react_whichway_caption_00,どっちに行ったもんかな？
+officer13_door_alright_caption_00,よし、行こう。
+officer13_door_come_caption_00,通ってもいいぞ。
+officer13_door_gotit_caption_00,了解。
+officer13_door_letgo_caption_00,よし、もう手を離してもいいぞ。
+officer13_door_letsgo_caption_00,準備はいいか、行こう。
+officer13_door_move_caption_00,さぁ、行くぞ。
+officer13_door_ok_caption_00,OK。
+officer13_door_ready_caption_00,レディー。
+officer13_door_side_caption_00,こっちも掴んだ。通れるぞ。
+officer13_nicegun_caption_00,いい銃だな！
 pipegrowth_00_hey_caption_00,"Oh, hey there. "
 pipegrowth_01_quest_caption_00,"What, you want to go past?"
 pipegrowth_01_quest_caption_01,"I’m kinda, uh, trying to grow here."
@@ -3434,7 +3435,7 @@ nani_grotto_02_grotto_caption_01,ナニーもキミみたいに、このヘン�
 nani_grotto_02_grotto_caption_02,だからナニーは小さなお家を作ってプランクの殺人ロボットから隠れてるんだ。
 nani_grotto_03_boat_caption_00,キミがここに来て……あれ……少し違うルートなのか……。
 nani_grotto_03_boat_caption_01,あっ、えっと大丈夫、下に行きたいなら川を下ればいいんだよ！
-nani_grotto_03_boat_caption_02,解放の泉を下って行けば海に出られる。
+nani_grotto_03_boat_caption_02,解放の泉を下って行けばグレートオーシャンに出られる。
 nani_grotto_03_boat_caption_03,ボートがあればよかったねぇ…もっと早く辿り着けるのにねぇ。
 nani_grotto_03_boat_caption_04,なーんて偶然！ ナニーはボートのレンタルもしてるんだ！
 nani_grotto_03_boat_caption_05,ジャジャーン！
