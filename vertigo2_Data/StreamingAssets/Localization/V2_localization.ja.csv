@@ -134,15 +134,15 @@ enc_438-eurydice,438-Eurydice
 enc_438-eurydice_desc,"Hot, wet Earth with a carboniferous-like ecology. Covered in vast, deep swamps and home to the various species of Gremlin, as well as a remarkable variety of other life forms commonly found in the reactor."
 enc_438-eurydice_stats,クラス: Xeno-Consimilar
 enc_438-eurydice_sub,the gremlin grove
-enc_acid_handyman,Acid Handyman
-enc_acid_handyman_desc,"A rare mutated primal handyman which secretes a potent acidic fluid. More dangerous than its blue counterpart, it can fling acid a good distance at its enemies.
+enc_acid_handyman,アシッドハンド人
+enc_acid_handyman_desc,"強力な酸性の液体を分泌する、原始ハンド人の珍しい突然変異体。青いハンド人よりも危険で、投げた酸は遠くの敵まで届く。
 
-The acid has burned its own skin, leaving it a crispy charcoal color. This cannot be pleasant."
-enc_acid_handyman_stats,"学名: Manus Degenerus
-起源宇宙: <link=0>202-Meyer</link>
+酸によって自身の肌も焼かれ、炭のように黒い色をしている。気持ちがいいものではないだろう。"
+enc_acid_handyman_stats,"学名: テクビ・インサピエンス
+起源宇宙: <link=0>202-マイヤー</link>
 分類: FA-H:5
 "
-enc_acid_handyman_sub,sour
+enc_acid_handyman_sub,すっぱい
 enc_æther,ヱーテル
 enc_æther_desc,"ヱーテルが初めて発見された並行宇宙の一つであることは、その異常な性質を考えると奇妙なことだ。未知の光源から常に光を浴びている真っ白で広大な空間。地球と同様の大気と重力を有しているにもかかわらず、地面は全く歪曲していないことが実験から明らかになり、これは無限平面を示唆している。
 
@@ -189,16 +189,16 @@ enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキ�
 enc_alien-infested_caves_stats,"ロケーション: <link=0>PITS付近</link>
 "
 enc_alien-infested_caves_sub,生命に不可能はない
-enc_altershock_revolver,Altershock Revolver
-enc_altershock_revolver_desc,"Standard issue of space cowboys, the Altershock is a powerful and accurate six-shooter. Fewer moving parts make it more durable than high-tech plasma weapons. A quick draw and a couple cracks of the laser tube will drop any bandits coming to steal your precious worm-babies.
+enc_altershock_revolver,オルターショック・リボルバー
+enc_altershock_revolver_desc,"スペースカウボーイの標準装備であるオルターショックは、強力で精度に優れた6連発拳銃だ。可動部分が少ないため、高度なプラズマ武器よりも耐久性がある。素早く引き金を引き、レーザーチューブを数回クラックするだけで、貴重なワーム・ベイビーを奪おうとする盗賊を撃退できる。
 
-Its high capacity battery magazines deliver a lot of power for such a small weapon, so a slow fire rate is necessary to avoid melting the barrel.
+武器自体が小型であるのに対し、大容量バッテリー型のマガジンから大量の電力を供給するため、バレルの溶解を防ぐために射撃間隔を長く取る必要がある。
 
-Preferred sidearm of higher ranking <link=1>Planck security officers.</link>"
-enc_altershock_revolver_stats,"クラス: Precision Sidearm
-MANUFACTURER: <link=0>Frostbite Armaments</link>
-FIRES: Laser"
-enc_altershock_revolver_sub,don't lick the battery
+プランクのセキュリティ部隊における<link=1>上級オフィサー</link>の標準的なサイドアーム。"
+enc_altershock_revolver_stats,"クラス: 高精度拳銃
+メーカー: <link=0>フロストバイト・アーマメント</link>
+発射体: レーザー"
+enc_altershock_revolver_sub,バッテリーを口に入れてはいけません
 enc_annihilator_prototype,Annihilator Prototype
 enc_annihilator_prototype_desc,"A raw, unrefined prototype of the masterpeice that is the Annihilator. More powerful than its successor, but with a very short effective range.
 
@@ -209,16 +209,16 @@ enc_annihilator_prototype_stats,"クラス: Shotgun
 MANUFACTURER: <link=0>Brian Industries</link>
 FIRES: Antimatter"
 enc_annihilator_prototype_sub,super shotgun
-enc_annihilator_shotgun,Annihilator Shotgun
-enc_annihilator_shotgun_desc,"The Annihilator Shotgun is a one-of-a-kind pump action shotgun that shoots tiny packets of antimatter. Although unimaginably devastating at close range, the pellets quickly dissolve in the air and will not do much damage further away.
+enc_annihilator_shotgun,アナイアレイター・ショットガン
+enc_annihilator_shotgun_desc,"アナイアレイター(殲滅者)ショットガンは、反物質の散弾を発射するユニークなポンプアクションショットガンだ。近距離においては想像を絶する威力を発揮するが、ペレットは空中で融解してしまうため、遠距離戦ではそれほどダメージを与えられない。
 
-Handling the ammunition with care is imperative: each is a tiny magnetic bottle containing highly volatile antimatter, and any sharp impact can result in an explosion.
+弾薬は極めて慎重に扱う必要がある。非常に不安定な反物質弾丸を含む小さな磁気ボトルは、強い衝撃を加えると爆発する可能性がある。
 
-This model is actually Brian's third Annihilator iteration. While still experimental, is much more refined (and less prone to exploding) than the first two."
-enc_annihilator_shotgun_stats,"クラス: Shotgun
-MANUFACTURER: <link=0>Brian Industries</link>
-FIRES: Antimatter"
-enc_annihilator_shotgun_sub,it's in the name
+このモデルはブライアンが設計したアナイアレイターシリーズの第3世代だ。まだ実験段階ではあるが、従来のモデルより遥かに洗練されている。(そして爆発の危険性も少なくなっている)"
+enc_annihilator_shotgun_stats,"クラス: ショットガン
+メーカー: <link=0>ブライアン・インダストリーズ</link>
+発射体: 反物質"
+enc_annihilator_shotgun_sub,名は体を表す
 enc_archyosathus,Archyosathus
 enc_archyosathus_desc,"An amphibious serpent over half a mile long, Archyosathae compete with other leviathan life forms such as <link=1>centipods</link> for the same hunting grounds. They spend much of their life dormant, but can pursue prey with incredible speed and stamina.
 
@@ -275,22 +275,22 @@ enc_blafaladaciousnesticles_stats,"クラス: Melee
 MANUFACTURER: <link=0>Maharishi Ghronto</link>
 FIRES: Void Energy"
 enc_blafaladaciousnesticles_sub,the blessed edge
-enc_bonehead,Bonehead
-enc_bonehead_desc,"An efficient pack hunter, boneheads have a notably thick skull with strong, plated protrusions. They have a formidable top speed, and can often kill prey with one charge.
+enc_bonehead,ボーンヘッド
+enc_bonehead_desc,"群れでの狩りを得意とするボーンヘッドは、分厚い頭蓋骨と強固で大きい突起を持つ。走ったときの最高速度は恐るべきもので、獲物を一撃で仕留めることも珍しくない。
 
-Boneheads have no eyes, but sharp hearing and electroreceptors allow them to navigate and hunt effectively. As they rely entirely on their skull for both offense and defense, the rest of their body is fairly vulnerable to attack."
-enc_bonehead_monarch,Bonehead Monarch
-enc_bonehead_monarch_desc,"The leader of a bonehead pack. When ascending to monarch form, boneheads experience massive skeletal growth, including the sprouting of prominent horns. More of their body is armored than before, and their stomach is the only weak spot remaining. A formidable hunter."
-enc_bonehead_monarch_stats,"学名: Acricephalosaurus Celer
-起源宇宙: <link=0>182-Kappa</link>
+目がない代わりに優れた聴覚と電気受容器を持ち、効率的な移動と狩りを可能としている。攻撃と防御の役割がすべて頭に集中しているため、その他の部分は非常に弱い一面を持つ。"
+enc_bonehead_monarch,ボーンヘッド・モナーク
+enc_bonehead_monarch_desc,ボーンヘッドの群れを統べるリーダー。モナーク形態に変化すると骨格が大きく成長し、特徴的な角が生えてくる。それまでと比べて体を覆う装甲の面積が増し、弱点は腹部のみとなる。恐るべきハンター。
+enc_bonehead_monarch_stats,"学名: アクリスファロザウルス
+起源宇宙: <link=0>182-カッパ</link>
 分類: FA-H:7
 "
-enc_bonehead_monarch_sub,big daddy
-enc_bonehead_stats,"学名: Acricephalosaurus Celer
-起源宇宙: <link=0>182-Kappa</link>
+enc_bonehead_monarch_sub,ビッグダディ
+enc_bonehead_stats,"学名: アクリスファロザウルス
+起源宇宙: <link=0>182-カッパ</link>
 分類: FA-H:4
 "
-enc_bonehead_sub,[quot]brain damage[quot] isn't even in his vocabulary
+enc_bonehead_sub,吾輩の辞書に、脳挫傷の文字はない
 enc_brian,ブライアン
 enc_brian_desc,"才能ある科学者であり発明家でもあるブライアンは、これまでの人生において何度もプランクのために働いてきた。 いくつかの独自研究が倫理規定違反とみなされてからは、プランクと取り引きして当時建設中のクォンタムリアクターVIIの奥深くに身を隠し、代わりにプランクでの仕事を続けてきた。
 
@@ -489,7 +489,7 @@ enc_frank_desc,"フランクはプランクによって捕獲、研究されて�
 グッドラック、フランク！"
 enc_frank_stats,"種族: <link=0>タージェリー</link>
 年齢: 不明
-味方: あなた :)"
+所属: あなた :)"
 enc_frank_sub,トモダチ！
 enc_frostbite_armaments,Frostbite Armaments
 enc_frostbite_armaments_desc,"Frostbite Armaments is a popular weapons manufacturer that produces a wide variety of arms. Due to their location in the asteroid belt and subsequent lack of political affiliation, they are able to quietly supply weapons to competing, and even warring entities with ease.
@@ -578,15 +578,15 @@ enc_handyman_stats,"学名: Manus Sapiens
 分類: FA-H:5-S
 "
 enc_handyman_sub,civilized
-enc_healthfruit,Healthfruit
-enc_healthfruit_desc,"A small flowering plant that produces a delicious and nutritious fruit. Extremely efficient at extracting nutrients out of the soil.
+enc_healthfruit,ヘルスフルーツ
+enc_healthfruit_desc,"美味しく、栄養素の高い果実がなる小型の植物。土壌から栄養を吸収する効率が非常に高い。
 
-Healthfruit povide a huge boost to the human metabolism, accelerating healing processes to a miraculous degree. They were never officially approved for consumption by Planck, so a black market for them developed among reactor workers.
+ヘルスフルーツは人間の代謝を大いに加速させ、治癒力を奇跡的なまでに高める効能がある。ヘルスフルーツを食べることはプランクによって禁止されているため、リアクター作業員の間ではブラックマーケットまで生まれた。
 
-Healthfruit plants are related to <link=0>Heartfruit,</link> even if they store a small fraction of the energy the latter are capable of."
-enc_healthfruit_stats,"カテゴリー: Plant
-クラス: Alien"
-enc_healthfruit_sub,snack
+<link=0>ハートフルーツ</link>との関連性はあるものの、蓄えられるエネルギー量は比較にならない。"
+enc_healthfruit_stats,"カテゴリー: 食物
+クラス: エイリアン"
+enc_healthfruit_sub,おやつ
 enc_heartfruit,ハートフルーツ
 enc_heartfruit_desc,"<link=0>ハートフルーツ</link>の果実。結実には数週間を要し、その果肉には膨大なエネルギーが含まれている。
 
@@ -663,18 +663,19 @@ ROLE: Infantry
 MANUFACTURER: <link=0>Maharishi Ghronto</link>
 "
 enc_holy_soldier_sub,grunt
-enc_hot_springs,Hot Springs
-enc_hot_springs_desc,"An area of geothermal activity by the northern shore of the Great Sea. These caves are filled with dense steam and boiling springs, but some aliens have still found a comfortable home here."
-enc_hot_springs_stats,"LOCALE: <link=0>Great Sea (Northern Shore)</link>
+enc_hot_springs,ホットスプリング
+enc_hot_springs_desc,グレートオーシャンの北岸に位置する地熱活動帯。洞窟は濃い湯気と湧き出る温泉で満たされているが、それでもエイリアンの中にはここを棲み家とするものもいる。
+enc_hot_springs_stats,"ロケーション: <link=0>グレートオーシャン (北岸)</link>
 "
-enc_hot_springs_sub,spa day!
-enc_human,Human
-enc_human_desc,"Humans native to either this universe, or the universe Vetus-4. Genetically very similar between the two.
-Notable individual: <link=0>Brian.</link>"
-enc_human_stats,"学名: Homo Sapiens
-起源宇宙: <link=1>Domicilium Alpha</link>, <link=2>Vetus-4</link>
+enc_hot_springs_sub,スパ！
+enc_human,人間
+enc_human_desc,"人間はこの宇宙、またはヴェトス-4宇宙に生息する。遺伝的な類似点は非常に多い。
+
+特筆すべき個体: <link=0>ブライアン</link>"
+enc_human_stats,"学名: ホモ・サピエンス
+起源宇宙: <link=1>ドミシリウム・アルファ</link>, <link=2>ヴェトス-4</link>
 分類: FA-H:4-S"
-enc_human_sub,we were the aliens all along
+enc_human_sub,我々も結局はエイリアンに過ぎないのだ
 enc_hummingbird,Hummingbird
 enc_hummingbird_desc,"The Hummingbird is one of the most deadly hunters employed by Planck. Razor-sharp reflexes make up for a fragile frame, and mobility is no problem when you can fly at 70 miles per hour. Specialized as a guard for sensitive equipment and areas, and able to precisely target small hostiles with its deadly primary fire. In less delicate situations, the Hummingbird can drop explosive eggs.
 
@@ -689,45 +690,45 @@ enc_hypercrystal_desc,"Condensed material from the energy exuded by the <link=2>
 enc_hypercrystal_stats,"カテゴリー: Substance
 クラス: Exotic"
 enc_hypercrystal_sub,shiny!
-enc_igneosaur,Igneosaur
-enc_igneosaur_desc,"The Igneosaur is a rare, elusive predator from the sunny side of tidally locked Earth of F-18-Hades. A completely alien silicon-based life form, it thrives in temperatures exceeding 800 degrees C. It can subsist on minerals in the lava it lives in, but prefers to hunt by venturing out of the lava and killing prey with superheated secretion. However, it will freeze solid if it cools down too much, so hunting trips are short.
+enc_igneosaur,イグニオザウルス
+enc_igneosaur_desc,"希少生物のイグニオザウルスは、神出鬼没のハンターだ。F-18-ハデスにおける地球は潮汐ロックで、その日向の側に生息している。他に類を見ないシリコンベースの生命体で、摂氏800度を超える環境で暮らしている。彼らが暮らす溶岩の中に存在する鉱物を摂取するだけで生きていけるが、狩りを楽しむために溶岩を出て、過熱した分泌物で獲物を殺す。しかし長時間溶岩から出ていると身体が冷えて固まってしまうため、狩りの旅は短い。
 
-Specimens can grow over 200 feet in length in the wild, and grow additional legs as their body extends. They can't survive in the mild temperatures of the reactor, save for the molten pits of the <link=1>recycling center</link>."
-enc_igneosaur_stats,"学名: Igneosaurus Titanus
-起源宇宙: <link=0>F-18-Hades</link>
+野生のものは全長200フィート以上にものぼり、また成長すると新しい脚が増える。リアクター内の穏やかな気温では生きていけないが、<link=1>リサイクルセンター</link>の溶鉱炉でなら生存できる。"
+enc_igneosaur_stats,"学名: イグニオザウルス・タイタヌス
+起源宇宙: <link=0>F-18-ハデス</link>
 分類: FA-H:6-NC
 "
-enc_igneosaur_sub,hottest chip
-enc_ionizer_handgun,Ionizer Handgun
-enc_ionizer_handgun_desc,"The Ionizer is a popular model of plasma handgun. While versatile and easy to use, its damage output is nothing special.
+enc_igneosaur_sub,いま最もホットなシリコンチップ
+enc_ionizer_handgun,イオナイザー・ハンドガン
+enc_ionizer_handgun_desc,"イオナイザーはポピュラーなプラズマハンドガンだ。汎用的で扱いやすいが、ダメージが優れている訳でもない。
 
-Due to the high tech nature of the gun, firmware changes can dramatically alter its functionality. Despite Frostbite's best efforts, Ionizers are fairly easy to jailbreak, and many owners install illegal modifications."
-enc_ionizer_handgun_stats,"クラス: Sidearm
-MANUFACTURER: <link=0>Frostbite Armaments</link>
-FIRES: Plasma"
-enc_ionizer_handgun_sub,finisher pistol
+優れた拡張性を持ち、ファームウェアの更新によって使い勝手が劇的に変化する。イオナイザーはジェイルブレイクが非常に簡単で、フロストバイト社の努力も虚しく、多くのユーザーが違法改造を行なっている。"
+enc_ionizer_handgun_stats,"クラス: サイドアーム
+メーカー: <link=0>フロストバイト・アーマメント</link>
+発射体: プラズマ"
+enc_ionizer_handgun_sub,フィニッシャーピストル
 enc_j-74-stalheim,J-74-Stalheim
 enc_j-74-stalheim_desc,"An Earth dominated by a single 種族: the <link=0>JoeJeff.</link>
 
 The landscape is otherwise recognizable, and it is unknown how such a strange creature came to inhabit a relatively nondivergent universe."
 enc_j-74-stalheim_stats,クラス: Xeno-Proximal
 enc_j-74-stalheim_sub,joejeff homeworld
-enc_jelleye,Jelleye
-enc_jelleye_desc,"Jelleyes are small hunters native to the deep, cool caverns of F-18-Hades. They float above the ground with bladders of buoyant gas, and have little space left in their body for anything but an eyeball. This eyeball, adapted to the darkness of their home, is very sensitive.
+enc_jelleye,ジェルアイ
+enc_jelleye_desc,"ジェルアイはF-18-ハデスの深く冷たい洞窟に生息する小型の捕食者だ。浮揚ガスで満たされた袋で浮遊し、体のほとんどを大きな眼球が占める。この目玉は暗闇に適応しており、非常に鋭敏な視覚を持つ。
 
-Jelleyes can attack by spitting an acidic mixture of their blood, saliva, and gas with great precision, or by swiping with their small, needle-sharp claws."
-enc_jelleye_stats,"学名: Hadeovesicus Cyclopidae
-起源宇宙: <link=0>F-18-Hades</link>
+血液、唾液、ガスからなる酸性混合物を吐き出して正確に攻撃したり、小さく針のように鋭い爪で素早くひっかくこともある。"
+enc_jelleye_stats,"学名: ハデスオオメダマ
+起源宇宙: <link=0>F-18-ハデス</link>
 分類: FA-H:3
 "
-enc_jelleye_sub,aim for the eyes
-enc_jetbird,Jetbird
-enc_jetbird_desc,"The Jetbird is a harmless creature that thrives in the reactor, as its natural environment is the deep caves of F-18-Hades. It uses bursts of recycled air to propel, and feeds on insects and lichen growing on rocks. Echolocation lets it navigate dark catacombs with ease. Often found in large flocks."
-enc_jetbird_stats,"学名: Hadeovesicus Vesivolucrum
-起源宇宙: <link=0>F-18-Hades</link>
+enc_jelleye_sub,眼を狙え
+enc_jetbird,ジェットバード
+enc_jetbird_desc,ジェットバードはリアクターで繁殖する無害な生物で、もともとはF-18-ハデスの深い洞窟のような環境に生息していた。エコーロケーション(反響定位)で、暗い地下でも飛行が可能。空気を繰り返し爆発させることで飛び、虫や苔を食べる。大群でいる場面がたびたび見られる。
+enc_jetbird_stats,"学名: ハデスフクロドリ
+起源宇宙: <link=0>F-18-ハデス</link>
 分類: FA-H:1
 "
-enc_jetbird_sub,"yes, the air comes out of its butt"
+enc_jetbird_sub,ただしジェットは尻から出る
 enc_joejeff,JoeJeff
 enc_joejeff_desc,"A quiet and docile creature. JoeJeffs have medium intelligence but live a simple scavenger lifestyle in the wild. Their legs and feet have the appearence of blue jeans and shoes, but this is actually their skin. Along with their perfectly square heads, this makes scientists speculate they may be an artificially bred organism.
 
@@ -881,24 +882,25 @@ MANUFACTURER: <link=0>Planck Interdimensional</link>
 FIRES: Plasma"
 enc_nostalgic_pistol_sub,oh the memories...
 enc_officer_bot,Officer Bot
-enc_officer_bot_desc,"The PS-1A has a lightweight chassis (somewhat counteracted by the large external command unit) and is equipped with a sophisticated tactics chip and liquid-cooled neural processor, allowing it to effectivly command squadrons of robots in advanced manuveurs.
+enc_officer_bot_desc,"PS-1Aは軽量シャーシに大型の外部コマンドユニット(やや重要バランスを崩している原因でもある)を搭載したモデルだ。洗練された戦術チップと液冷式ニューラルプロセッサーにより、ロボット分隊を高度な操作で効果的に指揮する。
 
-It is exclusively deployed as the leader of larger teams. It is advised to target the PS-1A in combat first to reduce the effectiveness of the group as a whole.
+このモデルは大規模チームのリーダーとしての配置される。戦闘においてはまずPS-1Aを狙うことで、部隊全体の能率を低下させられるだろう。
 
-Armed with an Altershock laser sidearm."
-enc_officer_bot_stats,"UNIT NAME: PS-1A
-ROLE: Security - Tactical
-MANUFACTURER: <link=0>Planck Intdl.</link>"
-enc_officer_bot_sub,not large; in charge
-enc_officer13,Officer 13
-enc_officer13_desc,"A well-respected Planck security officer who has been in service for nearly 50 years, making him a rarity among security robots. He's an older model, but clearly has been well maintained. A quirk of his older hardware gives him more of an independent streak than modern officer bots, who are single-minded when it comes to security. Perhaps this more adaptible personality is what has let him survive this long.
+オルターショック・レーザー銃を装備している。"
+enc_officer_bot_stats,"ユニット名: PS-1A
+役割: セキュリティ - 戦術指揮
+メーカー: <link=0>プランク・インターディメンショナル</link>"
+enc_officer_bot_sub,小さな身体、大きなリーダーシップ
+enc_officer13,オフィサー13
+enc_officer13_desc,"プランク社で50年近くの勤務を通して尊敬を集める彼は、セキュリティ部隊のロボットの中でも珍しい存在だ。古いモデルではあるが、メンテナンスがよく行き届いている。セキュリティに関しては融通が利かない近年のオフィサーモデルとは違い、独特な性格をしている。恐らく、その柔軟な性格が今日まで生き延びてこられた秘訣なのだろう。
 
-He seems to have a complex relationship with <link=1>Brian</link>"
-enc_officer13_stats,"種族: Robot
-Age: 47
-ALLEGIANCE: <link=0>Planck</link>
+<link=1>ブライアン</link>とは並々ならぬ因縁があるようだ。
 "
-enc_officer13_sub,Brian's nemesis
+enc_officer13_stats,"種族: ロボット
+年齢: 47
+所属: <link=0>プランク</link>
+"
+enc_officer13_sub,ブライアンの宿敵
 enc_phage_launcher,ファージランチャー
 enc_phage_launcher_desc,"突然変異した小型の<link=0>マクロファージ</link>で、他の個体から排斥されていた。自ら爆発物を生成する能力はなく、あなたの弾薬合成に依存している。粘着性のある爆弾を遠くへ発射する能力を持っているが、少し弛緩していることから正確な狙いをつけるのは難しい。
 
@@ -981,13 +983,13 @@ enc_realmwalker_stats,"学名: N/A
 起源宇宙: N/A
 分類: Unassigned"
 enc_realmwalker_sub,a higher existence
-enc_recycling_center,Recycling Center
-enc_recycling_center_desc,"The recycling center is the waste disposal center for the reactor. Garbage, broken down robots, and organic debris all are transported here to be melted down. Some materials are repurposed and sent down to robot assembly, but most is disposed of into the Earth's mantle.
+enc_recycling_center,リサイクルセンター
+enc_recycling_center_desc,"リサイクルセンターはリアクターの廃棄物処理施設だ。運搬されてきたゴミ、壊れたロボット、有機的な破片などは全てここで溶かされる。再利用可能な資源はアセンブリーに回されるが、大部分は地球のマントルに廃棄される。
 
-Vast molten rivers of metal and rock course through the recycling center, making it one of the most hazardous working environments in the entire reactor facility."
-enc_recycling_center_stats,"LOCALE: <link=0>Quantum Reactor VII</link>
+溶かされた金属と岩が川となってリサイクルセンターを流れているため、リアクター施設全体の中で最も危険な作業現場の一つとして知られている。"
+enc_recycling_center_stats,"ロケーション: <link=0>クォンタムリアクターVII</link>
 "
-enc_recycling_center_sub,"reduce, reuse, murder"
+enc_recycling_center_sub,リデュース、リユース、マーダー
 enc_robot_assembly,Robot Assembly
 enc_robot_assembly_desc,"The floor devoted to manufacturing security robots as the existing ones are depleted. Once manned by <link=[quot]Organizations/Planck Interdimensional[quot]>Planck</link> personnel, Assembly is now fully autonomous.
 
@@ -1031,15 +1033,15 @@ Immense force field generators fortify the pyramid structure, keeping it intact 
 enc_security_stronghold_stats,"LOCALE: <link=0>Reactor Core</link>
 "
 enc_security_stronghold_sub,bass pro
-enc_shelljelly,Shelljelly
-enc_shelljelly_desc,"Shelljellies are closely related to <link=1>Tarjellies,</link> and share the same basic biology. However, Shelljellies grow a chitinous shell, and keep their body contained within. Their internals are under great tension holding this more stable form, and they are largely held in place by their shell. If it is broken, they have trouble maintaining body structure at all, and burst with great force after a short time.
+enc_shelljelly,シェルジェリー
+enc_shelljelly_desc,"シェルジェリーは<link=1>タージェリー</link>と密接に関連していて、生物学上は基本的に同じものだ。しかしシェルジェリーの体は、発達したキチン質の殻の中に覆われている。中身は安定した形状を保つために強い張力が働いており、その大部分が殻によって固定されている。殻が壊れた場合、体の構造を保つことができなくなり、短時間で大爆発する。
 
-Despite their friendly appearance, shelljellies are highly defensive, and will attack with toughened spikes of goo if approached."
-enc_shelljelly_stats,"学名: Ineffigiatozoa Ostrakos
-起源宇宙: <link=0>182-Kappa</link>
+その可愛らしい見た目に反して防衛本能が非常に強く、近づいた者を固化したゲル状のトゲで攻撃する。"
+enc_shelljelly_stats,"学名: ドロリシア・カイモドキ
+起源宇宙: <link=0>182-カッパ</link>
 分類: FA-H:3
 "
-enc_shelljelly_sub,keep your distance
+enc_shelljelly_sub,ソーシャルディスタンス
 enc_singularity,Black Hole
 enc_singularity_desc,"When matter gets compressed hard enough by gravity, a black hole forms. Overcoming the atomic forces that keep matter in a structure, particles collapse into a single point. An event horizon surrounds the singularity, a one way barrier at which gravity overcomes even light itself and no matter or information can leave the black hole.
 
@@ -1047,16 +1049,16 @@ The concept of a quantum reactor revolves around the presence of a black hole, e
 enc_singularity_stats,"カテゴリー: Astronomical Body
 クラス: Relativistic"
 enc_singularity_sub,"hey look, something not made up"
-enc_sniper_bot,Sniper Bot
-enc_sniper_bot_desc,"A variation on the lightweight PS-1A chassis, the PS-42 features an advanced optics system in its head and 17 mechanical muscles in its arms and neck, granting it superb accuracy with a rifle and great spotting abilities.
+enc_sniper_bot,スナイパーボット
+enc_sniper_bot_desc,"軽量シャーシのPS-1AのバリエーションであるPS-42は、頭部に高度な光学システムと、腕と首に17個のメカニカルマッスルを搭載しており、優れた視認能力と正確な狙撃能力を持っている。
 
-Sacrificing armor for stability, PS-42s are highly vulnerable to direct hits, especially to the head. While the PS-42 poses a threat at a distance, its effectivness at medium to close ranges is reduced and it will opt to flee to a farther position rather than fight.
+安定性のために装甲を犠牲にした結果、PS-42の防御性能は低く、特に頭が弱点だ。遠距離では脅威となるが、近距離から中距離にかけては強みを活かせず、戦うよりも距離を取ろうとする。
 
-Possesses an EM scrambler, making it immune to homing projectiles."
-enc_sniper_bot_stats,"UNIT NAME: PS-42
-ROLE: Security - Sniper
-MANUFACTURER: <link=0>Planck Intdl.</link>"
-enc_sniper_bot_sub,he sees you when you're sleeping
+EMスクランブラーを備えているため、ホーミング弾を無効化する。"
+enc_sniper_bot_stats,"ユニット名: PS-42
+役割: セキュリティ - スナイパー
+メーカー: <link=0>プランク・インターディメンショナル</link>"
+enc_sniper_bot_sub,いつでもこちらを見ている
 enc_snowman,スノーマン
 enc_snowman_desc,"スノーマンは、地面に潜るユニークな能力を使って奇襲を仕掛けるハンターだ。
 
@@ -1066,7 +1068,7 @@ enc_snowman_desc,"スノーマンは、地面に潜るユニークな能力を�
 enc_snowman_stats,"学名: ドクゼツユキダルマモドキ
 起源宇宙: <link=0>182-カッパ</link>
 分類: FA-H:3"
-enc_snowman_sub,ブラッククリスマスを夢見てる
+enc_snowman_sub,ブラッククリスマス
 enc_sonja,ソニア
 enc_sonja_desc,"<link=1>ヴェトス-4</link>宇宙から来た人間。ここにいる他の不運なエイリアンと同様、<link=2>クォンタムリアクター</link>に引き寄せられた。
 
@@ -1153,16 +1155,16 @@ Age: 2
 ALLEGIANCE: Rogue
 "
 enc_theseer_sub,truth
-enc_trident_smg,Trident SMG
-enc_trident_smg_desc,"The Trident is a Planck-produced plasma weapon that saw limited distribution to human security forces. High-energy plasma arms are not well suited to automatic fire, so the Trident's bulky, multi-barreled design distributes heat and allows it to fire at high rates more efficiently.
+enc_trident_smg,トライデントSMG
+enc_trident_smg_desc,"トライデントはプランク社が開発したプラズマ武器で、人間のセキュリティ部隊員向けに限定配布された。高エネルギーのプラズマ武器は自動射撃には向かないため、大型で複数のバレルを持つトライデントの設計により熱を分散させることで、効率的な高速射撃を実現している。
 
-Two fire modes are available: synchronized fire, where all barrels fire at once to combine into a single, heavy shot, and rapid fire, where barrels are cycled for a rapid spray of smaller shots.
+すべてのバレルから同時に発射して一撃の威力を高めるシンクロモードと、各バレルから1発ずつ連続して高速で発射するラピッドファイアモードの切り替えが可能。
 
-Not the most powerful gun for its hefty size, but will do the trick when you need to throw lots of plasma at once."
-enc_trident_smg_stats,"クラス: Submachine Gun
-MANUFACTURER: <link=[quot]Organizations/Planck Interdimensional[quot]>Planck Interdimensional</link>
-FIRES: Plasma"
-enc_trident_smg_sub,triple threat
+威力の割にサイズが大きな銃ではあるが、プラズマ連射が求められる場面では有効だ。"
+enc_trident_smg_stats,"クラス: サブマシンガン
+メーカー: <link=[quot]Organizations/Planck Interdimensional[quot]>プランク・インターディメンショナル</link>
+発射体: プラズマ"
+enc_trident_smg_sub,3本の槍
 enc_trimoloch,Trimoloch
 enc_trimoloch_desc,"An aggressive and very hardy fish. Trimoloch anatomy closely resembles prehistoric bony-headed fish which went extinct millions of years ago, suggesting evolution that converges at some distant point in the past.
 
@@ -1207,7 +1209,7 @@ enc_vermisaur_stats,"学名: オオアゴヴァーミザウルス
 起源宇宙: <link=0>182-カッパ</link>
 分類: FA-H:3
 "
-enc_vermisaur_sub,食用っぽい
+enc_vermisaur_sub,食べられそう
 enc_vertigo_initiative,Vertigo Initiative
 enc_vertigo_initiative_desc,"The Vertigo Initiative is a shadowy movement by an elite group of researchers to break scientific boundaries and explore alternate universes. At the current stage, they are focused on creating a reliable gateway between realities, and it is likely they have had success with this.
 
@@ -1276,21 +1278,21 @@ enc_xynfly_stats,"学名: Sciara Ingens
 起源宇宙: <link=0>438-Eurydice</link>
 分類: FA-H:1"
 enc_xynfly_sub,get pollinated
-encCat_Creatures,Creatures
-encCat_Individuals,Individuals
-encCat_Locations,Locations
-encCat_Miscellaneous,Miscellaneous
-encCat_Organizations,Organizations
-encCat_Robots,Robots
-encCat_Secret Weapons,Secret Weapons
-encCat_Universes,Universes
-encCat_Weapons,Weapons
+encCat_Creatures,生物
+encCat_Individuals,個人
+encCat_Locations,ロケーション
+encCat_Miscellaneous,その他
+encCat_Organizations,組織
+encCat_Robots,ロボット
+encCat_Secret Weapons,シークレットウェポン
+encCat_Universes,並行宇宙
+encCat_Weapons,武器
 gun_altershock,オルターショック
 gun_annihilator,アナイアレイター
 gun_ionizer,イオナイザー
 gun_meatnailer,Meat Nailer
 gun_phagelauncher,ファージランチャー
-gun_trident,Trident
+gun_trident,トライデント
 intro_theend,The End
 intro_oftheelevator,"of the Introductory
 Elevator Ride"
