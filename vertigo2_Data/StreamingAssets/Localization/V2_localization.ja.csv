@@ -990,13 +990,13 @@ enc_recycling_center_desc,"リサイクルセンターはリアクターの廃�
 enc_recycling_center_stats,"ロケーション: <link=0>クォンタムリアクターVII</link>
 "
 enc_recycling_center_sub,リデュース、リユース、マーダー
-enc_robot_assembly,Robot Assembly
-enc_robot_assembly_desc,"The floor devoted to manufacturing security robots as the existing ones are depleted. Once manned by <link=[quot]Organizations/Planck Interdimensional[quot]>Planck</link> personnel, Assembly is now fully autonomous.
+enc_robot_assembly,ロボットアセンブリー
+enc_robot_assembly_desc,"既存のセキュリティロボットが壊れた際に、補充要員を製造することに特化したフロア。以前は<link=[quot]Organizations/Planck Interdimensional[quot]>プランク社</link>のスタッフが作業していたが、現在は完全に自動化されている。
 
-Raw ores are extracted from the rich surrounding crust, processed, and synthesized into robots. Robots receive testing and quality inspection, and are then deployed to the rest of the reactor or stored in warehouses."
-enc_robot_assembly_stats,"LOCALE: <link=0>Quantum Reactor VII</link>
+周囲の資源豊かな地殻から採掘した原石を処理し、ロボットを組成している。ロボットはテストと品質検査を受けた後、リアクターの各部へ展開されるか、倉庫に保管されることになる。"
+enc_robot_assembly_stats,"ロケーション: <link=0>クォンタムリアクターVII</link>
 "
-enc_robot_assembly_sub,harder better faster stronger
+enc_robot_assembly_sub,早い、硬い、強い、上手い
 enc_ruptipod,Ruptipod
 enc_ruptipod_desc,A very territorial crustacean. The female Ruptipod hurls its explosive eggs as part of a convoluted reproductive process. It can also defend itself by spraying a venomous fluid from enlarged pores on its back and shoulders.
 enc_ruptipod_stats,"学名: Sepiida Ruptis
@@ -1262,7 +1262,7 @@ Matter synthesis technology is still in its infancy, and these Planck machines a
 enc_weapon_mod_synthesizer_stats,"カテゴリー: Device
 クラス: Security"
 enc_weapon_mod_synthesizer_sub,rpg elements
-enc_worker_bot,Worker Bot
+enc_worker_bot,ワーカーボット
 enc_worker_bot_desc,"Now that the reactor core is active, human deaths from radiation and encounters with aliens would make turnover far too high. The PW-00 was designed to replace human workers in the reactor where tasks could not be automated by simpler machines. Reasonable strength and intelligence allow it to fill the required roles, at only a slightly higher cost than a human.
 
 No combat capabilities to speak of."
@@ -1829,22 +1829,22 @@ announcer_degenerate_03_core10_caption_00,Warning. Reactor core stability at: 10
 announcer_degenerate_04_core0_caption_00,Warning. Reactor core stability at: 0%
 announcer_PITS_00_arrivingB_caption_00,Train now arriving at platform B.
 announcer_PITS_00_arrivingE_caption_00,Train now arriving at platform E.
-brian_assembly_00_talk_caption_00,"Hey, uh, before I leave you, we need to talk."
-brian_assembly_00_talk_caption_01,"I haven’t been helping you out of pure generosity. Before you arrived, I was contacted by a friend of mine."
-brian_assembly_00_talk_caption_02,"Nani’s motivations are, I must admit, a bit of a mystery to me,"
-brian_assembly_00_talk_caption_03,but he gave me some hot intel and only asked that in return I deliver you to the reactor core to return home.
-brian_assembly_00_talk_caption_04,"I know what you’ll ask, and no, I don’t know why Nani cares about you. He refuses to tell me. "
-brian_assembly_00_talk_caption_05," I’m a man of my word though, and I’ve been doing everything in my power to deliver you to the core."
-brian_assembly_00_talk_caption_06,Just try to stay alive a bit longer and we’ll all be happy.
-brian_assembly_00_talk_caption_07,"I would love to stay here and help in person, but I’d just draw more security to you. "
-brian_assembly_00_talk_caption_08,Best thing I can do is head back to HQ and guide you remotely.
+brian_assembly_00_talk_caption_00,あぁ、降りる前に少し話がある。
+brian_assembly_00_talk_caption_01,私が君の手助けをしていたのは純粋な善意以外にも理由がある。君が落ちてくる前、私は友人から連絡を受けていたんだ。
+brian_assembly_00_talk_caption_02,ナニーの目的は、正直なところ、私にも分からないところがある。
+brian_assembly_00_talk_caption_03,奴から有益な情報を得た私は、その見返りとして、君を元の宇宙に帰すためにリアクターコアに向かわせるよう頼まれたんだ。
+brian_assembly_00_talk_caption_04,ナニーがどうして君にこだわるのか。疑問はもっともだ。だが理由を聞いても答えようとしないし、私には分からない。
+brian_assembly_00_talk_caption_05,私は約束を守る男だ。君をコアへ導くために、私にできる限りのことをしてきた。
+brian_assembly_00_talk_caption_06,もう少し生き延びてくれれば、誰もが喜ぶだろう。
+brian_assembly_00_talk_caption_07,本当は君と行って手助けしたいところだが、私がいては却ってセキュリティの注意を引いてしまうだろう。
+brian_assembly_00_talk_caption_08,本部に戻って君を遠くから導くことが、私にできるせめてもの手助けだ。
 brian_assembly_00_1_prompt_caption_00," Come on, up and at ‘em. I’ve got to get out of here before Planck detects me. "
-brian_assembly_01_core_caption_00,"The core is completely sealed off, but Planck always leaves a way to unseal it for workers to access it in an emergency."
-brian_assembly_01_core_caption_01,"Check the control tower, there should be some clues there. "
-brian_assembly_02_lock_caption_00,Good news. This is a standard quantum encrypted lock.
-brian_assembly_02_lock_caption_01,"Unhackable, but the rest of the keys should be nearby."
-brian_assembly_02_lock_caption_02,Head into Assembly and poke around. I’ll reconnect when I reach Brian Industries.
-brian_assembly_02_lock_caption_03,"God, I wish Therus hadn’t just completely disappeared. Could use an assistant right now. "
+brian_assembly_01_core_caption_00,コアは完全に封鎖されているが、プランクは緊急時に作業員がアクセスできる方法を常に残しているんだ。
+brian_assembly_01_core_caption_01,管制塔を調べるんだ。そこに手がかりがあるだろう。
+brian_assembly_02_lock_caption_00,しめた。量子暗号ロックだ。
+brian_assembly_02_lock_caption_01,ハッキングはできないが、他のキーも近くにあるはずだ。
+brian_assembly_02_lock_caption_02,アセンブリーに向かって探してみてくれ。ブライアン・インダストリーズに着いたらかけ直す。
+brian_assembly_02_lock_caption_03,ちくしょう、セラスがいればな。今すぐにでも秘書が欲しいくらいだ。
 brian_assembly_03_core_caption_00,I see you got the core unsealed. Took you long enough.
 brian_assembly_03_core_caption_01,"Sorry, I mean well done. "
 brian_assembly_03_core_caption_02,You’re getting close now. The core is just one floor away.
@@ -2077,9 +2077,9 @@ Therus_Quarantine_01_Greeting_caption_02,おーっと、よう！
 Therus_Quarantine_01_Greeting_caption_03,シッ！ 彼女が来たんだ！ 大丈夫だから静かにしててくれ。
 Therus_Quarantine_01_Greeting_caption_04,無事に着いたんだな。あんたなら大丈夫だと思ってたよ！
 Therus_Quarantine_01_Greeting_caption_05,ほら、ブライアンがネット回線を復旧したがってる。さぁ……行こうぜ。
-Therus_Reaction_Excuse_caption_00,Excuse me.
-Therus_Reaction_Hey_caption_00,Hey!
-Therus_Reaction_Ouch_caption_00,Ouch.
+Therus_Reaction_Excuse_caption_00,ごめんよ。
+Therus_Reaction_Hey_caption_00,おい！
+Therus_Reaction_Ouch_caption_00,いて。
 Therus_RecyclingCenter_00_hey_caption_00,"Psst, hey! It’s Therus!"
 Therus_RecyclingCenter_01_weird_caption_00,How are you doing? Doesn’t matter.
 Therus_RecyclingCenter_01_weird_caption_01,"Listen, I’m risking my ass talking to you here. There’s something... weird going on."
@@ -2196,21 +2196,21 @@ Therus_PITS_00_void_caption_05,"Nani won’t tell me much, but I think the Void 
 Therus_PITS_00_void_caption_06,"I’m still translating the rest of the scriptures, so I’ll know more soon."
 Therus_PITS_00_void_caption_07,"I’ll meet you at the far end of the transit system, okay?"
 Therus_PITS_00_void_caption_08,"I’ll be able to disable the BAMM’s tracking and we can escape from Brian, figure out what the hell is going on, and make a plan. "
-Therus_AlienCaves_00_hey_caption_00,Hey!
-Therus_AlienCaves_00_hey_caption_01,Hey! Up here!
-Therus_AlienCaves_00_hey_caption_02,"I tried to follow you down here, but this damn plant caught me."
-Therus_AlienCaves_00_hey_caption_03,Can you try to get me down from here?
-Therus_AlienCaves_01_please_caption_00,"Please, come on, I need a hand here. "
-Therus_AlienCaves_02_thanks_caption_00,"Oh, thank you! The acid in that thing was just about to start eating through my hull. "
-Therus_AlienCaves_03_Henrique_caption_00,"Anyway, listen, here’s what I’ve determined."
-Therus_AlienCaves_03_Henrique_caption_01,"The Void Delegation deployed an agent, Henrique, on an unimportant mission to this universe about 8 months ago. "
-Therus_AlienCaves_03_Henrique_caption_02,"But Henrique happened across... something, here. It doesn’t translate very well."
-Therus_AlienCaves_03_Henrique_caption_03,"Something they worship is in our world, and they really really really want it back."
-Therus_AlienCaves_04_Catalyst_caption_00,"Henrique needs two things to open a gateway for the Void’s armies: a black hole, and the Catalyst."
-Therus_AlienCaves_04_Catalyst_caption_01," I’m pretty sure Brian doesn’t know any of this, he’s just trying to get to some technology near the reactor core."
-Therus_AlienCaves_04_Catalyst_caption_02," Nani’s using him, on Henrique’s instruction, to bring you down there, because- "
-Therus_AlienCaves_05_Gasp_caption_00,[gasp]
-Therus_AlienCaves_06_Henrique_caption_00,Henrique...
+Therus_AlienCaves_00_hey_caption_00,おーい！
+Therus_AlienCaves_00_hey_caption_01,おーい！ 上だよ！
+Therus_AlienCaves_00_hey_caption_02,あんたを追ってきたんだが、このツル野郎に捕まっちまった。
+Therus_AlienCaves_00_hey_caption_03,なんとかして俺を下ろしてくれないか？
+Therus_AlienCaves_01_please_caption_00,頼むよ、手を貸して欲しいんだ。
+Therus_AlienCaves_02_thanks_caption_00,ふぅ、ありがとよ！ 酸で溶かされてボディを食われるところだった。
+Therus_AlienCaves_03_Henrique_caption_00,いいか、聞いてくれ。今までに判ったことを言うぞ。
+Therus_AlienCaves_03_Henrique_caption_01,今から8ヶ月前、ヴォイド・デレゲーションはエージェントのヘンリケって奴をこの宇宙に派遣した。とあるミッションのためだ。
+Therus_AlienCaves_03_Henrique_caption_02,だが、ヘンリケは偶然……何かと遭遇した。俺にはそいつをうまく翻訳できそうにない。
+Therus_AlienCaves_03_Henrique_caption_03,奴らが信仰する何かがこの宇宙にあって、それをどうしてもどうしても、どうしても取り戻したいらしい。
+Therus_AlienCaves_04_Catalyst_caption_00,ヘンリケがヴォイドの軍勢を呼び寄せるために必要なのは、ブラックホールと、触媒だ。
+Therus_AlienCaves_04_Catalyst_caption_01,ブライアンはこのことを何も知らないと思う。あいつはリアクターのコアにあるテクノロジーが欲しいだけなんだ。
+Therus_AlienCaves_04_Catalyst_caption_02,ヘンリケがナニーに指示して、ブライアンを利用してる。そして君をコアに行かせようとしてる。なぜなら─
+Therus_AlienCaves_05_Gasp_caption_00,[ハッ]
+Therus_AlienCaves_06_Henrique_caption_00,ヘンリケ……
 brian_greatsea_00_gotcha_caption_00,やっと捉えたぞ、ジェントルハンド！
 brian_greatsea_00_gotcha_caption_01,ま─ 待て、君はここで何をしている？
 brian_greatsea_00_gotcha_caption_02,まぁ、どうでもいい。怪しい通信を追いかけていたんだが、別の奴と勘違いしたようだ。
@@ -2221,19 +2221,19 @@ brian_greatsea_00_gotcha_caption_06,名残惜しいが、ここまで追いか�
 brian_greatsea_00_gotcha_caption_07,また連絡する。
 brian_greatsea_01_shotdown_caption_00,あぁ、勘弁してくれ。
 brian_greatsea_01_shotdown_caption_01,報復は頼んだぞ──
-brian_reunion_00_rescue_caption_00,"Well, Brian to the rescue again I see. "
-brian_reunion_00_rescue_caption_01,This better be the last time.
-brian_reunion_00_rescue_caption_02,"Get in, quick. As you may have noticed, Planck doesn’t make any effort to control alien life outside the reactor facility. "
-brian_reunion_01_arch_caption_00,Shit! It’s coming for us now!
-brian_reunion_01_arch_caption_01,"That’s an archyosathus, and the biggest one I’ve ever seen."
-brian_reunion_01_arch_caption_02,"No chance we can kill it, but the minigun might slow it down. "
-brian_reunion_02_persistent_caption_00,"My god, that thing is persistent. "
-brian_reunion_02_persistent_caption_01,It’s like it knows how many of its eggs I have stored back at HQ. Keep shooting!
-brian_reunion_03_safe_caption_00,I think we’re safe. You can thank my incredible piloting skills.
-brian_reunion_03_safe_caption_01,Up ahead there’s a secure gateway back into the PITS;
-brian_reunion_03_safe_caption_02,we’ll get you back on track at long last.
-brian_reunion_03_safe_caption_03," I don’t know how you did it, but you actually made it closer to the reactor core. "
-brian_reunion_03_safe_caption_04,We’re all the way down at floor 8 now.
+brian_reunion_00_rescue_caption_00,ふむ、ブライアンのレスキュー再びといったところか。
+brian_reunion_00_rescue_caption_01,これで最後にしてほしいものだ。
+brian_reunion_00_rescue_caption_02,早く乗れ。見ての通り、プランクはリアクター外のエイリアンには一切興味がないんだ。
+brian_reunion_01_arch_caption_00,ちっ！ 今度は我々を追ってきたぞ！
+brian_reunion_01_arch_caption_01,アーキヨサタスだな。あんなに大きいのは見たことがない。
+brian_reunion_01_arch_caption_02,殺すことはできないが、ミニガンで動きを遅らせるくらいのことはできるだろう。
+brian_reunion_02_persistent_caption_00,くっ、しつこいな。
+brian_reunion_02_persistent_caption_01,まさか本部に大量の卵があることを知ってるんじゃあるまいな。撃ち続けろ！
+brian_reunion_03_safe_caption_00,もう大丈夫だろう。私の操縦技術に感謝するんだな。
+brian_reunion_03_safe_caption_01,この先にゲートがあって、そこから安全にPITSに戻れる。
+brian_reunion_03_safe_caption_02,ようやく順路に戻れるという訳だ。
+brian_reunion_03_safe_caption_03,何故かは知らんが、とにかく君はリアクターコアに近付くことに成功している。
+brian_reunion_03_safe_caption_04,もう8層まで降りてきたのだからな。
 Brian_caves_00_signal_caption_00,Hello-
 Brian_caves_00_signal_caption_01,I repeat-
 Brian_caves_00_signal_caption_02,The signal is extremely weak.
@@ -3270,28 +3270,28 @@ villagers_church_17_goodolddays_caption_01,No communists degenerating our cultur
 villagers_church_18_myth_caption_00,I think you’re idolizing a mythologized version of the past.
 villagers_church_19_commie_caption_00,I think you’re sounding like a commie. Shut up.
 villagers_church_20_new_caption_00,Are you new in town?
-villagers_reunion_confront_ghronto_caption_00,Are you surprised we all finally caught up with you?
-villagers_reunion_confront_ghronto_caption_01,"The mudrunners, you killed their queen months ago."
-villagers_reunion_confront_ghronto_caption_02,Stalactite right through the dome.
-villagers_reunion_confront_ghronto_caption_03,These poor little saplings are lost without their saplord;
-villagers_reunion_confront_ghronto_caption_04,you cracked her skull like a nut and stole their precious fruit.
-villagers_reunion_confront_ghronto_caption_05,"Us Autonicans, you interfered with our conflict and assassinated Maharishi Ghronto, dooming us to a communist takeover. "
-villagers_reunion_confront_ghronto_caption_06,"We don’t even know where these little squid creatures came from, they just arrived and seem equally angry at you."
-villagers_reunion_confront_ghronto_caption_07,Probably killed their leader too.
-villagers_reunion_confront_ghronto_caption_08,There’s no running away this time.
-villagers_reunion_confront_ghronto_caption_09,It’s time to face the consequences once and for all.
-villagers_reunion_confront_sintho_caption_00,Are you surprised we all finally caught up with you?
-villagers_reunion_confront_sintho_caption_01,"The mudrunners, you killed their queen months ago. "
-villagers_reunion_confront_sintho_caption_02,Stalactite right through the dome.
-villagers_reunion_confront_sintho_caption_03,These poor little saplings are lost without their saplord;
-villagers_reunion_confront_sintho_caption_04,you cracked her skull like a nut and stole their precious fruit.
-villagers_reunion_confront_sintho_caption_05,"Us Autonicans, you interfered with our conflict and assassinated General Sintho,"
-villagers_reunion_confront_sintho_caption_06,dooming us to eternal oppression under the Church.
-villagers_reunion_confront_sintho_caption_07,"We don’t even know where these little squid creatures came from, they just arrived and seem equally angry at you."
-villagers_reunion_confront_sintho_caption_08,Probably killed their leader too.
-villagers_reunion_confront_sintho_caption_09,There’s no running away this time.
-villagers_reunion_confront_sintho_caption_10,It’s time to face the consequences once and for all.
-villagers_reunion_die_caption_00,Aaah!
+villagers_reunion_confront_ghronto_caption_00,とうとう追い詰めたぞ。
+villagers_reunion_confront_ghronto_caption_01,数ヶ月前にマッドランナーの女王を殺したな。
+villagers_reunion_confront_ghronto_caption_02,鍾乳石でその頭を貫いた。
+villagers_reunion_confront_ghronto_caption_03,この小さく哀れなサプリン兵たちはサプリンロードを喪った。
+villagers_reunion_confront_ghronto_caption_04,頭をクルミのように割ったお前は、大切なフルーツを持ち去った。
+villagers_reunion_confront_ghronto_caption_05,我々オートニカンは、お前が争いに干渉しマハリシ・グロントを暗殺したせいで、共産主義者どもに支配されることになってしまった。
+villagers_reunion_confront_ghronto_caption_06,このグネグネした生物はどこから来たとも知れないが、ここへ来てお前に怒りを露わにしているように見える。
+villagers_reunion_confront_ghronto_caption_07,恐らく、同じようにリーダーの命を奪われたのだろう。
+villagers_reunion_confront_ghronto_caption_08,もう逃げ場はないぞ。
+villagers_reunion_confront_ghronto_caption_09,お前の罪に向き合う時が訪れたのだ。
+villagers_reunion_confront_sintho_caption_00,とうとう追い詰めたぞ。
+villagers_reunion_confront_sintho_caption_01,数ヶ月前にマッドランナーの女王を殺したな。
+villagers_reunion_confront_sintho_caption_02,鍾乳石でその頭を貫いた。
+villagers_reunion_confront_sintho_caption_03,この小さく哀れなサプリン兵たちはサプリンロードを喪った。
+villagers_reunion_confront_sintho_caption_04,頭をクルミのように割ったお前は、大切なフルーツを持ち去った。
+villagers_reunion_confront_sintho_caption_05,我々オートニカンは、お前が争いに干渉しシントー将軍を暗殺したせいで、
+villagers_reunion_confront_sintho_caption_06,教会の圧政に永遠に苦しむことになってしまった。
+villagers_reunion_confront_sintho_caption_07,このグネグネした生物はどこから来たとも知れないが、ここへ来てお前に怒りを露わにしているように見える。
+villagers_reunion_confront_sintho_caption_08,恐らく、同じようにリーダーの命を奪われたのだろう。
+villagers_reunion_confront_sintho_caption_09,もう逃げ場はないぞ。
+villagers_reunion_confront_sintho_caption_10,お前の罪に向き合う時が訪れたのだ。
+villagers_reunion_die_caption_00,ああぁ！
 Saplord_00_intro_caption_00,サプリン兵を退けた程度で、ハートフルーツにふさわしいと思っているなら大間違いだ！
 Saplord_01_saplord_caption_00,果実の守護者、このサプリンロードを倒してみせよ！
 Saplord_02_tree_caption_00,この木を登った者に待つのは悲惨な死だ 。貴様にも同じ末路を辿らせてやろう！
