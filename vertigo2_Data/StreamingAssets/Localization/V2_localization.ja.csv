@@ -485,7 +485,7 @@ enc_frank_desc,"フランクはプランクによって捕獲、研究されて�
 
 幸いにも、その肥大化した身体をあなたが吹き飛ばした折に身体のサイズは元に戻り、正気を取り戻すこともできた。今ではお互い恨みっこなしの良き友人だ。
 
-離れ離れになってからは忙しくしているようで、数百ポンドまでリバウンドしたフランクは再度プランクに捕まっているらしい。恐らくエグゾバイオロジーでは、兄弟のウェスリーとアガサを救出するためのミッションが進行中なのだろう。
+離れ離れになってからは忙しくしていたようで、体重を数十キロまで戻した彼は再びプランクに捕まっていた。恐らく、兄弟のウェスリーとアガサを救出するためにエグゾバイオロジーへと戻る最中だったのだろう。
 グッドラック、フランク！"
 enc_frank_stats,"種族: <link=0>タージェリー</link>
 年齢: 不明
@@ -1279,7 +1279,7 @@ enc_xynfly_stats,"学名: Sciara Ingens
 分類: FA-H:1"
 enc_xynfly_sub,get pollinated
 encCat_Creatures,生物
-encCat_Individuals,個人
+encCat_Individuals,人物
 encCat_Locations,ロケーション
 encCat_Miscellaneous,その他
 encCat_Organizations,組織
