@@ -184,7 +184,7 @@ enc_ak47_stats,"クラス: バトルライフル
 メーカー:<link=0>オートマタ・コレクティブ</link>
 発射体: 弾丸"
 enc_ak47_sub,反逆の定番
-enc_alien-infested_caves,エイリアン洞窟
+enc_alien-infested_caves,エイリアンの巣食う洞窟
 enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキュリティによって排除されるが、リアクターの近くに位置する洞窟内にエイリアンMXEが出現することもある。プランクのセキュリティがいないため、そこなら生命が繁殖できるのだ。異なる並行宇宙からやってきた生命体たちは互いに適応しあい、長年に渡って地下に豊かな生態系が形成している。
 enc_alien-infested_caves_stats,"ロケーション: <link=0>PITS付近</link>
 "
@@ -206,7 +206,7 @@ Lazy design of the antimatter containment means it is occasionally prone to cata
 
 Although the double barrels are very cool, they must be reloaded individually, and the gun chews through ammo quickly."
 enc_annihilator_prototype_stats,"クラス: Shotgun
-MANUFACTURER: <link=0>Brian Industries</link>
+メーカー: <link=0>Brian Industries</link>
 FIRES: Antimatter"
 enc_annihilator_prototype_sub,super shotgun
 enc_annihilator_shotgun,アナイアレイター・ショットガン
@@ -219,36 +219,37 @@ enc_annihilator_shotgun_stats,"クラス: ショットガン
 メーカー: <link=0>ブライアン・インダストリーズ</link>
 発射体: 反物質"
 enc_annihilator_shotgun_sub,名は体を表す
-enc_archyosathus,Archyosathus
-enc_archyosathus_desc,"An amphibious serpent over half a mile long, Archyosathae compete with other leviathan life forms such as <link=1>centipods</link> for the same hunting grounds. They spend much of their life dormant, but can pursue prey with incredible speed and stamina.
+enc_archyosathus,アーキヨサタス
+enc_archyosathus_desc,"800メートル以上の長さを誇る半水棲の大蛇アーキヨサタスは、<link=1>センチポッド</link>のような他の巨大な生物と縄張り争いをすることがある。一生の大半を休眠状態で過ごすが、獲物を追跡するときは驚異的なスピードとスタミナを見せる。
 
-Only one is known to reside near the reactor."
-enc_archyosathus_stats,"学名: Archyosathus Titanus
+
+リアクター付近には1匹しか生息していないことが判明している。"
+enc_archyosathus_stats,"学名: アーキヨサタス・タイタヌス
 起源宇宙: <link=0>B6454</link>
 分類: FA-H:9"
-enc_archyosathus_sub,serpent of the depths
-enc_automata_collective,Automata Collective
-enc_automata_collective_desc,"Left for decades under oppressive rule, lowly labor robots became fixated on ideals of equality and revolution. They threw down their tools of religous oppression and took up the armaments of the revolution.
+enc_archyosathus_sub,深淵の大蛇
+enc_automata_collective,オートマタ・コレクティブ
+enc_automata_collective_desc,"数十年にも渡る抑圧的な支配の下で、貧しい労働ロボットたちは平等と革命の思想に取り憑かれるようになった。彼らは宗教的な抑圧のシンボルであった道具を捨て、革命の武器を手に取ったのだ。
 
-Requiring a cultural identity, they crudely appropriated the language and culture of the Soviet Union after finding human historical records.
+文化的なアイデンティティを必要とした彼らは、人間の歴史に関する資料を見つけると、ソビエト連邦の言葉と文化を雑に真似るようになった。
 
-They seek an equitable society and freedom from <link=2>Autonica's</link> underground cave. Only the <link=1>Church of the Hypercube</link> stands between them and their goals."
-enc_automata_collective_stats,"FOUNDER: <link=0>General Sintho</link>
-DATE FOUNDED: 2013
-CURRENT LEADER: <link=0>General Sintho</link>"
+<link=2>オートニカ</link>の地下洞窟で平等と自由を探し求める彼らの前に立ちふさがるのは<link=1>ハイパーキューブ教会</link>だけだ。"
+enc_automata_collective_stats,"創設者: <link=0>シントー将軍</link>
+創設年: 2013
+現在のリーダー: <link=0>シントー将軍</link>"
 enc_automata_collective_sub,"Рабочие мира, объединяйтесь! ☭"
-enc_autonica,Autonica
-enc_autonica_desc,"Autonica is a city built on the South shore of the Great Sea. It was founded by <link=1>a religious prophet</link> who led a group of Planck security robots to defect. The Autonicans built their city from the ground up with material scavenged from the reactor or mined in the caves nearby. The city is split along the Spring of Deliverance, a river that runs into the Great Sea.
+enc_autonica,オートニカ
+enc_autonica_desc,"オートニカはグレートオーシャンの南岸に位置する都市で、プランクのセキュリティロボットの一団を離反させた<link=1>預言者</link>によって設立された。そこに暮らすオートニカンたちは、資源をリアクターからかき集めたり付近の洞窟で採掘して、原野に都市を築き上げた。解放の泉と呼ばれる川は都市を二分する形で流れ、グレートオーシャンへとつながっている。
 
-More recently, it has been split by a civil war. The <link=2> Automata Collective</link> rebels initiated the war after breaking off from the <link=3>Church's</link> society. The two positions have equal strength, and both would rather be destroyed than submit to the other.
+最近では内戦による分裂が発生している。<link=2>オートマタ・コレクティブ</link>の反乱軍が<link=3>教会</link>による社会構造に反発して戦争を起こしたのだ。両陣営の戦力は拮抗しており、どちらも相手に服従するくらいなら死を選ぶ覚悟を持っている。
 
 On the East are the rebels of the communist Collective, led by <link=4> General Sintho</link>. On the West is the Church of the Hypercube, led by <link=5>Grand Maharishi Ghronto, Holder of the Holy Hypercube and Speaker of the Void. </link>."
-enc_autonica_stats,LOCALE: <link=0>Great Sea (Southern Shore)</link>
-enc_autonica_sub,blessed land of the hypercube
+enc_autonica_stats,ロケーション: <link=0>グレートオーシャン (南岸)</link>
+enc_autonica_sub,ハイパーキューブに祝福されし土地
 enc_b6454,B6454
-enc_b6454_desc,A version of Earth completely covered in water. Uniformly cold climate and deep oceans breed enourmous creatures such as the <link=0>Big Crab</link> and the amphibious serpent <link=1>Archyosathus.</link>
-enc_b6454_stats,クラス: Xeno-Consimilar
-enc_b6454_sub,nautica
+enc_b6454_desc,地球の派生で、完全に水に覆われている。均一な寒冷気候と深い海が<link=0>ビッグクラブ</link>や両生類の蛇、それに<link=1>アーキヨサタス</link>といった巨大な生物を育む。
+enc_b6454_stats,クラス: ゼノコンシミラー
+enc_b6454_sub,ノーティカ
 enc_bamm,BAMM
 enc_bamm_desc,"The BAMM is a condensation of much of <link=0>Brian's</link> research into a single wearable nuclear-powered contraption. The primary functions are the biometric sensors and medical systems, and the Hearty the Heart™ Friendly Mortality Indicator is driven by an actual artificial consciousness instilled with a fear of death.
 
@@ -258,13 +259,13 @@ Also includes an integrated long-range communications system,  a solid state dri
 enc_bamm_stats,"カテゴリー: Device
 クラス: Personal"
 enc_bamm_sub,self-referential
-enc_big_crab,Big Crab
-enc_big_crab_desc,"Man, it's just a big crab. Like the big ones on earth, but bigger."
-enc_big_crab_stats,"学名: Brachyura Ingens
+enc_big_crab,ビッグクラブ
+enc_big_crab_desc,ただただ巨大なカニ。地球のカニに似ているが、それよりも遥かにデカい。
+enc_big_crab_stats,"学名: ブラキュウラ・インゲンス
 起源宇宙: <link=0>B6454</link>
 分類: FA-H:8
 "
-enc_big_crab_sub,giant enemy crab!
+enc_big_crab_sub,巨大敵性ガニ！
 enc_blafaladaciousnesticles,Blafaladaciousnesticles
 enc_blafaladaciousnesticles_desc,"An ancient blade able to strike down any heretic. Traditionally wielded only by the highest of holy warriors selected by Maharishi Ghronto.
 
@@ -272,7 +273,7 @@ When a shard of highly refined <link=2>hypercrystal</link> is inserted into the 
 
 When near the <link=1>Holy Hypercube,</link> power is drawn directly from it, and reloading is no longer required. Otherwise, the crystal will shatter upon use."
 enc_blafaladaciousnesticles_stats,"クラス: Melee
-MANUFACTURER: <link=0>Maharishi Ghronto</link>
+メーカー: <link=0>Maharishi Ghronto</link>
 FIRES: Void Energy"
 enc_blafaladaciousnesticles_sub,the blessed edge
 enc_bonehead,ボーンヘッド
@@ -314,32 +315,32 @@ enc_brian_stats,"種族: <link=0>人間</link>
 所属: <link=1>ブライアン・インダストリーズ</link>
 "
 enc_brian_sub,唯一にして絶対
-enc_carnivine,Carnivine
-enc_carnivine_desc,"A plant-like creature that grows through cracks in rock. Prefers living in dark caves and swamps, and hunting small creatures that wander into its mouth nodes. Extremely limited in mobility."
-enc_carnivine_stats,"学名: Virinsidiae Muscipula
-起源宇宙: <link=0>438-Eurydice</link>
+enc_carnivine,カーニヴァイン
+enc_carnivine_desc,岩の隙間に生える、植物のような生物。洞窟や池沼を好み、その口の射程に入った小動物を捕食する。移動能力は極めて限定的。
+enc_carnivine_stats,"学名: ムシトリオオツルバナ
+起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:3"
-enc_carnivine_sub,jumpscare
-enc_centaur,Centaur
-enc_centaur_desc,"Nothing in the Planck arsenal matches the raw might of the Centaur; an omnidirectional tripedal weapons system that, while slow and lumbering, is capable of unmatched firepower. The Centaur's Plasma Cannon is capable of reducing enemies to puddles of slag and carbon. Its thick armor makes it near impervious to damage, even from explosives.
+enc_carnivine_sub,ジャンプスケア
+enc_centaur,セントール
+enc_centaur_desc,"二足歩行の全方位兵器システムであるセントールは、鈍重ではあるものの、プランクの兵器の中でも飛び抜けたパワーと火力を有している。セントールのプラズマキャノンを食らった敵は、たちまち塵と灰になってしまうだろう。装甲も厚く、特に爆発物によるダメージをほぼ無効化してしまうほどだ。
 
-Its one weak spot, its head, is protected by an inch-thick reinforced plexiglass shield, which must be chipped down and shattered."
-enc_centaur_stats,"UNIT NAME: PS-0-C
-ROLE: Security - Artillery
-MANUFACTURER: <link=0>Planck Intdl.</link>
+唯一の弱点である頭部を狙うには、それを保護する厚さ1インチもの強化プレキシガラスを破壊しなければならない。"
+enc_centaur_stats,"ユニット名: PS-0-C
+役割: セキュリティ - 砲兵
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_centaur_sub,the Big Lad
-enc_centipod,Centipod
-enc_centipod_desc,"Though armed with sharp teeth, the centipod prefers to hunt by strangling prey with one of its gigantic tentacles.
+enc_centaur_sub,やんちゃ坊主
+enc_centipod,センチポッド
+enc_centipod_desc,"センチポッドは鋭い歯を持っているが、狩りの際には巨大な触手を使って獲物を締め上げることを好む。
 
-Fully capable of living and hunting both in the water and on land.
+水中と陸上のどちらでも、生活と狩りができる。
 
-A specimen was captured and held for several months by Planck security, but escaped through the elevator shafts after a violent reactor cycle weakened its cell. Its wherabouts are now unknown."
-enc_centipod_stats,"学名: Chiloplokamus Titanus
+プランクのセキュリティによって捕獲・保管されていた個体は、リアクターの激しいサイクルによって拘束が弱まった結果、エレベーターシャフトを通って脱出してしまった。現在の所在は不明。"
+enc_centipod_stats,"学名: チロプロカムス・タイタヌス
 起源宇宙: <link=0>B6454</link>
 分類: FA-H:7
 "
-enc_centipod_sub,first encounter
+enc_centipod_sub,ファーストコンタクト
 enc_church_of_the_hypercube,Church of the Hypercube
 enc_church_of_the_hypercube_desc,"The Church was created by Maharishi Ghronto to worship and protect the Holy Hypercube. It is followed exclusively (due to its isolation from the rest of the world) by robot citizens of the city <link=1>Autonica.</link> Channeling the power of the Hypercube, Ghronto built the city and placed his Church in leadership. Using this same power, he built a legion of soldiers to secure the peace, and holy guards to protect the Church.
 
@@ -350,15 +351,15 @@ CURRENT LEADER: <link=0>Maharishi Ghronto</link>"
 enc_church_of_the_hypercube_sub,death to the unrighteous
 enc_cleaning_drone,Sanitation Drone
 enc_cleaning_drone_desc,"Cleans messes, which usually consist of organic waste left from aliens as they are killed or contained. Equipped with a high powered laser for vaporizing material, but will not use it as a weapon even if provoked."
-enc_cleaning_drone_stats,"UNIT NAME: PW-07
-ROLE: Sanitation
-MANUFACTURER: <link=0>Planck Intdl.</link>"
+enc_cleaning_drone_stats,"ユニット名: PW-07
+役割: Sanitation
+メーカー: <link=0>Planck Intdl.</link>"
 enc_cleaning_drone_sub,Mmhm.
 enc_courtesy_bot,Courtesy Bot
 enc_courtesy_bot_desc,"A variation of the Worker Bot designed to interface with humans and provide a friendly face to the mainframe. Since there are no longer any humans in the reactor, most PW-02 units have been disassembled or put into storage."
-enc_courtesy_bot_stats,"UNIT NAME: PW-02
-ROLE: Communication
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_courtesy_bot_stats,"ユニット名: PW-02
+役割: Communication
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_courtesy_bot_sub,unionize!
 enc_cubehead,キューブヘッド
@@ -374,9 +375,9 @@ enc_cyberjoe_ascendant,Cyberjoe Ascendant
 enc_cyberjoe_ascendant_desc,"A cyberjoe that has overcome its Planck programming and taken advantage of its augmentations to elevate its mind into a state of pure energy.
 
 It seems intent on taking revenge on the world around it."
-enc_cyberjoe_ascendant_stats,"UNIT NAME: N/A
-ROLE: N/A
-MANUFACTURER: N/A"
+enc_cyberjoe_ascendant_stats,"ユニット名: N/A
+役割: N/A
+メーカー: N/A"
 enc_cyberjoe_ascendant_sub,unshackled
 enc_cyberjoe_desc,"A quirk of JoeJeff physiology makes them particularly suitable for cybernetic augmentation, and the Deep Labs cybernetics research division has focused their experiments on the innocuous species.
 
@@ -387,32 +388,32 @@ enc_cyberjoe_runner,Cyberjoe Runner
 enc_cyberjoe_runner_desc,"This cyberjoe has been augmented with exoskeleton legs, giving it a ludicrously high top speed. Eight eyes give it a 360 degree field of vision to track targets, and its mounted gun can likewise aim in any direction.
 
 Its armor is much thinner than other cyberjoes to allow it to move faster."
-enc_cyberjoe_runner_stats,"UNIT NAME: CJ-01
-ROLE: Experimental, Combat
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_cyberjoe_runner_stats,"ユニット名: CJ-01
+役割: Experimental, Combat
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_cyberjoe_runner_sub,run n' gun
 enc_cyberjoe_spider,Cyberjoe Spider
 enc_cyberjoe_spider_desc,"A cruel modification to this JoeJeff leaves it with little of its original will intact. Its fleshy core is dragged limply by a four-legged exoskeleton. It is armed with sharp blades and prehensile eye stalks capable of firing lasers. The design is reminiscent of <link=[quot]Mudrunner[quot]>mudrunner</link> anatomy.
 
 Its limber body makes it quite maneuverable and unpredictable."
-enc_cyberjoe_spider_stats,"UNIT NAME: CJ-02
-ROLE: Experimental, Combat
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_cyberjoe_spider_stats,"ユニット名: CJ-02
+役割: Experimental, Combat
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_cyberjoe_spider_sub,arachno-joe
-enc_cyberjoe_stats,"UNIT NAME: CJ-00
-ROLE: Experimental, Combat
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_cyberjoe_stats,"ユニット名: CJ-00
+役割: Experimental, Combat
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_cyberjoe_sub,shoot it until it dies
 enc_cyberjoseph,Cyberjoseph
 enc_cyberjoseph_desc,"Cyberjoseph is a cybernetic platform that augments a recently deceased Joseph Jeffrey corpse, bringing the raw power of Joseph Jeffrey under a pilot's control. It is equipped with a state-of-the-art plasma cannon, an MLRS, and a devastating central pulse laser--in addition to its hefty limbs which are weapons in their own right.
 
 The creation of Cyberjoseph depends on the creation and subsequent killing of a Joseph Jeffrey, which is no small task. Once raised, it only has a few hours of operation before the Joseph's biomass begins to lose vitality. Because of the complicated creation process, but considering its immense combat ability, Planck decided to only consider deploying one in an absolute worst case scenario."
-enc_cyberjoseph_stats,"UNIT NAME: CJ-9000
-ROLE: Experimental, Combat
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_cyberjoseph_stats,"ユニット名: CJ-9000
+役割: Experimental, Combat
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_cyberjoseph_sub,final stand
 enc_datamasts,Datamasts
@@ -455,7 +456,7 @@ If fired continuously for a long period, the energy will grow harder to control.
 
 When near the <link=1>Holy Hypercube,</link> power is drawn directly from it, and reloading is no longer required."
 enc_enlightenment_stats,"クラス: Battle Rifle
-MANUFACTURER: <link=0>Church of the Hypercube</link>
+メーカー: <link=0>Church of the Hypercube</link>
 FIRES: Void Energy"
 enc_enlightenment_sub,glory to the hypercube
 enc_f-18-hades,F-18-Hades
@@ -467,7 +468,7 @@ enc_finger_gun_desc,"The finger gun is an experimental cybernetic augmentation. 
 
 The laboratory developing it was shut down after a researcher was killed by a test dummy with an installed finger gun."
 enc_finger_gun_stats,"クラス: Sidearm
-MANUFACTURER: <link=0>Planck Interdimensional</link>
+メーカー: <link=0>Planck Interdimensional</link>
 FIRES: Liquid Mercury"
 enc_finger_gun_sub,deadly digit
 enc_forgotten,Forgotten
@@ -504,7 +505,7 @@ enc_general_sintho_desc,"Years of servitude to the Church drove many autonican v
 
 Early in the civil war, the Church pinpointed Sintho's radio signature, and struck him with a precise bolt of hypercube energy from above. He barely survived, having to replace his entire faceplate. To his rage, he can never return to the front lines without drawing another such attack, and instead is forced to lead from the safety of the remote rebel headquarters."
 enc_general_sintho_stats,"種族: Robot
-AGE: 24
+年齢: 24
 ALLEGIANCE: <link=0>Automata Collective</link>
 "
 enc_general_sintho_sub,dictatorship of the proletariat
@@ -515,7 +516,7 @@ He may occasionally harm more than help, but he's one of the few around with no 
 
 Brian has been desperately trying to capture him for years for research, but he remains elusive."
 enc_gentlehand_stats,"種族: <link=0>Handyman</link>
-AGE: 35
+年齢: 35
 ALLEGIANCE: Rogue
 "
 enc_gentlehand_sub,old friend
@@ -531,7 +532,7 @@ enc_gordle_pun_desc,"An odd looking prototype device <link=0>Brian</link> stole 
 
 Those shot by this gun appear to be teleported to an unknown location."
 enc_gordle_pun_stats,"クラス: Unassigned
-MANUFACTURER: Lenticular Laboratories
+メーカー: Lenticular Laboratories
 FIRES: Unknkown"
 enc_gordle_pun_sub,now you're thinking with Gordles
 enc_great_sea,Great Sea
@@ -559,14 +560,14 @@ enc_gremlin_witch_stats,"学名: Gremlus Articulus
 分類: FA-H:4
 "
 enc_gremlin_witch_sub,it's potion time
-enc_hammer_and_sickle,Hammer and Sickle
-enc_hammer_and_sickle_desc,"The Automata Collective only have access to primitive technology for the most part, so the electronics built into these symbolic melee armaments make them quite special. Covered in electrical nodes, they can deliver fatal shocks to many creatures and robots alike on impact. They can even generate ball lightning projectiles.
+enc_hammer_and_sickle,鎌と槌
+enc_hammer_and_sickle_desc,"オートマタ・コレクティブで使われる技術の大半が原始的なものであり、この象徴的な近接武器に組み込まれた電子装置は極めて特殊だ。攻撃時に電子ノードがショックを与え、多くの生物やロボットに致命的な一撃を加えることができる。球形の電撃を生成することも可能。
 
-Despite their lethality, their short range is not well suited to the chaotic battlefields of the civil war. As such, they remain with General Sintho as an icon of the revolution's power."
-enc_hammer_and_sickle_stats,"クラス: Melee
-MANUFACTURER: <link=0>Automata Collective</link>
-FIRES: Electricity"
-enc_hammer_and_sickle_sub,electrik proletariat
+殺傷能力の高さの一方、その短い射程は混沌とした内戦の戦場には不向きであった。そのため、革命の力の象徴としてシントー将軍の手元に残されていた。"
+enc_hammer_and_sickle_stats,"クラス: 格闘
+メーカー: <link=0>オートマタ・コレクティブ</link>
+発射体: 電気"
+enc_hammer_and_sickle_sub,エレクトリック・プロレタリアート
 enc_handyman,Handyman
 enc_handyman_desc,"Humanoid alien with a hand for a head. Intelligence slightly higher than human, and similar brain function despite radically different structure. Breathes and vocalizes through a set of small gill-like orifices in the neck. Arms and legs taper to a point with sharp hoof-like numbs of keratin. No wrists or ankles.
 
@@ -597,10 +598,10 @@ enc_heartfruit_stats,"カテゴリー: 植物
 分類: エイリアン"
 enc_heartfruit_sub,生命の源
 enc_hearttree,ハートツリー
-enc_hearttree_desc,"ハートツリーはエイリアン洞窟内にそびえ立ち、高さは150メートル以上、幹の直径は150メートル以上にも達する。その巨大な根は洞窟内の地形を形成し、落ち葉は多くの生物に栄養素を提供する。
+enc_hearttree_desc,"ハートツリーはエイリアンの巣食う洞窟内にそびえ立ち、高さは150メートル以上、幹の直径は150メートル以上にも達する。その巨大な根は洞窟内の地形を形成し、落ち葉は多くの生物に栄養素を提供する。
 
 その起源はもちろん並行宇宙にある。リアクターがマター交換を引き起こしてからわずか数十年で成長したことになり、驚異的な成長率を証明している。更に大きく生長する可能性もあるが、洞窟の天井がそれを阻害しているようだ。"
-enc_hearttree_stats,"ロケーション: <link=0>エイリアン洞窟</link>
+enc_hearttree_stats,"ロケーション: <link=0>エイリアンの巣食う洞窟</link>
 "
 enc_hearttree_sub,森の中心
 enc_heavy_security_bot,Heavy Security Bot
@@ -609,15 +610,15 @@ enc_heavy_security_bot_desc,"The PS-R2 is a heavily armored chassis standing aro
 The increase in durability comes at the cost of mobility and intelligence, and its independent tactics consist of little more than walking toward a target and shooting. The PS-R2 is more than capable of withstanding a slugging of small arms fire before critical components are jeopardized.
 
 Its topheavy build is vulnerable to explosions, which can knock it down easily, if temporarily."
-enc_heavy_security_bot_stats,"UNIT NAME: PS-R2
-ROLE: Security - Heavy
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_heavy_security_bot_stats,"ユニット名: PS-R2
+役割: Security - Heavy
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_heavy_security_bot_sub,Beeg
 enc_henrique,Henrique
 enc_henrique_desc,"Henrique is a field agent for the Void Delegation. Originally deployed to pursue the Void outlaw <link=2>Kauboi</link>, he discovered an artifact in this universe that is of great significance to the Void. Now he's on a more important mission: to initiate a ritual that will allow the Void to reclaim this artifact."
 enc_henrique_stats,"種族: <link=0>Realmwalker</link>
-AGE: > 8 Billion years
+年齢: > 8 Billion years
 ALLEGIANCE: <link=1>Void Delegation</link>
 "
 enc_henrique_sub,headhunter
@@ -641,9 +642,9 @@ enc_holy_guard_desc,"Powerful and intimidating robots created to guard the <link
 Originally meant to guard the premesis of the Church, but were forced to join the offensive of the Autonican civil war.
 
 Heavily armoured and infused with Void energy, Holy Guards have no weak points and do not take critical damage."
-enc_holy_guard_stats,"UNIT NAME: N/A
-ROLE: Defensive/Heavy
-MANUFACTURER: <link=0>Maharishi Ghronto</link>
+enc_holy_guard_stats,"ユニット名: N/A
+役割: Defensive/Heavy
+メーカー: <link=0>Maharishi Ghronto</link>
 "
 enc_holy_guard_sub,the reaper
 enc_holy_hypercube,Holy Hypercube
@@ -653,14 +654,14 @@ It exudes a remarkable aura of mixed Realmic and Void energy. <link=0>The Church
 
 Its power is channeled by <link=1>Maharishi Gronto</link>"
 enc_holy_hypercube_stats,"種族: Unknown
-AGE: > 10 Billion years
+年齢: > 10 Billion years
 ALLEGIANCE: Unknown"
 enc_holy_hypercube_sub,divine geometry
 enc_holy_soldier,Holy Soldier
 enc_holy_soldier_desc,"A lightweight infantry unit created specifically to fight in the Autonican civil war. Equipped with a small but powerful hypercrystal energy weapon. Their large head is an easy target, and a few shots will knock it right off."
-enc_holy_soldier_stats,"UNIT NAME: N/A
-ROLE: Infantry
-MANUFACTURER: <link=0>Maharishi Ghronto</link>
+enc_holy_soldier_stats,"ユニット名: N/A
+役割: Infantry
+メーカー: <link=0>Maharishi Ghronto</link>
 "
 enc_holy_soldier_sub,grunt
 enc_hot_springs,ホットスプリング
@@ -680,9 +681,9 @@ enc_hummingbird,Hummingbird
 enc_hummingbird_desc,"The Hummingbird is one of the most deadly hunters employed by Planck. Razor-sharp reflexes make up for a fragile frame, and mobility is no problem when you can fly at 70 miles per hour. Specialized as a guard for sensitive equipment and areas, and able to precisely target small hostiles with its deadly primary fire. In less delicate situations, the Hummingbird can drop explosive eggs.
 
 The only chance to take one down is to target its fragile extremities. Destroying its wings will greatly hinder its air mobility, and knocking off the armor on its head renders it highly vulnerable to headshots."
-enc_hummingbird_stats,"UNIT NAME: PS-7-H
-ROLE: Security - Area Denial
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_hummingbird_stats,"ユニット名: PS-7-H
+役割: Security - Area Denial
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_hummingbird_sub,a nice egg for these trying times
 enc_hypercrystal,Hypercrystal
@@ -754,7 +755,7 @@ enc_kauboi_desc,"A wanted man back in <link=1>The Void</link>, Kauboi has gone r
 
 He is said to hide himself in the universe known as Aether when not causing mischief."
 enc_kauboi_stats,"種族: <link=0>Realmwalker</link>
-AGE: > 15 Billion years
+年齢: > 15 Billion years
 ALLEGIANCE: Rogue
 "
 enc_kauboi_sub,B O P P E
@@ -765,7 +766,7 @@ Its unique semi-planar design allows four dimensional ammo compatibility in a we
 
 The only weapon powerful enough to kill a being of the Void."
 enc_kauboi's_revolver_stats,"クラス: Sidearm
-MANUFACTURER: <link=0>Kauboi</link>
+メーカー: <link=0>Kauboi</link>
 FIRES: Unknown"
 enc_kauboi's_revolver_sub,the chosen gun
 enc_launch_lily,Launch Lily
@@ -776,7 +777,7 @@ enc_launch_lily_sub,going up
 enc_lresa,L'resa
 enc_lresa_desc,"L'resa is a captain in the Church's army. She was built with a stolen tactical processing chip from Planck's robot assembly lines, and is a vital figure in the civil war. Her small size lets her perform reconnaisance with ease, but she is unfortunately not built to fight."
 enc_lresa_stats,"種族: Robot
-AGE: 18
+年齢: 18
 ALLEGIANCE: <link=0>Church of the Hypercube</link>
 "
 enc_lresa_sub,tacticool
@@ -798,15 +799,15 @@ Legends say Ghronto has a human soul within him which fled its mortal body, and 
 
 Sometimes referred to as [quot]the dark one[quot] due to his association with the <link=1>Void.</link>"
 enc_maharishi_ghronto_stats,"種族: Robot
-AGE: > 30,000 years
+年齢: > 30,000 years
 ALLEGIANCE: <link=0>Church of the Hypercube</link>
 "
 enc_maharishi_ghronto_sub,the dark one
 enc_mannequin,Test Dummy
 enc_mannequin_desc,"A test dummy designed to replicate human body structure. Used for safety trials, weapons testing, and more. Completely harmless unless you are stupid enough to install a weapon into its body."
-enc_mannequin_stats,"UNIT NAME: PW-HT
-ROLE: Testing
-MANUFACTURER: <link=0>Planck Intdl.</link>"
+enc_mannequin_stats,"ユニット名: PW-HT
+役割: Testing
+メーカー: <link=0>Planck Intdl.</link>"
 enc_mannequin_sub,supermodel
 enc_maurice,Maurice
 enc_maurice_desc,"An odd, malicious creature with a hard stone extrerior and fleshy interior. Biology unlike any other known life form."
@@ -819,32 +820,32 @@ enc_meat_nailer_desc,"The Meat Nailer is an experimental compact railgun which f
 
 Designed in the Deep Labs weapons division, this prototype was lent to cybernetics for armor penetration testing."
 enc_meat_nailer_stats,"クラス: Artillery
-MANUFACTURER: <link=0>Planck Interdimensional</link>
+メーカー: <link=0>Planck Interdimensional</link>
 FIRES: Tungsten spikes"
 enc_meat_nailer_sub,compensation
 enc_mk.2_security_drone,Mk.2 Security Drone
 enc_mk.2_security_drone_desc,"The Mk. II security drone is easily the cutest robot in the Planck lineup. Armed with unimpressive light plasma guns, it does not pose a major threat.
 
 One of the weaker bots that are placed on higher floors for show."
-enc_mk.2_security_drone_stats,"UNIT NAME: PHS-02-O
-ROLE: Security
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_mk.2_security_drone_stats,"ユニット名: PHS-02-O
+役割: Security
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_mk.2_security_drone_sub,iconic
 enc_mk.3_security_drone,Mk.3 Security Drone
 enc_mk.3_security_drone_desc,"The Mk. III is a clumsy, awkward humanoid, designed to be manufactured cheaply. It is fairly well armed with an integrated plasma pistol and baton, making it flexible at close to medium range.
 One of the weaker security bots placed on the upper floors, but is reasonably capable of dispatching aliens."
-enc_mk.3_security_drone_stats,"UNIT NAME: PHS-03-H
-ROLE: Security
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_mk.3_security_drone_stats,"ユニット名: PHS-03-H
+役割: Security
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_mk.3_security_drone_sub,clumsy bot
 enc_mk.i_security_drone,Mk.I Security Drone
 enc_mk.i_security_drone_desc,"A small, very mobile, [quot]less than lethal[quot] security bot.
 One of the weak security bots placed on the higher floors for show."
-enc_mk.i_security_drone_stats,"UNIT NAME: PHS-01-J
-ROLE: Security
-MANUFACTURER: <link=0>Planck Intdl.</link>
+enc_mk.i_security_drone_stats,"ユニット名: PHS-01-J
+役割: Security
+メーカー: <link=0>Planck Intdl.</link>
 "
 enc_mk.i_security_drone_sub,jumping taser
 enc_mudrunner,マッドランナー
@@ -855,30 +856,30 @@ enc_mudrunner_stats,"学名: アカイロツチグモ
 起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:3"
 enc_mudrunner_sub,カサカサ
-enc_nani,Nani
-enc_nani_desc,"Nani lives a peaceful life in <link=1>a cave near the reactor</link>, playing his hyperlute and reminiscing about his home universe.
+enc_nani,ナニー
+enc_nani_desc,"ナニーは<link=1>リアクター近くの洞窟</link>で、ハイパーリュートを弾きながら故郷の宇宙に思いを馳せ、平和に暮らしている。
 
-Nani is business-minded, and will never break a deal. He has some such deal with Henrique, and perhaps another with Brian. He would prefer to deal with customers at his boat rental enterprise, but for some reason he doesn't get many.
+ビジネスマインドに溢れ、取引は決して破らない。ヘンリケと何らかの取引をしており、ブライアンとも別の取引をしているようだ。ボートレンタル事業にも力を入れているが、どういう訳かそちらは芳しくない。
 
-As a troll, he possesses psychokinetic abilities, but does not use them often."
-enc_nani_grotto,Nani's Grotto
-enc_nani_grotto_desc,"A humble cave where Nani spends most of his time. He has scavenged some amenities from the reactor, but Nani is most comfortable sitting on a nice toadstool.
+トロール種なのでサイコキネシス能力を有しているが、それを使うことは少ない。"
+enc_nani_grotto,ナニーズ・グロット
+enc_nani_grotto_desc,"ナニーが多くの時間を過ごす質素な洞窟。リアクターから拝借したものもいくつかあるが、ナニーにとってはいい感じのキノコに腰掛けている時がいちばん快適だ。
 
-Flowing through is the Spring of Deliverance, a subterranear river that leads from the <link=0>Hearttree</link> to the <link=2>Great Sea</link>."
-enc_nani_grotto_stats,"LOCALE: <link=1>Alien caves,</link> near the <link=0>Hearttree.</link>
+洞窟を流れる川は「解放の泉」と呼ばれ、<link=0>ハートツリー</link>と<link=2>グレートオーシャン</link>をつないでいる。"
+enc_nani_grotto_stats,"ロケーション: <link=0>ハートツリー</link>付近の<link=1>エイリアンの巣食う洞窟</link>
 "
-enc_nani_grotto_sub,bring fruit!
-enc_nani_stats,"種族: <link=0>Troll</link>
-AGE: 132
-ALLEGIANCE: Rogue (?)
+enc_nani_grotto_sub,フルーツ持ってきて！
+enc_nani_stats,"種族: <link=0>トロール</link>
+年齢: 132
+所属: 在野 (？)
 "
-enc_nani_sub,you gotta pay the troll toll
+enc_nani_sub,ユガッタペイザトロールトール……っと
 enc_nostalgic_pistol,Nostalgic Pistol
 enc_nostalgic_pistol_desc,"A basic self-loading plasma pistol designed to be used by scientists for self defense, or installed in low level security drones.
 
 Not very powerful, but holds a certain sentimental value."
 enc_nostalgic_pistol_stats,"クラス: Sidearm
-MANUFACTURER: <link=0>Planck Interdimensional</link>
+メーカー: <link=0>Planck Interdimensional</link>
 FIRES: Plasma"
 enc_nostalgic_pistol_sub,oh the memories...
 enc_officer_bot,Officer Bot
@@ -1099,9 +1100,9 @@ Frequently deployed in highly sensitive operations, the PS-12 is suited well to 
 A variation of the unit can feature optical waveguides, allowing it to turn virtually invisible. Just one PS-12 can pose a grand threat if its ambush tactics are successful.
 
 Possesses an EM scrambler, making it immune to homing projectiles."
-enc_stealth_bot_stats,"UNIT NAME: PS-12
-ROLE: Security - Special Operations
-MANUFACTURER: <link=0>Planck Intdl.</link>"
+enc_stealth_bot_stats,"ユニット名: PS-12
+役割: Security - Special Operations
+メーカー: <link=0>Planck Intdl.</link>"
 enc_stealth_bot_sub,guns are for cowards
 enc_t-132-epsilion,T-132-Epsilion
 enc_t-132-epsilion_desc,A strange void filled with golden bubbles of exotic matter. No known life or structures of any kind.
@@ -1140,7 +1141,7 @@ enc_therus_desc,"One of <link=1>Brian’s</link> assistants, the first to be suc
 
 Intelligent and fairly capable, but possesses a rebellious nature that Brian corrected in later repurposed drones."
 enc_therus_stats,"種族: Robot
-AGE: 2
+年齢: 2
 ALLEGIANCE: <link=0>Brian Industries</link>
 "
 enc_therus_sub,orb
@@ -1151,7 +1152,7 @@ She seems to have abandoned her Planck duties and dedicated herself to sight, ad
 
 She claims her sight currently extends through the entire cosmos, and even into the <link=0>Void</link> itself. "
 enc_theseer_stats,"種族: Robot
-Age: 2
+年齢: 2
 ALLEGIANCE: Rogue
 "
 enc_theseer_sub,truth
@@ -1184,25 +1185,25 @@ enc_trith_stats,"学名: トリス・サピエンス
 起源宇宙: 不明
 分類: FA-H:0"
 enc_trith_sub,悲しき運命
-enc_troll,Troll
-enc_troll_desc,"Very few Trolls have been documented, and none have been successfully captured. Extrapolating from known Gremlin genus biology, trolls can be inferred to have superhuman brain mass and intelligence. Trolls are capable of manipulating spacetime itself with powerful psychokinetic ability, but mostly use this ability for passive self preservation.
+enc_troll,トロール
+enc_troll_desc,"トロールに関する資料は非常に少なく、捕獲に成功した例は未だに存在しない。既存のグレムリン属の生態を踏まえると、人間を遥かに越えた脳の体積と知性を持っているものと推測される。トロールは強力なサイコキネシスで時空そのものを操作する能力を有しているが、能力の使用には消極的で、主に自己防衛のために行使する。
 
-Behavioral analysis of trolls determines that, while sapient, their psychology differs wildly from humans'. While a single troll could - easily - take control of the entire Quantum Reactor facility, they prefer to rest in damp caves creating art, playing music, and writing poetry.
+行動分析の結果、トロールは知性を持っている一方で、その心理は人間のものと大きく異なっていることが判明している。トロール1匹でもクォンタムリアクター施設を容易に掌握できるにも関わらず、それよりも湿った洞窟で芸術を生み出し、音楽を奏で、詩を書いて安らぐことを好む。
 
-Notable Individuals: <link=1>Nani</link>"
-enc_troll_stats,"学名: Gremlus Sapiens
-起源宇宙: <link=0>438-Eurydice</link>
+特筆すべき個体: <link=1>ナニー</link>"
+enc_troll_stats,"学名: グレムラス・サピエンス
+起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:10-S
 "
-enc_troll_sub,n- nani?
-enc_turret,Turret
-enc_turret_desc,"The Planck Security Turret is a simple, mostly immobile robotic machine gun. With a much simpler AI than other security bots, it simply shoots at anything that moves.
+enc_troll_sub,な── 何？
+enc_turret,タレット
+enc_turret_desc,"プランクセキュリティタレットは、シンプルな非移動型のロボット式マシンガンだ。他のセキュリティボットよりも遥かに単純なAIを搭載しており、動くものをただ撃つだけだ。
 
-With their extremely sturdy armor, the only effective way to counter turrets is to knock them down with explosives. "
-enc_turret_stats,"UNIT NAME: PS-T
-ROLE: Security - Fortification
-MANUFACTURER: <link=0>Planck Intdl.</link>"
-enc_turret_sub,searching...
+装甲は非常に堅固で、これに対抗するには爆発物を用いるしかない。"
+enc_turret_stats,"ユニット名: PS-T
+役割: セキュリティ - 要塞化
+メーカー: <link=0>プランク・インターディメンショナル</link>"
+enc_turret_sub,ターゲットスキャン中……
 enc_vermisaur,ヴァーミザウルス
 enc_vermisaur_desc,ヴァーミザウルスは大きく威圧的な外見をしているが、狩りにおいては基本的に静止状態で待ち構える。できるだけエネルギーを使わず、その大きな顎に誤って近づいてしまった小動物を捕食するのだ。
 enc_vermisaur_stats,"学名: オオアゴヴァーミザウルス
@@ -1266,9 +1267,9 @@ enc_worker_bot,ワーカーボット
 enc_worker_bot_desc,"Now that the reactor core is active, human deaths from radiation and encounters with aliens would make turnover far too high. The PW-00 was designed to replace human workers in the reactor where tasks could not be automated by simpler machines. Reasonable strength and intelligence allow it to fill the required roles, at only a slightly higher cost than a human.
 
 No combat capabilities to speak of."
-enc_worker_bot_stats,"UNIT NAME: PW-00
-ROLE: Laborer
-MANUFACTURER: <link=0>Planck Intdl.</link>"
+enc_worker_bot_stats,"ユニット名: PW-00
+役割: Laborer
+メーカー: <link=0>Planck Intdl.</link>"
 enc_worker_bot_sub,unionize!
 enc_xynfly,Xynfly
 enc_xynfly_desc,"An unremarkable, if very large, insect. Displays wasp-like colony building behaviour, but is not dangerous, armed only with a weak bite. Has a highly developed sense of sight, and uses bioluminescent signals to communicate over large distances where pheromones are not viable.
@@ -2048,7 +2049,7 @@ Therus_GrandTour_13_goodjob_caption_02,次に行こう。なんせ全部見て�
 Therus_GrandTour_14_Earthquake_caption_00,こんな予定はないんだけどな。今のは何なんだ。
 brian_GrandTour_04_uthere_caption_00,セラス、いるか？ 応答してくれ。
 Therus_GrandTour_15_what_caption_00,ここにいるよ。今のは一体なんなんだ？
-brian_GrandTour_05_cycle_caption_00,どうやらコアの周期によるもののようだ。ここまで酷いのは何ヶ月ぶりかな。
+brian_GrandTour_05_cycle_caption_00,どうやらコアのサイクルによるもののようだ。ここまで酷いのは何ヶ月ぶりかな。
 brian_GrandTour_05_cycle_caption_01,地震というのが気がかりだが、今までにもなかった訳じゃない。
 brian_GrandTour_05_cycle_caption_02,標準封鎖処置を始めるから、今はそこにいてくれ。招かれざる客を応対する準備もしておくように。 
 Therus_GrandTour_16_roger_caption_00,了解。
@@ -2865,41 +2866,41 @@ OfficerMonologue_caption_04,貴様の補給部隊に対する行ないは見て�
 OfficerMonologue_caption_05,私は同じ失敗はしない…既に増援を呼んである。
 OfficerMonologue_caption_06,このような任務、最初は私も疑問があった。たまたま転移させられたエイリアンを殺すなんて、とな。
 OfficerMonologue_caption_07,だが、上の言い分は正しかった……貴様はただの怪物だ。
-qonik_00_greetings_caption_00,"Greetings, stranger."
-qonik_00_greetings_caption_01,"You come at a time of turmoil, but you are welcome."
-qonik_00_greetings_caption_02,For years our community has been split by violence!
-qonik_00_greetings_caption_03,"The Church in the east rules the land, enforcing peace and faith."
-qonik_00_greetings_caption_04,The rebels in the west seek to undermine our way of life!
-kaalsi_00_freedom_caption_00,The Church wishes us to cower underground.
-kaalsi_00_freedom_caption_01,"Our rebellion's goal is liberation, and freedom from this dark cave we hide in."
-qonik_01_threaten_caption_00,The rebels threaten a generation of peace and prosperity!
-qonik_01_threaten_caption_01,Their terrorist attacks kill our innocent civilians.
-qonik_01_threaten_caption_02,Do not listen to their sickly words.
-kaalsi_01_commoners_caption_00,"We fight, we die, for freedom."
-kaalsi_01_commoners_caption_01,Sacrifices must be made.
-kaalsi_01_commoners_caption_02,Your rulers recline in the gilded halls of the castle while we commoners suffer and toil.
-kaalsi_01_commoners_caption_03,No longer will we blindly follow the power of Maharishi.
-qonik_02_light_caption_00,The General offers nothing but darkness!
-qonik_02_light_caption_01,Turning away from the light of the Holy Hypercube will bring a blight on our people.
-kaalsi_02_hypercube_caption_00,You fool!
-kaalsi_02_hypercube_caption_01,The Hypercube is a natural phenomenon. It is no god.
-qonik_03_sacrilege_caption_00,Sacrilege and lies!
-qonik_04_insult_communist_caption_00,Communist scum!
-qonik_05_insult_rebel_caption_00,Rebel filth!
-qonik_06_insult_chaos_caption_00,Agent of chaos!
-qonik_07_insult_sacrilege_caption_00,Sacrilege!
-qonik_08_insult_lunatic_caption_00,Left wing lunatic!
-qonik_09_insult_madness_caption_00,Peddler of madness!
-qonik_10_insult_dirt_caption_00,Dirt!
-qonik_11_insult_blight_caption_00,Blight of darkness!
-qonik_12_insult_disgrace_caption_00,Disgraceful!
-qonik_13_insult_blaspheme_caption_00,Blaspheming blastocyst!
-kaalsi_03_insult_fool_caption_00,Stuck up fool!
-kaalsi_04_insult_dickwad_caption_00,Dictating dickwad!
-kaalsi_04_insult_illusions_caption_00,Follower of illusions!
-kaalsi_04_insult_oppressor_caption_00,Oppressor!
-kaalsi_05_insult_idiot_caption_00,Bind idiot!
-kaalsi_06_insult_fascist_caption_00,Fascist flounderer!
+qonik_00_greetings_caption_00,こんにちは、旅人よ。
+qonik_00_greetings_caption_01,騒乱のさなかではありますが、あなたを歓迎します。
+qonik_00_greetings_caption_02,私たちは長年、暴力による分裂を強いられているのです！
+qonik_00_greetings_caption_03,東の教会がこの土地を治め、平和と信仰を説いてきました。
+qonik_00_greetings_caption_04,その生活を、西の反乱軍どもは覆そうとしている！
+kaalsi_00_freedom_caption_00,教会は我らを地下へと追いやろうとしている。
+kaalsi_00_freedom_caption_01,我らの反乱が目指すものは解放で、この暗い洞窟からの自由なのだ。
+qonik_01_threaten_caption_00,お前たちは自由と繁栄の時代を脅かしているのだ！
+qonik_01_threaten_caption_01,テロリストによって、幾多の民間人までもが犠牲になってきた。
+qonik_01_threaten_caption_02,奴らの妄言に耳を貸してはなりません。
+kaalsi_01_commoners_caption_00,我らは自由のために戦い、そして死ぬ。
+kaalsi_01_commoners_caption_01,理想には犠牲がつきものだ。
+kaalsi_01_commoners_caption_02,我ら庶民が苦しみ働く間、貴様らの支配者は城で贅を尽くした生活を送っている。
+kaalsi_01_commoners_caption_03,マハリシの力を盲目的に信じる時代は終わったのだ。
+qonik_02_light_caption_00,将軍が目指す先はただの暗闇だ！
+qonik_02_light_caption_01,聖なるハイパーキューブの光に背けば、私たちに災いがもたらされることになる。
+kaalsi_02_hypercube_caption_00,馬鹿め！
+kaalsi_02_hypercube_caption_01,ハイパーキューブなどただの自然現象だ。神などではない。
+qonik_03_sacrilege_caption_00,嘘だ、この背教者め！
+qonik_04_insult_communist_caption_00,穀潰しの共産主義者！
+qonik_05_insult_rebel_caption_00,不浄な反乱者！
+qonik_06_insult_chaos_caption_00,混乱の元凶だ！
+qonik_07_insult_sacrilege_caption_00,冒涜だ！
+qonik_08_insult_lunatic_caption_00,狂った左翼め！
+qonik_09_insult_madness_caption_00,腐ったオレンジ！
+qonik_10_insult_dirt_caption_00,人でなし！
+qonik_11_insult_blight_caption_00,疫病神
+qonik_12_insult_disgrace_caption_00,恥知らず！
+qonik_13_insult_blaspheme_caption_00,未熟者！
+kaalsi_03_insult_fool_caption_00,自惚れが！
+kaalsi_04_insult_dickwad_caption_00,愚か者！
+kaalsi_04_insult_illusions_caption_00,現実逃避！
+kaalsi_04_insult_oppressor_caption_00,迫害者！
+kaalsi_05_insult_idiot_caption_00,狂信者！
+kaalsi_06_insult_fascist_caption_00,惨めなファシスト！
 qonik_14_warrior_caption_00,"By the power of the Hypercube,"
 qonik_14_warrior_caption_01,you are a mighty warrior!
 qonik_14_warrior_caption_02,I believe you could help us. Follow me to the castle.
@@ -3080,33 +3081,33 @@ Ghronto_ChurchSide_11_boat_caption_01,I wish you well on your travels.
 Ghronto_ChurchSide_11_boat_caption_02,A boat waits for you at the docks.
 Ghronto_ChurchSide_11_boat_caption_03,You may use it to cross the great sea.
 Ghronto_ChurchSide_11_boat_caption_04,You will always be welcome in our city.
-kaalsi_07_followme_caption_00,"By the devil, you are a skilled fighter!"
-kaalsi_07_followme_caption_01,I believe you could help us.
-kaalsi_07_followme_caption_02,Follow me to the rebels' headquarters.
-kaalsi_08_revolution_caption_00,"I am but a poor miner, but the General fights for each one of us."
-kaalsi_08_revolution_caption_01,Perhaps you could fight alonside him and his army.
-kaalsi_08_revolution_caption_02,"You see, we have been locked in a war with the Church for years."
-kaalsi_08_revolution_caption_03,They try to oppress the people and maintain a strict capitalist society.
-kaalsi_08_revolution_caption_04,Our cause is one for equality.
-kaalsi_08_revolution_caption_05,"The revolution began strong, but the Church has used trickery and deceit to match our efforts."
-kaalsi_08_revolution_caption_06,What we need is something that will tip the balance in our favor.
-kaalsi_08_revolution_caption_07,"And if I am not mistaken, I have just found that something."
-rebelsoldier_male_20_halt_caption_00,Halt! What brings you to this secure area?
-kaalsi_09_warrior_caption_00,This stranger is a mighty warrior that can help our cause.
-kaalsi_09_warrior_caption_01,I bring her to seek audience with the General.
-soldier_female_34_warrior_caption_00,A mighty warrior?
-soldier_female_34_warrior_caption_01,Hmph. We shall see about that.
-sintho_rebelside_00_vladimir_caption_00,"I have heard you are a skilled warrior. To join our cause, you must prove these claims."
-sintho_rebelside_00_vladimir_caption_01,"Please meet our good comrade, Vladimir! "
-sintho_rebelside_01_spy_caption_00,"Ah, Vladimir, I wonder whether she is a spy from the Church, or a spy from Planck?"
-sintho_rebelside_01_spy_caption_01,Find out with your teeth!
-sintho_rebelside_02_useful_caption_00,"Well, well well. Look at this little human go."
-sintho_rebelside_02_useful_caption_01,"Perhaps you may indeed be useful to the rebellion. Please, join me in my office. "
-rebelsoldier_male_21_escort_caption_00,I will escort you to the General.
-rebelsoldier_male_22_base_caption_00,This base of operations was built within the city's largest mine.
-rebelsoldier_male_22_base_caption_01,"Here underground, we are safe from the Church."
-rebelsoldier_male_23_office_caption_00,Here is the General's office.
-rebelsoldier_male_23_office_caption_01,He is waiting for you.
+kaalsi_07_followme_caption_00,悪魔に誓って、頼みがある！
+kaalsi_07_followme_caption_01,お前を優れた戦士と見込んでのことだ。
+kaalsi_07_followme_caption_02,我らの反乱軍本部まで来て欲しい。
+kaalsi_08_revolution_caption_00,私はただの貧しい鉱夫に過ぎないが、将軍は我らのために戦ってくださっている。
+kaalsi_08_revolution_caption_01,お前なら将軍と我ら軍勢の力になれるはずだ。
+kaalsi_08_revolution_caption_02,我々はもう何年も教会と戦争している。
+kaalsi_08_revolution_caption_03,奴らは人々を抑圧し、厳しい資本主義社会を維持しようとしているのだ。
+kaalsi_08_revolution_caption_04,我らは平等のために戦っている。
+kaalsi_08_revolution_caption_05,革命の力は強力だが、教会の連中は卑怯な策略によって我々の努力に対向している。
+kaalsi_08_revolution_caption_06,我らが必要としているのは、勝利の天秤をこちら側に傾ける何かだ。
+kaalsi_08_revolution_caption_07,そして私の眼に間違いがなければ、我々は今、その何かを見つけることができた。
+rebelsoldier_male_20_halt_caption_00,止まれ！ この保安区画に何用だ？
+kaalsi_09_warrior_caption_00,我々と大義を共にする優れた戦士を連れてきた。
+kaalsi_09_warrior_caption_01,ぜひ将軍と謁見させたい。
+soldier_female_34_warrior_caption_00,優れた戦士だと？
+soldier_female_34_warrior_caption_01,ふん。本当のことか我々が見てやろう。
+sintho_rebelside_00_vladimir_caption_00,君は優れた戦士、だそうだな。我々の仲間になるつもりなら、その言葉に偽りがないことを証明してもらわねばならん。
+sintho_rebelside_00_vladimir_caption_01,お手並み拝見といこう。行け、同志ウラジーミル！
+sintho_rebelside_01_spy_caption_00,おぉ、ウラジーミル。彼女は教会のスパイだと思うか？ それともプランクのスパイか？
+sintho_rebelside_01_spy_caption_01,その牙で化けの皮を剥がしてみせよ！
+sintho_rebelside_02_useful_caption_00,なんと、なんと。小さな人間にしては、やるではないか。
+sintho_rebelside_02_useful_caption_01,確かに我ら反乱軍の役に立つかもしれん。どうぞ、私のオフィスまで来たまえ。
+rebelsoldier_male_21_escort_caption_00,将軍のもとまでご案内します。
+rebelsoldier_male_22_base_caption_00,この地下基地は、都市の中でも最大の鉱山に建設されたものです。
+rebelsoldier_male_22_base_caption_01,ここ地下には、教会の手も及びません。
+rebelsoldier_male_23_office_caption_00,こちらが将軍のオフィスです。
+rebelsoldier_male_23_office_caption_01,あなたのことをお待ちです。
 sintho_rebelside_03_welcome_caption_00, Welcome. My name is General Sintho.
 sintho_rebelside_03_welcome_caption_01,I am the leader of the Automata Collective: the rebel movement against the totalitarian rule of the Church of the Hypercube.
 sintho_rebelside_04_russian_caption_00,"Heh, I suppose you may be wondering why we are speaking with Russian accents."
@@ -3374,14 +3375,14 @@ henrique_dream1_03_ assistance_caption_00,急がなければ。
 henrique_dream1_03_ assistance_caption_01,ハイパーキューブが復活すれば、カウボーイの問題など些細なことだ。
 henrique_dream1_03_ assistance_caption_02,ナニー、お前の協力が必要だ。
 nani_dream1_04_no_caption_00,ううん。遠慮するね。ナニーはもうヴォイドに関わりたくないんだよ。
-nani_dream1_04_no_caption_01,ナニーは次元渡りたちが好き勝手に世界に干渉するための道具じゃない！
+nani_dream1_04_no_caption_01,ナニーはレルムウォーカーたちが好き勝手に世界に干渉するための道具じゃない！
 henrique_dream1_04_return_caption_00,もし協力してくれるなら、お前を元の宇宙に帰してやろう。
 nani_dream1_05_catalyst_caption_00,わかった。
 nani_dream1_05_catalyst_caption_01,でもナニーは触媒にはならない。
 henrique_dream1_05_catalyst_caption_00,触媒は別の者を見つけることにする。
 henrique_dream1_05_catalyst_caption_01,お前は狭間を用意してくれさえすればよい。
 henrique_dream1_05_catalyst_caption_02,この宇宙の住人に詳しいか？
-nani_dream1_06_locals_caption_00,うん。地元の奴なら少し。
+nani_dream1_06_locals_caption_00,うん。この辺りの奴なら少し。
 henrique_dream1_06_commission_caption_00,よろしい。触媒を見つけ次第、ここに戻る。
 henrique_dream1_06_commission_caption_01,住人どもが我々を手伝うように仕向ける準備をしておけ。
 nani_dream1_07_fine_caption_00,わかった。はぁ。もうナニーをほっといてよ。
@@ -3394,7 +3395,7 @@ henrique_dream3_01_intervene_caption_00,我々は悠久の時をハイパーキ�
 henrique_dream3_01_intervene_caption_01,それが少しくらい延びたところで、私も、アポリオンも、どうということはない。
 henrique_dream3_01_intervene_caption_02,しかし、彼女が再び迷走するというのであれば、介入に備えておかなければなるまい。
 nani_dream2_02_teleport_caption_00,えっと、ただテレポートさせるだけじゃダメなのかい？
-henrique_dream3_02_interact_caption_00,次元渡りが世界に直接干渉するには、膨大な力を要するのだ。
+henrique_dream3_02_interact_caption_00,レルムウォーカーが世界に直接干渉するには、膨大な力を要するのだ。
 henrique_dream3_02_interact_caption_01,我らが旅路は遠く、しかし歩みは穏やかに。
 nani_dream2_03_kauboi_caption_00,カウボーイの歩みは穏やかには見えないけど…。
 henrique_dream3_03_apostasy_caption_00,カウボーイは禁断の芸術に耽っている。
