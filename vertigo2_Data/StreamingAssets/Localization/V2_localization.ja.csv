@@ -243,7 +243,7 @@ enc_autonica_desc,"オートニカはグレートオーシャンの南岸に位�
 
 最近では内戦による分裂が発生している。<link=2>オートマタ・コレクティブ</link>の反乱軍が<link=3>教会</link>による社会構造に反発して戦争を起こしたのだ。両陣営の戦力は拮抗しており、どちらも相手に服従するくらいなら死を選ぶ覚悟を持っている。
 
-On the East are the rebels of the communist Collective, led by <link=4> General Sintho</link>. On the West is the Church of the Hypercube, led by <link=5>Grand Maharishi Ghronto, Holder of the Holy Hypercube and Speaker of the Void. </link>."
+東側は<link=4>シントー将軍</link>率いる共産主義の反乱軍が占拠している。西側は<link=5>聖なるハイパーキューブの所有者にしてヴォイドの語り手たるグランド・マハリシ・グロント</link>率いるハイパーキューブ教会が統治している。"
 enc_autonica_stats,ロケーション: <link=0>グレートオーシャン (南岸)</link>
 enc_autonica_sub,ハイパーキューブに祝福されし土地
 enc_b6454,B6454
@@ -790,19 +790,19 @@ enc_macrophage_stats,"学名: オオノコギリカメノテ
 分類: FA-H:2
 "
 enc_macrophage_sub,その痛みに反逆する
-enc_maharishi_ghronto,Maharishi Ghronto
-enc_maharishi_ghronto_desc,"Grand Maharishi Ghronto, Holder of the Holy Hypercube and Speaker of the Void. An unknowably old robot who led the defection of a large group of Planck security robots.
+enc_maharishi_ghronto,マハリシ・グロント
+enc_maharishi_ghronto_desc,"聖なるハイパーキューブの所有者にしてヴォイドの語り手たるグランド・マハリシ・グロント。その年齢を知るものがいないほど古いロボットで、プランク社のセキュリティロボットによる大規模な反乱を指導した。
 
-Sole wielder of the immense energies of the Holy Hypercube. He uses this energy to power the city of Autonica and build powerful weapons for his church. It is unknown how or when he gained the ability to interface with the Hypercube.
+ハイパーキューブの莫大なエネルギーを一人で操り、都市としてのオートニカや、強力な武器を製造する教会にエネルギーを供給してきた。ハイパーキューブに接続する能力を、いつ、どこで手に入れたのかは未だに不明だ。
 
-Legends say Ghronto has a human soul within him which fled its mortal body, and he wears that body's skull as a mask to remind him of his past life. Other legends say he found a skull and glued it to his face because it looks cool.
+ある伝説によると、死の間際にあった人間の魂がグロントに宿り、そのことを忘れないために頭蓋骨をマスクとして被っているとされる。他の伝説によると、たまたま見つけた頭蓋骨がカッコよかったので顔につけているだけらしい。
 
-Sometimes referred to as [quot]the dark one[quot] due to his association with the <link=1>Void.</link>"
-enc_maharishi_ghronto_stats,"種族: Robot
-年齢: > 30,000 years
-ALLEGIANCE: <link=0>Church of the Hypercube</link>
+<link=1>ヴォイド</link>と関わりがあることから「闇の使者」と呼ばれることもある。"
+enc_maharishi_ghronto_stats,"種族: ロボット
+年齢: 30,000歳超
+所属: <link=0>ハイパーキューブ教会</link>
 "
-enc_maharishi_ghronto_sub,the dark one
+enc_maharishi_ghronto_sub,闇の使者
 enc_mannequin,Test Dummy
 enc_mannequin_desc,"A test dummy designed to replicate human body structure. Used for safety trials, weapons testing, and more. Completely harmless unless you are stupid enough to install a weapon into its body."
 enc_mannequin_stats,"ユニット名: PW-HT
