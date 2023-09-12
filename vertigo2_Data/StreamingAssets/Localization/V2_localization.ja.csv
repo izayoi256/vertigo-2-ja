@@ -26,7 +26,7 @@ bamm_underwater_caption_00,"BAMM’s molecular filters allow you to stay alive u
 bamm_underwater_caption_01,extracting oxygen from the water and deploying it directly to your bloodstream.
 bamm_userdeath_caption_00,Emergency. User death imminent.
 bamm_welcome_startup_caption_00,新しいユーザーを検出。B.A.M.M.へようこそ！
-bamm_welcome_startup_caption_01,バイオメトリクスの初期化中。致命的な行動を起こすまで10分お待ち下さい。
+bamm_welcome_startup_caption_01,バイオメトリクスの初期化中。致命的な行動を起こすまで10分お待ちください。
 chapternum,チャプター {0}
 character_brian_stats,"- Faster movement
 - Ammo + health pickups
@@ -185,7 +185,7 @@ enc_ak47_stats,"クラス: バトルライフル
 発射体: 弾丸"
 enc_ak47_sub,反逆の定番
 enc_alien-infested_caves,エイリアンの巣食う洞窟
-enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキュリティによって排除されるが、リアクターの近くに位置する洞窟内にエイリアンMXEが出現することもある。プランクのセキュリティがいないため、そこなら生命が繁殖できるのだ。異なる並行宇宙からやってきた生命体たちは互いに適応しあい、長年に渡って地下に豊かな生態系が形成している。
+enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキュリティによって排除されるが、リアクターの近くに位置する洞窟内で物質交換現象が発生しエイリアンが現れることもある。プランクのセキュリティがいないため、そこなら生命が繁殖できるのだ。異なる並行宇宙からやってきた生命体たちは互いに適応しあい、長年に渡って地下に豊かな生態系が形成している。
 enc_alien-infested_caves_stats,"ロケーション: <link=0>PITS付近</link>
 "
 enc_alien-infested_caves_sub,生命に不可能はない
@@ -463,14 +463,14 @@ enc_f-18-hades,F-18-Hades
 enc_f-18-hades_desc,"Earth is tidally locked, with extreme weather and a small habitable surface region between night and day. Increased tectonic stress from tidal locking means there are vast cave systems all over the planet, and many creatures thrive in these subterranean mazes."
 enc_f-18-hades_stats,クラス: Skall-Harmonic
 enc_f-18-hades_sub,spicier earth
-enc_finger_gun,Finger Gun
-enc_finger_gun_desc,"The finger gun is an experimental cybernetic augmentation. It replaces the bones in your index finger with a highly compact device capable of launching rounds of liquid mercury through your pores. It was never approved for human use, even by lax Planck standards, as prolonged use causes serious tissue damage.
+enc_finger_gun,フィンガーガン
+enc_finger_gun_desc,"フィンガーガンは実験的なサイバネティクス強化手術で、人差し指の骨をコンパクトなデバイスに置き換えることによって、毛穴から水銀の弾丸を射出できるようにするものだ。長時間の使用により体組織に深刻なダメージが生じるため、規制がゆるいプランクにおいてさえも、人間による使用は承認されなかった。
 
-The laboratory developing it was shut down after a researcher was killed by a test dummy with an installed finger gun."
-enc_finger_gun_stats,"クラス: Sidearm
-メーカー: <link=0>Planck Interdimensional</link>
-FIRES: Liquid Mercury"
-enc_finger_gun_sub,deadly digit
+このフィンガーガンを装備したテストダミーによって研究者が殺害されたため、開発を行なっていたラボは閉鎖されることになった。"
+enc_finger_gun_stats,"クラス: サイドアーム
+メーカー: <link=0>プランク・インターディメンショナル</link>
+発射体: 水銀"
+enc_finger_gun_sub,アブない指
 enc_forgotten,Forgotten
 enc_forgotten_desc,"In a primeval age, a number of <link=0>Void</link> denizens colonized the first realm, <link=1>Aether.</link> Their minds and bodies were not suited to the three dimensions of this world however, and over the years they were twisted beyond recognition. They began cultivating power and knowledge. It was suspected they intended to return to the Void and overthrow its ruler.
 
@@ -520,7 +520,7 @@ enc_gentlehand_stats,"種族: <link=0>Handyman</link>
 ALLEGIANCE: Rogue
 "
 enc_gentlehand_sub,old friend
-enc_giant_fish,巨大魚
+enc_giant_fish,ビッグフィッシュ
 enc_giant_fish_desc,この魚はグレートオーシャンに棲息しており、その生態はほとんど知られていない。まれに水面に現れる際、船をまるごと飲み込んでしまうことがある。哺乳類の特徴を持っているようで、噴気孔の存在が確認されている。
 enc_giant_fish_stats,"学名: メガロピスカトゥス・カピルス
 起源宇宙: <link=0>B6454</link>
@@ -535,11 +535,10 @@ enc_gordle_pun_stats,"クラス: Unassigned
 メーカー: Lenticular Laboratories
 FIRES: Unknkown"
 enc_gordle_pun_sub,now you're thinking with Gordles
-enc_great_sea,Great Sea
-enc_great_sea_desc,"The Great Sea is as mysterious as it is vast. An enourmous body of water in a subterranean cistern. All manner of aquatic alien life has found their way into its waters, with leviathans almost certainly lurking below. Known to be fed by the Spring of Deliverance, but likely has other sources to sustain its immense volume."
-enc_great_sea_stats,"LOCALE: <link=0>Near Quantum Reactor VII</link>
-"
-enc_great_sea_sub,deeper than you think
+enc_great_sea,グレートオーシャン
+enc_great_sea_desc,地下の巨大な貯水池であるグレートオーシャンは、広大で謎に満ちている。その水中には様々な水棲エイリアンが生息しており、深海には怪物が潜んでいることは疑いようがない。解放の泉が流れ込んでいることが知られているが、その広大さから他の水源も存在すると考えられている。
+enc_great_sea_stats,ロケーション: <link=0>クォンタムリアクターVII付近</link>
+enc_great_sea_sub,思ったより深い
 enc_gremlin,Gremlin
 enc_gremlin_desc,"Gremlins are small scavengers. They are quite common and, fortunately, not dangerous. Their limber, primate-like anatomy makes them mobile, and they are also capable of basic tool use. They do not possess the psychokinetic abilities of <link=1>Trolls,</link> another species of gremlin, despite their relation.
 
@@ -677,7 +676,7 @@ enc_human_stats,"学名: ホモ・サピエンス
 起源宇宙: <link=1>ドミシリウム・アルファ</link>, <link=2>ヴェトス-4</link>
 分類: FA-H:4-S"
 enc_human_sub,我々も結局はエイリアンに過ぎないのだ
-enc_hummingbird,Hummingbird
+enc_hummingbird,ハミングバード
 enc_hummingbird_desc,"The Hummingbird is one of the most deadly hunters employed by Planck. Razor-sharp reflexes make up for a fragile frame, and mobility is no problem when you can fly at 70 miles per hour. Specialized as a guard for sensitive equipment and areas, and able to precisely target small hostiles with its deadly primary fire. In less delicate situations, the Hummingbird can drop explosive eggs.
 
 The only chance to take one down is to target its fragile extremities. Destroying its wings will greatly hinder its air mobility, and knocking off the armor on its head renders it highly vulnerable to headshots."
@@ -782,7 +781,7 @@ ALLEGIANCE: <link=0>Church of the Hypercube</link>
 "
 enc_lresa_sub,tacticool
 enc_macrophage,マクロファージ
-enc_macrophage_desc,"マクロファージは<link=1>巨大魚</link>の免疫機構の一部を担う共生生物で、宿主の体内に入ったあらゆる寄生生物を捕食する。宿主が巨大であるため、大型動物も捕食の対象となる。
+enc_macrophage_desc,"マクロファージは<link=1>ビッグフィッシュ</link>の免疫機構の一部を担う共生生物で、宿主の体内に入ったあらゆる寄生生物を捕食する。宿主が巨大であるため、大型動物も捕食の対象となる。
 
 マクロファージは強力な消化酵素を遠くまで発射できる。また消化酵素を充填して作り出した嚢胞は、圧力によって爆発を引き起こす。"
 enc_macrophage_stats,"学名: オオノコギリカメノテ
@@ -803,12 +802,12 @@ enc_maharishi_ghronto_stats,"種族: ロボット
 所属: <link=0>ハイパーキューブ教会</link>
 "
 enc_maharishi_ghronto_sub,闇の使者
-enc_mannequin,Test Dummy
-enc_mannequin_desc,"A test dummy designed to replicate human body structure. Used for safety trials, weapons testing, and more. Completely harmless unless you are stupid enough to install a weapon into its body."
+enc_mannequin,テストダミー
+enc_mannequin_desc,人間の体格を再現するために設計されたテスト用のダミー。安全性試験や兵器テストに使用される。そのボディに武器を埋め込むような愚か者でもいない限り、安全な代物だ。
 enc_mannequin_stats,"ユニット名: PW-HT
-役割: Testing
-メーカー: <link=0>Planck Intdl.</link>"
-enc_mannequin_sub,supermodel
+役割: テスト
+メーカー: <link=0>プランク・インターディメンショナル</link>"
+enc_mannequin_sub,スーパーモデル
 enc_maurice,Maurice
 enc_maurice_desc,"An odd, malicious creature with a hard stone extrerior and fleshy interior. Biology unlike any other known life form."
 enc_maurice_stats,"学名: Unassigned
@@ -882,7 +881,7 @@ enc_nostalgic_pistol_stats,"クラス: Sidearm
 メーカー: <link=0>Planck Interdimensional</link>
 FIRES: Plasma"
 enc_nostalgic_pistol_sub,oh the memories...
-enc_officer_bot,Officer Bot
+enc_officer_bot,オフィサーボット
 enc_officer_bot_desc,"PS-1Aは軽量シャーシに大型の外部コマンドユニット(やや重要バランスを崩している原因でもある)を搭載したモデルだ。洗練された戦術チップと液冷式ニューラルプロセッサーにより、ロボット分隊を高度な操作で効果的に指揮する。
 
 このモデルは大規模チームのリーダーとしての配置される。戦闘においてはまずPS-1Aを狙うことで、部隊全体の能率を低下させられるだろう。
@@ -1805,7 +1804,7 @@ announcer_datacave_01_welcome_caption_01,現在、予期しない事態により
 announcer_datacave_01_welcome_caption_02,もしあなたがプランクI.S.D.メンテナンスチームの代表である場合、中央のコンソールから上層へのアクセスをリクエストしてください。
 announcer_datacave_02_securityalert_caption_00,セキュリティアラート: メンテナンスユーザーに登録されていません。
 announcer_datacave_02_securityalert_caption_01,武器を捨てて床にうつ伏せになり、頭の後ろに手を置いてください。
-announcer_datacave_02_securityalert_caption_02,手動認証チームが到着してあなたの資格情報を登録するまで、しばらくお待ち下さい。
+announcer_datacave_02_securityalert_caption_02,手動認証チームが到着してあなたの資格情報を登録するまで、しばらくお待ちください。
 announcer_datacave_03_emergencyaccess_caption_00,手動認証チームの報告を受信できませんでした。メンテナンス用の緊急アクセス権限を発行中。
 announcer_datacave_04_granted_caption_00,緊急アクセス権限を発行しました。
 announcer_datacave_09_dataFilters_caption_00,知っていましたか？ 1974年、プランクのすべてのデータマストにフィルターが適用されました。社員がポルノにアクセスするのを禁止するためです。
@@ -2095,7 +2094,7 @@ brian_rebirth_00_awake_caption_01,あと1週間はかかると思っていたが
 brian_rebirth_00_awake_caption_02,私はブライアン。ようこそ、我が家へ。
 brian_rebirth_00_awake_caption_03,あの事故の後、君をここへ連れてきたんだ。
 brian_rebirth_00_awake_caption_04,ところで、脳の調子はどうだ？ 記憶の欠如はないか？
-brian_rebirth_01_recap_caption_00,どこから話したものだろうか…。
+brian_rebirth_01_recap_caption_00,どこから話したものだろうか……。
 brian_rebirth_01_recap_caption_01,ここはクォンタムリアクターVII。広大な地下発電所だ。
 brian_rebirth_01_recap_caption_02,クォンタムエネルギーの主な副作用は、並行宇宙からエイリアンを引き寄せてしまうことだ。
 brian_rebirth_01_recap_caption_03,君も数ヶ月前にそういった宇宙の一つからやってきた存在だ。
@@ -2527,7 +2526,7 @@ gentlehand_greatsea_0_phonecall_caption_02,あのときエレベーターシャ�
 gentlehand_greatsea_0_phonecall_caption_03,ですが『終わり良ければ全て良し』とも言うでしょう？
 gentlehand_greatsea_0_phonecall_caption_04,多少の骨折や内臓破裂くらい、ブライアンであれば簡単に治療できたことでしょう。
 gentlehand_greatsea_0_phonecall_caption_05,お聞きなさい。昨日、セラスから彼が見たものについて報告を受けました。
-gentlehand_greatsea_0_phonecall_caption_06,もし私めが知っていたら…率直に申し上げると、あなたをすぐにでも殺していたことでしょう。
+gentlehand_greatsea_0_phonecall_caption_06,もし私めが知っていたら……率直に申し上げると、あなたをすぐにでも殺していたことでしょう。
 gentlehand_greatsea_0_phonecall_caption_07,しかし、時すでに遅し。そこでプランBです。
 gentlehand_greatsea_0_phonecall_caption_08,ご自身の宇宙に帰りたいという決意の固さは理解いたします。それを責めるつもりもございません。
 gentlehand_greatsea_0_phonecall_caption_09,しかし、そのためにリアクターコアを利用することは最悪の結果をもたらすことになります。
@@ -2863,7 +2862,7 @@ OfficerMonologue_caption_01,俺の部隊をよくも皆殺しにしてくれた�
 OfficerMonologue_caption_02,あの子たちはアセンブリーで生まれてたったの6日なんだぞ……。
 OfficerMonologue_caption_03,だが光栄に思え。貴様の抵抗も最早これまでだ！
 OfficerMonologue_caption_04,貴様の補給部隊に対する行ないは見ていた。
-OfficerMonologue_caption_05,私は同じ失敗はしない…既に増援を呼んである。
+OfficerMonologue_caption_05,私は同じ失敗はしない……既に増援を呼んである。
 OfficerMonologue_caption_06,このような任務、最初は私も疑問があった。たまたま転移させられたエイリアンを殺すなんて、とな。
 OfficerMonologue_caption_07,だが、上の言い分は正しかった……貴様はただの怪物だ。
 qonik_00_greetings_caption_00,こんにちは、旅人よ。
@@ -3397,7 +3396,7 @@ henrique_dream3_01_intervene_caption_02,しかし、彼女が再び迷走する�
 nani_dream2_02_teleport_caption_00,えっと、ただテレポートさせるだけじゃダメなのかい？
 henrique_dream3_02_interact_caption_00,レルムウォーカーが世界に直接干渉するには、膨大な力を要するのだ。
 henrique_dream3_02_interact_caption_01,我らが旅路は遠く、しかし歩みは穏やかに。
-nani_dream2_03_kauboi_caption_00,カウボーイの歩みは穏やかには見えないけど…。
+nani_dream2_03_kauboi_caption_00,カウボーイの歩みは穏やかには見えないけど……。
 henrique_dream3_03_apostasy_caption_00,カウボーイは禁断の芸術に耽っている。
 henrique_dream3_03_apostasy_caption_01,奴は存在自体が背教的なのだ。
 henrique_dream3_03_apostasy_caption_02,そもそも私は、奴を仕留めるためにこの宇宙へ来た。
@@ -3439,7 +3438,7 @@ nani_grotto_02_grotto_caption_02,だからナニーは小さなお家を作っ�
 nani_grotto_03_boat_caption_00,キミがここに来て……あれ……少し違うルートなのか……。
 nani_grotto_03_boat_caption_01,あっ、えっと大丈夫、下に行きたいなら川を下ればいいんだよ！
 nani_grotto_03_boat_caption_02,解放の泉を下って行けばグレートオーシャンに出られる。
-nani_grotto_03_boat_caption_03,ボートがあればよかったねぇ…もっと早く辿り着けるのにねぇ。
+nani_grotto_03_boat_caption_03,ボートがあればよかったねぇ……もっと早く辿り着けるのにねぇ。
 nani_grotto_03_boat_caption_04,なーんて偶然！ ナニーはボートのレンタルもしてるんだ！
 nani_grotto_03_boat_caption_05,ジャジャーン！
 nani_grotto_04_dollar_caption_00,ナニーのボートで快適な旅がなんと、たったの……
@@ -3485,81 +3484,81 @@ nani_ending_00_end_caption_08,The nightmare has ended.
 nani_ending_01_thankyou_caption_00,We near your universe. I have a ways to travel yet.
 nani_ending_01_thankyou_caption_01,May our paths never cross again.
 nani_ending_01_thankyou_caption_02,Thank you for the fruit.
-worker_hurt_donthaveto_caption_00,You don't have to do this!
-worker_hurt_giveup_caption_00,"I give up, don't hurt me!"
-worker_hurt_iwasntbuilt_caption_00,I wasn't built to take this!
-worker_hurt_killme_caption_00,"Stop it, you're going to kill me!"
-worker_hurt_notsecurity_caption_00,I'm not security!
-worker_hurt_ow_caption_00,Ow!
-worker_hurt_stopit_caption_00,Ah! Stop it at once!
-worker_hurt_surrender_caption_00,I surrender!
-worker_hurt_unarmed_caption_00,I'm unarmed!
-worker_hurt_whatdoing_caption_00,What're you doing!?
-worker_hurt_worker_caption_00,I'm just a worker!
-worker_react_ah_caption_00,Ah!
-worker_react_alien_caption_00,An alien!?
-worker_react_oh_caption_00,Oh!
-worker_react_ohdear_caption_00,Oh dear!
-worker_react_ohmy_caption_00,Oh my!
-worker_react_ohmygood_caption_00,Oh my goodness!
-worker_react_supervisor_caption_00,You're not my supervisor!
-worker_react_whatonearth_caption_00,What on earth!?
-worker_react_who_caption_00,Who are you!?
-worker_testing_00_welcome_caption_00,"Hello, and welcome to the Assembly Testing Sector."
-worker_testing_00_welcome_caption_01,You have been randomly selected to undergo additional testing before security deployment.
-worker_testing_00_welcome_caption_02,You may proceed to the test chamber when ready.
-worker_testing_01_test1_caption_00,"In this test, we will be checking your basic spatial reasoning and problem solving abilities. "
-worker_testing_01_test1_caption_01,Please begin.
-worker_testing_02_disassembled_caption_00,"Remember, you will be disassembled if you fail to pass these tests. "
-worker_testing_03_fast_caption_00,"Wow, well done. That was actually much faster than the average. "
-worker_testing_04_agility_caption_00,All Standard Security Units must demonstrate agility to be considered combat-ready.
-worker_testing_04_agility_caption_01,This test will check your balance and reflexes.
-worker_testing_04_agility_caption_02,"If you break a limb, that will be considered failure. "
-worker_testing_05_good_caption_00,"Good. Keep it up, these next two tests have time limits."
-worker_testing_06_liquid_caption_00,Huh.
-worker_testing_06_liquid_caption_01,"this liquid is supposed to disable any robots that fall in it, but you appear to still be functioning."
-worker_testing_06_liquid_caption_02,"By technicality, I guess you can make another attempt. "
-worker_testing_07_slow_caption_00,"Alright, that was so slow you wiped out all your gains from the first test."
-worker_testing_07_slow_caption_01,"Better pick up the pace, these next two tests have time limits. "
-worker_testing_08_combat_caption_00,"Nicely done. Combat technique was a bit unorthodox, but it did the trick."
-worker_testing_08_combat_caption_01,On to the final test.
-worker_testing_09_results_caption_00,"Uh, these results are... I’ve never seen anything like this."
-worker_testing_09_results_caption_01,I didn’t even know the outcomes could range this far.
-worker_testing_09_results_caption_02, I’ll have to check your hardware in the manual inspection.
-worker_testing_10_faceplate_caption_00,"Don’t worry, I don’t think you’ll need to be disassembled, but I do need to do a hardware check. "
-worker_testing_10_faceplate_caption_01,"Come here, I’ll just pop your faceplate off."
-worker_testing_11_alien_caption_00,What the hell?! You’re not a security bot! You’re an alien!
-worker_testing_11_alien_caption_01,"Oh lord, they’ll disassemble me if they find out I let an alien get through testing."
-worker_testing_11_alien_caption_02,"Look, I’ll just register this unit as scrapped, and you get out of my office, ok?"
-worker_testing_11_alien_caption_03,"To the left down the hall there’s a warehouse, we get MXEs in there all the time. They’ll think you just came from there."
-worker_testing_11_alien_caption_04,Don’t touch me and nobody needs to call security.
-worker_testing_12_getout_caption_00,"I’m not messing around, get the hell out of here before security notices you in my office. "
-ACH_GET_GUN,Armed and Dangerous
-ACH_GET_GUN_desc,Receive your first gun
-ACH_MINIGUN,Tailgunner
-ACH_MINIGUN_desc,Defend the Iron Chub
-ACH_IGNEOSAUR,Thermal Entropy
-ACH_IGNEOSAUR_desc,Defeat the Igneosaur
-ACH_CENTAUR,The Hunt
-ACH_CENTAUR_desc,Defeat a Centaur
-ACH_SAPLORD,Sapped
-ACH_SAPLORD_desc,Defeat the Saplord
-ACH_NANI,Art of the Deal
-ACH_NANI_desc,Strike a bargain with Nani
-ACH_JOINCHURCH,Anti-Antifa
-ACH_JOINCHURCH_desc,Join the Church in the Autonican Civil War
-ACH_JOINREBELS,"Freedom Fighter"""
-ACH_JOINREBELS_desc,Join the Automata Collective in the Autonican Civil War
-ACH_KILLSINTHO,Tradition
-ACH_KILLSINTHO_desc,Defeat General Sintho
-ACH_KILLGHRONTO,Revolution
-ACH_KILLGHRONTO_desc,Defeat Maharishi Ghronto
-ACH_BIGFISH,Fishing With a Friend
-ACH_BIGFISH_desc,Defeat the Big Fish
-ACH_ARCHYOSATHUS,Arch Enemy
-ACH_ARCHYOSATHUS_desc,Escape the Archyosathus
-ACH_HUMMINGBIRD,A Nice Egg
-ACH_HUMMINGBIRD_desc,Defeat the Hummingbird
+worker_hurt_donthaveto_caption_00,こんなことするなんて！
+worker_hurt_giveup_caption_00,お願い、助けて！
+worker_hurt_iwasntbuilt_caption_00,私の設計じゃ耐えられない！
+worker_hurt_killme_caption_00,死んじゃうからやめて！
+worker_hurt_notsecurity_caption_00,セキュリティじゃないの！
+worker_hurt_ow_caption_00,痛い！
+worker_hurt_stopit_caption_00,あぁ！ 今すぐやめて！
+worker_hurt_surrender_caption_00,降参するから！
+worker_hurt_unarmed_caption_00,武器は持ってない！
+worker_hurt_whatdoing_caption_00,何をしてるの！？
+worker_hurt_worker_caption_00,ただの作業員なの！
+worker_react_ah_caption_00,あぁ！
+worker_react_alien_caption_00,エイリアン！？
+worker_react_oh_caption_00,何？！
+worker_react_ohdear_caption_00,なんてこと！
+worker_react_ohmy_caption_00,そんな！
+worker_react_ohmygood_caption_00,そんなことって！
+worker_react_supervisor_caption_00,上司じゃないくせに！
+worker_react_whatonearth_caption_00,どうしたの！？
+worker_react_who_caption_00,誰なんですか！？
+worker_testing_00_welcome_caption_00,アセンブリーのテストセクターにようこそ。
+worker_testing_00_welcome_caption_01,ランダム抽選の結果、あなたはセキュリティ配備の前に追加テストを受けることになりました。
+worker_testing_00_welcome_caption_02,準備ができたらテストチャンバーに進んでください。
+worker_testing_01_test1_caption_00,このテストでは、あなたの基本的な空間推理能力と問題解決能力をチェックします。
+worker_testing_01_test1_caption_01,始めてください。
+worker_testing_02_disassembled_caption_00,テストに失敗すると、あなたは解体されることを覚えておいてください。
+worker_testing_03_fast_caption_00,よくやりましたね。あなたの結果は平均よりはるかに速いものでした。
+worker_testing_04_agility_caption_00,すべての標準セキュリティユニットは、戦闘のために敏捷性を備えていなければいけません。
+worker_testing_04_agility_caption_01,このテストではあなたのバランス感覚と反射神経をチェックします。
+worker_testing_04_agility_caption_02,もし四肢を骨折した場合は失敗とみなされます。
+worker_testing_05_good_caption_00,いいでしょう。次の二つのテストには時間制限があります。
+worker_testing_06_liquid_caption_00,あぁ。
+worker_testing_06_liquid_caption_01,その液体に落下したロボットは機能停止するはずですが、あなたはまだ機能しているようですね。
+worker_testing_06_liquid_caption_02,壊れていないなら、もう一度挑戦してもいいでしょう。
+worker_testing_07_slow_caption_00,あまりにも遅すぎて、前のテストで稼いだ好成績をすべて帳消しにしてしまいましたね。
+worker_testing_07_slow_caption_01,ペースを上げてください。次の二つのテストには時間制限があります。
+worker_testing_08_combat_caption_00,すばらしい。いくらか独特な戦闘技術でしたが、それが功を奏しました。
+worker_testing_08_combat_caption_01,最後のテストへと移ります。
+worker_testing_09_results_caption_00,さて、結果は……このようなものは見たことがありません。
+worker_testing_09_results_caption_01,結果がここまで広範囲に及ぶことすら知りませんでした。
+worker_testing_09_results_caption_02,マニュアル検査で、あなたのハードウェアをチェックしてみる必要があります。
+worker_testing_10_faceplate_caption_00,ご心配なく。分解までは不要だと思いますが、ハードウェアチェックは必要です。
+worker_testing_10_faceplate_caption_01,さぁ、こちらへ。フェイスプレートを外して。
+worker_testing_11_alien_caption_00,どういうこと？！ セキュリティボットじゃない！ エイリアンだったの！
+worker_testing_11_alien_caption_01,あぁ、神よ、エイリアンをテストに通したことが知れたら私まで分解されてしまう。
+worker_testing_11_alien_caption_02,ねぇ、このユニットはスクラップ済みで登録するから、私を見逃してオフィスから出ていってくれない？
+worker_testing_11_alien_caption_03,廊下を出て左に行くと倉庫がある。そこではいつも物質交換現象が発生してるから、あなたがテストを通ったことはバレないはず。
+worker_testing_11_alien_caption_04,セキュリティには通報しないから触らないでください。
+worker_testing_12_getout_caption_00,エイリアンがこのオフィスにいることがセキュリティに知れたら洒落にならないから、早く出ていって。
+ACH_GET_GUN,危ないヤツ
+ACH_GET_GUN_desc,銃を入手する
+ACH_MINIGUN,テイルガンナー
+ACH_MINIGUN_desc,アイアンチャブ号を守り切る
+ACH_IGNEOSAUR,サーマルエントロピー
+ACH_IGNEOSAUR_desc,イグニオザウルスを倒す
+ACH_CENTAUR,ザ・ハント
+ACH_CENTAUR_desc,セントールを倒す
+ACH_SAPLORD,SAPSAPSAP
+ACH_SAPLORD_desc,サプリンロードを倒す
+ACH_NANI,芸術的な取引
+ACH_NANI_desc,ナニーと取引する
+ACH_JOINCHURCH,反アンティファ
+ACH_JOINCHURCH_desc,オートニカ内戦で教会側に参戦する
+ACH_JOINREBELS,自由の戦士
+ACH_JOINREBELS_desc,オートニカ内戦でオートマタ・コレクティブ側に参戦する
+ACH_KILLSINTHO,伝統
+ACH_KILLSINTHO_desc,シントー将軍を倒す
+ACH_KILLGHRONTO,革命
+ACH_KILLGHRONTO_desc,マハリシ・グロントを倒す
+ACH_BIGFISH,釣り友達
+ACH_BIGFISH_desc,ビッグフィッシュを倒す
+ACH_ARCHYOSATHUS,アーキ・エネミー
+ACH_ARCHYOSATHUS_desc,アーキヨサタスから逃れる
+ACH_HUMMINGBIRD,ナイスエッグ
+ACH_HUMMINGBIRD_desc,ハミングバードを倒す
 ACH_SEER,Fading Light
 ACH_SEER_desc,Defeat the Seer
 ACH_VORTEX,Forseen Consequences
@@ -3572,63 +3571,63 @@ ACH_CATALYST,Catalyst
 ACH_CATALYST_desc,Fulfill your purpose.
 ACH_SACRIFICE,Sacrifice
 ACH_SACRIFICE_desc,Defy fate.
-ACH_FINISH,The End
-ACH_FINISH_desc,Finish the story
-ACH_GET_ALL_GUNS,Really Armed and Dangerous
-ACH_GET_ALL_GUNS_desc,Acquire all eight standard weapons
-ACH_ALIENKILLS_100,Xenocide
-ACH_ALIENKILLS_100_desc,Kill 100 aliens
-ACH_ALIENKILLS_500,Extinction
-ACH_ALIENKILLS_500_desc,Kill 500 aliens
-ACH_ROBOTKILLS_100,Force Quit
-ACH_ROBOTKILLS_100_desc,Kill 100 robots
-ACH_ROBOTKILLS_500,Terminator
-ACH_ROBOTKILLS_500_desc,Kill 500 robots
-ACH_GRAVEDIGGER,Gravedigger
-ACH_GRAVEDIGGER_desc,Die 50 times
-ACH_EXPLOSIONKILLS,Hellfire
-ACH_EXPLOSIONKILLS_desc,Get 25 kills with gas tanks
-ACH_GRENADEKILLS,Demolitions Expert
-ACH_GRENADEKILLS_desc,Get 25 kills with grenades
-ACH_HEADSHOTS,Marksman
-ACH_HEADSHOTS_desc,Get 300 headshots
-ACH_HEADSHOTKILLS,Calculated
-ACH_HEADSHOTKILLS_desc,Get 150 headshot kills
-ACH_LOWHEALTH,Close Call
-ACH_LOWHEALTH_desc,Survive your health reaching 2% or below
-ACH_SACRILEGE,Sacrilege
-ACH_SACRILEGE_desc,Pour the sacred goblet out on the floor
-ACH_ENCYCLOPEDIA,Big Nerd
-ACH_ENCYCLOPEDIA_desc,Unlock every entry in the Encyclopedia
-ACH_SELFIE,Smile!
-ACH_SELFIE_desc,Take a selfie
-ACH_PICTURES,Documentarian
-ACH_PICTURES_desc,Take 20 photos
+ACH_FINISH,ジ・エンド
+ACH_FINISH_desc,ゲームをクリアする
+ACH_GET_ALL_GUNS,マジで危ないヤツ
+ACH_GET_ALL_GUNS_desc,全8種類のスタンダードウェポンを入手する
+ACH_ALIENKILLS_100,ゼノサイド
+ACH_ALIENKILLS_100_desc,エイリアンを100キルする
+ACH_ALIENKILLS_500,殲滅
+ACH_ALIENKILLS_500_desc,エイリアンを500キルする
+ACH_ROBOTKILLS_100,強制終了
+ACH_ROBOTKILLS_100_desc,ロボットを100キルする
+ACH_ROBOTKILLS_500,ターミネーター
+ACH_ROBOTKILLS_500_desc,ロボットを500キルする
+ACH_GRAVEDIGGER,墓掘り
+ACH_GRAVEDIGGER_desc,50デスする
+ACH_EXPLOSIONKILLS,地獄の業火
+ACH_EXPLOSIONKILLS_desc,ガスタンクで25キルする
+ACH_GRENADEKILLS,爆破エキスパート
+ACH_GRENADEKILLS_desc,グレネードで25キルする
+ACH_HEADSHOTS,マークスマン
+ACH_HEADSHOTS_desc,ヘッドショットを300回当てる
+ACH_HEADSHOTKILLS,予測済み
+ACH_HEADSHOTKILLS_desc,ヘッドショットで150キルする
+ACH_LOWHEALTH,九死に一生
+ACH_LOWHEALTH_desc,ヘルス2%以下から生還する
+ACH_SACRILEGE,冒涜
+ACH_SACRILEGE_desc,聖杯の中身をこぼす
+ACH_ENCYCLOPEDIA,超マニア
+ACH_ENCYCLOPEDIA_desc,図鑑の全ページをアンロックする
+ACH_SELFIE,笑って！
+ACH_SELFIE_desc,セルフィーを撮る
+ACH_PICTURES,ドキュメンタリー作家
+ACH_PICTURES_desc,写真を20枚撮る
 ACH_NANIRUN,Finite Runner
 ACH_NANIRUN_desc,Get a score of 800 or higher in NaniRun
 ACH_GORDLE,Thinking with Gordles
 ACH_GORDLE_desc,Acquire the Gordle Pun
 ACH_NOSTALGICPISTOL,Old School
 ACH_NOSTALGICPISTOL_desc,Acquire the Nostalgic Pistol
-ACH_QUADBOW,Strongbow
-ACH_QUADBOW_desc,Acquire the Aetherian Quad Bow
+ACH_QUADBOW,剛弓
+ACH_QUADBOW_desc,エーテリアン・クアッドボウを入手する
 ACH_ANNIHILATORMKI,Super Shotgun
 ACH_ANNIHILATORMKI_desc,Acquire the Annihilator Prototype
-ACH_FINGERGUN,Deadly Digit
-ACH_FINGERGUN_desc,Acquire the Finger Gun
+ACH_FINGERGUN,アブない指
+ACH_FINGERGUN_desc,フィンガーガンを入手する
 ACH_KAUBOIGUN,The Chosen Gun
 ACH_KAUBOIGUN_desc,Acquire Kauboi's Revolver
-ACH_SECRET_WEAPONS,Secret Keeper
-ACH_SECRET_WEAPONS_desc,Find all six secret weapons
-ACH_UPGRADEGUN,Tacticool
-ACH_UPGRADEGUN_desc,Unlock all mods for one weapon
-ACH_ALLUPGRADES,Modmaster
-ACH_ALLUPGRADES_desc,Unlock all weapon mods
-ACH_NODEATHS,Immortal
-ACH_NODEATHS_desc,Beat the game without dying  (from a fresh save slot)
-ACH_NOUPGRADES,Purist
-ACH_NOUPGRADES_desc,Beat the game without unlocking any weapon mods  (from a fresh save slot)
-ACH_KEBAB,Kebab
-ACH_KEBAB_desc,Kill 5 or more enemies with a single Meat Nailer shot
-ACH_BONEHEAD,Regicide
-ACH_BONEHEAD_desc,Defeat a Bonehead Monarch
+ACH_SECRET_WEAPONS,シークレットキーパー
+ACH_SECRET_WEAPONS_desc,全6種類のシークレットウェポンを入手する
+ACH_UPGRADEGUN,タクティクール
+ACH_UPGRADEGUN_desc,任意の武器の全改造パーツをアンロックする
+ACH_ALLUPGRADES,匠の技
+ACH_ALLUPGRADES_desc,全改造パーツをアンロックする
+ACH_NODEATHS,イモータル
+ACH_NODEATHS_desc,新しいセーブスロットで始めて一度も死なずにゲームをクリアする
+ACH_NOUPGRADES,純正至上主義
+ACH_NOUPGRADES_desc,新しいセーブスロットで始めて改造パーツを一つもアンロックせずにゲームをクリアする
+ACH_KEBAB,ケバブ
+ACH_KEBAB_desc,ミートネイラーの一撃で5キル以上を達成する
+ACH_BONEHEAD,王殺し
+ACH_BONEHEAD_desc,ボーンヘッド・モナークを倒す
