@@ -797,7 +797,7 @@ enc_maharishi_ghronto_desc,"聖なるハイパーキューブの所有者にし�
 
 <link=1>ヴォイド</link>と関わりがあることから「闇の使者」と呼ばれることもある。"
 enc_maharishi_ghronto_stats,"種族: ロボット
-年齢: 30,000歳超
+年齢: 30,000以上
 所属: <link=0>ハイパーキューブ教会</link>
 "
 enc_maharishi_ghronto_sub,闇の使者
@@ -941,13 +941,15 @@ enc_propulsor_pad_desc,"Propulsor pads are designed to lift cargo in areas where
 enc_propulsor_pad_stats,"カテゴリー: Device
 クラス: Industrial"
 enc_propulsor_pad_sub,have faith
-enc_quantum_encryption_key,Quantum Encryption Key
-enc_quantum_encryption_key_desc,"A quantum encryption key provides perfect security. The atoms in its circuits are entangled with those in the lock, making it impossible to hack or duplicate.
+enc_quantum_encryption_key,量子暗号鍵
+enc_quantum_encryption_key_desc,"完全なセキュリティを提供する量子暗号鍵。回路内の原子は鍵穴のそれと複雑に絡み合っているため、ハッキングや複製は不可能である。
 
-These keys are only used to seal the highest security areas of the reactor, including the <link=0>core</link> itself."
-enc_quantum_encryption_key_stats,"カテゴリー: Device
-クラス: Security"
-enc_quantum_encryption_key_sub,qbit
+この鍵は、<link=0>コア</link>自体を含むリアクター内の最高機密エリアを封鎖するためだけに使用されている。
+
+"
+enc_quantum_encryption_key_stats,"カテゴリー: デバイス
+クラス: セキュリティ"
+enc_quantum_encryption_key_sub,量子ビット
 enc_quantum_juice,Quantum Juice
 enc_quantum_juice_desc,"An artificial substance designed to contain and transport spatiotemporal irregularity. Spacetime within Quantum Juice can be tangled and distorted, and it has a number of uses in addition to storing vast amounts of energy.
 
@@ -1090,18 +1092,18 @@ enc_standard_security_bot_stats,"ユニット名: PS-00
 役割: セキュリティ - 歩兵
 メーカー: <link=0>プランク・インターディメンショナル</link>"
 enc_standard_security_bot_sub,知的で人為的
-enc_stealth_bot,Stealth Bot
-enc_stealth_bot_desc,"The PS-12 is a unique security unit armed with only a pair of blades, and its lighter frame sacrifices duribility and strength for unsurmounted mobility.
+enc_stealth_bot,ステルスボット
+enc_stealth_bot_desc,"PS-12は一対のブレードで武装したユニークなセキュリティユニットだ。耐久性と強度を犠牲にした軽量フレームで、比類ない機動性を実現している。
 
-Frequently deployed in highly sensitive operations, the PS-12 is suited well to dispatch intelligent targets where brute force may fail. It was developed specifically as a response to the 1989 terror attack on Quantum Reactor 1.
+高度にデリケートな作戦に投入されることが多いPS-12は、力任せでは排除できないような知性体のターゲットに適している。1989年に発生したクォンタムリアクターIへのテロ攻撃に対応するため、特別に開発されたモデルだ。
 
-A variation of the unit can feature optical waveguides, allowing it to turn virtually invisible. Just one PS-12 can pose a grand threat if its ambush tactics are successful.
+オプティカルウェーブガイドを搭載した派生モデルほとんど視認できなくなる。アンブッシュが可能なPS-12は、1台でも大きな脅威となり得る。
 
-Possesses an EM scrambler, making it immune to homing projectiles."
+EMスクランブラーを備えているため、ホーミング弾を無効化する。"
 enc_stealth_bot_stats,"ユニット名: PS-12
-役割: Security - Special Operations
-メーカー: <link=0>Planck Intdl.</link>"
-enc_stealth_bot_sub,guns are for cowards
+役割: セキュリティ - 特殊任務
+メーカー: <link=0>プランク・インターディメンショナル</link>"
+enc_stealth_bot_sub,銃は腰抜けが持つものだ
 enc_t-132-epsilion,T-132-Epsilion
 enc_t-132-epsilion_desc,A strange void filled with golden bubbles of exotic matter. No known life or structures of any kind.
 enc_t-132-epsilion_stats,クラス: Skall-Disharmonic
@@ -1134,26 +1136,26 @@ enc_the_void_desc,"The Void is the theorized extradimensional space-beyond-space
 enc_the_void_stats,"LOCALE: N/A
 "
 enc_the_void_sub,ascendance
-enc_therus,Therus
-enc_therus_desc,"One of <link=1>Brian’s</link> assistants, the first to be successfully reprogrammed from a Planck security drone.
+enc_therus,セラス
+enc_therus_desc,"<link=1>ブライアン</link>のアシスタントの一人で、プランクのセキュリティドローンのプログラム書き換えに初めて成功したロボット。
 
-Intelligent and fairly capable, but possesses a rebellious nature that Brian corrected in later repurposed drones."
-enc_therus_stats,"種族: Robot
+高い知能を持ち有能であるが、反抗的な性格の持ち主。ブライアンが後に再利用したドローンたちは、性格も修正された。"
+enc_therus_stats,"種族: ロボット
 年齢: 2
-ALLEGIANCE: <link=0>Brian Industries</link>
+所属: <link=0>ブライアン・インダストリーズ</link>
 "
-enc_therus_sub,orb
-enc_theseer,The Seer
-enc_theseer_desc,"A worker bot built with a defect allowing anomalously strong image processing capabilities.
+enc_therus_sub,球
+enc_theseer,預言者
+enc_theseer_desc,"製造時の欠陥により、異常なまでに強力な画像処理能力を持ったワーカーボット。
 
-She seems to have abandoned her Planck duties and dedicated herself to sight, adding more and more eyes to her body to allow her to see further.
+プランクでの仕事を放棄した彼女は未来視に専念し、更に遠くを視るために次々と眼を追加している。
 
-She claims her sight currently extends through the entire cosmos, and even into the <link=0>Void</link> itself. "
-enc_theseer_stats,"種族: Robot
+彼女が言うには、その視界は今や宇宙全体にまで及び、<link=0>ヴォイド</link>自体をも見通せるらしい。"
+enc_theseer_stats,"種族: ロボット
 年齢: 2
-ALLEGIANCE: Rogue
+所属: 在野
 "
-enc_theseer_sub,truth
+enc_theseer_sub,真実
 enc_trident_smg,トライデントSMG
 enc_trident_smg_desc,"トライデントはプランク社が開発したプラズマ武器で、人間のセキュリティ部隊員向けに限定配布された。高エネルギーのプラズマ武器は自動射撃には向かないため、大型で複数のバレルを持つトライデントの設計により熱を分散させることで、効率的な高速射撃を実現している。
 
@@ -1254,13 +1256,13 @@ enc_warper_stats,"学名: Unassigned
 起源宇宙: Unknown
 分類: Unassigned"
 enc_warper_sub,crying babe
-enc_weapon_mod_synthesizer,Weapon Mod Synthesizer
-enc_weapon_mod_synthesizer_desc,"<link=2>Planck's</link> weapon mod synthesizers are a valuable and rare tool only distributed to high-ranking security teams. For safety reasons, the synthesizers are only allowed to synthesize modules, and not entire weapons.
+enc_weapon_mod_synthesizer,改造パーツ合成装置
+enc_weapon_mod_synthesizer_desc,"<link=2>プランク</link>の改造パーツ合成装置は、上級セキュリティチームだけに支給される便利で貴重なツールだ。安全上の観点から、パーツのみ合成できるよう制限されていて、武器自体を合成することはできない。
 
-Matter synthesis technology is still in its infancy, and these Planck machines are bulky, expensive, and single-use. <link=0>Brian</link> has made much bigger strides with his miniaturized ammo synthesizer integrated into <link=1>BAMM.</link>"
-enc_weapon_mod_synthesizer_stats,"カテゴリー: Device
-クラス: Security"
-enc_weapon_mod_synthesizer_sub,rpg elements
+物質合成テクノロジーは発展途上にあるため、プランクの合成装置は大きく、高価で、使い切りとなっている。<link=0>ブライアン</link>が小型化してBAMMに組み込んだ弾薬合成装置は、遥かに大きな進歩を遂げたものだ。"
+enc_weapon_mod_synthesizer_stats,"カテゴリー: デバイス
+クラス: セキュリティ"
+enc_weapon_mod_synthesizer_sub,RPG要素
 enc_worker_bot,ワーカーボット
 enc_worker_bot_desc,"Now that the reactor core is active, human deaths from radiation and encounters with aliens would make turnover far too high. The PW-00 was designed to replace human workers in the reactor where tasks could not be automated by simpler machines. Reasonable strength and intelligence allow it to fill the required roles, at only a slightly higher cost than a human.
 
@@ -1826,8 +1828,8 @@ announcer_degenerate_01_core40_caption_00,Warning. Reactor core stability at: 40
 announcer_degenerate_02_core20_caption_00,Warning. Reactor core stability at: 20%
 announcer_degenerate_03_core10_caption_00,Warning. Reactor core stability at: 10%
 announcer_degenerate_04_core0_caption_00,Warning. Reactor core stability at: 0%
-announcer_PITS_00_arrivingB_caption_00,Train now arriving at platform B.
-announcer_PITS_00_arrivingE_caption_00,Train now arriving at platform E.
+announcer_PITS_00_arrivingB_caption_00,列車がプラットフォームBに到着します。
+announcer_PITS_00_arrivingE_caption_00,列車がプラットフォームEに到着します。
 brian_assembly_00_talk_caption_00,あぁ、降りる前に少し話がある。
 brian_assembly_00_talk_caption_01,私が君の手助けをしていたのは純粋な善意以外にも理由がある。君が落ちてくる前、私は友人から連絡を受けていたんだ。
 brian_assembly_00_talk_caption_02,ナニーの目的は、正直なところ、私にも分からないところがある。
@@ -1837,18 +1839,18 @@ brian_assembly_00_talk_caption_05,私は約束を守る男だ。君をコアへ�
 brian_assembly_00_talk_caption_06,もう少し生き延びてくれれば、誰もが喜ぶだろう。
 brian_assembly_00_talk_caption_07,本当は君と行って手助けしたいところだが、私がいては却ってセキュリティの注意を引いてしまうだろう。
 brian_assembly_00_talk_caption_08,本部に戻って君を遠くから導くことが、私にできるせめてもの手助けだ。
-brian_assembly_00_1_prompt_caption_00," Come on, up and at ‘em. I’ve got to get out of here before Planck detects me. "
+brian_assembly_00_1_prompt_caption_00,さぁ、取り掛かってくれ。私はプランクに見つかる前に退散しなくてはならない。
 brian_assembly_01_core_caption_00,コアは完全に封鎖されているが、プランクは緊急時に作業員がアクセスできる方法を常に残しているんだ。
 brian_assembly_01_core_caption_01,管制塔を調べるんだ。そこに手がかりがあるだろう。
 brian_assembly_02_lock_caption_00,しめた。量子暗号ロックだ。
 brian_assembly_02_lock_caption_01,ハッキングはできないが、他のキーも近くにあるはずだ。
 brian_assembly_02_lock_caption_02,アセンブリーに向かって探してみてくれ。ブライアン・インダストリーズに着いたらかけ直す。
 brian_assembly_02_lock_caption_03,ちくしょう、セラスがいればな。今すぐにでも秘書が欲しいくらいだ。
-brian_assembly_03_core_caption_00,I see you got the core unsealed. Took you long enough.
-brian_assembly_03_core_caption_01,"Sorry, I mean well done. "
-brian_assembly_03_core_caption_02,You’re getting close now. The core is just one floor away.
-brian_assembly_03_core_caption_03,You’ve made it much further through the quantum reactor than most aliens do.
-brian_assembly_03_core_caption_04,Let’s keep this lucky streak going just for a bit longer.
+brian_assembly_03_core_caption_00,コアの封鎖を解除できたか。だいぶかかったな。
+brian_assembly_03_core_caption_01,すまない、よくやったと言いたかったんだ。
+brian_assembly_03_core_caption_02,もうすぐだぞ。コアまであと1層だ。
+brian_assembly_03_core_caption_03,君ほどリアクターを長く旅したエイリアンは、ほとんどいないだろう。
+brian_assembly_03_core_caption_04,さぁ、もう少しだけこのラッキーを続けていこう。
 Therus_BonVoyage_00_goodmorning_caption_00,おはよう。
 Therus_BonVoyage_00_goodmorning_caption_01,ブライアンがお待ちかねだ。さぁ、行こう。
 Therus_BonVoyage_01_sorry_caption_00,昨日はすまなかったな。
@@ -1918,28 +1920,28 @@ Therus_BonVoyage_10_dramatic_caption_00,実はずっとそこで待ってたん�
 Therus_BonVoyage_10_dramatic_caption_01,こういうのはドラマティックにいかないとな。
 Brian_BonVoyage_19_follow_caption_00,それは大成功だったな。
 Brian_BonVoyage_19_follow_caption_01,さぁ、時間はないぞ！
-Brian_BonVoyage_19_follow_caption_02,"Let’s get you on your way, Therus can fend off security for a few minutes."
-Brian_BonVoyage_19_follow_caption_03,"Follow me, I have a secret tunnel leading to the recycling center that will take us around our friends outside. "
-officer13_bonvoyage_07_surrounded_caption_00,"Brian, where do you think you’re going? We have your building surrounded."
-Brian_BonVoyage_20_prompt_caption_00, Come on!
-Brian_BonVoyage_21_prompt2_caption_00,"Come on, no time to waste. "
-Brian_BonVoyage_22_prompt3_caption_00,Hurry up!
-Brian_BonVoyage_23_prompt4_caption_00,"Hurry, we need to get you out of here. "
-officer13_bonvoyage_08_terran_caption_00,"Oh, Brian! You can’t run away this time."
-officer13_bonvoyage_08_terran_caption_01, Maybe we won’t take you to Exobiology after all. Maybe we’ll turn you over to the Terran Union.
-officer13_bonvoyage_08_terran_caption_02,How do you think they would feel if they learned you’re alive and have been hiding in the reactor?
-Brian_BonVoyage_24_prison_caption_00,"He’s just trying to freak me out. Not that it’s, uh, not working."
-Brian_BonVoyage_24_prison_caption_01,I do not want to end up back in prison. Planck busted me out last time on the condition that I work for them.
-Brian_BonVoyage_24_prison_caption_02, I don’t think they’d be so generous this time.
-Brian_BonVoyage_25_security_caption_00,"Don’t worry, my security will be able to hold them off for a bit. "
-Brian_BonVoyage_25_security_caption_01,"Don’t try to help, keep moving. We need to get you out of here."
-Brian_BonVoyage_26_goodbye_caption_00,This is it. This secret passage leads straight to the middle of the recycling center.
-Brian_BonVoyage_26_goodbye_caption_01,"From there, you can continue down using the transit system, and eventually reach the core."
-Brian_BonVoyage_26_goodbye_caption_02,"I’ll try to help guide you remotely, but- "
-Brian_BonVoyage_26_goodbye_caption_03,But I’ve obviously got some troubles of my own.
-Brian_BonVoyage_26_goodbye_caption_04,You can’t rely on me to save you at the last moment.
-Brian_BonVoyage_26_goodbye_caption_05,"A quantum reactor is one of the most actively hostile places on Earth, so be prepared. For anything. "
-Brian_BonVoyage_26_goodbye_caption_06,"Goodbye, and good luck. "
+Brian_BonVoyage_19_follow_caption_02,これから君を送り出す。セラスが数分間はセキュリティの注意を逸してくれるだろう。
+Brian_BonVoyage_19_follow_caption_03,ついてきなさい。リサイクルセンターに通じる秘密のトンネルがあって、そこから外に出られる。
+officer13_bonvoyage_07_surrounded_caption_00,ブライアン、どこへ行くつもりだ？ 建物は既に包囲しているんだぞ。
+Brian_BonVoyage_20_prompt_caption_00,来い！
+Brian_BonVoyage_21_prompt2_caption_00,こっちだ、あまり時間がない。
+Brian_BonVoyage_22_prompt3_caption_00,急げ！
+Brian_BonVoyage_23_prompt4_caption_00,行くぞ、早くここから脱出しなければ。
+officer13_bonvoyage_08_terran_caption_00,おぉ、ブライアン！ 今度ばかりは逃さないぞ。
+officer13_bonvoyage_08_terran_caption_01,お前をエグゾバイオロジーに連れて行くのはやめて、やっぱりテラン・ユニオンでも引き渡してやろうか。
+officer13_bonvoyage_08_terran_caption_02,お前がリアクターに隠れて生き延びていたと知ったら、連中はどんな顔をするだろうな？
+Brian_BonVoyage_24_prison_caption_00,私を怖がらせようとしているだけだ。まぁ、なんだ、効果はゼロではないが。
+Brian_BonVoyage_24_prison_caption_01,再び牢獄に入るつもりはない。前回は、プランクのために働くことを条件に救出してもらったんだ。
+Brian_BonVoyage_24_prison_caption_02,今回はそんな情けをかけてはもらえないだろう。
+Brian_BonVoyage_25_security_caption_00,心配いらない、私のセキュリティなら少しは持ちこたえられる。
+Brian_BonVoyage_25_security_caption_01,手助けは無用だ、行こう。君をここから脱出させるのが優先だ。
+Brian_BonVoyage_26_goodbye_caption_00,ここだ。この秘密の通路を抜ければ、リサイクルセンターの中に出られる。
+Brian_BonVoyage_26_goodbye_caption_01,その先はトランジットシステムを使って下に降りていけば、最終的にコアへ辿り着ける。
+Brian_BonVoyage_26_goodbye_caption_02,別の場所から君を案内できるようにする、が─
+Brian_BonVoyage_26_goodbye_caption_03,ご覧の通り、私もトラブルに巻き込まれているんだ。
+Brian_BonVoyage_26_goodbye_caption_04,いざという時に私の手助けを頼りにしてはいけないぞ。
+Brian_BonVoyage_26_goodbye_caption_05,クォンタムリアクターは地球上で最も危険な場所だ。十分に覚悟して行きたまえ。
+Brian_BonVoyage_26_goodbye_caption_06,それではな、グッドラック。
 Brian_Datamast_01_HopIn_caption_00,よーし、よしよし。死なずに辿り着いたな。
 Brian_Datamast_01_HopIn_caption_01,そら、回線を復旧しにいくんだ。乗れ！
 Brian_Datamast_02_Liftoff_caption_00,行くぞ！ 3、2、1、発進！
@@ -2079,15 +2081,15 @@ Therus_Quarantine_01_Greeting_caption_05,ほら、ブライアンがネット回
 Therus_Reaction_Excuse_caption_00,ごめんよ。
 Therus_Reaction_Hey_caption_00,おい！
 Therus_Reaction_Ouch_caption_00,いて。
-Therus_RecyclingCenter_00_hey_caption_00,"Psst, hey! It’s Therus!"
-Therus_RecyclingCenter_01_weird_caption_00,How are you doing? Doesn’t matter.
-Therus_RecyclingCenter_01_weird_caption_01,"Listen, I’m risking my ass talking to you here. There’s something... weird going on."
-Therus_RecyclingCenter_01_weird_caption_02,It seems like everyone I know is trying to get you to the reactor core.
-Therus_RecyclingCenter_02_nani_caption_00,"There’s this guy, Nani, who told Brian to save you in the first place."
-Therus_RecyclingCenter_02_nani_caption_01,"No offense, but you’re just a random alien, and Brian would never help you like he has for no reason."
-Therus_RecyclingCenter_02_nani_caption_02,That would be... very out of character.
-Therus_RecyclingCenter_03_playalong_caption_00,I’m going to try to dig some more; just play along for now.
-Therus_RecyclingCenter_03_playalong_caption_01,I’m flashing your BAMM with some firmware that will let me contact you under the radar.
+Therus_RecyclingCenter_00_hey_caption_00,シッ、聞こえるか？ セラスだよ！
+Therus_RecyclingCenter_01_weird_caption_00,元気だったか？ まぁそれはいいや。
+Therus_RecyclingCenter_01_weird_caption_01,聞いてくれ、俺はいま危険を顧みずにあんたと通話してる。何か……おかしなことが起こってるんだ。
+Therus_RecyclingCenter_01_weird_caption_02,どうも、俺が知ってる連中全員があんたをリアクターコアへ行かせたがってる。
+Therus_RecyclingCenter_02_nani_caption_00,そもそもはナニーって奴が、あんたを助けるようブライアンに指示したんだ。
+Therus_RecyclingCenter_02_nani_caption_01,気を悪くしないで欲しいんだが、あんたは偶然出会っただけのエイリアンだ。それをブライアンが理由もなく手助けするなんてあり得ない。
+Therus_RecyclingCenter_02_nani_caption_02,そんなことをする性分じゃないんだ……。
+Therus_RecyclingCenter_03_playalong_caption_00,もう少し調べてみるから、今のところは従うふりをしていてくれ。
+Therus_RecyclingCenter_03_playalong_caption_01,俺と連絡しても気付かれないように、あんたのBAMMのファームウェアを更新しておく。
 brian_rebirth_00_awake_caption_00,お、目が覚めたか。
 brian_rebirth_00_awake_caption_01,あと1週間はかかると思っていたが、ナノマシンがすぐ効いたようだ。
 brian_rebirth_00_awake_caption_02,私はブライアン。ようこそ、我が家へ。
@@ -2186,15 +2188,15 @@ Brian_PITS_11_bigcrab_caption_00,CRAB! Big crab.
 Brian_PITS_11_bigcrab_caption_01,"Big, big crab. Slow down, back up, do not go near the big crab! "
 Brian_PITS_11_bigcrab_caption_02,Stop! STOP! Stop the train!! Emergency brake or something!
 Brian_PITS_11_bigcrab_caption_03,CRAB!
-Therus_PITS_00_void_caption_00,Hello hello?
-Therus_PITS_00_void_caption_01,Therus here. I can only talk for a moment.
-Therus_PITS_00_void_caption_02,"Listen, do you know anything about the Void Delegation?"
-Therus_PITS_00_void_caption_03,"There’s this space between universes, this higher extradimensional space called the Void, which I sort of knew about from some of Brian’s experiments."
-Therus_PITS_00_void_caption_04,"Turns out the Void has a government, the Delegation, and they seem to be in contact with Nani."
-Therus_PITS_00_void_caption_05,"Nani won’t tell me much, but I think the Void Delegation wants some artifact from this universe.There’s some ritual that needs to be carried out to get it back."
-Therus_PITS_00_void_caption_06,"I’m still translating the rest of the scriptures, so I’ll know more soon."
-Therus_PITS_00_void_caption_07,"I’ll meet you at the far end of the transit system, okay?"
-Therus_PITS_00_void_caption_08,"I’ll be able to disable the BAMM’s tracking and we can escape from Brian, figure out what the hell is going on, and make a plan. "
+Therus_PITS_00_void_caption_00,もしもし、もしもし？
+Therus_PITS_00_void_caption_01,こちらセラス。あまり長くは話せない。
+Therus_PITS_00_void_caption_02,いいか、ヴォイド・デレゲーションについて何か知ってることはあるか？
+Therus_PITS_00_void_caption_03,ヴォイドと呼ばれる高次元宇宙が平行宇宙間に存在しているのは、ブライアンの実験から何となく察しがついてるんだ。
+Therus_PITS_00_void_caption_04,ヴォイドにはデレゲーションという政府があって、ナニーと連絡を取り合ってるらしい。
+Therus_PITS_00_void_caption_05,ナニーは詳しく話そうとしないが、ヴォイド・デレゲーションはこの宇宙にあるアーティファクトか何かを探していて、それを取り戻すのに何らかの儀式が必要なんだと思う。
+Therus_PITS_00_void_caption_06,まだ経典を翻訳している最中だから、いずれ詳しく話せようになるはずだ。
+Therus_PITS_00_void_caption_07,トランジットシステムの終点でまた会おう。
+Therus_PITS_00_void_caption_08,俺がBAMMを解除できるようになったら、追跡を振り切ってブライアンから逃げられる。何が起きてるのか暴き出して、計画を練るんだ。
 Therus_AlienCaves_00_hey_caption_00,おーい！
 Therus_AlienCaves_00_hey_caption_01,おーい！ 上だよ！
 Therus_AlienCaves_00_hey_caption_02,あんたを追ってきたんだが、このツル野郎に捕まっちまった。
