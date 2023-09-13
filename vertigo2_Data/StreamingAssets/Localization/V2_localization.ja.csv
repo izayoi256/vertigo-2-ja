@@ -459,10 +459,10 @@ enc_enlightenment_stats,"クラス: Battle Rifle
 メーカー: <link=0>Church of the Hypercube</link>
 FIRES: Void Energy"
 enc_enlightenment_sub,glory to the hypercube
-enc_f-18-hades,F-18-Hades
-enc_f-18-hades_desc,"Earth is tidally locked, with extreme weather and a small habitable surface region between night and day. Increased tectonic stress from tidal locking means there are vast cave systems all over the planet, and many creatures thrive in these subterranean mazes."
-enc_f-18-hades_stats,クラス: Skall-Harmonic
-enc_f-18-hades_sub,spicier earth
+enc_f-18-hades,F-18-ハデス
+enc_f-18-hades_desc,この地球は潮汐が固定されているため極端な気候をしていて、昼夜の境界付近の地表には居住可能なエリアがいくらか存在する。潮汐ロックによる地殻変動ストレスの増加は、広大な地下洞窟が惑星全体に及んでいることを意味し、多くの生物がこの地下迷宮で暮らしている。
+enc_f-18-hades_stats,クラス: スカル・ハーモニック
+enc_f-18-hades_sub,刺激的な地球
 enc_finger_gun,フィンガーガン
 enc_finger_gun_desc,"フィンガーガンは実験的なサイバネティクス強化手術で、人差し指の骨をコンパクトなデバイスに置き換えることによって、毛穴から水銀の弾丸を射出できるようにするものだ。長時間の使用により体組織に深刻なダメージが生じるため、規制がゆるいプランクにおいてさえも、人間による使用は承認されなかった。
 
@@ -492,23 +492,23 @@ enc_frank_stats,"種族: <link=0>タージェリー</link>
 年齢: 不明
 所属: あなた :)"
 enc_frank_sub,トモダチ！
-enc_frostbite_armaments,Frostbite Armaments
-enc_frostbite_armaments_desc,"Frostbite Armaments is a popular weapons manufacturer that produces a wide variety of arms. Due to their location in the asteroid belt and subsequent lack of political affiliation, they are able to quietly supply weapons to competing, and even warring entities with ease.
+enc_frostbite_armaments,フロストバイト・アーマメント
+enc_frostbite_armaments_desc,"フロストバイト・アーマメント社は、様々な武器を製造している人気のメーカーだ。小惑星帯に位置していることや政治的中立を保っていることから、相手が競合他社や紛争状態にある組織であっても粛々と武器を供給する。
 
-They have several contracts with various branches of Planck Interdimensional, and partnered with Planck to create many of the security drones currently in use. They are the largest corporation not based in the Terran Union."
-enc_frostbite_armaments_stats,"FOUNDER: Ludomir Menshchikov
-DATE FOUNDED: 1967
-CURRENT LEADER: Anton Foot"
-enc_frostbite_armaments_sub,creation of destruction
-enc_general_sintho,General Sintho
-enc_general_sintho_desc,"Years of servitude to the Church drove many autonican villagers to radical ideas of equality, but none were so driven as Sintho, who founded the Automata Collective and now serves as the military leader in opposition to the bourgoiusie oppression of the <link=1>Church of the Hypercube.</link>
+プランク・インターディメンショナルの様々な部門ともいくつかの契約を結んでおり、現在使用中のセキュリティドローンを多く生産するためにプランク社と提携している。テラン・ユニオンに本拠地を置かない企業としては最大規模だ。"
+enc_frostbite_armaments_stats,"創設者: ルドミール・メンシコフ
+創設年: 1967
+現在のリーダー: アントン・フット"
+enc_frostbite_armaments_sub,破壊の想像
+enc_general_sintho,シントー将軍
+enc_general_sintho_desc,"長年に渡る教会への奉仕は多くのオートニカンを過激な平等主義思想へと駆り立てたが、その中でもシントーほど熱心な者はいなかった。彼はオートマタ・コレクティブを創設し、現在は<link=1>ハイパーキューブ教会</link>のブルジョアジーによる抑圧に抵抗する反乱軍を指揮している。
 
-Early in the civil war, the Church pinpointed Sintho's radio signature, and struck him with a precise bolt of hypercube energy from above. He barely survived, having to replace his entire faceplate. To his rage, he can never return to the front lines without drawing another such attack, and instead is forced to lead from the safety of the remote rebel headquarters."
-enc_general_sintho_stats,"種族: Robot
+内戦勃発当時、教会はシントーの通信信号を特定し、上空からハイパーキューブエネルギーによる精密攻撃を仕掛けた。辛くも生き延びたシントーであったが、フェースプレートをすべて交換せざるをえなかった。二度と同じ過ちを繰り返さないためにも、前線から遠く離れた安全な反乱軍の本拠地から指示せざるを得ない状況に、彼自身が憤りをおぼえている。"
+enc_general_sintho_stats,"種族: ロボット
 年齢: 24
-ALLEGIANCE: <link=0>Automata Collective</link>
+所属: <link=0>オートマタ・コレクティブ</link>
 "
-enc_general_sintho_sub,dictatorship of the proletariat
+enc_general_sintho_sub,プロレタリアートの独裁
 enc_gentlehand,Gentlehand
 enc_gentlehand_desc,"One of the few sapient aliens. Gentlehand is a vigilante for fellow aliens in the reactor, and tries to protect them from internal security. He is willing to go to great lengths for this goal, even dropping you down an elevator shaft, which he believed would save the rest of the aliens in the reactor.
 
@@ -567,17 +567,17 @@ enc_hammer_and_sickle_stats,"クラス: 格闘
 メーカー: <link=0>オートマタ・コレクティブ</link>
 発射体: 電気"
 enc_hammer_and_sickle_sub,エレクトリック・プロレタリアート
-enc_handyman,Handyman
-enc_handyman_desc,"Humanoid alien with a hand for a head. Intelligence slightly higher than human, and similar brain function despite radically different structure. Breathes and vocalizes through a set of small gill-like orifices in the neck. Arms and legs taper to a point with sharp hoof-like numbs of keratin. No wrists or ankles.
+enc_handyman,ハンド人
+enc_handyman_desc,"頭部が手のような形をした、ヒューマノイド型のエイリアン。知能は人間よりわずかに高く、構造の劇的な違いとは裏腹に、脳の機能は人間と類似している。首にある小さなエラのような孔を通じて呼吸と発生をする。腕と脚は先端にいくほど細くなる形状をしていて、末端には鋭い蹄のような角質の突起が存在する。手首や足首はない。
 
-One of very few sapient aliens discovered.
+これまでに発見された、知性を持つごく少ないエイリアンの一つ。
 
-Notable individual: <link=1>Gentlehand.</link>"
-enc_handyman_stats,"学名: Manus Sapiens
-起源宇宙: <link=0>201-Meyer</link>
+特筆すべき個体: <link=1>ジェントルハンド</link>"
+enc_handyman_stats,"学名: テクビ・サピエンス
+起源宇宙: <link=0>201-マイヤー</link>
 分類: FA-H:5-S
 "
-enc_handyman_sub,civilized
+enc_handyman_sub,文化的
 enc_healthfruit,ヘルスフルーツ
 enc_healthfruit_desc,"美味しく、栄養素の高い果実がなる小型の植物。土壌から栄養を吸収する効率が非常に高い。
 
@@ -621,53 +621,52 @@ enc_henrique_stats,"種族: <link=0>Realmwalker</link>
 ALLEGIANCE: <link=1>Void Delegation</link>
 "
 enc_henrique_sub,headhunter
-enc_hexasuchus,Hexasuchus
-enc_hexasuchus_desc,"A species notably similar to familiar crocodiles, but with six fins and six eyes. It is unclear whether this is a case of convergent or divergent evolution.
+enc_hexasuchus,ヘキサスクス
+enc_hexasuchus_desc,"いわゆるクロコダイルに非常に似ている種だが、6つのヒレと眼を持っている。これが、収斂進化と分岐進化のどちらの結果であるかははっきりしない。
 
-Hexasuchus are very dangerous in water, but their fins are poorly suited to walking, and they will not chase prey onto land. This makes them less of a threat in the reactor. "
-enc_hexasuchus_stats,"学名: Hexasuchus Lavandula
-起源宇宙: <link=0>438-Eurydice</link>
+ヘキサスクスは水中では非常に危険な存在だが、そのヒレは歩行に全く適しておらず、獲物を地上まで追うことはない。そのため、リアクター周辺において脅威となることは少ない。"
+enc_hexasuchus_stats,"学名: ヘキサスクス・ラヴァンドラ
+起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:5"
-enc_hexasuchus_sub,get hexed
+enc_hexasuchus_sub,ヘックイェーイ
 enc_hideous_growth,Hideous Growth
 enc_hideous_growth_desc,"A disgusting fungal mass that thrives in the crevices of stagnant, unused pipes. If it accumulates large enough, it seems to develop some intelligence."
 enc_hideous_growth_stats,"学名: <unassigned>
 起源宇宙: <link=0>182-kappa</link>
 分類: FA-H:2-S"
 enc_hideous_growth_sub,milky
-enc_holy_guard,Holy Guard
-enc_holy_guard_desc,"Powerful and intimidating robots created to guard the <link=1>Church of the Hypercube.</link> Endleslly loyal to the Maharishi. Holy Guards are the only entities that can wield a weapon called the hyperscythe, which can launch devastating long range energy attacks, or slice through solid metal at close range.
+enc_holy_guard,ホーリーガード
+enc_holy_guard_desc,"<link=1>ハイパーキューブ教会</link>を守るために製造された、強力で威圧的なロボット。マハリシに絶対的な忠誠を誓う。ハイパーサイズと呼ばれる武器はホーリーガードのみが扱うことを許され、長距離ではエネルギー攻撃を発射、短距離では金属をも切り裂く斬撃を繰り出す。
 
-Originally meant to guard the premesis of the Church, but were forced to join the offensive of the Autonican civil war.
+もともとは教会の領地内を警備するためのものだったが、オートニカンの内戦に参加することを余儀なくされた。
 
-Heavily armoured and infused with Void energy, Holy Guards have no weak points and do not take critical damage."
+重装甲で、ヴォイドエネルギーによる強化を受けているホーリーガードには弱点がなく、クリティカルダメージを与えることもできない。"
 enc_holy_guard_stats,"ユニット名: N/A
-役割: Defensive/Heavy
-メーカー: <link=0>Maharishi Ghronto</link>
-"
-enc_holy_guard_sub,the reaper
-enc_holy_hypercube,Holy Hypercube
-enc_holy_hypercube_desc,"Icons and religious descriptions of the Hypercube have been found around the world dating back thousands of years. It is said to be intelligent, though it hasn't been observed to do anything other than hover in a cave.
+役割: 防衛/重装備
+メーカー: <link=0>マハリシ・グロント</link>"
+enc_holy_guard_sub,死神
+enc_holy_hypercube,聖なるハイパーキューブ
+enc_holy_hypercube_desc,"ハイパーキューブの象徴や宗教的な描写は、何千年も前から世界中で発見されている。知性を持つとも言われているが、洞窟内に浮遊していること以外は観測されていない。
 
-It exudes a remarkable aura of mixed Realmic and Void energy. <link=0>The Church</link> would tell you it is God, a being older than time itself and more powerful than can be imagined. <link=2>The Rebels</link> would say it's just a natural phenomenon, possibly a side effect of the nearby Quantum Reactor. There's no telling who's right. It's definitely pretty, though!
+それが放つ著しいオーラには、レルミックエネルギーとヴォイドエネルギーが混在している。<link=0>教会</link>はそれを神であると言い、時間そのものより古く、人知を超えた力を持つとしている。一方<link=2>反乱軍</link>は、付近のクォンタムリアクターの副作用か何かに過ぎず、ただの自然現象であると主張している。どちらが正しい言い分なのかはともかく、美しいことには違いない！
 
-Its power is channeled by <link=1>Maharishi Gronto</link>"
-enc_holy_hypercube_stats,"種族: Unknown
-年齢: > 10 Billion years
-ALLEGIANCE: Unknown"
-enc_holy_hypercube_sub,divine geometry
-enc_holy_soldier,Holy Soldier
-enc_holy_soldier_desc,"A lightweight infantry unit created specifically to fight in the Autonican civil war. Equipped with a small but powerful hypercrystal energy weapon. Their large head is an easy target, and a few shots will knock it right off."
+<link=1>マハリシ・グロント</link>が、その力を引き出している。"
+enc_holy_hypercube_stats,"種族: 不明
+年齢: 100億年以上
+所属: 不明"
+enc_holy_hypercube_sub,神聖幾何学
+enc_holy_soldier,ホーリーソルジャー
+enc_holy_soldier_desc,オートニカンの内戦で戦うために製造された、軽量歩兵ユニット。小型だが強力なハイパークリスタルエネルギー武器で武装している。その大きな頭は狙いやすく、数発のヘッドショットで倒せるだろう。
 enc_holy_soldier_stats,"ユニット名: N/A
-役割: Infantry
-メーカー: <link=0>Maharishi Ghronto</link>
+役割: 歩兵
+メーカー: <link=0>マハリシ・グロント</link>
 "
-enc_holy_soldier_sub,grunt
+enc_holy_soldier_sub,ゼーハー
 enc_hot_springs,ホットスプリング
 enc_hot_springs_desc,グレートオーシャンの北岸に位置する地熱活動帯。洞窟は濃い湯気と湧き出る温泉で満たされているが、それでもエイリアンの中にはここを棲み家とするものもいる。
 enc_hot_springs_stats,"ロケーション: <link=0>グレートオーシャン (北岸)</link>
 "
-enc_hot_springs_sub,スパ！
+enc_hot_springs_sub,温泉日和！
 enc_human,人間
 enc_human_desc,"人間はこの宇宙、またはヴェトス-4宇宙に生息する。遺伝的な類似点は非常に多い。
 
@@ -677,14 +676,14 @@ enc_human_stats,"学名: ホモ・サピエンス
 分類: FA-H:4-S"
 enc_human_sub,我々も結局はエイリアンに過ぎないのだ
 enc_hummingbird,ハミングバード
-enc_hummingbird_desc,"The Hummingbird is one of the most deadly hunters employed by Planck. Razor-sharp reflexes make up for a fragile frame, and mobility is no problem when you can fly at 70 miles per hour. Specialized as a guard for sensitive equipment and areas, and able to precisely target small hostiles with its deadly primary fire. In less delicate situations, the Hummingbird can drop explosive eggs.
+enc_hummingbird_desc,"ハミングバードは、プランクが運用する最も獰猛なハンターの一つだ。鋭敏な感覚が防御力の低さを補っており、最高飛行速度は時速100km以上に達するため機動力も十分だ。センシティブな装置やエリアの防衛に特化しており、小さなターゲットでも主砲の精密射撃で致命的な一撃を与えることが可能。精密な攻撃が不要な場面では、卵型爆弾も投下して戦う。
 
-The only chance to take one down is to target its fragile extremities. Destroying its wings will greatly hinder its air mobility, and knocking off the armor on its head renders it highly vulnerable to headshots."
+攻略する方法があるとすれば、脆い四肢を狙うことだろう。翼を破壊すれば空中での機動性は大幅に落ち、頭部の装甲を吹き飛ばせばヘッドショットが極めて有効となる。"
 enc_hummingbird_stats,"ユニット名: PS-7-H
-役割: Security - Area Denial
-メーカー: <link=0>Planck Intdl.</link>
+役割: セキュリティ - 領域防衛
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_hummingbird_sub,a nice egg for these trying times
+enc_hummingbird_sub,戦場に新鮮な卵をお届け
 enc_hypercrystal,Hypercrystal
 enc_hypercrystal_desc,"Condensed material from the energy exuded by the <link=2>Holy Hypercube.</link> Hypercrystals contain a massive concentration of power, but this power is only accessible using technology created by <link=0>Maharishi Ghronto.</link> Hypercrystals form anywhere near <link=1>Autonica,</link> where the Hypercube itself lies."
 enc_hypercrystal_stats,"カテゴリー: Substance
@@ -768,11 +767,11 @@ enc_kauboi's_revolver_stats,"クラス: Sidearm
 メーカー: <link=0>Kauboi</link>
 FIRES: Unknown"
 enc_kauboi's_revolver_sub,the chosen gun
-enc_launch_lily,Launch Lily
-enc_launch_lily_desc,"An alien plant with the unique defensive strategy of energetically launching potential predators away. Sturdy limbs are bent into a spring-loaded position, and the slightest disturbance releases launching mechanism."
-enc_launch_lily_stats,"カテゴリー: Plant
-クラス: Alien"
-enc_launch_lily_sub,going up
+enc_launch_lily,ランチャーリリー
+enc_launch_lily_desc,捕食者を吹き飛ばして遠ざけるという、ユニークな防衛戦略を持ったエイリアン食物。丈夫な枝はバネ状に曲がっていて、加わる振動がわずかなものであっても発射機構を作動させる。
+enc_launch_lily_stats,"カテゴリー: 食物
+クラス: エイリアン"
+enc_launch_lily_sub,上へ参ります
 enc_lresa,L'resa
 enc_lresa_desc,"L'resa is a captain in the Church's army. She was built with a stolen tactical processing chip from Planck's robot assembly lines, and is a vital figure in the civil war. Her small size lets her perform reconnaisance with ease, but she is unfortunately not built to fight."
 enc_lresa_stats,"種族: Robot
@@ -909,18 +908,18 @@ enc_phage_launcher_stats,"クラス: グレネードランチャー
 メーカー: N/A
 発射体: 爆発性嚢胞"
 enc_phage_launcher_sub,予期せぬ味方
-enc_planck_interdimensional,Planck Interdimensional
-enc_planck_interdimensional_desc,"Planck Interdimensional Energy Solutions was founded after physicist Max Planck realised the practicality of his Quantum Fraying theories, and applied them to create the concept of a quantum reactor. The first reactor was up and running in Spain just 9 years later, in 1939, and its completion marked the end of the global energy crisis.
+enc_planck_interdimensional,プランク・インターディメンショナル
+enc_planck_interdimensional_desc,"物理学者マックス・プランクが量子フレーイング理論の実用性を証明し、それを用いてクォンタムリアクターの概念を提唱すると、プランク・インターディメンショナル・エネルギーソリューションが創設された。わずか9年後の1939年にスペインで最初のリアクターの稼働が始まり、その完成はグローバルエネルギー危機に終止符を打つものであった。
 
-In the decades since, Planck has monopolized energy, with its power plants supplying 86% of the solar system's power consumption. The Planck family has always led the corporation, with Max's great-granddaughter Emily currently in control.
+その後の数十年間でプランクはエネルギー市場を独占し、太陽系における消費電力の86%を供給するまでに至った。プランク家が同族経営していて、現在はマックスのひ孫であるエミリー・プランクが会社を率いている。
 
-Planck's innovation expedited the colonization of the solar system through the 20th century. Planck has branched out from their specialty Quantum Reactors, and has several large fusion reactors on Luna, a solar energy farm in Algeria and one on Mercury, and a hydroelectric plant in Scotland.
+プランクのイノベーションは、20世紀の太陽系植民地化を加速させた。クォンタムリアクターから始まり、現在では月にいくつかの大型のフュージョンリアクターと、アルジェリアと水星にはソーラー発電ファーム、そしてスコットランドに水力発電所を所有している。
 
-Despite its success, Planck has a legacy of abusive and dangerous work conditions. "
-enc_planck_interdimensional_stats,"FOUNDER: Max Planck
-DATE FOUNDED: 1930
-CURRENT LEADER: Emily Planck"
-enc_planck_interdimensional_sub,obligatory megacorporation
+その成功にも関わらず、プランクには過酷で危険な労働環境の悪評がある。"
+enc_planck_interdimensional_stats,"創設者: マックス・プランク
+創設年: 1930
+現在のリーダー: エミリー・プランク"
+enc_planck_interdimensional_sub,物語にはメガコーポがつきもの
 enc_planck_internal_transit_system,Planck Internal Transit System
 enc_planck_internal_transit_system_desc,"The PITS is the transit system linking the lower floors of the reactor together. It is quite capable, as it had to ferry hundreds of employees to and from their work stations during the Reactor's construction. It was built in a particularly porous section of rock, with ancient lava tubes forming natural cave networks.
 
