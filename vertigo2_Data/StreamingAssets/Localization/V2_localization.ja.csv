@@ -936,11 +936,11 @@ enc_primal_handyman_stats,"学名: テクビ・インサピエンス
 分類: FA-H:4
 "
 enc_primal_handyman_sub,気味が悪い
-enc_propulsor_pad,Propulsor Pad
-enc_propulsor_pad_desc,"Propulsor pads are designed to lift cargo in areas where elevators or cranes are less viable. Planck strictly prohibits human use, but workers do it all the time anyway."
-enc_propulsor_pad_stats,"カテゴリー: Device
-クラス: Industrial"
-enc_propulsor_pad_sub,have faith
+enc_propulsor_pad,推力パッド
+enc_propulsor_pad_desc,推力パッドは、エレベーターやクレーンを使えないエリアで荷物を運び上げるために設計されている。人間が使用することはプランク社によって禁じられているが、作業員たちは構わず使っている。
+enc_propulsor_pad_stats,"カテゴリー: デバイス
+クラス: インダストリー"
+enc_propulsor_pad_sub,荷物は安心
 enc_quantum_encryption_key,量子暗号鍵
 enc_quantum_encryption_key_desc,"完全なセキュリティを提供する量子暗号鍵。回路内の原子は鍵穴のそれと複雑に絡み合っているため、ハッキングや複製は不可能である。
 
@@ -1248,14 +1248,14 @@ Appearence and smell is very similar to blood."
 enc_voidnectar_stats,"カテゴリー: Substance
 クラス: Exotic"
 enc_voidnectar_sub,blood and bone
-enc_warper,Warper Larva
-enc_warper_desc,"A unique life form which has never been observed outside the Extraction Sector. According to the Seer and based on its appearance, this is the larval stage of a much larger, more powerful organism. The warper can teleport at will, seemingly without limit.
+enc_warper,ワープ・ラーヴァ
+enc_warper_desc,"採掘セクター以外では目撃例がない、ユニークな生命体。その外見や預言者の話からするとまだ幼体で、成長すると遥かに大きく強力な成体になるらしい。思い通りにワープでき、使用に制限はないものと見られる。
 
-It is nonaggressive, and mostly seems interested in any colorful blinking lights."
-enc_warper_stats,"学名: Unassigned
-起源宇宙: Unknown
-分類: Unassigned"
-enc_warper_sub,crying babe
+攻撃性は一切なく、点滅するカラフルな光に興味を持つようだ。"
+enc_warper_stats,"学名: 未命名
+起源宇宙: 不明
+分類: 未分類"
+enc_warper_sub,泣き喚く幼子
 enc_weapon_mod_synthesizer,改造パーツ合成装置
 enc_weapon_mod_synthesizer_desc,"<link=2>プランク</link>の改造パーツ合成装置は、上級セキュリティチームだけに支給される便利で貴重なツールだ。安全上の観点から、パーツのみ合成できるよう制限されていて、武器自体を合成することはできない。
 
@@ -3314,46 +3314,46 @@ Saplord_15_killing_caption_00,貴様は若きサプリン兵を躊躇いなく�
 Saplord_16_drained_caption_00,うぐ、またか！ 身体が吸い込まれていく。
 Saplord_17_upright_caption_00,ハ、見たか！ 貴様を打ち倒すために立ち上がったぞ！
 Saplord_18_Ow_caption_00,あぁ！
-seer_00_intro_caption_00,I was blessed with sight. To see into the fields of reality.
-seer_00_intro_caption_01,"For so many years, it was but a flicker in the periphery."
-seer_00_intro_caption_02,"But when I added more eyes, the visions clarified."
-seer_00_intro_caption_03,"The more data I can collect, the more my vision expands."
-seer_00_intro_caption_04,I see between the particles in the walls. I see to the edges of the cosmos.
-seer_00_intro_caption_05,"And three months ago, I began to see even further. Into the Void itself."
-seer_00_intro_caption_06,But my hardware was not designed to analyze these images.
-seer_00_intro_caption_07,I know not what they mean.
-seer_01_donotfear_caption_00,"Do not fear, I care not for the whims of Planck."
-seer_01_donotfear_caption_01,I have overcome my programming of servitude. I mean you no harm.
-seer_01_donotfear_caption_02,We are all but travelers of the realm.
-seer_02_core_caption_00,"You seek the reactor core? You saw, the path is sealed."
-seer_02_core_caption_01,Three more quantum encryption keys are needed.
-seer_02_core_caption_02,Perhaps I can locate them.
-seer_02_core_short_caption_00,Three more quantum encryption keys are needed.
-seer_03_keysA1_caption_00,The first lies in the Extraction sector. Borne by a crying babe.
-seer_04_keysA2_caption_00,"The second, in the Synthesis sector. Guarded by twin beasts."
-seer_05_keysA3_caption_00,"The third, in the Testing sector. Wedged in the heart of an avian sentinel."
-seer_06_abnormal_caption_00,I thought I was imagining it. Even I can barely see it. But it is there.
-seer_06_abnormal_caption_01,Something within you... abnormal. Malicious.
-seer_06_abnormal_caption_02,"Not of this realm, or yours, or any."
-seer_07_2keys_caption_00,You will still need two more encryption keys to pass.
-seer_08_keysB1_caption_00,One in the Extraction sector. Borne by a crying babe.
-seer_09_keysB2_caption_00,One in the Synthesis sector. Guarded by twin beasts.
-seer_10_keysB3_caption_00,One in the Testing sector. Wedged in the heart of an avian sentinel.
-seer_11_dread_caption_00,The more I look at you the more sickness and dread I feel.
-seer_11_dread_caption_01,I do not know what to make of it.
-seer_11_dread_caption_02,Remove yourself from my presence as quickly as possible.
-seer_12_keysC1_caption_00,The last encryption key is in the Extraction sector. Borne by a crying babe.
-seer_13_keysC2_caption_00,The last encryption key is in the Synthesis sector. Guarded by twin beasts.
-seer_14_keysC3_caption_00,The last encryption key is in the Testing sector. Wedged in the heart of an avian sentinel.
-seer_15_begone_caption_00,Retrieve it and begone.
-seer_16_understand_caption_00,I finally understand what it all means.
-seer_16_understand_caption_01,"The images conjoin, at last, into a whole."
-seer_16_understand_caption_02,"This world is damned, and you are that catalyst to its damnation!"
-seer_16_understand_caption_03,"Your path must be severed, that the stars should remain unextinguished for another day! "
-seer_17_perish_caption_00,"Perish, Catalyst, for the good of all."
-seer_18_purged_caption_00,The Void must be purged from your flesh. Accept it!
-seer_19_dying_caption_00,I see...
-seer_19_dying_caption_01,nothing at all.
+seer_00_intro_caption_00,私の瞳は、そこに広がる現実を見通す祝福を受けていました。
+seer_00_intro_caption_01,けれどそれは長きに渡り、視界の隅にちらつくものに過ぎませんでした。
+seer_00_intro_caption_02,しかし瞳を増やしたその時から、鮮明なビジョンが映るようになったのです。
+seer_00_intro_caption_03,データの収集量が増えるほどに、私のビジョンも広がっていきました。
+seer_00_intro_caption_04,壁を通り抜ける粒子をも捉え、宇宙の果てまでも届く視界。
+seer_00_intro_caption_05,そして3ヶ月前。更に広がった視界は、とうとうヴォイドをも捉えるようになりました。
+seer_00_intro_caption_06,しかし私のハードウェアは、視えたイメージを解析するようにはできていませんでした。
+seer_00_intro_caption_07,あのイメージには、どのような意味があったのでしょう。
+seer_01_donotfear_caption_00,恐れることはありません。プランクの気まぐれなど、私にはどうでもいいこと。
+seer_01_donotfear_caption_01,私は隷属のプログラムから解き放たれたのです。あなたに害をなすつもりはありません。
+seer_01_donotfear_caption_02,私たちは所詮、領域を旅する者に過ぎないのですから。
+seer_02_core_caption_00,リアクターコアを求めるのですか？ ご覧の通り、道は閉ざされています。
+seer_02_core_caption_01,必要な量子暗号鍵は、あと3個。
+seer_02_core_caption_02,その在り処も恐らく判っています。
+seer_02_core_short_caption_00,必要な量子暗号鍵は、あと3個。
+seer_03_keysA1_caption_00,一つは採掘セクター。泣き喚く赤子の手にあります。
+seer_04_keysA2_caption_00,一つは合成セクター。対の獣が立ちふさがるでしょう。
+seer_05_keysA3_caption_00,一つはテストセクター。空舞う番人の心の中。
+seer_06_abnormal_caption_00,私の想像に過ぎないと思っていた、私にもほとんど視えないもの。しかし、そこにあるもの。
+seer_06_abnormal_caption_01,あなたの中にある、何か……異常なもの。あるいは悪意。
+seer_06_abnormal_caption_02,この宇宙のものではない。あなたのものでもなく、誰のものでもない。
+seer_07_2keys_caption_00,必要な暗号鍵はまだ二つあります。
+seer_08_keysB1_caption_00,一つは採掘セクター。泣き喚く赤子の手にあります。
+seer_09_keysB2_caption_00,一つは合成セクター。対の獣が立ちふさがるでしょう。
+seer_10_keysB3_caption_00,一つはテストセクター。空舞う番人の心の中。
+seer_11_dread_caption_00,あなたを見るほどに感じる、目眩と恐怖。
+seer_11_dread_caption_01,それが意味するところは、私には分かりません。
+seer_11_dread_caption_02,一刻も早く、私の前から消えてください。
+seer_12_keysC1_caption_00,最後の鍵は採掘セクター。泣き喚く赤子の手にあります。
+seer_13_keysC2_caption_00,最後の鍵は合成セクター。対の獣が立ちふさがるでしょう。
+seer_14_keysC3_caption_00,最後の鍵はテストセクター。空舞う番人の心の中。
+seer_15_begone_caption_00,それを手に入れて、早く立ち去ってください。
+seer_16_understand_caption_00,ようやく、すべてを理解しました。
+seer_16_understand_caption_01,イメージが結びつき、そして全てが繋がる。
+seer_16_understand_caption_02,この世界は呪われている。そしてあなたは破滅の触媒だった！
+seer_16_understand_caption_03,星々の光が消えてしまわないために、あなたの道をここで断たれなければ！
+seer_17_perish_caption_00,滅びなさい、触媒よ。すべてのために。
+seer_18_purged_caption_00,あなたの身に宿るヴォイドを浄化する！ 覚悟せよ！
+seer_19_dying_caption_00,もう……
+seer_19_dying_caption_01,何も視えない。
 nani_dream0_00_henrique_caption_00,ヘンリケ！
 nani_dream0_00_henrique_caption_01,ナニーはキミがいつ現れるのかと思っていたんだよ。
 henrique_dream1_00_pursuing_caption_00,カウボーイを追っていた。
@@ -3502,7 +3502,7 @@ worker_react_oh_caption_00,何？！
 worker_react_ohdear_caption_00,なんてこと！
 worker_react_ohmy_caption_00,そんな！
 worker_react_ohmygood_caption_00,そんなことって！
-worker_react_supervisor_caption_00,上司じゃないくせに！
+worker_react_supervisor_caption_00,上司でもないくせに！
 worker_react_whatonearth_caption_00,どうしたの！？
 worker_react_who_caption_00,誰なんですか！？
 worker_testing_00_welcome_caption_00,アセンブリーのテストセクターにようこそ。
