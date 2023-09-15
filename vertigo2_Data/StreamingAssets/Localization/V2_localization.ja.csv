@@ -120,20 +120,20 @@ enc_182-kappa,182-Kappa
 enc_182-kappa_desc,Earth’s biosphere is vastly different with heavy cloudcover and volcanic activity having produced an ecosystem relying on geothermal energy and minerals rather than sunlight.
 enc_182-kappa_stats,クラス: Xeno-Consimilar
 enc_182-kappa_sub,volcanic winter
-enc_201-meyer,201-Meyer
-enc_201-meyer_desc,"<link=0>Gentlehand’s</link> homeworld. Humans have hands instead of heads, and are commonly known as handymen. Earth is slightly less developed than Alpha Domicilium, but still far beyond Vetus-4."
-enc_201-meyer_stats,クラス: Xeno-Proximal
-enc_201-meyer_sub,handy
+enc_201-meyer,201-マイヤー
+enc_201-meyer_desc,<link=0>ジェントルハンド</link>の出身。首からは頭の代わりに手首が生えている人間は、一般的にハンド人として知られている。地球の発展はアルファ・ドミシリウムよりわずかに遅れているが、それでもヴェトス-4よりは遥かに進んでいる。
+enc_201-meyer_stats,クラス: ゼノプロクシマル
+enc_201-meyer_sub,お上手
 enc_202-meyer,202-マイヤー
 enc_202-meyer_desc,"<link=0>ジェントルハンド</link>のホームワールドの進化が遅れたバージョン。原始ハンド人の起源宇宙。
 
 202-マイヤーから来た多くの生物に、放射能汚染と発達不全が見られる。過去200年以内に大惨事があり、生態系に影響したものと見られる。"
 enc_202-meyer_stats,分類: ゼノプロクシマル
 enc_202-meyer_sub,戦争は変わらない
-enc_438-eurydice,438-Eurydice
-enc_438-eurydice_desc,"Hot, wet Earth with a carboniferous-like ecology. Covered in vast, deep swamps and home to the various species of Gremlin, as well as a remarkable variety of other life forms commonly found in the reactor."
-enc_438-eurydice_stats,クラス: Xeno-Consimilar
-enc_438-eurydice_sub,the gremlin grove
+enc_438-eurydice,438-エウリュディケ
+enc_438-eurydice_desc,温暖で湿潤な地球で、石炭紀のような生態系が広がっている。広大で深い湿地に覆われ、様々な種類のグレムリンが生息しているだけでなく、リアクター周辺で見られる多種多様な生命も存在している。
+enc_438-eurydice_stats,クラス: ゼノコンシミラー
+enc_438-eurydice_sub,グレムリングローブ
 enc_acid_handyman,アシッドハンド人
 enc_acid_handyman_desc,"強力な酸性の液体を分泌する、原始ハンド人の珍しい突然変異体。青いハンド人よりも危険で、投げた酸は遠くの敵まで届く。
 
