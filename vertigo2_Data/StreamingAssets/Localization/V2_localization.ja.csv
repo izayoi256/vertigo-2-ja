@@ -1,30 +1,30 @@
 key,ja
-bamm_ammoDepleted_caption_00,Ammunition depleted! Please stand by for resynthesis.
-bamm_ammunition_caption_00,Advances in Brian Industries Ammunition Synthesis technology frees you from reliance  on convenient piles of live ammunition lying unguarded in improbable environments.
-bamm_ammunition_caption_01,"Instead, ammunition is continuously synthesized over time."
-bamm_coma_wakeup_caption_00,Welcome back from near death!
-bamm_coma_wakeup_caption_01,You have been in a medically induced coma for seventy-five hours to aid recovery.
-bamm_coma_wakeup_caption_02,"You received one message, three days ago. "
-bamm_connection_caption_00,Connection re-established.
-bamm_encyclopedia_caption_00,BAMM’s integrated Encyclopedia Briannica holds all relevant information regarding encountered entities.
+bamm_ammoDepleted_caption_00,弾薬が枯渇しました！ 再合成までお待ちください。
+bamm_ammunition_caption_00,ブライアン・インダストリーズの弾薬合成技術の進歩により、ありえない環境に無造作に置かれた都合のいい弾薬を拾い集める必要はもうありません。
+bamm_ammunition_caption_01,その代わり、弾薬は時間経過と共に自動的に合成されます。
+bamm_coma_wakeup_caption_00,瀕死の状況を脱しました。おかえりなさい！
+bamm_coma_wakeup_caption_01,治療のために誘発された昏睡状態になってから75時間が経過しました。
+bamm_coma_wakeup_caption_02,1件のメッセージを受信しています。3日前のメッセージです。
+bamm_connection_caption_00,接続を再確立しました。
+bamm_encyclopedia_caption_00,BAMMに組み込まれた「エンサイクロペディア・ブリアニカ」は、遭遇したエンティティに関する全ての関連情報を収録する図鑑システムです。
 bamm_fullHealth_caption_00,ヘルスが全快しました。
 bamm_hypercube_caption_00,"Glory eternal to the hypercube, the divine geometry. "
 bamm_hypercube_caption_01,May it carry the brilliance of the void into our realm.
-bamm_inhospitable_caption_00,Inhospitable environment detected. Please return to habitable domain at your earliest convenience.
-bamm_inventory_caption_00,BAMM’s inventory management system will always let you know what you’re carrying.
-bamm_lowhealth_caption_00,"Warning, low health. "
-bamm_offlinemode_caption_00,Remote command severance detected. Entering autonomous mode.
-bamm_offlinemode_caption_01,Finished loading autonomous mode. Welcome to BAMM!
-bamm_offlinemode_caption_02,"Unknown life forms, locations, weapons, political groups, and philosophical concepts will be scanned and entered into Encyclopedia automatically. "
-bamm_offlinemode_caption_03,"Medical and teleportational services will function normally. Unfortunately, network access and communication are offline. "
+bamm_inhospitable_caption_00,過酷な環境を検出しました。できるだけ早く生存可能な領域に戻ってください。
+bamm_inventory_caption_00,BAMMのインベントリ管理システムは、所持品を常に表示します。
+bamm_lowhealth_caption_00,警告、ヘルスが低下しています。
+bamm_offlinemode_caption_00,リモートコマンドの切断を検出しました。自立モードに移行します。
+bamm_offlinemode_caption_01,自立モードの読み込みが完了しました。BAMMへようこそ！
+bamm_offlinemode_caption_02,未知の生命体、ロケーション、武器、政治団体、哲学的概念は自動的にスキャンして図鑑に登録されます。
+bamm_offlinemode_caption_03,医療およびテレポートサービスは正常に機能します。残念ながら、ネットワークと通信はオフラインです。
 bamm_shutdown_caption_00,Realmic transference complete. BAMM duty fulfilled.
 bamm_shutdown_caption_01,Initiating permanent shutdown.
 bamm_signalbreakthrough_caption_00,Alert: Signal breakthough!
 bamm_trauma_caption_00,BAMM’s technology ensures physical trauma is just temporary.
 bamm_trauma_caption_01,"The psychological impact of repeatedly receiving fatal injuries, however, will be permanent. "
-bamm_underwater_caption_00,"BAMM’s molecular filters allow you to stay alive underwater when necessary, "
-bamm_underwater_caption_01,extracting oxygen from the water and deploying it directly to your bloodstream.
-bamm_userdeath_caption_00,Emergency. User death imminent.
+bamm_underwater_caption_00,BAMMの分子フィルターが必要に応じて水から酸素を抽出し、
+bamm_underwater_caption_01,あなたの血中へ直接供給することで水中での生存が可能となります。
+bamm_userdeath_caption_00,緊急事態。ユーザーの死が迫っています。
 bamm_welcome_startup_caption_00,新しいユーザーを検出。B.A.M.M.へようこそ！
 bamm_welcome_startup_caption_01,バイオメトリクスの初期化中。致命的な行動を起こすまで10分お待ちください。
 chapternum,チャプター {0}
@@ -107,19 +107,19 @@ by:
 Zach Tsiakalis-Brown"
 credits_alphaTitle,Alpha Testers:
 credits_betaTitle,Beta Testers:
-elevator_controls,ELEVATOR CONTROLS
-elevator_denied_security,"ACCESS DENIED
+elevator_controls,エレベーター制御装置
+elevator_denied_security,"アクセス拒否
 
-Security Activity detected"
-elevator_denied_weight,"ACCESS DENIED
+セキュリティ活動を検知しました"
+elevator_denied_weight,"アクセス拒否
 
-Elevator over weight capacity"
-elevator_materials,"Materials Processing
-Access"
-enc_182-kappa,182-Kappa
-enc_182-kappa_desc,Earth’s biosphere is vastly different with heavy cloudcover and volcanic activity having produced an ecosystem relying on geothermal energy and minerals rather than sunlight.
-enc_182-kappa_stats,クラス: Xeno-Consimilar
-enc_182-kappa_sub,volcanic winter
+エレベーター重量超過"
+elevator_materials,"素材処理区画
+アクセス"
+enc_182-kappa,182-カッパ
+enc_182-kappa_desc,地球の生物圏は厚い雲と地熱エネルギーによって大きく異なったものとなっている。日光よりも、地熱エネルギーや鉱物に依存する生態系を生み出した。
+enc_182-kappa_stats,クラス: ゼノコンシミラー
+enc_182-kappa_sub,火山の冬
 enc_201-meyer,201-マイヤー
 enc_201-meyer_desc,<link=0>ジェントルハンド</link>の出身。首からは頭の代わりに手首が生えている人間は、一般的にハンド人として知られている。地球の発展はアルファ・ドミシリウムよりわずかに遅れているが、それでもヴェトス-4よりは遥かに進んでいる。
 enc_201-meyer_stats,クラス: ゼノプロクシマル
@@ -199,16 +199,16 @@ enc_altershock_revolver_stats,"クラス: 高精度拳銃
 メーカー: <link=0>フロストバイト・アーマメント</link>
 発射体: レーザー"
 enc_altershock_revolver_sub,バッテリーを口に入れてはいけません
-enc_annihilator_prototype,Annihilator Prototype
-enc_annihilator_prototype_desc,"A raw, unrefined prototype of the masterpeice that is the Annihilator. More powerful than its successor, but with a very short effective range.
+enc_annihilator_prototype,アナイアレイター・プロトタイプ
+enc_annihilator_prototype_desc,"アナイアレイターという傑作の、未成熟で粗野なプロトタイプ。後続モデルよりも強力だが、有効射程距離は非常に短い。
 
-Lazy design of the antimatter containment means it is occasionally prone to catastrophic misfires.
+反物質容器の設計が雑で、壊滅的な誤発射を引き起こすことがある。
 
-Although the double barrels are very cool, they must be reloaded individually, and the gun chews through ammo quickly."
-enc_annihilator_prototype_stats,"クラス: Shotgun
-メーカー: <link=0>Brian Industries</link>
-FIRES: Antimatter"
-enc_annihilator_prototype_sub,super shotgun
+非常にクールなダブルバレルだが、それぞれ個別にリロードをする必要があり、弾薬の消費も早い。"
+enc_annihilator_prototype_stats,"クラス: ショットガン
+メーカー: <link=0>ブライアン・インダストリーズ</link>
+発射体: 反物質"
+enc_annihilator_prototype_sub,スーパーショットガン
 enc_annihilator_shotgun,アナイアレイター・ショットガン
 enc_annihilator_shotgun_desc,"アナイアレイター(殲滅者)ショットガンは、反物質の散弾を発射するユニークなポンプアクションショットガンだ。近距離においては想像を絶する威力を発揮するが、ペレットは空中で融解してしまうため、遠距離戦ではそれほどダメージを与えられない。
 
@@ -251,14 +251,14 @@ enc_b6454_desc,地球の派生で、完全に水に覆われている。均一�
 enc_b6454_stats,クラス: ゼノコンシミラー
 enc_b6454_sub,ノーティカ
 enc_bamm,BAMM
-enc_bamm_desc,"The BAMM is a condensation of much of <link=0>Brian's</link> research into a single wearable nuclear-powered contraption. The primary functions are the biometric sensors and medical systems, and the Hearty the Heart™ Friendly Mortality Indicator is driven by an actual artificial consciousness instilled with a fear of death.
+enc_bamm_desc,"BAMMは<link=0>ブライアン</link>の研究成果の多くを、核エネルギーで動作する一つのウェアラブルデバイスにまとめたものだ。主な機能は生体センサーと医療システムであり、ハーティ・ザ・ハート™ フレンドリー・ライフ・インジケーターは、実際に死の恐怖を持ち合わせる人工意識によって動作している。
 
-Automatic health monitoring and medical attention is just the beginning of its capabilities though, and it also includes a refined and safer-than-ever teleportation solution, opting for Alcubierre-style warp bubbles rather than the dangerous wormhole used in the Spacetime Manipulator.
+しかしヘルスモニタリングと自動治療システムは、その機能の一部に過ぎない。安全性をより向上させたテレポーティング・ソリューションも搭載しており、時空マニピュレータで用いられた危険なワームホールではなく、アルキュビエール式のワープバブルを使用している。
 
-Also includes an integrated long-range communications system,  a solid state drive storing an extensive encyclopedia of information, an inventory tracker, ammunition synthesizer, and more. "
-enc_bamm_stats,"カテゴリー: Device
-クラス: Personal"
-enc_bamm_sub,self-referential
+更には統合された長距離通信システム、広範な情報を収録したSSDドライブの図鑑、インベントリトラッカー、弾薬合成機能なども搭載している。"
+enc_bamm_stats,"カテゴリー: デバイス
+クラス: 個人"
+enc_bamm_sub,自己参照
 enc_big_crab,ビッグクラブ
 enc_big_crab_desc,ただただ巨大なカニ。地球のカニに似ているが、それよりも遥かにデカい。
 enc_big_crab_stats,"学名: ブラキュウラ・インゲンス
@@ -341,20 +341,20 @@ enc_centipod_stats,"学名: チロプロカムス・タイタヌス
 分類: FA-H:7
 "
 enc_centipod_sub,ファーストコンタクト
-enc_church_of_the_hypercube,Church of the Hypercube
-enc_church_of_the_hypercube_desc,"The Church was created by Maharishi Ghronto to worship and protect the Holy Hypercube. It is followed exclusively (due to its isolation from the rest of the world) by robot citizens of the city <link=1>Autonica.</link> Channeling the power of the Hypercube, Ghronto built the city and placed his Church in leadership. Using this same power, he built a legion of soldiers to secure the peace, and holy guards to protect the Church.
+enc_church_of_the_hypercube,ハイパーキューブ教会
+enc_church_of_the_hypercube_desc,"教会は、マハリシ・グロントが聖なるハイパーキューブを崇拝し保護するために創設した。他の世界からは隔絶しているため、その信者は<link=1>オートニカ</link>のロボット市民のみで構成されている。グロントはハイパーキューブの力を引き出すことで都市を建設し、自らが指導する教会を作り上げた。また、同じ力を使って作り出した兵士の軍団で平和を守り、ホーリーガードに教会を守らせた。
 
-The Church holds a tyrranical rule over Autonica, and it is no surprise that <link=2>an uprising</link> formed to overthrow it. "
-enc_church_of_the_hypercube_stats,"FOUNDER: <link=0>Maharishi Ghronto</link>
-DATE FOUNDED: circa 28,000 BCE
-CURRENT LEADER: <link=0>Maharishi Ghronto</link>"
-enc_church_of_the_hypercube_sub,death to the unrighteous
-enc_cleaning_drone,Sanitation Drone
-enc_cleaning_drone_desc,"Cleans messes, which usually consist of organic waste left from aliens as they are killed or contained. Equipped with a high powered laser for vaporizing material, but will not use it as a weapon even if provoked."
+教会はオートニカにおいて暴力的な支配体制を敷いており、<link=2>反乱</link>が発生するのも驚くべきことではない。"
+enc_church_of_the_hypercube_stats,"創設者: <link=0>マハリシ・グロント</link>
+創設年: 紀元前28,000年頃
+現在のリーダー: <link=0>マハリシ・グロント</link>"
+enc_church_of_the_hypercube_sub,不信心者には死を
+enc_cleaning_drone,清掃ドローン
+enc_cleaning_drone_desc,主に、エイリアンが殺されたり拘束された際に散乱した有機廃棄物を清掃する。物質を蒸発させるための高出力レーザーを装備しているが、挑発されてもそれを武器として使用することはない。
 enc_cleaning_drone_stats,"ユニット名: PW-07
-役割: Sanitation
-メーカー: <link=0>Planck Intdl.</link>"
-enc_cleaning_drone_sub,Mmhm.
+役割: 清掃
+メーカー: <link=0>プランク・インターディメンショナル</link>"
+enc_cleaning_drone_sub,はいはい。
 enc_courtesy_bot,Courtesy Bot
 enc_courtesy_bot_desc,"A variation of the Worker Bot designed to interface with humans and provide a friendly face to the mainframe. Since there are no longer any humans in the reactor, most PW-02 units have been disassembled or put into storage."
 enc_courtesy_bot_stats,"ユニット名: PW-02
