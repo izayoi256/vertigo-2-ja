@@ -8,8 +8,8 @@ bamm_coma_wakeup_caption_02,1件のメッセージを受信しています。3�
 bamm_connection_caption_00,接続を再確立しました。
 bamm_encyclopedia_caption_00,BAMMに組み込まれた「エンサイクロペディア・ブリアニカ」は、遭遇したエンティティに関する全ての関連情報を収録する図鑑システムです。
 bamm_fullHealth_caption_00,ヘルスが全快しました。
-bamm_hypercube_caption_00,"Glory eternal to the hypercube, the divine geometry. "
-bamm_hypercube_caption_01,May it carry the brilliance of the void into our realm.
+bamm_hypercube_caption_00,神聖なる幾何学、ハイパーキューブに永遠の栄光を。
+bamm_hypercube_caption_01,我らが宇宙にヴォイドの輝きを導きたまえ。
 bamm_inhospitable_caption_00,過酷な環境を検出しました。できるだけ早く生存可能な領域に戻ってください。
 bamm_inventory_caption_00,BAMMのインベントリ管理システムは、所持品を常に表示します。
 bamm_lowhealth_caption_00,警告、ヘルスが低下しています。
@@ -17,11 +17,11 @@ bamm_offlinemode_caption_00,リモートコマンドの切断を検出しまし�
 bamm_offlinemode_caption_01,自立モードの読み込みが完了しました。BAMMへようこそ！
 bamm_offlinemode_caption_02,未知の生命体、ロケーション、武器、政治団体、哲学的概念は自動的にスキャンして図鑑に登録されます。
 bamm_offlinemode_caption_03,医療およびテレポートサービスは正常に機能します。残念ながら、ネットワークと通信はオフラインです。
-bamm_shutdown_caption_00,Realmic transference complete. BAMM duty fulfilled.
-bamm_shutdown_caption_01,Initiating permanent shutdown.
-bamm_signalbreakthrough_caption_00,Alert: Signal breakthough!
-bamm_trauma_caption_00,BAMM’s technology ensures physical trauma is just temporary.
-bamm_trauma_caption_01,"The psychological impact of repeatedly receiving fatal injuries, however, will be permanent. "
+bamm_shutdown_caption_00,宇宙間転送が完了しました。BAMMの任務が達成されました。
+bamm_shutdown_caption_01,永久シャットダウンを開始します。
+bamm_signalbreakthrough_caption_00,警告: シグナルが干渉しています！
+bamm_trauma_caption_00,BAMMの技術は、肉体的なトラウマが一時的なものであることを保証します。
+bamm_trauma_caption_01,しかし、致命的なダメージを繰り返し受けることによる心理的な影響は半永久的に持続します。
 bamm_underwater_caption_00,BAMMの分子フィルターが必要に応じて水から酸素を抽出し、
 bamm_underwater_caption_01,あなたの血中へ直接供給することで水中での生存が可能となります。
 bamm_userdeath_caption_00,緊急事態。ユーザーの死が迫っています。
@@ -266,16 +266,16 @@ enc_big_crab_stats,"学名: ブラキュウラ・インゲンス
 分類: FA-H:8
 "
 enc_big_crab_sub,巨大敵性ガニ！
-enc_blafaladaciousnesticles,Blafaladaciousnesticles
-enc_blafaladaciousnesticles_desc,"An ancient blade able to strike down any heretic. Traditionally wielded only by the highest of holy warriors selected by Maharishi Ghronto.
+enc_blafaladaciousnesticles,ブラファラダシャスネスティクルズ
+enc_blafaladaciousnesticles_desc,"マハリシ・グロントに選ばれし最高の聖戦士のみが手にすることを許される、あらゆる異端者を討ち滅ぼす古代の剣。
 
-When a shard of highly refined <link=2>hypercrystal</link> is inserted into the hilt, the tip of the sword can be ejected to pierce an enemy at long range and deliver a devastating pulse of Void energy.
+高度に精錬された<link=2>ハイパークリスタル</link>を剣の柄に挿入すると剣の先端部分を射出できるようになり、遠くの敵を貫いて破壊的なヴォイドエネルギーの波動を送り込む。
 
-When near the <link=1>Holy Hypercube,</link> power is drawn directly from it, and reloading is no longer required. Otherwise, the crystal will shatter upon use."
-enc_blafaladaciousnesticles_stats,"クラス: Melee
-メーカー: <link=0>Maharishi Ghronto</link>
-FIRES: Void Energy"
-enc_blafaladaciousnesticles_sub,the blessed edge
+<link=1>聖なるハイパーキューブ</link>の近くにいる場合は、その力を直接引き出すことでリロードは不要になる。そうでない場合、クリスタルは使用時に砕け散ってしまう。"
+enc_blafaladaciousnesticles_stats,"クラス: 近接
+メーカー: <link=0>マハリシ・グロント</link>
+発射体: ヴォイドエネルギー"
+enc_blafaladaciousnesticles_sub,祝福されし刃
 enc_bonehead,ボーンヘッド
 enc_bonehead_desc,"群れでの狩りを得意とするボーンヘッドは、分厚い頭蓋骨と強固で大きい突起を持つ。走ったときの最高速度は恐るべきもので、獲物を一撃で仕留めることも珍しくない。
 
@@ -359,7 +359,7 @@ enc_courtesy_bot,Courtesy Bot
 enc_courtesy_bot_desc,"A variation of the Worker Bot designed to interface with humans and provide a friendly face to the mainframe. Since there are no longer any humans in the reactor, most PW-02 units have been disassembled or put into storage."
 enc_courtesy_bot_stats,"ユニット名: PW-02
 役割: Communication
-メーカー: <link=0>Planck Intdl.</link>
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
 enc_courtesy_bot_sub,unionize!
 enc_cubehead,キューブヘッド
@@ -370,7 +370,7 @@ enc_cubehead_stats,"学名: サイコロアタマ
 起源宇宙: J-74-スタルハイム
 分類: FA-H:1"
 enc_cubehead_sub,ガルンガ
-enc_cyberjoe,Cyberjoe
+enc_cyberjoe,サイバージョー
 enc_cyberjoe_ascendant,Cyberjoe Ascendant
 enc_cyberjoe_ascendant_desc,"A cyberjoe that has overcome its Planck programming and taken advantage of its augmentations to elevate its mind into a state of pure energy.
 
@@ -379,41 +379,41 @@ enc_cyberjoe_ascendant_stats,"ユニット名: N/A
 役割: N/A
 メーカー: N/A"
 enc_cyberjoe_ascendant_sub,unshackled
-enc_cyberjoe_desc,"A quirk of JoeJeff physiology makes them particularly suitable for cybernetic augmentation, and the Deep Labs cybernetics research division has focused their experiments on the innocuous species.
+enc_cyberjoe_desc,"ジョージェフはその生理学的特性により、サイバネティクス強化に非常に適している。そのためディープラボのサイバネティクス研究部門は、この無害な生物で実験を繰り返している。
 
-This JoeJeff has been augmented with a set of powerful mechanical arms and a mounted gun. It is brutally strong despite its small size. Neural controls have turned it loyal to Planck, and it will fight aggressively and to the death.
+サイバージェフは、据え付けられた銃とパワフルなメカニカルアームで強化されている。小さなサイズにも関わらず、非常に強力だ。神経制御装置によってプランクへの忠誠心を植え付けられ、死ぬまでアグレッシブに戦おうとする。
 
-Its thick armor renders it resistant to explosive damage, but it is weak to direct antimatter hits."
-enc_cyberjoe_runner,Cyberjoe Runner
-enc_cyberjoe_runner_desc,"This cyberjoe has been augmented with exoskeleton legs, giving it a ludicrously high top speed. Eight eyes give it a 360 degree field of vision to track targets, and its mounted gun can likewise aim in any direction.
+重厚な装甲によって爆発物への耐性を有しているが、反物質の直撃には弱い。"
+enc_cyberjoe_runner,サイバージョー・ランナー
+enc_cyberjoe_runner_desc,"このサイバージョーは外骨格の脚で強化されており、驚くべき最高速度を誇る。8個の眼と360度の視界がターゲットを追跡し、搭載された銃もあらゆる方向を狙うことが可能。
 
-Its armor is much thinner than other cyberjoes to allow it to move faster."
+他のサイバージョーよりも装甲を薄くしたことで、より速く移動できるようになった。"
 enc_cyberjoe_runner_stats,"ユニット名: CJ-01
-役割: Experimental, Combat
-メーカー: <link=0>Planck Intdl.</link>
+役割: 実験的, 戦闘
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_cyberjoe_runner_sub,run n' gun
-enc_cyberjoe_spider,Cyberjoe Spider
-enc_cyberjoe_spider_desc,"A cruel modification to this JoeJeff leaves it with little of its original will intact. Its fleshy core is dragged limply by a four-legged exoskeleton. It is armed with sharp blades and prehensile eye stalks capable of firing lasers. The design is reminiscent of <link=[quot]Mudrunner[quot]>mudrunner</link> anatomy.
+enc_cyberjoe_runner_sub,ラン&ガン
+enc_cyberjoe_spider,サイバージョー・スパイダー
+enc_cyberjoe_spider_desc,"このジョージェフに対する残虐な改造は、彼の意思のほとんどを奪い去ってしまった。中心部の身体は、四足歩行の外骨格によってぶらぶらと引きずられている。鋭利な刃と、レーザーを照射する眼柄で武装しており、そのデザインは<link=[quot]Mudrunner[quot]>マッドランナー</link>を彷彿とさせる。
 
-Its limber body makes it quite maneuverable and unpredictable."
+その柔軟な身体は、機敏かつ予測不可能な動きを実現する。"
 enc_cyberjoe_spider_stats,"ユニット名: CJ-02
-役割: Experimental, Combat
-メーカー: <link=0>Planck Intdl.</link>
+役割: 実験的, 戦闘
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_cyberjoe_spider_sub,arachno-joe
+enc_cyberjoe_spider_sub,アラクノ・ジョー
 enc_cyberjoe_stats,"ユニット名: CJ-00
-役割: Experimental, Combat
-メーカー: <link=0>Planck Intdl.</link>
+役割: 実験的, 戦闘
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_cyberjoe_sub,shoot it until it dies
-enc_cyberjoseph,Cyberjoseph
-enc_cyberjoseph_desc,"Cyberjoseph is a cybernetic platform that augments a recently deceased Joseph Jeffrey corpse, bringing the raw power of Joseph Jeffrey under a pilot's control. It is equipped with a state-of-the-art plasma cannon, an MLRS, and a devastating central pulse laser--in addition to its hefty limbs which are weapons in their own right.
+enc_cyberjoe_sub,死ぬまで撃ち続けろ
+enc_cyberjoseph,サイバージョセフ
+enc_cyberjoseph_desc,"サイバージョセフは、最近死亡したジョセフ・ジェフリーの遺体を強化するサイバネティクスプラットフォームで、パイロットはジョセフ・ジェフリーの漲る力をコントロールできるようになる。最先端のプラズマキャノン、多連装ロケットシステム、そして圧倒的な破壊力を誇るパルスレーザーを装備しており、その巨大な肢体自体も十分な脅威となる。
 
 The creation of Cyberjoseph depends on the creation and subsequent killing of a Joseph Jeffrey, which is no small task. Once raised, it only has a few hours of operation before the Joseph's biomass begins to lose vitality. Because of the complicated creation process, but considering its immense combat ability, Planck decided to only consider deploying one in an absolute worst case scenario."
 enc_cyberjoseph_stats,"ユニット名: CJ-9000
 役割: Experimental, Combat
-メーカー: <link=0>Planck Intdl.</link>
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
 enc_cyberjoseph_sub,final stand
 enc_datamasts,Datamasts
@@ -457,7 +457,7 @@ If fired continuously for a long period, the energy will grow harder to control.
 When near the <link=1>Holy Hypercube,</link> power is drawn directly from it, and reloading is no longer required."
 enc_enlightenment_stats,"クラス: Battle Rifle
 メーカー: <link=0>Church of the Hypercube</link>
-FIRES: Void Energy"
+発射体 Void Energy"
 enc_enlightenment_sub,glory to the hypercube
 enc_f-18-hades,F-18-ハデス
 enc_f-18-hades_desc,この地球は潮汐が固定されているため極端な気候をしていて、昼夜の境界付近の地表には居住可能なエリアがいくらか存在する。潮汐ロックによる地殻変動ストレスの増加は、広大な地下洞窟が惑星全体に及んでいることを意味し、多くの生物がこの地下迷宮で暮らしている。
@@ -533,7 +533,7 @@ enc_gordle_pun_desc,"An odd looking prototype device <link=0>Brian</link> stole 
 Those shot by this gun appear to be teleported to an unknown location."
 enc_gordle_pun_stats,"クラス: Unassigned
 メーカー: Lenticular Laboratories
-FIRES: Unknkown"
+発射体 Unknkown"
 enc_gordle_pun_sub,now you're thinking with Gordles
 enc_great_sea,グレートオーシャン
 enc_great_sea_desc,地下の巨大な貯水池であるグレートオーシャンは、広大で謎に満ちている。その水中には様々な水棲エイリアンが生息しており、深海には怪物が潜んでいることは疑いようがない。解放の泉が流れ込んでいることが知られているが、その広大さから他の水源も存在すると考えられている。
@@ -611,7 +611,7 @@ The increase in durability comes at the cost of mobility and intelligence, and i
 Its topheavy build is vulnerable to explosions, which can knock it down easily, if temporarily."
 enc_heavy_security_bot_stats,"ユニット名: PS-R2
 役割: Security - Heavy
-メーカー: <link=0>Planck Intdl.</link>
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
 enc_heavy_security_bot_sub,Beeg
 enc_henrique,Henrique
@@ -737,48 +737,48 @@ enc_joejeff_stats,"学名: Joe Jeff
 分類: FA-H:1
 "
 enc_joejeff_sub,so nice we named him twice
-enc_josephjeffrey,Joseph Jeffrey
-enc_josephjeffrey_desc,"Joseph Jeffrey is the final stage of the <link=1>JoeJeff</link> life cycle. When a population of JoeJeffs reaches a certain size, they are drawn together and their biomass combines to create a single enormous entity. There is no known maximum size, as more JoeJeffs can be absorbed at any time.
+enc_josephjeffrey,ジョセフ・ジェフリー
+enc_josephjeffrey_desc,"<link=1>ジョージェフ</link>のライフサイクルにおける最終段階がジョセフ・ジェフリーだ。ジョージェフの集団が一定の規模に達すると、彼らは引き寄せられてバイオマスが結合し、一つの巨大なエンティティへと合体する。時間の許す限りジョージェフを吸収しうるため、最大サイズは未知である。
 
-Joseph Jeffrey exhibits much more aggressive behaviour than the individual joes, possibly acting as a protector for the species.
+ジョセフ・ジェフリーは個々のジョージェフよりもはるかに攻撃的なふるまいを見せ、種を守るために行動することがある。
 
-In their <link=0>homeworld,</link> a single unimaginably large Joseph is said to roam the earth."
-enc_josephjeffrey_stats,"学名: Joe Jeffrey
-起源宇宙: <link=0>J-74-Stalheim</link>
+彼らの起源宇宙では、想像を絶するほど巨大な1体のジョセフが地球をさまよっているとされている。"
+enc_josephjeffrey_stats,"学名: ジョー・ジェフリー
+起源宇宙: <link=0>J-74-スタルヘイム</link>
 分類: FA-H:8
 "
-enc_josephjeffrey_sub,king of the joes
-enc_kauboi,Kauboi
-enc_kauboi_desc,"A wanted man back in <link=1>The Void</link>, Kauboi has gone rogue and no longer serves the Void Delegation. His motivations, besides a general opposition to the Delegation, are unclear.
+enc_josephjeffrey_sub,キングオブジョーズ
+enc_kauboi,カウボーイ
+enc_kauboi_desc,"かつて<link=1>ヴォイド</link>を追われたカウボーイは野に下り、もはやヴォイド・デレゲーションに仕える身ではなくなった。彼の表向きの行動原理はデレゲーションへの反抗だが、それ以外の理由は不明だ。
 
-He is said to hide himself in the universe known as Aether when not causing mischief."
-enc_kauboi_stats,"種族: <link=0>Realmwalker</link>
-年齢: > 15 Billion years
-ALLEGIANCE: Rogue
+悪事を働いていない時は、エーテルと呼ばれる宇宙に身を隠していると言われている。"
+enc_kauboi_stats,"種族: <link=0>レルムウォーカー</link>
+年齢: 150億年以上
+所属: 在野
 "
-enc_kauboi_sub,B O P P E
-enc_kauboi's_revolver,Kauboi's Revolver
-enc_kauboi's_revolver_desc,"Kauboi's precious revolver, also known as the Tetrelix.
+enc_kauboi_sub,ボペボペボペ
+enc_kauboi's_revolver,カウボーイのリボルバー
+enc_kauboi's_revolver_desc,"カウボーイの比類なきリボルバーは、テトリリックスとも呼ばれている。
 
-Its unique semi-planar design allows four dimensional ammo compatibility in a weapon otherwise designed to interface with three dimensional beings. Its inner workings are unknown, but it fires devastating hyperdimensional spheres that oscillate between our universe and higher planes.
+本来は三次元的存在用のインターフェースを前提とした武器だが、そのユニークな半平面的設計により、四次元的弾薬の互換性がある。内部構造は不明だが、我々の宇宙とより高次元空間の間で振動する壮絶な超次元的球体を発射する。
 
-The only weapon powerful enough to kill a being of the Void."
-enc_kauboi's_revolver_stats,"クラス: Sidearm
-メーカー: <link=0>Kauboi</link>
-FIRES: Unknown"
-enc_kauboi's_revolver_sub,the chosen gun
+ヴォイドの存在を倒すに足る、唯一の武器だ。"
+enc_kauboi's_revolver_stats,"クラス: サイドアーム
+メーカー: <link=0>カウボーイ</link>
+発射体: 不明"
+enc_kauboi's_revolver_sub,選ばれし銃
 enc_launch_lily,ランチャーリリー
 enc_launch_lily_desc,捕食者を吹き飛ばして遠ざけるという、ユニークな防衛戦略を持ったエイリアン食物。丈夫な枝はバネ状に曲がっていて、加わる振動がわずかなものであっても発射機構を作動させる。
 enc_launch_lily_stats,"カテゴリー: 食物
 クラス: エイリアン"
 enc_launch_lily_sub,上へ参ります
-enc_lresa,L'resa
-enc_lresa_desc,"L'resa is a captain in the Church's army. She was built with a stolen tactical processing chip from Planck's robot assembly lines, and is a vital figure in the civil war. Her small size lets her perform reconnaisance with ease, but she is unfortunately not built to fight."
-enc_lresa_stats,"種族: Robot
+enc_lresa,エル・レーザ
+enc_lresa_desc,エル・レーザは教会軍の指揮官だ。プランクのロボットアセンブリーから盗まれた戦術処理チップを使って製造された彼女は、内戦における重要人物だ。サイズが小さいため偵察任務を得意とするが、残念ながら戦闘用には設計されていない。
+enc_lresa_stats,"種族: ロボット
 年齢: 18
-ALLEGIANCE: <link=0>Church of the Hypercube</link>
+所属: <link=0>ハイパーキューブ教会</link>
 "
-enc_lresa_sub,tacticool
+enc_lresa_sub,タクティクール
 enc_macrophage,マクロファージ
 enc_macrophage_desc,"マクロファージは<link=1>ビッグフィッシュ</link>の免疫機構の一部を担う共生生物で、宿主の体内に入ったあらゆる寄生生物を捕食する。宿主が巨大であるため、大型動物も捕食の対象となる。
 
@@ -813,39 +813,40 @@ enc_maurice_stats,"学名: Unassigned
 起源宇宙: Unknown
 分類: FA-H:6"
 enc_maurice_sub,get mauriced
-enc_meat_nailer,Meat Nailer Railgun
-enc_meat_nailer_desc,"The Meat Nailer is an experimental compact railgun which fires ultra-dense tungsten spikes. This weapon will obliterate most targets with a single shot, and can penetrate entire groups of enemies with ease.
+enc_meat_nailer,ミートネイラー・レールガン
+enc_meat_nailer_desc,"ミートネイラーは、超高密度タングステン弾を発射する実験的なコンパクトレールガンだ。ほぼ全ての目標を一撃で吹き飛ばし、敵集団を容易に貫通する。
 
-Designed in the Deep Labs weapons division, this prototype was lent to cybernetics for armor penetration testing."
-enc_meat_nailer_stats,"クラス: Artillery
-メーカー: <link=0>Planck Interdimensional</link>
-FIRES: Tungsten spikes"
-enc_meat_nailer_sub,compensation
-enc_mk.2_security_drone,Mk.2 Security Drone
-enc_mk.2_security_drone_desc,"The Mk. II security drone is easily the cutest robot in the Planck lineup. Armed with unimpressive light plasma guns, it does not pose a major threat.
+ディープラボの武器部門で設計されたこのプロトタイプは、耐貫通装甲のテスト用にサイバネティクスに貸し出されていた。"
+enc_meat_nailer_stats,"クラス: 大砲
+メーカー: <link=0>プランク・インターディメンショナル</link>
+発射体: タングステン弾"
+enc_meat_nailer_sub,保証なし
+enc_mk.2_security_drone,Mk.2 セキュリティドローン
+enc_mk.2_security_drone_desc,"Mk. II セキュリティドローンは、プランクのラインナップの中で最も可愛らしいロボットと言って間違いない。地味な軽プラズマガンを装備しているが、大した脅威にはならない。
 
-One of the weaker bots that are placed on higher floors for show."
+見せかけのために上層に配置された、弱いセキュリティボットの一つ。"
 enc_mk.2_security_drone_stats,"ユニット名: PHS-02-O
-役割: Security
-メーカー: <link=0>Planck Intdl.</link>
+役割: セキュリティ
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_mk.2_security_drone_sub,iconic
-enc_mk.3_security_drone,Mk.3 Security Drone
-enc_mk.3_security_drone_desc,"The Mk. III is a clumsy, awkward humanoid, designed to be manufactured cheaply. It is fairly well armed with an integrated plasma pistol and baton, making it flexible at close to medium range.
-One of the weaker security bots placed on the upper floors, but is reasonably capable of dispatching aliens."
+enc_mk.2_security_drone_sub,マスコットキャラ
+enc_mk.3_security_drone,Mk.3 セキュリティドローン
+enc_mk.3_security_drone_desc,"Mk.IIIは、安価に製造できるよう設計された不器用でぎこちないヒューマノイドだ。プラズマピストルとバトンで武装していて、近距離から中距離に対応できる。
+
+上層に配置される弱いセキュリティボットの一つだが、エイリアンを適切に排除するだけの能力は有している。"
 enc_mk.3_security_drone_stats,"ユニット名: PHS-03-H
 役割: Security
-メーカー: <link=0>Planck Intdl.</link>
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_mk.3_security_drone_sub,clumsy bot
-enc_mk.i_security_drone,Mk.I Security Drone
-enc_mk.i_security_drone_desc,"A small, very mobile, [quot]less than lethal[quot] security bot.
-One of the weak security bots placed on the higher floors for show."
+enc_mk.3_security_drone_sub,不器用ボット
+enc_mk.i_security_drone,Mk.I セキュリティドローン
+enc_mk.i_security_drone_desc,"小型で機動力のある、「非殺傷」のセキュリティボット。
+見せかけのために上層に配置された、弱いセキュリティボットの一つ。"
 enc_mk.i_security_drone_stats,"ユニット名: PHS-01-J
-役割: Security
-メーカー: <link=0>Planck Intdl.</link>
+役割: セキュリティ
+メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_mk.i_security_drone_sub,jumping taser
+enc_mk.i_security_drone_sub,飛ぶテーザーガン
 enc_mudrunner,マッドランナー
 enc_mudrunner_desc,"マッドランナーはリアクター周辺の一部地域で大きな勢力を持つ、非常に侵略性の強い種族だ。コロニー内には、トンネル掘り、兵隊、斥候といった様々な役割に特化した個体が存在する。
 
@@ -878,7 +879,7 @@ enc_nostalgic_pistol_desc,"A basic self-loading plasma pistol designed to be use
 Not very powerful, but holds a certain sentimental value."
 enc_nostalgic_pistol_stats,"クラス: Sidearm
 メーカー: <link=0>Planck Interdimensional</link>
-FIRES: Plasma"
+発射体 Plasma"
 enc_nostalgic_pistol_sub,oh the memories...
 enc_officer_bot,オフィサーボット
 enc_officer_bot_desc,"PS-1Aは軽量シャーシに大型の外部コマンドユニット(やや重要バランスを崩している原因でもある)を搭載したモデルだ。洗練された戦術チップと液冷式ニューラルプロセッサーにより、ロボット分隊を高度な操作で効果的に指揮する。
@@ -920,13 +921,13 @@ enc_planck_interdimensional_stats,"創設者: マックス・プランク
 創設年: 1930
 現在のリーダー: エミリー・プランク"
 enc_planck_interdimensional_sub,物語にはメガコーポがつきもの
-enc_planck_internal_transit_system,Planck Internal Transit System
-enc_planck_internal_transit_system_desc,"The PITS is the transit system linking the lower floors of the reactor together. It is quite capable, as it had to ferry hundreds of employees to and from their work stations during the Reactor's construction. It was built in a particularly porous section of rock, with ancient lava tubes forming natural cave networks.
+enc_planck_internal_transit_system,プランク内部輸送システム
+enc_planck_internal_transit_system_desc,"Planck Internal Transit System、略してPITSはリアクターの下層階をつなぐ輸送システムだ。リアクターの建設中に何百人もの従業員を輸送しなければならなかったため、相当のキャパシティを持つ。特に多孔質の岩石部分を掘って造られたもので、大昔の溶岩洞が自然の洞窟ネットワークを形成している。
 
-Its hardy infrastructure is still functional even after a year of disuse."
-enc_planck_internal_transit_system_stats,"LOCALE: <link=0>Quantum Reactor VII</link>
+その堅牢なインフラストラクチャーは、未使用期間が1年に及んでも未だに機能している。"
+enc_planck_internal_transit_system_stats,"ロケーション: <link=0>クォンタムリアクターVII</link>
 "
-enc_planck_internal_transit_system_sub,please keep your arthropods on a leash
+enc_planck_internal_transit_system_sub,節足動物類はリードを着用してお乗りください
 enc_primal_handyman,原始ハンド人
 enc_primal_handyman_desc,"未発達な<link=1>テクビ・サピエンス</link>である原始ハンド人は脳の体積が小さく、また複数の亜種が存在する。彼らは極めて攻撃的で、獲物を引き裂くためにその腕を使う。
 
@@ -1269,7 +1270,7 @@ enc_worker_bot_desc,"Now that the reactor core is active, human deaths from radi
 No combat capabilities to speak of."
 enc_worker_bot_stats,"ユニット名: PW-00
 役割: Laborer
-メーカー: <link=0>Planck Intdl.</link>"
+メーカー: <link=0>プランク・インターディメンショナル</link>"
 enc_worker_bot_sub,unionize!
 enc_xynfly,Xynfly
 enc_xynfly_desc,"An unremarkable, if very large, insect. Displays wasp-like colony building behaviour, but is not dangerous, armed only with a weak bite. Has a highly developed sense of sight, and uses bioluminescent signals to communicate over large distances where pheromones are not viable.
