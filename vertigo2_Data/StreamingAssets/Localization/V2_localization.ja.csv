@@ -92,7 +92,7 @@ Lee Truman"
 credits_nasa,"Earth Textures via NASA Visible Earth
 Space skybox via NASA/Goddard Space Flight Center Scientific Visualization Studio
 "
-credits_newgameplus,New Game Plus is now available
+credits_newgameplus,ニューゲーム+で遊べるようになりました。
 credits_specialthanks,Special Thanks:
 credits_thanks,Thanks for playing!
 credits_vocals,"Theme Song Vocals
@@ -185,7 +185,7 @@ enc_ak47_stats,"クラス: バトルライフル
 発射体: 弾丸"
 enc_ak47_sub,反逆の定番
 enc_alien-infested_caves,エイリアンの巣食う洞窟
-enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキュリティによって排除されるが、リアクターの近くに位置する洞窟内で物質交換現象が発生しエイリアンが現れることもある。プランクのセキュリティがいないため、そこなら生命が繁殖できるのだ。異なる並行宇宙からやってきた生命体たちは互いに適応しあい、長年に渡って地下に豊かな生態系が形成している。
+enc_alien-infested_caves_desc,施設内に出現するエイリアンはセキュリティによって排除されるが、リアクターの近くに位置する洞窟内で物質転移現象が発生しエイリアンが現れることもある。プランクのセキュリティがいないため、そこなら生命が繁殖できるのだ。異なる並行宇宙からやってきた生命体たちは互いに適応しあい、長年に渡って地下に豊かな生態系が形成している。
 enc_alien-infested_caves_stats,"ロケーション: <link=0>PITS付近</link>
 "
 enc_alien-infested_caves_sub,生命に不可能はない
@@ -1295,7 +1295,7 @@ encCat_Weapons,武器
 gun_altershock,オルターショック
 gun_annihilator,アナイアレイター
 gun_ionizer,イオナイザー
-gun_meatnailer,Meat Nailer
+gun_meatnailer,ミートネイラー
 gun_phagelauncher,ファージランチャー
 gun_trident,トライデント
 intro_theend,The End
@@ -1430,7 +1430,7 @@ lastPlayed,前回プレイ:
 left,左
 loading,Loading
 menu_achievements,実績
-menu_active,ACTIVE
+menu_active,アクティブ
 menu_bossSelect,ボス選択
 menu_chapterSelect,チャプター選択
 menu_characterchangeinfo,キャラクター選択はゲームクリア後に開放されます！
@@ -1453,15 +1453,15 @@ menu_failedStats,プレイデータの取得に失敗しました。
 menu_gameComplete,ゲームクリア
 menu_gamepaused,中断したゲーム
 menu_globalstats,グローバルデータ
-menu_inactive,INACTIVE
+menu_inactive,非アクティブ
 menu_loadCheck,チェックポイントをロードする
 menu_loadCheckpoint,チェックポイントをロードする
 menu_localstats,プレイデータ
 menu_mainmenu,メインメニュー
-menu_modstations,Weapon Mod Stations:
+menu_modstations,武器改造ステーション:
 menu_newsavetitle,新規セーブスロット
 menu_nocheckpoints,チェックポイントがありません！
-menu_notowned,NOT OWNED
+menu_notowned,未所有
 menu_ok,ok
 menu_opensavedir,"セーブフォルダを開く
 (VR外)
@@ -1489,21 +1489,21 @@ menu_upgradeProg,アップグレード状況:
 menu_weaponmods,改造パーツ
 menu_weaponmodselect,武器を選択してください
 menu_weaponmodsynth,改造パーツ合成装置
-outpost_admin,Security Admin
-outpost_liftinglockdown,Lifting Lockdown...
-outpost_liftlockdown,Lift Lockdown
-outpost_lockdown,Outpost has automatically locked down after 100 days of human inactivity
-outpost_logs,"9/13/2015 - Final magma valve maintenence pass
-9/14/2015 - All magma valves opened permanently
-9/16/2015 - Outpost crew reduced to minimal
-9/26/2015 - Minor MXE. Security dispatched life form without incident
-10/8/2015 - Crew fully evacuated, outpost enters autonomous mode
-10/25/2015 - Reactor startup. Systems entering sleep mode. Further events will not be recorded. Query mainframe with unit code RCGO_39711 for futher data"
-outpost_logsTitle,Security Logs
-outpost_return,Return
-outpost_security,Security
-outpost_stats,Statistics
-outpost_title,Geothermal Outpost III
+outpost_admin,セキュリティ管理者
+outpost_liftinglockdown,ロックダウンを解除中……
+outpost_liftlockdown,ロックダウンを解除する
+outpost_lockdown,非アクティブ状態が100日続いたため、アウトポストは自動的にロックダウンされました。
+outpost_logs,"2015/09/13 - マグマバルブの最終メンテナンスが完了
+2015/09/14 - 全マグマバルブの永久開放
+2015/09/16 - 最低限のクルーを残してアウトポストから避難
+2015/09/26 - 小規模な物質転移現象が発生。セキュリティが無事に対応
+2015/10/08 - 全クルーの避難が完了。アウトポストが自立モードに移行
+2015/10/25 - リアクター起動。システムがスリープモードに移行。これ以降のイベントは記録されません。詳細なデータはユニットコードRCGO_39711でメインフレームに問い合わせてください。"
+outpost_logsTitle,セキュリティログ
+outpost_return,戻る
+outpost_security,セキュリティ
+outpost_stats,統計
+outpost_title,地熱地帯アウトポストIII
 popup_collect,コレクションに追加しました！
 popup_enc,図鑑が更新されました！
 popup_save,セーブが完了しました
@@ -1617,71 +1617,71 @@ spec_third,三人称視点
 spec_tilt,傾き低減
 spec_timer,タイマー表示
 stage_assembly,Assembly Required
-stage_assembly_summary,"Sonja explores the robot assembly floor, searching for a way to unlock the sealed Core."
+stage_assembly_summary,封鎖されたコアに入るため、ソニアはロボットアセンブリーを探索することにした。
 stage_bonvoyage,Bon Voyage
-stage_bonvoyage_summary,Brian briefs Sonja on how to return to her home universe.
-stage_centaur,Centaur
-stage_centaur_summary,A mighty security robot with thick armor and a very large cannon.
+stage_bonvoyage_summary,ブライアンは、ソニアが元いた宇宙に帰る方法を説明するが……。
+stage_centaur,セントール
+stage_centaur_summary,強固な装甲と巨大なキャノン砲を備えた、強力なセキュリティロボット。
 stage_crucible,Crucible
-stage_crucible_summary,Things begin to heat up deeper in the Recycling Center.
+stage_crucible_summary,リサイクルセンターの奥底で、事態は過熱しはじめる。
 stage_datamast,Datamast Repair
-stage_datamast_summary,"In the aftermath of the destructive core cycle, Brian sends Sonja on a repair mission that quickly goes awry."
+stage_datamast_summary,コアの破壊的なサイクルが続く中、ソニアはブライアンに修理の任務を命じられた。
 stage_degeneratematter,Degenerate Matter
-stage_degeneratematter_summary,"Sonja returns to the reactor, but finds the core has been destabilized by her actions in the Deep Labs."
-stage_doublecentaur,Double Centaur
-stage_doublecentaur_summary,An unfair fight against two centaurs.
+stage_degeneratematter_summary,リアクターに戻ったソニアは、ディープラボで取った行動がコアを不安定化させていたことを知った。
+stage_doublecentaur,ツイン・セントール
+stage_doublecentaur_summary,2機のセントールが相手のアンフェアな戦闘。
 stage_eventhorizon,Event Horizon
-stage_eventhorizon_summary,"At long last, Sonja arrives at the reactor core."
+stage_eventhorizon_summary,ついに、ソニアはリアクターコアに辿り着いた。
 stage_familiarhalls,Familiar Halls
-stage_familiarhalls_summary,"Back in the quantum reactor proper, Sonja begins to explore the recycling center."
-stage_fishbrain,Fish Brain
-stage_fishbrain_summary,"A fish's brain, defended by its immune system."
-stage_ghronto,Maharishi Ghronto
-stage_ghronto_summary,Leader of the Church of the Hypercube.
-stage_ghronto_warning,Warning: replaying this fight will override your allegiance to be with the Rebels.
+stage_familiarhalls_summary,クォンタムリアクターに戻ったソニアは、リサイクルセンターの探索を開始する。
+stage_fishbrain,フィッシュ・ブレイン
+stage_fishbrain_summary,免疫機構に守られた、魚の脳。
+stage_ghronto,マハリシ・グロント
+stage_ghronto_summary,ハイパーキューブ教会を統べる者。
+stage_ghronto_warning,警告: この戦闘をプレイすると、あなたの所属は反乱軍で上書きされます。
 stage_grandtour,Grand Tour
-stage_grandtour_summary,Therus shows Sonja around Brian Industries.
+stage_grandtour_summary,セラスはソニアにブライアン・インダストリーズの案内をする。
 stage_heartoftheforest,Heart of the Forest
-stage_heartoftheforest_summary,"Sonja finds that alien life from the reactor has colonized a vast cavern. She encounters Nani, who will help her for a price."
-stage_hummingbird,Hummingbird
-stage_hummingbird_summary,An advanced and agile security robot.
-stage_igneosaur,Igneosaur
-stage_igneosaur_summary,"An escaped alien, the molten igneosaur."
-stage_josephjeffrey,Joseph Jeffrey
-stage_josephjeffrey_summary,Planck's final line of defense.
+stage_heartoftheforest_summary,ソニアは、リアクターに出現したエイリアンが繁殖する広大な洞窟を発見した。そこで出会ったナニーは、手助けの対価として、あるものを要求するのであった。
+stage_hummingbird,ハミングバード
+stage_hummingbird_summary,最新鋭の高機動セキュリティロボット。
+stage_igneosaur,イグニオザウルス
+stage_igneosaur_summary,脱走して溶岩に潜むイグニオザウルス。
+stage_josephjeffrey,ジョセフ・ジェフリー
+stage_josephjeffrey_summary,プランクの最終防衛ライン。
 stage_maurice,Maurice
 stage_maurice_summary,A malicious stone face.
 stage_nyx,Nyx
-stage_nyx_summary,"An apocalyptically large crab derails Sonja's train, plunging her into an isolated and dangerous natural cave system."
+stage_nyx_summary,巨大なカニが列車を脱線させてしまった。ソニアが落下した先は危険な自然洞窟だった。
 stage_offarail,Off a Rail
-stage_offarail_summary,"Sonja has finally reached the transit system, but Planck security is beginning to intensify."
+stage_offarail_summary,ついに輸送システムへと辿り着いたソニアだったが、プランクの警戒網が強化されはじめた。
 stage_pescatarian,Pescatarian
-stage_pescatarian_summary,"After being swallowed whole by a leviathan, Sonja makes an unlikely ally or two. Together, thay attempt to find a way out."
+stage_pescatarian_summary,巨大な生物に丸呑みにされてしまった。そこで思いがけない味方を一人(あるいは二人)得たソニアは、協力して出口を見つけることにした。
 stage_playground,Playground
 stage_quarantine,Quarantine
-stage_quarantine_summary,"A core cycle causes aliens to teleport into Brian Industries, wreaking minor havoc."
+stage_quarantine_summary,コアのサイクルによってテレポートしてきたエイリアンたちが、ブライアン・インダストリーズを襲う。
 stage_realmwalker,Realmwalker
-stage_realmwalker_summary,"Sonja activates the Vortex Propagator, but finds herself even more lost than before."
-stage_rebirth,Rebirth
-stage_rebirth_summary,Sonja awakens in a secret headquarters after narrowly surviving a fall deep into the Quantum Reactor.
+stage_realmwalker_summary,ソニアはヴォルテックス・プロパゲーターを起動するが、彼女の旅路はますます混迷を極める。
+stage_rebirth,新生
+stage_rebirth_summary,クォンタムリアクターの奥深くへと突き落とされたソニア。辛くも生き延びた彼女は、秘密のアジトで目を覚ました。
 stage_reunion,A Friendly Reunion
-stage_reunion_summary,"Finally across Great Sea, Sonja traverses a hot spring and meets up with some old friends."
-stage_saplord,Saplord
-stage_saplord_summary,The avatar of the Hearttree.
-stage_seer,The Seer
-stage_seer_summary,A corrupted worker bot possessing a statue.
-stage_sintho,General Sintho
-stage_sintho_summary,Leader of the Automata Collective.
-stage_sintho_warning,Warning: replaying this fight will override your allegiance to be with the Church.
+stage_reunion_summary,ついにグレートオーシャンを渡ったソニアはホットスプリングを抜け、懐かしい友人たちと再会する。
+stage_saplord,サプリンロード
+stage_saplord_summary,ハートツリーの化身
+stage_seer,預言者
+stage_seer_summary,巨像を操る堕落したワーカーボット。
+stage_sintho,シントー将軍
+stage_sintho_summary,オートマタ・コレクティブの指導者。
+stage_sintho_warning,警告: この戦闘をプレイすると、あなたの所属は教会で上書きされます。
 stage_thediplomat,The Diplomat
-stage_thediplomat_summary,"A city of defected security robots is locked in a violent civil war, and Sonja must help them resolve it if she has any hope of continuing her journey."
+stage_thediplomat_summary,ソニアが流れ着いた先は、内戦に揺れるセキュリティロボットの街。旅を続けるためには、内戦に手を貸さなければならない。
 stage_thegreatsea,The Great Sea
-stage_thegreatsea_summary,Sonja crosses a vast subterranean ocean on a small rusty catamaran. Surely nothing will go wrong.
-stage_thevertigoinitiative,The Vertigo Initiative
-stage_thevertigoinitiative_summary,"On Brian's command, Sonja enters a secret laboratory near the reactor core."
-stage_vladimir,Vladimir
-stage_vladimir_summary,"A tamed bonehead monarch, pet of the Automata Collective."
-stage_vladimir_warning,Warning: replaying this fight will override your allegiance to be with the Rebels.
+stage_thegreatsea_summary,小さなボロ船で地下の大海原を往くソニア。きっと問題は起きないだろう。
+stage_thevertigoinitiative,ヴァーティゴ・イニシアチブ
+stage_thevertigoinitiative_summary,ブライアンの指示で、ソニアはリアクターコア近くの秘密のラボへと足を踏み入れる。
+stage_vladimir,ウラジーミル
+stage_vladimir_summary,オートマタ・コレクティブに飼い馴らされたボーンヘッド・モナーク。
+stage_vladimir_warning,警告: この戦闘をプレイすると、あなたの所属は反乱軍で上書きされます。
 t_daysAgo,{0}日前
 t_hoursAgo,{0}時間前
 t_minutesAgo,{0}分前
@@ -1700,12 +1700,12 @@ tooltip_hud_donotdisturb,すべてのHUDを非表示にする
 tooltip_hud_immersive,世界観に合うHUDのみ表示する
 tooltip_jump,ジャンプボタンを有効化。必須じゃない、けど楽しい。
 tooltip_mirrorinput,左利き用に入力設定を左右入れ替える。
-tooltip_newgameplus,"When New Game Plus is enabled:
+tooltip_newgameplus,"ニューゲーム+を有効にすると、
 
--  All weapons are available in all chapters
--  Ammo for Kauboi's Revolver can be synthesized
--  Enemies are more powerful
--  BAMM does not restore health"
+-  全チャプターで全武器が利用可能になります
+-  カウボーイのリボルバーの弾薬が合成されます
+-  エネミーが強力になります
+-  BAMMの自然回復がなくなります"
 tooltip_progressnotes,進捗ポップアップを表示する。例: 図鑑登録通知
 tooltip_seasick,ボートや車両の揺れを低減する。
 tooltip_seatedmode,床の高さをオーバーライドし、しゃがみボタンを有効にする。
@@ -1755,7 +1755,7 @@ upgrade_ionizer_suppressor,サプレッサー
 upgrade_ionizer_suppressor_desc,発射音で気付かれなくなるサプレッサー。弾速はわずかに遅くなりますが、ダメージは変わりません。
 upgrade_meatnailer_ammo,弾薬アップグレード
 upgrade_meatnailer_ammo_desc,弾薬の合成容量をアップグレードします。
-upgrade_meatnailer_bullettime,コンセントレーター
+upgrade_meatnailer_bullettime,コンセントレイター
 upgrade_meatnailer_bullettime_desc,実験的な精神インターフェース。照準時に主観的時間感覚を遅らせる。トリガー半押しで発動。
 upgrade_phage_ammoCounter,残弾数カウンター
 upgrade_phage_ammoCounter_desc,マクロファージが体内に保有する爆弾の数を検出するインプラントデバイス。
@@ -2539,8 +2539,8 @@ gentlehand_greatsea_0_phonecall_caption_10,あなたは利用されているの�
 gentlehand_greatsea_0_phonecall_caption_11,ハイパーキューブを求めて押し寄せた奴らは、すべてを根絶やしにしてしまうでしょう。
 gentlehand_greatsea_0_phonecall_caption_12,お願いですから、コアを利用するのはおやめください。
 gentlehand_greatsea_0_phonecall_caption_13,セラスも、ブライアンも、そしてナニーでさえも知り得ない方法があるのです。
-gentlehand_greatsea_0_phonecall_caption_14,ディープラボには反対称性ヴォルテックス拡散装置と呼ばれるものがございます。
-gentlehand_greatsea_0_phonecall_caption_15,ヴォルテックス拡散装置の稼働は目前で、それを使えば並行宇宙間の移動も叶うと確信しております。
+gentlehand_greatsea_0_phonecall_caption_14,ディープラボには反対称性ヴォルテックス・プロパゲーターと呼ばれる装置がございます。
+gentlehand_greatsea_0_phonecall_caption_15,ヴォルテックス・プロパゲーターの稼働は目前で、それを使えば並行宇宙間の移動も叶うと確信しております。
 gentlehand_greatsea_0_phonecall_caption_16,装置を見つけたら、なんとしても稼働させるのです。
 gentlehand_greatsea_0_phonecall_caption_17,あなたはこの宇宙に永遠に別れを告げ、デリゲーションの計画は頓挫し、みなが救われるのです。
 gentlehand_greatsea_0_phonecall_caption_18,"何をするにも、ブライアンに伝えてはなりません。デレゲーションに与するナニーが、あなたをコアへ導くようブライアンに命じたのです。
@@ -3535,7 +3535,7 @@ worker_testing_10_faceplate_caption_01,さぁ、こちらへ。フェイスプ�
 worker_testing_11_alien_caption_00,どういうこと？！ セキュリティボットじゃない！ エイリアンだったの！
 worker_testing_11_alien_caption_01,あぁ、神よ、エイリアンをテストに通したことが知れたら私まで分解されてしまう。
 worker_testing_11_alien_caption_02,ねぇ、このユニットはスクラップ済みで登録するから、私を見逃してオフィスから出ていってくれない？
-worker_testing_11_alien_caption_03,廊下を出て左に行くと倉庫がある。そこではいつも物質交換現象が発生してるから、あなたがテストを通ったことはバレないはず。
+worker_testing_11_alien_caption_03,廊下を出て左に行くと倉庫がある。そこではいつも物質転移現象が発生してるから、あなたがテストを通ったことはバレないはず。
 worker_testing_11_alien_caption_04,セキュリティには通報しないから触らないでください。
 worker_testing_12_getout_caption_00,エイリアンがこのオフィスにいることがセキュリティに知れたら洒落にならないから、早く出ていって。
 ACH_GET_GUN,危ないヤツ
