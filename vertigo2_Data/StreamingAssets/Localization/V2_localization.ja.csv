@@ -954,25 +954,24 @@ enc_quantum_encryption_key_desc,"完全なセキュリティを提供する量�
 enc_quantum_encryption_key_stats,"カテゴリー: デバイス
 クラス: セキュリティ"
 enc_quantum_encryption_key_sub,量子ビット
-enc_quantum_juice,Quantum Juice
-enc_quantum_juice_desc,"An artificial substance designed to contain and transport spatiotemporal irregularity. Spacetime within Quantum Juice can be tangled and distorted, and it has a number of uses in addition to storing vast amounts of energy.
+enc_quantum_juice,クォンタムジュース
+enc_quantum_juice_desc,"時空の非規則性を内包して運搬するために、人工的に設計された物質。クォンタムジュース内の時空は絡まったり歪んだりする可能性があり、膨大なエネルギーを蓄えるだけでなく、様々な用途がある。
 
-<link=0>Brian's</link> prototype Spacetime Manipulator used  QJ for a number of its functions. Due to its instability and unreliability however, and the large quantities required for advanced functions, Brian abandoned the use of QJ in the <link=1>BAMM.</link>
+<link=0>ブライアン</link>が作った時空マニピュレータのプロトタイプは、その多くの機能でクォンタムジュースを利用していた。しかしその信頼性の低さと不安定さ、そして高度な機能では大量のジュースを必要とすることから、<link=1>BAMM</link>ではクォンタムジュースの利用を廃止した。
 
-Although it is said to be delicious, drinking Quantum Juice is not recommended.
+美味であるとの噂だが、クォンタムジュースの飲用は非推奨である。
 
-It is tempting though."
-enc_quantum_juice_stats,"カテゴリー: Substance
-クラス: Exotic"
-enc_quantum_juice_sub,delicious and nutritious
-enc_quantum_reactor_vii,Quantum Reactor VII
-enc_quantum_reactor_vii_desc,"Quantum Reactor VII is the latest power plant built by Planck Interdimensional Energy Solutions. It is built completely underground, within and under Mt. Olympus, in the pacific northwest.
-Like all quantum reactors, it generates energy by exploiting spacetime instabilities in and surrounding a small black hole. It tears open spacetime in carefully orchestrated cycles, leaking vast amounts of energy from different universes. This energy is stored in enourmous flywheels, and then distributed into the power grid.
+飲んでみたい気持ちは、とてもわかる。"
+enc_quantum_juice_stats,"カテゴリー: 物質
+クラス: エキゾチック"
+enc_quantum_juice_sub,美味しくって栄養満点
+enc_quantum_reactor_vii,クォンタムリアクターVII
+enc_quantum_reactor_vii_desc,"クォンタムリアクターVIIは、プランク・インターディメンショナル・エネルギーソリューションによって建設された最新の発電所だ。施設はすべて地下に建設され、太平洋の北西に位置するオリンポス山の内部と地下に位置している。
+他のクォンタムリアクターと同様、小さなブラックホールの中と周囲の時空の不安定性を利用してエネルギーを作り出している。精密に調整したサイクルの中で時空を引き裂き、異なる宇宙から大量のエネルギーを漏出させる。このエネルギーは巨大なフライホイールに蓄えられた後、パワーグリッドに送電される。
 
-It took a thousands of people to build such a device, so a facility was built alongside the reactor to house engineers, architects, and construction workers. Now that the reactor is active, the people have all left, and automated security forces roam the abandoned halls, clearing the aliens that leak in from other universes as a side effect of quantum energy production."
-enc_quantum_reactor_vii_stats,"LOCALE: Mt. Olympus, Washington
-"
-enc_quantum_reactor_vii_sub,suspend your disbelief
+このような施設の建設には数千人の人員を要したため、エンジニアや建築士、建設作業員を住まわせるための施設がリアクターの隣に建てられた。リアクターが稼働している現在は誰も住んでおらず、自動化されたセキュリティ部隊が廃墟の通路を歩き回り、クォンタムエネルギー生成の副産物として他の宇宙から漏出したエイリアンを排除している。"
+enc_quantum_reactor_vii_stats,ロケーション: ワシントン州オリンポス山
+enc_quantum_reactor_vii_sub,不信の停止
 enc_reactor_core,Reactor Core
 enc_reactor_core_desc,"A spherical chamber two kilometers across, with a black hole gravitationally suspended at the center. The core's walls are covered in graviton wavefront inhibitors, which control core cycles and shield the rest of the reactor from the black hole's effects.
 
