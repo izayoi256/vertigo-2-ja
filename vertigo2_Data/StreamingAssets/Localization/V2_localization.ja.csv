@@ -146,7 +146,7 @@ enc_acid_handyman_sub,すっぱい
 enc_æther,ヱーテル
 enc_æther_desc,"ヱーテルが初めて発見された並行宇宙の一つであることは、その異常な性質を考えると奇妙なことだ。未知の光源から常に光を浴びている真っ白で広大な空間。地球と同様の大気と重力を有しているにもかかわらず、地面は全く歪曲していないことが実験から明らかになり、これは無限平面を示唆している。
 
-多種多様な生物が生息しており、遺伝的な類似性はほとんど見られない。特に注目すべきは最も優勢である知的生命体の<link=0>ヱーテルバック</link>で、原始的な部族や遊牧民が存在する。
+多種多様な生物が生息しており、遺伝的な類似性はほとんど見られない。特に注目すべきは優占種である知的生命体の<link=0>ヱーテルバック</link>で、原始的な部族や遊牧民が存在する。
 
 その特異な構成と次元連続体内の主要な位置づけから、ヱーテルは未知の人工構造物であると推測されている。繁栄した古代文明の痕跡も見つかっているが、遠い昔に滅びてしまったようだ。"
 enc_æther_stats,クラス: スカル・ディスハーモニック
@@ -408,57 +408,59 @@ enc_cyberjoe_stats,"ユニット名: CJ-00
 "
 enc_cyberjoe_sub,死ぬまで撃ち続けろ
 enc_cyberjoseph,サイバージョセフ
-enc_cyberjoseph_desc,"サイバージョセフは、最近死亡したジョセフ・ジェフリーの遺体を強化するサイバネティクスプラットフォームで、パイロットはジョセフ・ジェフリーの漲る力をコントロールできるようになる。最先端のプラズマキャノン、多連装ロケットシステム、そして圧倒的な破壊力を誇るパルスレーザーを装備しており、その巨大な肢体自体も十分な脅威となる。
+enc_cyberjoseph_desc,"サイバージョセフは、ジョセフ・ジェフリーの遺体を強化するサイバネティクスプラットフォームで、パイロットはジョセフ・ジェフリーの漲る力をコントロールできるようになる。最先端のプラズマキャノン、多連装ロケットシステム、そして圧倒的な破壊力を誇るパルスレーザーを装備しており、その巨大な肢体自体も十分な脅威となる。
 
-The creation of Cyberjoseph depends on the creation and subsequent killing of a Joseph Jeffrey, which is no small task. Once raised, it only has a few hours of operation before the Joseph's biomass begins to lose vitality. Because of the complicated creation process, but considering its immense combat ability, Planck decided to only consider deploying one in an absolute worst case scenario."
+サイバージョセフを完成させるには、ジョセフ・ジェフリーの出現と殺害が必要で、この要件を満たすのは容易なことではない。完成したとしても、運用時間はジョセフのバイオマスが生命力を失い始めるまでのわずか数時間に限られる。絶大な戦闘能力を加味しても、その複雑な過程を補うことは難しく、プランクは最悪のシナリオにおける運用のみを想定している。
+"
 enc_cyberjoseph_stats,"ユニット名: CJ-9000
-役割: Experimental, Combat
+役割: 実験的, 戦闘
 メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_cyberjoseph_sub,final stand
-enc_datamasts,Datamasts
-enc_datamasts_desc,"The datamasts are giant information conduits that connect the reactor's network to the outside world. They run through a tall, otherwise unused cave adjacent to the recycling center. "
-enc_datamasts_stats,"LOCALE: <link=0>Quantum Reactor VII</link>, near <link=1>Recycling Center</link>
+enc_cyberjoseph_sub,最終手段
+enc_datamasts,データマスト
+enc_datamasts_desc,"データマストは、リアクター内のネットワークを外部の世界とつなぐ巨大な情報伝送施設だ。リサイクルセンターに隣接する、天井の高い洞窟を通っている。
 "
-enc_datamasts_sub,dial up
-enc_deep_labs,Deep Labs
-enc_deep_labs_desc,"A set of secret laboratories concealed deep underground and shielded from both outside probing and the primary effects of the Reactor's nearby core. All research within the Reactor is hidden from the outside world and the general public, but the activity in the deep labs is restricted to only the most senior Planck staff.
+enc_datamasts_stats,"ロケーション: <link=1>リサイクルセンター</link>付近の<link=0>クォンタムリアクターVII</link>
+"
+enc_datamasts_sub,ダイヤルアップ接続
+enc_deep_labs,ディープラボ
+enc_deep_labs_desc,"外部の目を欺くため地下深くに建設された研究施設で、コア付近のリアクターの影響から遮断されている。リアクター内におけるすべての研究は外部や一般人から秘匿されているが、中でもディープラボの活動はプランクの最上級スタッフにしか公開されていない。
 
-Surprisingly, <link=0>Brian</link> is unaware of the activities within, suggesting that <link=3>Planck</link> might not rely on him as much as he would like to believe."
-enc_deep_labs_stats,"LOCALE: <link=[quot]Locations/Quantum Reactor VII[quot]>Quantum Reactor VII,</link> near the <link=1>core.</link>"
-enc_deep_labs_sub,secret science
-enc_domicilium_alpha,Domicilium Alpha
-enc_domicilium_alpha_desc,Home to <link=0>Planck</link> and <link=1>Brian.</link> <link=2>Humans</link> are the dominant and only known sentient species. The most technologically advanced known civilisation. One of the few universes home to sapient life.
-enc_domicilium_alpha_stats,クラス: Cunabulus
-enc_domicilium_alpha_sub,egocentric
-enc_drong,Dröng
-enc_drong_desc,"A mostly harmless herbivore. With a towering stature of over 15 meters, Dröng have little to fear from predators.
+驚くべきことに、<link=0>ブライアン</link>はディープラボの研究内容を知らなかった。ブライアン自身が思っていたよりも、<link=3>プランク</link>に信用されていなかったことが伺える。"
+enc_deep_labs_stats,ロケーション: <link=1>コア</link>付近の<link=[quot]Locations/Quantum Reactor VII[quot]>クォンタムリアクターVII</link>
+enc_deep_labs_sub,秘密の科学
+enc_domicilium_alpha,ドミシリウム・アルファ
+enc_domicilium_alpha_desc,<link=0>プランク</link>と<link=1>ブライアン</link>の起源宇宙。<link=2>ヒト</link>が優占種かつ唯一の近く種族。既知の文明の中では最も技術的に進んでいて、知性を持つ生命体が存在する数少ない宇宙の一つ。
+enc_domicilium_alpha_stats,クラス: クナブラス
+enc_domicilium_alpha_sub,エゴイスティック
+enc_drong,ドロング
+enc_drong_desc,"ほぼ無害な草食動物。全長15メートル以上にも及ぶ巨大なドロングには、捕食者もほとんどいない。
 
-Their most unique features are their giant horns (which are filled with air and used for communication) and their magnetically levitated spines (which are purely decorational)."
-enc_drong_stats,"学名: Cantisaurus
-起源宇宙: <link=0>438-Eurydice</link>
+巨大な角(空気で満たされていてコミュニケーションに用いる)と、磁気で浮遊する脊柱(装飾以外の用途はない)がユニークな特徴だ。"
+enc_drong_stats,"学名: カンティザウルス
+起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:3
 "
-enc_drong_sub,gentle giants
-enc_ember_soul,Ember Soul
-enc_ember_soul_desc,"Ember souls are highly invasive life forms from the molten stone seas of tidally locked F-18-Hades. They thrive in lava, but are able to burrow through solid rock as well as locomote on dry land.
+enc_drong_sub,優しき巨人
+enc_ember_soul,エンバーソウル
+enc_ember_soul_desc,"エンバーソウルは、潮汐ロックのF-18-Hadesにおける溶岩海に生息する侵略性が非常に高い生命体だ。溶岩の中で繁殖するが、岩盤を掘り進むことも、乾燥地帯を移動することも可能。
 
-They have been common in the recycling center for years, long before most other alien species appeared in the reactor, due to their rapid reproduction, and the fact they can only be contained when not hiding in magma."
-enc_ember_soul_stats,"学名: Igneohominem veteris
-起源宇宙: <link=0>F-18-Hades</link>
+繁殖力が強く、また溶岩から出てきた時にしか収容できないため、リアクターに他のエイリアンが出現するよりずっと前からリサイクルセンターで数を増やしていた。"
+enc_ember_soul_stats,"学名: イグニオホミネム・ベテリス
+起源宇宙: <link=0>F-18-ハデス</link>
 分類: FA-H:3-NC
 "
-enc_ember_soul_sub,hot chip
-enc_enlightenment,Enlightenment
-enc_enlightenment_desc,"A weapon which uses arcane technology to produce beams of Void energy from a hypercrystal. Like all Church weaponry, the firing mechanism is prayer, and only true believers can use weapons such as these.
+enc_ember_soul_sub,いまホットなシリコンチップ
+enc_enlightenment,エンライトメント
+enc_enlightenment_desc,"ハイパークリスタルからヴォイドエネルギーのビームを作り出す、秘密技術を利用した武器。他の教会の武器と同様、発射機構は祈りであり、真の信者だけがこういった武器を扱える。
 
-If fired continuously for a long period, the energy will grow harder to control.
+発射の継続時間が長くなるにつれ、エネルギーの制御が難しくなっていく。
 
-When near the <link=1>Holy Hypercube,</link> power is drawn directly from it, and reloading is no longer required."
-enc_enlightenment_stats,"クラス: Battle Rifle
-メーカー: <link=0>Church of the Hypercube</link>
-発射体 Void Energy"
-enc_enlightenment_sub,glory to the hypercube
+<link=1>聖なるハイパーキューブ</link>の近くにいる場合は、その力を直接引き出すことでリロードは不要になる。"
+enc_enlightenment_stats,"クラス: バトルライフル
+メーカー: <link=0>ハイパーキューブ教会</link>
+発射体: ヴォイドエネルギー"
+enc_enlightenment_sub,ハイパーキューブの栄光
 enc_f-18-hades,F-18-ハデス
 enc_f-18-hades_desc,この地球は潮汐が固定されているため極端な気候をしていて、昼夜の境界付近の地表には居住可能なエリアがいくらか存在する。潮汐ロックによる地殻変動ストレスの増加は、広大な地下洞窟が惑星全体に及んでいることを意味し、多くの生物がこの地下迷宮で暮らしている。
 enc_f-18-hades_stats,クラス: スカル・ハーモニック
@@ -509,17 +511,17 @@ enc_general_sintho_stats,"種族: ロボット
 所属: <link=0>オートマタ・コレクティブ</link>
 "
 enc_general_sintho_sub,プロレタリアートの独裁
-enc_gentlehand,Gentlehand
-enc_gentlehand_desc,"One of the few sapient aliens. Gentlehand is a vigilante for fellow aliens in the reactor, and tries to protect them from internal security. He is willing to go to great lengths for this goal, even dropping you down an elevator shaft, which he believed would save the rest of the aliens in the reactor.
+enc_gentlehand,ジェントルハンド
+enc_gentlehand_desc,"知性を持つ数少ないエイリアンの一人であるジェントルハンドは、リアクター内に生息するエイリアンをセキュリティ部隊から守ろうとする守護者だ。その目的のために、あなたをエレベーターシャフトに落とすという過激な手段に出るほど意思が固い。
 
-He may occasionally harm more than help, but he's one of the few around with no ulterior motive to speak of.
+あなたを手助けすることもあり、またそれ以上に厄介な存在になることもあるが、裏の思惑が一切ないという点では数少ない存在の一人だ。
 
-Brian has been desperately trying to capture him for years for research, but he remains elusive."
-enc_gentlehand_stats,"種族: <link=0>Handyman</link>
+ブライアンは長年、研究のために彼を捕らえようとしてきたが、うまく逃げおおせている。"
+enc_gentlehand_stats,"種族: <link=0>ハンド人</link>
 年齢: 35
-ALLEGIANCE: Rogue
+所属: 在野
 "
-enc_gentlehand_sub,old friend
+enc_gentlehand_sub,旧友
 enc_giant_fish,ビッグフィッシュ
 enc_giant_fish_desc,この魚はグレートオーシャンに棲息しており、その生態はほとんど知られていない。まれに水面に現れる際、船をまるごと飲み込んでしまうことがある。哺乳類の特徴を持っているようで、噴気孔の存在が確認されている。
 enc_giant_fish_stats,"学名: メガロピスカトゥス・カピルス
@@ -527,27 +529,27 @@ enc_giant_fish_stats,"学名: メガロピスカトゥス・カピルス
 分類: FA-H:8
 "
 enc_giant_fish_sub,ごっくん
-enc_gordle_pun,Gordle Pun
-enc_gordle_pun_desc,"An odd looking prototype device <link=0>Brian</link> stole years ago. Seems to have partial functionality.
+enc_gordle_pun,ゴーダルパン
+enc_gordle_pun_desc,"数年前に<link=0>ブライアン</link>が盗み出した、プロトタイプのデバイス。一部の機能が動作していないらしい。
 
-Those shot by this gun appear to be teleported to an unknown location."
-enc_gordle_pun_stats,"クラス: Unassigned
-メーカー: Lenticular Laboratories
-発射体 Unknkown"
+この銃で撃たれた者は、どこかへテレポートしてしまうようだ。"
+enc_gordle_pun_stats,"クラス: 未分類
+メーカー: デパチャー・ラボラトリー
+発射体: 不明"
 enc_gordle_pun_sub,now you're thinking with Gordles
 enc_great_sea,グレートオーシャン
 enc_great_sea_desc,地下の巨大な貯水池であるグレートオーシャンは、広大で謎に満ちている。その水中には様々な水棲エイリアンが生息しており、深海には怪物が潜んでいることは疑いようがない。解放の泉が流れ込んでいることが知られているが、その広大さから他の水源も存在すると考えられている。
 enc_great_sea_stats,ロケーション: <link=0>クォンタムリアクターVII付近</link>
 enc_great_sea_sub,思ったより深い
-enc_gremlin,Gremlin
-enc_gremlin_desc,"Gremlins are small scavengers. They are quite common and, fortunately, not dangerous. Their limber, primate-like anatomy makes them mobile, and they are also capable of basic tool use. They do not possess the psychokinetic abilities of <link=1>Trolls,</link> another species of gremlin, despite their relation.
+enc_gremlin,グレムリン
+enc_gremlin_desc,"グレムリンは小型のスカベンジャーだ。非常に数が多く、幸いにも危険はない。霊長類に似た体格は移動に適しており、基本的な道具を使うことも可能。<link=1>トロール</link>とも関連性はあるが、サイコキネシス能力は持っていない。
 
-Gremlins are social creatures, and will defend as a group if one of their number is attacked."
-enc_gremlin_stats,"学名: Gremlus Articulus
+社会性のある生き物で、仲間が攻撃されると団結して身を守ろうとする。"
+enc_gremlin_stats,"学名: グレムラス・アーティキュラス
 起源宇宙: <link=0>438-Eurydice</link>
 分類: FA-H:1
 "
-enc_gremlin_sub,frog legs
+enc_gremlin_sub,カエルの脚みたい
 enc_gremlin_witch,Gremlin Witch
 enc_gremlin_witch_desc,"A <link=1>gremlin</link> which has undergone extensive training - and possibly enhancement - granting it minor psychokinetic ability. Theorized to be the product of the intelligent <link=2>Trolls</link> in their home universe.
 
@@ -603,24 +605,25 @@ enc_hearttree_desc,"ハートツリーはエイリアンの巣食う洞窟内に
 enc_hearttree_stats,"ロケーション: <link=0>エイリアンの巣食う洞窟</link>
 "
 enc_hearttree_sub,森の中心
-enc_heavy_security_bot,Heavy Security Bot
-enc_heavy_security_bot_desc,"The PS-R2 is a heavily armored chassis standing around 2.2m tall. Eequipped with a combat shotgun or grenade launcher, it can often be found clearing a path for its squadron or guarding high security areas.
+enc_heavy_security_bot,重装セキュリティボット
+enc_heavy_security_bot_desc,"PS-R2は全高2.2メートルで重装甲シャーシを採用している。ショットガンやグレネードランチャーを装備していて、部隊の先陣を切る役割を担ったり、重点警戒区域に配属されることが多い。
 
-The increase in durability comes at the cost of mobility and intelligence, and its independent tactics consist of little more than walking toward a target and shooting. The PS-R2 is more than capable of withstanding a slugging of small arms fire before critical components are jeopardized.
+耐久性の向上には、機動力と知能の低下という弊害を伴う。PS-R2の戦術は、ターゲットに向かって歩いて射撃するだけのものだ。しかし小火器相手であれば、重要部品を破壊されるまでの間に十分な時間を稼ぐことができる。
 
-Its topheavy build is vulnerable to explosions, which can knock it down easily, if temporarily."
+重心が高い構造をしているため爆発物に弱く、一時的なダウンを奪うことができる。"
 enc_heavy_security_bot_stats,"ユニット名: PS-R2
-役割: Security - Heavy
+役割: セキュリティ - 重装
 メーカー: <link=0>プランク・インターディメンショナル</link>
 "
-enc_heavy_security_bot_sub,Beeg
-enc_henrique,Henrique
-enc_henrique_desc,"Henrique is a field agent for the Void Delegation. Originally deployed to pursue the Void outlaw <link=2>Kauboi</link>, he discovered an artifact in this universe that is of great significance to the Void. Now he's on a more important mission: to initiate a ritual that will allow the Void to reclaim this artifact."
-enc_henrique_stats,"種族: <link=0>Realmwalker</link>
-年齢: > 8 Billion years
-ALLEGIANCE: <link=1>Void Delegation</link>
+enc_heavy_security_bot_sub,ビーッグ
+enc_henrique,ヘンリケ
+enc_henrique_desc,"ヘンリケはヴォイド・デレゲーションのエージェントだ。もともとはヴォイドの指名手配犯である<link=2>カウボーイ</link>を追跡するために派遣されたが、ヴォイドにとって重要な意味を持つアーティファクトをこの宇宙で発見した。現在は、ヴォイドが再びアーティファクトを手に入れるための儀式を行なう、より重要な任務に就いている。
 "
-enc_henrique_sub,headhunter
+enc_henrique_stats,"種族: <link=0>レルムウォーカー</link>
+年齢: 80億年以上
+所属: <link=1>ヴォイド・デレゲーション</link>
+"
+enc_henrique_sub,ヘッドハンター
 enc_hexasuchus,ヘキサスクス
 enc_hexasuchus_desc,"いわゆるクロコダイルに非常に似ている種だが、6つのヒレと眼を持っている。これが、収斂進化と分岐進化のどちらの結果であるかははっきりしない。
 
@@ -629,12 +632,12 @@ enc_hexasuchus_stats,"学名: ヘキサスクス・ラヴァンドラ
 起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:5"
 enc_hexasuchus_sub,ヘックイェーイ
-enc_hideous_growth,Hideous Growth
-enc_hideous_growth_desc,"A disgusting fungal mass that thrives in the crevices of stagnant, unused pipes. If it accumulates large enough, it seems to develop some intelligence."
-enc_hideous_growth_stats,"学名: <unassigned>
-起源宇宙: <link=0>182-kappa</link>
+enc_hideous_growth,びだびだ
+enc_hideous_growth_desc,未使用のまま放置されたパイプの隙間で繁殖する、得体の知れない菌類の塊。これが大量に蓄積すると、一定の知能が発達するようだ。
+enc_hideous_growth_stats,"学名: 未命名
+起源宇宙: <link=0>182-カッパ</link>
 分類: FA-H:2-S"
-enc_hideous_growth_sub,milky
+enc_hideous_growth_sub,ミルキー
 enc_holy_guard,ホーリーガード
 enc_holy_guard_desc,"<link=1>ハイパーキューブ教会</link>を守るために製造された、強力で威圧的なロボット。マハリシに絶対的な忠誠を誓う。ハイパーサイズと呼ばれる武器はホーリーガードのみが扱うことを許され、長距離ではエネルギー攻撃を発射、短距離では金属をも切り裂く斬撃を繰り出す。
 
@@ -667,8 +670,8 @@ enc_hot_springs_desc,グレートオーシャンの北岸に位置する地熱�
 enc_hot_springs_stats,"ロケーション: <link=0>グレートオーシャン (北岸)</link>
 "
 enc_hot_springs_sub,温泉日和！
-enc_human,人間
-enc_human_desc,"人間はこの宇宙、またはヴェトス-4宇宙に生息する。遺伝的な類似点は非常に多い。
+enc_human,ヒト
+enc_human_desc,"ヒトはこの宇宙、またはヴェトス-4宇宙に生息する。遺伝的な類似点は非常に多い。
 
 特筆すべき個体: <link=0>ブライアン</link>"
 enc_human_stats,"学名: ホモ・サピエンス
@@ -684,11 +687,11 @@ enc_hummingbird_stats,"ユニット名: PS-7-H
 メーカー: <link=0>プランク・インターディメンショナル</link>
 "
 enc_hummingbird_sub,戦場に新鮮な卵をお届け
-enc_hypercrystal,Hypercrystal
-enc_hypercrystal_desc,"Condensed material from the energy exuded by the <link=2>Holy Hypercube.</link> Hypercrystals contain a massive concentration of power, but this power is only accessible using technology created by <link=0>Maharishi Ghronto.</link> Hypercrystals form anywhere near <link=1>Autonica,</link> where the Hypercube itself lies."
-enc_hypercrystal_stats,"カテゴリー: Substance
-クラス: Exotic"
-enc_hypercrystal_sub,shiny!
+enc_hypercrystal,ハイパークリスタル
+enc_hypercrystal_desc,<link=2>聖なるハイパーキューブ</link>から生じたエネルギーが凝縮した物質。ハイパークリスタルは膨大なパワーを内包しているが、それを利用できるのは<link=0>マハリシ・グロント</link>が生み出したテクノロジーのみである。ハイパークリスタルは、ハイパーキューブが存在する<link=1>オートニカ</link>付近であれば、どこでも生成される。
+enc_hypercrystal_stats,"カテゴリー: 物質
+クラス: エキゾチック"
+enc_hypercrystal_sub,キラキラ！
 enc_igneosaur,イグニオザウルス
 enc_igneosaur_desc,"希少生物のイグニオザウルスは、神出鬼没のハンターだ。F-18-ハデスにおける地球は潮汐ロックで、その日向の側に生息している。他に類を見ないシリコンベースの生命体で、摂氏800度を超える環境で暮らしている。彼らが暮らす溶岩の中に存在する鉱物を摂取するだけで生きていけるが、狩りを楽しむために溶岩を出て、過熱した分泌物で獲物を殺す。しかし長時間溶岩から出ていると身体が冷えて固まってしまうため、狩りの旅は短い。
 
@@ -706,12 +709,12 @@ enc_ionizer_handgun_stats,"クラス: サイドアーム
 メーカー: <link=0>フロストバイト・アーマメント</link>
 発射体: プラズマ"
 enc_ionizer_handgun_sub,フィニッシャーピストル
-enc_j-74-stalheim,J-74-Stalheim
-enc_j-74-stalheim_desc,"An Earth dominated by a single 種族: the <link=0>JoeJeff.</link>
+enc_j-74-stalheim,J-74-スタルヘイム
+enc_j-74-stalheim_desc,"<link=0>ジョージェフ</link>という単一の種族に支配されている地球。
 
-The landscape is otherwise recognizable, and it is unknown how such a strange creature came to inhabit a relatively nondivergent universe."
-enc_j-74-stalheim_stats,クラス: Xeno-Proximal
-enc_j-74-stalheim_sub,joejeff homeworld
+似たような宇宙、似たような地球で、なぜこのように奇妙な生物が生息するに至ったかは謎である。"
+enc_j-74-stalheim_stats,クラス: ゼノプロクシマル
+enc_j-74-stalheim_sub,ジョージェフの故郷
 enc_jelleye,ジェルアイ
 enc_jelleye_desc,"ジェルアイはF-18-ハデスの深く冷たい洞窟に生息する小型の捕食者だ。浮揚ガスで満たされた袋で浮遊し、体のほとんどを大きな眼球が占める。この目玉は暗闇に適応しており、非常に鋭敏な視覚を持つ。
 
@@ -728,15 +731,15 @@ enc_jetbird_stats,"学名: ハデスフクロドリ
 分類: FA-H:1
 "
 enc_jetbird_sub,ただしジェットは尻から出る
-enc_joejeff,JoeJeff
-enc_joejeff_desc,"A quiet and docile creature. JoeJeffs have medium intelligence but live a simple scavenger lifestyle in the wild. Their legs and feet have the appearence of blue jeans and shoes, but this is actually their skin. Along with their perfectly square heads, this makes scientists speculate they may be an artificially bred organism.
+enc_joejeff,ジョージェフ
+enc_joejeff_desc,"静かでおとなしい生物。ジージェフは中程度の知能を持ちながら、野生ではただのスカベンジャーとして生活している。彼らの下半身はブルージーンズと靴を履いているように見えるが、実際には皮膚である。正立方体の頭部を持つことから、科学者たちはジョージェフが人為的な交配による産物であると推測している。
 
-JoeJeffs have been the subject of some study due to their odd and unique physiology."
-enc_joejeff_stats,"学名: Joe Jeff
-起源宇宙: <link=0>J-74-Stalheim</link>
+ジョージェフは、その奇妙でユニークな生理学的特性から、一部の研究の対象になっている。"
+enc_joejeff_stats,"学名: ジョー・ジェフ
+起源宇宙: <link=0>J-74-スタルヘイム</link>
 分類: FA-H:1
 "
-enc_joejeff_sub,so nice we named him twice
+enc_joejeff_sub,素敵な名前だね
 enc_josephjeffrey,ジョセフ・ジェフリー
 enc_josephjeffrey_desc,"<link=1>ジョージェフ</link>のライフサイクルにおける最終段階がジョセフ・ジェフリーだ。ジョージェフの集団が一定の規模に達すると、彼らは引き寄せられてバイオマスが結合し、一つの巨大なエンティティへと合体する。時間の許す限りジョージェフを吸収しうるため、最大サイズは未知である。
 
@@ -879,7 +882,7 @@ enc_nostalgic_pistol_desc,"A basic self-loading plasma pistol designed to be use
 Not very powerful, but holds a certain sentimental value."
 enc_nostalgic_pistol_stats,"クラス: Sidearm
 メーカー: <link=0>Planck Interdimensional</link>
-発射体 Plasma"
+発射体: Plasma"
 enc_nostalgic_pistol_sub,oh the memories...
 enc_officer_bot,オフィサーボット
 enc_officer_bot_desc,"PS-1Aは軽量シャーシに大型の外部コマンドユニット(やや重要バランスを崩している原因でもある)を搭載したモデルだ。洗練された戦術チップと液冷式ニューラルプロセッサーにより、ロボット分隊を高度な操作で効果的に指揮する。
@@ -1212,16 +1215,16 @@ enc_vermisaur_stats,"学名: オオアゴヴァーミザウルス
 分類: FA-H:3
 "
 enc_vermisaur_sub,食べられそう
-enc_vertigo_initiative,Vertigo Initiative
-enc_vertigo_initiative_desc,"The Vertigo Initiative is a shadowy movement by an elite group of researchers to break scientific boundaries and explore alternate universes. At the current stage, they are focused on creating a reliable gateway between realities, and it is likely they have had success with this.
+enc_vertigo_initiative,ヴァーティゴ・イニシアチブ
+enc_vertigo_initiative_desc,"ヴァーティゴ・イニシアチブは、科学の限界を突破し、並行宇宙を探索するためのエリート研究者グループによる地下活動だ。現在は宇宙間をつなぐ安定的なゲートウェイを作ることに焦点を当てている段階で、この目標は達成している可能性が高い。
 
-Operating under Emily Planck in the bowels of the secret <link=0>Deep Labs</link> of Quantum Reactor VII, they carry out their work completely unknown to the rest of the world.
+クォンタムリアクターVIIの<link=0>ディープラボ</link>内でエミリー・プランクの指導のもと、世間の目を完全に欺いて研究を進めている。
 
-Even <link=1>Brian</link> had no knowledge of their work."
-enc_vertigo_initiative_stats,"FOUNDER: Emily Planck
-DATE FOUNDED: 2002
-CURRENT LEADER: Emily Planck"
-enc_vertigo_initiative_sub,name dropper
+<link=1>ブライアン</link>でさえも、彼らの研究内容を知らなかった。"
+enc_vertigo_initiative_stats,"創設者: エミリー・プランク
+創設年: 2002
+現在のリーダー: エミリー・プランク"
+enc_vertigo_initiative_sub,タイトル回収
 enc_vetus-2,Vetus-2
 enc_vetus-2_desc,Earth is undergoing an ice age. Homo sapiens extinct and neandarthals are the dominant species.
 enc_vetus-2_stats,クラス: Exo-Proximal
