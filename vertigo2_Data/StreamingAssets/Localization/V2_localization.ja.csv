@@ -972,21 +972,19 @@ enc_quantum_reactor_vii_desc,"クォンタムリアクターVIIは、プラン�
 このような施設の建設には数千人の人員を要したため、エンジニアや建築士、建設作業員を住まわせるための施設がリアクターの隣に建てられた。リアクターが稼働している現在は誰も住んでおらず、自動化されたセキュリティ部隊が廃墟の通路を歩き回り、クォンタムエネルギー生成の副産物として他の宇宙から漏出したエイリアンを排除している。"
 enc_quantum_reactor_vii_stats,ロケーション: ワシントン州オリンポス山
 enc_quantum_reactor_vii_sub,不信の停止
-enc_reactor_core,Reactor Core
-enc_reactor_core_desc,"A spherical chamber two kilometers across, with a black hole gravitationally suspended at the center. The core's walls are covered in graviton wavefront inhibitors, which control core cycles and shield the rest of the reactor from the black hole's effects.
-
+enc_reactor_core,リアクターコア
+enc_reactor_core_desc,"直径2キロメートルにも及ぶ球形のチャンバーで、中心には重力を無効化したブラックホールが据えられている。コアの壁面は重力子波面インヒビターで覆われており、これがコアのサイクルを制御するとともに、リアクターをブラックホールの影響から保護する役割を持っている。
 "
-enc_reactor_core_stats,"LOCALE: <link=0>Quantum Reactor VII</link>
-"
-enc_reactor_core_sub,singularity
-enc_realmwalker,Realmwalker
-enc_realmwalker_desc,"Realmwalkers are extradimensional entities originating in <link=0>The Void.</link> Unlike all other Void denizens, they have the power to move between universes at will, and can even adopt temporary material forms.
+enc_reactor_core_stats,ロケーション: <link=0>クォンタムリアクターVII</link>
+enc_reactor_core_sub,シンギュラリティ
+enc_realmwalker,レルムウォーカー
+enc_realmwalker_desc,"レルムウォーカーは<link=0>ヴォイド</link>を起源とする超次元エンティティの総称である。他のヴォイド生物とは異なり、宇宙間を自在に移動する能力を持ち、一時的に実体化することもできる。
 
-They posess limited power to interact with our worlds, and these interactions take tremendous energy, so they prefer to sway our fate with careful manipulation."
+他の宇宙に干渉する力を持っているが、その影響力は限定的であり、また莫大なエネルギーを必要とする。そのため、誰かの運命に影響を与える際は慎重に事を運ぼうとする。"
 enc_realmwalker_stats,"学名: N/A
 起源宇宙: N/A
-分類: Unassigned"
-enc_realmwalker_sub,a higher existence
+分類: 未分類"
+enc_realmwalker_sub,高次存在
 enc_recycling_center,リサイクルセンター
 enc_recycling_center_desc,"リサイクルセンターはリアクターの廃棄物処理施設だ。運搬されてきたゴミ、壊れたロボット、有機的な破片などは全てここで溶かされる。再利用可能な資源はアセンブリーに回されるが、大部分は地球のマントルに廃棄される。
 
@@ -1001,13 +999,13 @@ enc_robot_assembly_desc,"既存のセキュリティロボットが壊れた際�
 enc_robot_assembly_stats,"ロケーション: <link=0>クォンタムリアクターVII</link>
 "
 enc_robot_assembly_sub,早い、硬い、強い、上手い
-enc_ruptipod,Ruptipod
-enc_ruptipod_desc,A very territorial crustacean. The female Ruptipod hurls its explosive eggs as part of a convoluted reproductive process. It can also defend itself by spraying a venomous fluid from enlarged pores on its back and shoulders.
-enc_ruptipod_stats,"学名: Sepiida Ruptis
+enc_ruptipod,ラプティポッド
+enc_ruptipod_desc,縄張り意識が非常に強い甲殻類。メスのラプティポッドは、複雑な生殖過程の一環として爆発する卵を投げつける。また、背中や肩の孔から毒液を噴き出して身を守ろうとする。
+enc_ruptipod_stats,"学名: ハゼコウイカ
 起源宇宙: <link=0>B6454</link>
 分類: FA-H:5
 "
-enc_ruptipod_sub,woop woop woop
+enc_ruptipod_sub,ポイポイポイ
 enc_sapling,サプリン兵
 enc_sapling_desc,"ハートツリーが備える防衛機構の一つ。サプリン兵はツリーがエネルギーを注入した樹液の塊で、ハートフルーツを守るためだけに命を与えられている。ツリーの木材を用いた原始的な武器をよく用いる。
 
@@ -1028,15 +1026,14 @@ enc_saplord_stats,"学名: N/A
 起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:7"
 enc_saplord_sub,ツリーに語りかけます
-enc_security_stronghold,Security Stronghold
-enc_security_stronghold_desc,"Security strongholds are the final layer of security protecting the reactor core. They are a hub for security activity, a choke point for core access, and a physical barrier all in one.
+enc_security_stronghold,セキュリティ本陣
+enc_security_stronghold_desc,"セキュリティ本陣はリアクターコアを守る最終防衛ラインだ。ここはセキュリティ活動の拠点であり、コアへの要衝であり、物理的な関門でもある。
 
-Access is controlled through four independently manned command offices. In normal circumstances, any attempt to break in to one could be quickly shut down by any of the other three. Fortunately, security is a bit scattered by the prospect of the imminent core evaporation.
+コアのアクセスコントロールは4箇所の独立した制御室を通して行なわれる。通常、どれか1箇所でロックの解除を試みたとしても、他の3箇所のいずれかで遮断されてしまう。幸い、コア蒸発の可能性が差し迫っているためセキュリティが手薄になっているようだ。
 
-Immense force field generators fortify the pyramid structure, keeping it intact even as the rest of the reactor crumbles around it."
-enc_security_stronghold_stats,"LOCALE: <link=0>Reactor Core</link>
-"
-enc_security_stronghold_sub,bass pro
+巨大な力場発生装置によって強化されており、リアクター周辺が崩落したとしてもピラミッド構造が壊れることはない。"
+enc_security_stronghold_stats,ロケーション: <link=0>リアクターコア</link>
+enc_security_stronghold_sub,バスプロ
 enc_shelljelly,シェルジェリー
 enc_shelljelly_desc,"シェルジェリーは<link=1>タージェリー</link>と密接に関連していて、生物学上は基本的に同じものだ。しかしシェルジェリーの体は、発達したキチン質の殻の中に覆われている。中身は安定した形状を保つために強い張力が働いており、その大部分が殻によって固定されている。殻が壊れた場合、体の構造を保つことができなくなり、短時間で大爆発する。
 
@@ -2210,7 +2207,7 @@ Therus_AlienCaves_03_Henrique_caption_00,いいか、聞いてくれ。今まで
 Therus_AlienCaves_03_Henrique_caption_01,今から8ヶ月前、ヴォイド・デレゲーションはエージェントのヘンリケって奴をこの宇宙に派遣した。とあるミッションのためだ。
 Therus_AlienCaves_03_Henrique_caption_02,だが、ヘンリケは偶然……何かと遭遇した。俺にはそいつをうまく翻訳できそうにない。
 Therus_AlienCaves_03_Henrique_caption_03,奴らが信仰する何かがこの宇宙にあって、それをどうしてもどうしても、どうしても取り戻したいらしい。
-Therus_AlienCaves_04_Catalyst_caption_00,ヘンリケがヴォイドの軍勢を呼び寄せるために必要なのは、ブラックホールと、触媒だ。
+Therus_AlienCaves_04_Catalyst_caption_00,ヘンリケがヴォイドの軍勢を呼び寄せるために必要なのは、ブラックホールと、カタリストだ。
 Therus_AlienCaves_04_Catalyst_caption_01,ブライアンはこのことを何も知らないと思う。あいつはリアクターのコアにあるテクノロジーが欲しいだけなんだ。
 Therus_AlienCaves_04_Catalyst_caption_02,ヘンリケがナニーに指示して、ブライアンを利用してる。そして君をコアに行かせようとしてる。なぜなら─
 Therus_AlienCaves_05_Gasp_caption_00,[ハッ]
@@ -3351,9 +3348,9 @@ seer_14_keysC3_caption_00,最後の鍵はテストセクター。空舞う番人
 seer_15_begone_caption_00,それを手に入れて、早く立ち去ってください。
 seer_16_understand_caption_00,ようやく、すべてを理解しました。
 seer_16_understand_caption_01,イメージが結びつき、そして全てが繋がる。
-seer_16_understand_caption_02,この世界は呪われている。そしてあなたは破滅の触媒だった！
+seer_16_understand_caption_02,この世界は呪われている。そしてあなたは破滅を呼ぶカタリストだった！
 seer_16_understand_caption_03,星々の光が消えてしまわないために、あなたの道をここで断たれなければ！
-seer_17_perish_caption_00,滅びなさい、触媒よ。すべてのために。
+seer_17_perish_caption_00,滅びなさい、カタリスト。すべてのために。
 seer_18_purged_caption_00,あなたの身に宿るヴォイドを浄化する！ 覚悟せよ！
 seer_19_dying_caption_00,もう……
 seer_19_dying_caption_01,何も視えない。
@@ -3381,12 +3378,12 @@ nani_dream1_04_no_caption_00,ううん。遠慮するね。ナニーはもうヴ
 nani_dream1_04_no_caption_01,ナニーはレルムウォーカーたちが好き勝手に世界に干渉するための道具じゃない！
 henrique_dream1_04_return_caption_00,もし協力してくれるなら、お前を元の宇宙に帰してやろう。
 nani_dream1_05_catalyst_caption_00,わかった。
-nani_dream1_05_catalyst_caption_01,でもナニーは触媒にはならない。
-henrique_dream1_05_catalyst_caption_00,触媒は別の者を見つけることにする。
+nani_dream1_05_catalyst_caption_01,でもナニーはカタリストにはならない。
+henrique_dream1_05_catalyst_caption_00,カタリストには別の者を見つけることにする。
 henrique_dream1_05_catalyst_caption_01,お前は狭間を用意してくれさえすればよい。
 henrique_dream1_05_catalyst_caption_02,この宇宙の住人に詳しいか？
 nani_dream1_06_locals_caption_00,うん。この辺りの奴なら少し。
-henrique_dream1_06_commission_caption_00,よろしい。触媒を見つけ次第、ここに戻る。
+henrique_dream1_06_commission_caption_00,よろしい。カタリストを見つけ次第、ここに戻る。
 henrique_dream1_06_commission_caption_01,住人どもが我々を手伝うように仕向ける準備をしておけ。
 nani_dream1_07_fine_caption_00,わかった。はぁ。もうナニーをほっといてよ。
 nani_dream2_00_gentlehand_caption_00,ほら。大丈夫。
@@ -3563,18 +3560,18 @@ ACH_ARCHYOSATHUS,アーキ・エネミー
 ACH_ARCHYOSATHUS_desc,アーキヨサタスから逃れる
 ACH_HUMMINGBIRD,ナイスエッグ
 ACH_HUMMINGBIRD_desc,ハミングバードを倒す
-ACH_SEER,Fading Light
-ACH_SEER_desc,Defeat the Seer
-ACH_VORTEX,Forseen Consequences
-ACH_VORTEX_desc,Activate the Vortex Propagator
-ACH_KAUBOI,Wild West
-ACH_KAUBOI_desc,Commune with Kauboi
-ACH_CYBERJOSEPH,Cyberpunked
-ACH_CYBERJOSEPH_desc,Defeat Cyberjoseph
-ACH_CATALYST,Catalyst
-ACH_CATALYST_desc,Fulfill your purpose.
-ACH_SACRIFICE,Sacrifice
-ACH_SACRIFICE_desc,Defy fate.
+ACH_SEER,消えゆく光
+ACH_SEER_desc,預言者を倒す
+ACH_VORTEX,予見された結果
+ACH_VORTEX_desc,ヴォルテックス・プロパゲーターを起動する
+ACH_KAUBOI,西部開拓
+ACH_KAUBOI_desc,カウボーイと交流する
+ACH_CYBERJOSEPH,サイバーパンク
+ACH_CYBERJOSEPH_desc,サイバージョセフを倒す
+ACH_CATALYST,カタリスト
+ACH_CATALYST_desc,目的を果たす。
+ACH_SACRIFICE,犠牲
+ACH_SACRIFICE_desc,運命に抗う。
 ACH_FINISH,ジ・エンド
 ACH_FINISH_desc,ゲームをクリアする
 ACH_GET_ALL_GUNS,マジで危ないヤツ
@@ -3610,7 +3607,7 @@ ACH_PICTURES_desc,写真を20枚撮る
 ACH_NANIRUN,Finite Runner
 ACH_NANIRUN_desc,Get a score of 800 or higher in NaniRun
 ACH_GORDLE,Thinking with Gordles
-ACH_GORDLE_desc,Acquire the Gordle Pun
+ACH_GORDLE_desc,ゴーダルパンを入手する
 ACH_NOSTALGICPISTOL,Old School
 ACH_NOSTALGICPISTOL_desc,Acquire the Nostalgic Pistol
 ACH_QUADBOW,剛弓
@@ -3619,8 +3616,8 @@ ACH_ANNIHILATORMKI,Super Shotgun
 ACH_ANNIHILATORMKI_desc,Acquire the Annihilator Prototype
 ACH_FINGERGUN,アブない指
 ACH_FINGERGUN_desc,フィンガーガンを入手する
-ACH_KAUBOIGUN,The Chosen Gun
-ACH_KAUBOIGUN_desc,Acquire Kauboi's Revolver
+ACH_KAUBOIGUN,選ばれし銃
+ACH_KAUBOIGUN_desc,カウボーイのリボルバーを入手する
 ACH_SECRET_WEAPONS,シークレットキーパー
 ACH_SECRET_WEAPONS_desc,全6種類のシークレットウェポンを入手する
 ACH_UPGRADEGUN,タクティクール
