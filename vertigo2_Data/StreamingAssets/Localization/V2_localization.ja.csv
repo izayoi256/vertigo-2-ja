@@ -149,7 +149,7 @@ enc_æther_desc,"ヱーテルが初めて発見された並行宇宙の一つで
 多種多様な生物が生息しており、遺伝的な類似性はほとんど見られない。特に注目すべきは優占種である知的生命体の<link=0>ヱーテルバック</link>で、原始的な部族や遊牧民が存在する。
 
 その特異な構成と次元連続体内の主要な位置づけから、ヱーテルは未知の人工構造物であると推測されている。繁栄した古代文明の痕跡も見つかっているが、遠い昔に滅びてしまったようだ。"
-enc_æther_stats,クラス: スカル・ディスハーモニック
+enc_æther_stats,クラス: スカール・ディスハーモニック
 enc_æther_sub,忘らるる牢獄
 enc_ætherback,ヱーテルバック
 enc_ætherback_desc,"豊かな知性を持ちながらも無慈悲なヱーテルバックは、高度な弓矢で武装していることが多く、群れになって危険な獲物を狩ることを何よりも楽しんでいる。分散した神経系と無数の眼を守るようにアーマープレートを着ており、弱点らしい弱点はない。
@@ -463,7 +463,7 @@ enc_enlightenment_stats,"クラス: バトルライフル
 enc_enlightenment_sub,ハイパーキューブの栄光
 enc_f-18-hades,F-18-ハデス
 enc_f-18-hades_desc,この地球は潮汐が固定されているため極端な気候をしていて、昼夜の境界付近の地表には居住可能なエリアがいくらか存在する。潮汐ロックによる地殻変動ストレスの増加は、広大な地下洞窟が惑星全体に及んでいることを意味し、多くの生物がこの地下迷宮で暮らしている。
-enc_f-18-hades_stats,クラス: スカル・ハーモニック
+enc_f-18-hades_stats,クラス: スカール・ハーモニック
 enc_f-18-hades_sub,刺激的な地球
 enc_finger_gun,フィンガーガン
 enc_finger_gun_desc,"フィンガーガンは実験的なサイバネティクス強化手術で、人差し指の骨をコンパクトなデバイスに置き換えることによって、毛穴から水銀の弾丸を射出できるようにするものだ。長時間の使用により体組織に深刻なダメージが生じるため、規制がゆるいプランクにおいてさえも、人間による使用は承認されなかった。
@@ -1043,13 +1043,13 @@ enc_shelljelly_stats,"学名: ドロリシア・カイモドキ
 分類: FA-H:3
 "
 enc_shelljelly_sub,ソーシャルディスタンス
-enc_singularity,Black Hole
-enc_singularity_desc,"When matter gets compressed hard enough by gravity, a black hole forms. Overcoming the atomic forces that keep matter in a structure, particles collapse into a single point. An event horizon surrounds the singularity, a one way barrier at which gravity overcomes even light itself and no matter or information can leave the black hole.
+enc_singularity,ブラックホール
+enc_singularity_desc,"物体が重力によって一定以上圧縮されると、ブラックホールが形成される。原子の力を克服し、粒子は一つの点に収縮する。特異点を囲むイベントホライズンは光でさえ逃れることのできない一方通行の障壁であり、あらゆる物質や情報もブラックホールから出られない。
 
-The concept of a quantum reactor revolves around the presence of a black hole, exploiting the unique properties of space-time at its borders. "
-enc_singularity_stats,"カテゴリー: Astronomical Body
-クラス: Relativistic"
-enc_singularity_sub,"hey look, something not made up"
+クォンタムリアクターの概念は、ブラックホールの存在を中心に据え、その境界領域における時空の特異な性質を利用している。"
+enc_singularity_stats,"カテゴリー: 天体
+クラス: 相対性理論"
+enc_singularity_sub,空想上の天体じゃないよ
 enc_sniper_bot,スナイパーボット
 enc_sniper_bot_desc,"軽量シャーシのPS-1AのバリエーションであるPS-42は、頭部に高度な光学システムと、腕と首に17個のメカニカルマッスルを搭載しており、優れた視認能力と正確な狙撃能力を持っている。
 
@@ -1104,10 +1104,10 @@ enc_stealth_bot_stats,"ユニット名: PS-12
 役割: セキュリティ - 特殊任務
 メーカー: <link=0>プランク・インターディメンショナル</link>"
 enc_stealth_bot_sub,銃は腰抜けが持つものだ
-enc_t-132-epsilion,T-132-Epsilion
-enc_t-132-epsilion_desc,A strange void filled with golden bubbles of exotic matter. No known life or structures of any kind.
-enc_t-132-epsilion_stats,クラス: Skall-Disharmonic
-enc_t-132-epsilion_sub,music of the spheres
+enc_t-132-epsilion,T-132-イプシロン
+enc_t-132-epsilion_desc,金色のエキゾチックな泡状物質で満ちている、奇妙な空間。生物や建造物は一切確認されていない。
+enc_t-132-epsilion_stats,クラス: スカール・ディスハーモニック
+enc_t-132-epsilion_sub,泡沫が奏でる調べ
 enc_tarjelly,タージェリー
 enc_tarjelly_desc,"身体のほとんどが、流動的な浮遊細胞といくつかの固形器官からなる不定形の生命体。循環系や神経系といった構造を必要に応じて生成することで、身体をほぼ無限に変形できる。その知能は、身体の構成によって非常に変動しやすい。
 
@@ -1121,16 +1121,16 @@ enc_tarjelly_stats,"学名: ドロリシア・アスファルタス
 分類: FA-H:6
 "
 enc_tarjelly_sub,フランクリング！
-enc_terran_union,Terran Union
-enc_terran_union_desc,"The Terran Union comprises the Earth and Earth's moon, Luna. Luna declared independence in 1910 as colonies became self-sufficient, but economic pressure forced them to negotiate an annexation leading to the formation of the Union in 1969.
+enc_terran_union,テラン・ユニオン
+enc_terran_union_desc,"テラン・ユニオンは、地球と、地球の月であるルナによって構成されている。1910年、ルナはコロニーが自給自足可能になった際に独立を宣言したが、経済的な圧力によって併合交渉に応じざるを得なくなった結果、1969年にユニオンが成立した。
 
-The Union holds over 95% of human population, with the rest thinly spread through the outer planets in a slowly growing interplanetary population. The Union operates a neoliberal, highly capitalist society, where large corporations like <link=0>Planck Interdimensional</link> hold the majority of economic and political power.
+ユニオンの人口は全人類の95%以上を占めていて、外惑星に暮らす残りの人類も少しずつ勢力を拡大している。ユニオンは新自由主義で、高度な資本主義社会を営んでおり、<link=0>プランク・インターディメンショナル</link>のような大企業が経済的にも政治的にも権力を有している。
 
-The Terrain Union also has de facto control over many remote colonies, despite not technically owning any land outside of the Earth system."
-enc_terran_union_stats,"FOUNDER: Joseph Brace
-DATE FOUNDED: 1969
-CURRENT LEADER: Margaret Sorkin"
-enc_terran_union_sub,the motherland
+テラン・ユニオンは、厳密には地球系以外の土地を所有していないにも関わらず、多くの遠隔コロニーを事実上の支配地としている。"
+enc_terran_union_stats,"創設者: ジョセフ・ブレイス
+創設年: 1969
+現在のリーダー: マーガレット・ソールキン"
+enc_terran_union_sub,母なる大地
 enc_the_void,The Void
 enc_the_void_desc,"The Void is the theorized extradimensional space-beyond-space. Between realities, between universes, before the big bang and after the end of time, the Void exists. Apparently governed by the <link=0>Void Delegation</link>, and inhabited by a variety of unconventional beings such as <link=1>Realmwalkers.</link>"
 enc_the_void_stats,"LOCALE: N/A
@@ -1178,7 +1178,7 @@ enc_trimoloch_sub,ichthy
 enc_trith,トリス
 enc_trith_desc,"トリスは知性を有する、謎が多い種族だ。恐らく低重力に適応した結果、その骨格は非常に脆弱で、クォンタムリアクターに到来して生き延びることはほとんどない。
 
-希少性もさることながら、すぐに死んでしまうことが彼らの起源を辿ることを不可能にしている。我々が観測できたのは、かなり質量が低い地球を持つスカル・ハーモニック宇宙から来るということだけだ。
+希少性もさることながら、すぐに死んでしまうことが彼らの起源を辿ることを不可能にしている。我々が観測できたのは、かなり質量が低い地球を持つスカール・ハーモニック宇宙から来るということだけだ。
 
 彼らは一般的に、優れた合成素材で作られた衣服を着用しており、先進的な技術文明があることを示唆している。"
 enc_trith_stats,"学名: トリス・サピエンス
@@ -1264,21 +1264,21 @@ enc_weapon_mod_synthesizer_stats,"カテゴリー: デバイス
 クラス: セキュリティ"
 enc_weapon_mod_synthesizer_sub,RPG要素
 enc_worker_bot,ワーカーボット
-enc_worker_bot_desc,"Now that the reactor core is active, human deaths from radiation and encounters with aliens would make turnover far too high. The PW-00 was designed to replace human workers in the reactor where tasks could not be automated by simpler machines. Reasonable strength and intelligence allow it to fill the required roles, at only a slightly higher cost than a human.
+enc_worker_bot_desc,"稼働中のリアクターコアに人間を配備すれば、放射線の影響やエイリアンとの遭遇による死亡事故で人員交代が多発することになるだろう。PW-00は、単純な機械では自動化できないリアクター内のタスクを人間の代わりに担うために開発されたモデルだ。人間よりもわずかにコストは高くなるが、与えられた役割を果たすのに十分な力と知性を有している。
 
-No combat capabilities to speak of."
+特筆すべき戦闘能力は、ない。"
 enc_worker_bot_stats,"ユニット名: PW-00
-役割: Laborer
+役割: 労働者
 メーカー: <link=0>プランク・インターディメンショナル</link>"
-enc_worker_bot_sub,unionize!
-enc_xynfly,Xynfly
-enc_xynfly_desc,"An unremarkable, if very large, insect. Displays wasp-like colony building behaviour, but is not dangerous, armed only with a weak bite. Has a highly developed sense of sight, and uses bioluminescent signals to communicate over large distances where pheromones are not viable.
+enc_worker_bot_sub,労働者よ、団結せよ！
+enc_xynfly,ジンフライ
+enc_xynfly_desc,"非常に大きい以外は、これといって特筆すべき点の少ない昆虫。スズメバチのようにコロニーを形成するが、噛みつく以外の攻撃手段を持たず、力も弱いため危険は少ない。視覚が非常に発達していて、生物発光によるシグナルはフェロモンでは届かないような離れた距離まで届く。
 
-Easy to control infestations due to the large size of individuals and relatively slow rate of reproduction."
-enc_xynfly_stats,"学名: Sciara Ingens
-起源宇宙: <link=0>438-Eurydice</link>
+個体サイズが大きく、繁殖が比較的遅いため、大量発生を防ぐのは容易だ。"
+enc_xynfly_stats,"学名: シアラ・インゲンス
+起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:1"
-enc_xynfly_sub,get pollinated
+enc_xynfly_sub,受粉
 encCat_Creatures,生物
 encCat_Individuals,人物
 encCat_Locations,ロケーション
@@ -1370,7 +1370,7 @@ Tip: バグを見つけたら報告しないでおきましょう。こちとら
 豆知識: そろそろ、このロード画面を書くのも飽きてきた。
 豆知識: こんな暴力的なゲームを遊ぶなんて、あなたは悪人ですね。
 豆知識: BAMMのヘルスゲージは、実際に死の恐怖を持つ人工意識です。
-豆知識: ジョージェフスは物理的な痛みを感じませんが、感情的な痛みは感じます。
+豆知識: ジョージェフは物理的な痛みを感じませんが、感情的な痛みは感じます。
 豆知識: 各並行宇宙において、光速は数メートル/秒しか違いがない。
 Tip: がんばれ。
 Tip: 練習すればGit上達する。
@@ -1403,12 +1403,12 @@ Tip: シークレットウェポンの中には、見つけやすいものもあ
 Tip: ホイールメニューを開いてトリガーを押すと、シークレットウェポンにアクセスできます。
 Tip: 気に入らない改造パーツがあったら、ポーズメニューから無効化できる。
 Tip: 図鑑で敵の情報を調べてみよう。思わぬ弱点が見つかるかもしれない。
-豆知識: ナニーは例え手助けできる状況でも、あなたを助けてはくれない。
+豆知識: ナニーはたとえ手助けできる状況でも、あなたを助けてはくれない。
 Tip: 銃が作動しない時は、リロードしてみよう。
 Tip: 弾薬がなくなった時は、回復するまで待つよりも武器を切り替えたほうが賢い。
 Tip: 強力な武器を迷わず使ってみよう。時間が経てば弾薬は補充される！
 豆知識: ここから先、ゲームはますます悪い方向に進む。
-Tip: 行き詰まった？ 他の武器やプレイスタイルを試してみよう。選択肢はあるはずだ。
+Tip: 行き詰まった？ 他の武器やプレイスタイルを試してみよう。方法はあるはずだ。
 Tip: 一部の強力な銃は、複数の敵やシールドさえも貫通する。
 Tip: 超大型の敵は、頭よりも眼が弱点かもしれない。
 Tip: 速度が遅い弾丸は撃ち落とすことができる。ホーミング弾には特に有効だ！
