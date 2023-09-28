@@ -473,16 +473,16 @@ enc_finger_gun_stats,"クラス: サイドアーム
 メーカー: <link=0>プランク・インターディメンショナル</link>
 発射体: 水銀"
 enc_finger_gun_sub,アブない指
-enc_forgotten,Forgotten
-enc_forgotten_desc,"In a primeval age, a number of <link=0>Void</link> denizens colonized the first realm, <link=1>Aether.</link> Their minds and bodies were not suited to the three dimensions of this world however, and over the years they were twisted beyond recognition. They began cultivating power and knowledge. It was suspected they intended to return to the Void and overthrow its ruler.
+enc_forgotten,忘れられし者
+enc_forgotten_desc,"原初の時代、<link=0>ヴォイド</link>の住人たちが最初の領域<link=1>エーテル</link>を植民地化した。しかし、彼らの精神と肉体はこの世界の三次元空間には適応しておらず、年月と共に彼らは見るも無残な姿へと変わり果ててしまった。新たな環境に適応するため知恵と力を結集しようとしたが、この動きがヴォイドの支配者に対する謀反の準備として疑いの目を向けられてしまい、急遽対策がとられることになった。
 
-A panicked plan was set in motion: barriers were devised to stop anything from escaping Aether. After a time, when the colonists were weakened enough from the siege, Void forces entered just long enough to lock each colonist in unbreakable chains.
+まず、ヴォイドの軍勢がエーテルを完全包囲した。包囲からしばらく経って開拓者たちが弱ったところに軍勢が攻め込み、開拓者たち全員を頑丈な鎖で繋いでしまった。
 
-Their desiccated bodies remain scattered across Aether to this day. None have broken free. The <link=2>Void Delegation</link> prefers not to think of this disastrous period in history, and the colonists are only referred to as the forgotten."
+囚われた開拓者たちは一人として解放されることはなく、彼らの朽ちた肉体は今日に至るまでエーテルのあちこちで野ざらしになっている。この悲惨な暗黒時代を俎上に載せることを嫌う<link=2>ヴォイド・デレゲーション</link>は、開拓者たちのことを忘れられし者と呼んでいる。"
 enc_forgotten_stats,"学名: N/A
-起源宇宙: Aether
-分類: Unassigned"
-enc_forgotten_sub,eternity in chains
+起源宇宙: エーテル
+分類: 未分類"
+enc_forgotten_sub,鎖が繋ぐ永遠
 enc_frank,フランク
 enc_frank_desc,"フランクはプランクによって捕獲、研究されていたが、避難の際にリアクターの試験管内に入れて放棄された。脱出したフランクはラボで暴れまわり、ロボットを含むすべてを捕食して巨大に成長した。
 
