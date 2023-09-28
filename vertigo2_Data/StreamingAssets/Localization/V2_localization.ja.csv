@@ -9,15 +9,15 @@ bamm_connection_caption_00,接続を再確立しました。
 bamm_encyclopedia_caption_00,BAMMに組み込まれた「エンサイクロペディア・ブリアニカ」は、遭遇したエンティティに関する全ての関連情報を収録する図鑑システムです。
 bamm_fullHealth_caption_00,ヘルスが全快しました。
 bamm_hypercube_caption_00,神聖なる幾何学、ハイパーキューブに永遠の栄光を。
-bamm_hypercube_caption_01,我らが宇宙にヴォイドの輝きを導きたまえ。
-bamm_inhospitable_caption_00,過酷な環境を検出しました。できるだけ早く生存可能な領域に戻ってください。
+bamm_hypercube_caption_01,我らが領域にヴォイドの輝きを導きたまえ。
+bamm_inhospitable_caption_00,過酷な環境を検出しました。できるだけ早く生存可能な場所に戻ってください。
 bamm_inventory_caption_00,BAMMのインベントリ管理システムは、所持品を常に表示します。
 bamm_lowhealth_caption_00,警告、ヘルスが低下しています。
 bamm_offlinemode_caption_00,リモートコマンドの切断を検出しました。自立モードに移行します。
 bamm_offlinemode_caption_01,自立モードの読み込みが完了しました。BAMMへようこそ！
 bamm_offlinemode_caption_02,未知の生命体、ロケーション、武器、政治団体、哲学的概念は自動的にスキャンして図鑑に登録されます。
 bamm_offlinemode_caption_03,医療およびテレポートサービスは正常に機能します。残念ながら、ネットワークと通信はオフラインです。
-bamm_shutdown_caption_00,宇宙間転送が完了しました。BAMMの任務が達成されました。
+bamm_shutdown_caption_00,領域間転送が完了しました。BAMMの任務が達成されました。
 bamm_shutdown_caption_01,永久シャットダウンを開始します。
 bamm_signalbreakthrough_caption_00,警告: シグナルが干渉しています！
 bamm_trauma_caption_00,BAMMの技術は、肉体的なトラウマが一時的なものであることを保証します。
@@ -1131,11 +1131,10 @@ enc_terran_union_stats,"創設者: ジョセフ・ブレイス
 創設年: 1969
 現在のリーダー: マーガレット・ソールキン"
 enc_terran_union_sub,母なる大地
-enc_the_void,The Void
-enc_the_void_desc,"The Void is the theorized extradimensional space-beyond-space. Between realities, between universes, before the big bang and after the end of time, the Void exists. Apparently governed by the <link=0>Void Delegation</link>, and inhabited by a variety of unconventional beings such as <link=1>Realmwalkers.</link>"
-enc_the_void_stats,"LOCALE: N/A
-"
-enc_the_void_sub,ascendance
+enc_the_void,ヴォイド
+enc_the_void_desc,ヴォイドは仮説上、次元の彼方にあるとされる超次元空間で、現実の狭間、宇宙の狭間、そしてビッグバンの前と、時間の終わりの先に存在している。<link=0>ヴォイド・デレゲーション</link>と呼ばれる勢力によって支配され、<link=1>レルムウォーカー</link>をはじめとする特異な存在が生息している。
+enc_the_void_stats,ロケーション: N/A
+enc_the_void_sub,超越
 enc_therus,セラス
 enc_therus_desc,"<link=1>ブライアン</link>のアシスタントの一人で、プランクのセキュリティドローンのプログラム書き換えに初めて成功したロボット。
 
@@ -1166,15 +1165,15 @@ enc_trident_smg_stats,"クラス: サブマシンガン
 メーカー: <link=[quot]Organizations/Planck Interdimensional[quot]>プランク・インターディメンショナル</link>
 発射体: プラズマ"
 enc_trident_smg_sub,3本の槍
-enc_trimoloch,Trimoloch
-enc_trimoloch_desc,"An aggressive and very hardy fish. Trimoloch anatomy closely resembles prehistoric bony-headed fish which went extinct millions of years ago, suggesting evolution that converges at some distant point in the past.
+enc_trimoloch,トライモロック
+enc_trimoloch_desc,"トライモロックは攻撃的で、非常に丈夫な魚だ。その解剖学的構造は数百万年前に絶滅した古代魚に酷似しており、収斂進化の結果であることを示唆している。
 
-Like most fish, they cannot survive out of water, so they rarely pose a threat within the reactor. However, when in water, they are extremely difficult to kill."
-enc_trimoloch_stats,"学名: Dunkleosteus Trimoloch
+他の魚と同様、水中でしか生存できないためリアクター内で脅威となることは滅多にないが、水中で彼らを殺すのは極めて困難だ。"
+enc_trimoloch_stats,"学名: ダンクルオステウス・トライモロック
 起源宇宙: <link=0>B6454</link>
 分類: FA-H:4
 "
-enc_trimoloch_sub,ichthy
+enc_trimoloch_sub,ギョッ
 enc_trith,トリス
 enc_trith_desc,"トリスは知性を有する、謎が多い種族だ。恐らく低重力に適応した結果、その骨格は非常に脆弱で、クォンタムリアクターに到来して生き延びることはほとんどない。
 
@@ -1221,33 +1220,33 @@ enc_vertigo_initiative_stats,"創設者: エミリー・プランク
 創設年: 2002
 現在のリーダー: エミリー・プランク"
 enc_vertigo_initiative_sub,タイトル回収
-enc_vetus-2,Vetus-2
-enc_vetus-2_desc,Earth is undergoing an ice age. Homo sapiens extinct and neandarthals are the dominant species.
-enc_vetus-2_stats,クラス: Exo-Proximal
-enc_vetus-2_sub,chilly
-enc_vetus-4,Vetus-4
-enc_vetus-4_desc,"An Earth that is similar to Domicilium Alpha up until roughly the 13th century CE. Since then, it has been developmentedly stunted compared to the <link=0>universe of the quantum reactor,</link> with technology lagging severely behind."
-enc_vetus-4_stats,クラス: Exo-Proximal
-enc_vetus-4_sub,the irl one
-enc_vetus-9,Vetus-9
-enc_vetus-9_desc,An earth similar to ours but empty of humans. Drastically different climate means a desert covers most of the planet. Signs point to a major ecological catastrophe roughly 2000 years ago.
-enc_vetus-9_stats,クラス: Exo-Proximal
-enc_vetus-9_sub,spicy earth
-enc_void_delegation,Void Delegation
-enc_void_delegation_desc,"A governmental body presiding over <link=0>The Void.</link> Dedicated to keeping peace and harmony between all universes, which they call realms, by keeping them separate."
-enc_void_delegation_stats,"FOUNDER: Unknown
-DATE FOUNDED: Unknown, possibly none
-CURRENT LEADER: Unknown"
-enc_void_delegation_sub,eldritch democracy
-enc_voidnectar,Void Nectar
-enc_voidnectar_desc,"A complex chemical compound capable of suspending a matrix of Void energy. Synthesized for a variaty of ritualistic and industrial purposes within the <link=0>Church of the Hypercube.</link> A small amount of void nectar is said to be consumed as part of the Church's initiation ceremony.
+enc_vetus-2,ヴェトス-2
+enc_vetus-2_desc,地球は氷河期の最中で、ホモ・サピエンスは絶滅し、ネアンデールタール人が優占種となっている。
+enc_vetus-2_stats,クラス: エグゾプロクシマル
+enc_vetus-2_sub,寒そう
+enc_vetus-4,ヴェトス-4
+enc_vetus-4_desc,13世紀頃まではドミシリウム・アルファと似た歴史を辿っていた地球。それ以降は<link=0>クォンタムリアクター</link>の宇宙と比べて発展が遅れ、技術的にも大幅に後れを取っている。
+enc_vetus-4_stats,クラス: エグゾプロクシマル
+enc_vetus-4_sub,いわゆる現実世界
+enc_vetus-9,ヴェトス-9
+enc_vetus-9_desc,"私たちの地球に似てはいるが、人間は存在しない。気候が大幅に異なり、大部分が砂漠に覆われている。約2,000年前に大規模な生態カタストロフィが発生した形跡がある。"
+enc_vetus-9_stats,クラス: エグゾプロクシマル
+enc_vetus-9_sub,スパイシーアース
+enc_void_delegation,ヴォイド・デレゲーション
+enc_void_delegation_desc,<link=0>ヴォイド</link>を統治する勢力。すべての宇宙(彼らは領域と呼称している)の狭間で平和と調和を標榜し、そのために各領域の独立を保とうとしている。
+enc_void_delegation_stats,"創設者: 不明
+創設年: 不明 (恐らく存在しない)
+現在のリーダー: 不明"
+enc_void_delegation_sub,エルドリッチ・デモクラシー
+enc_voidnectar,ヴォイドネクター
+enc_voidnectar_desc,"ヴォイドエネルギーの基質を保持できる、複雑な化合物。様々な儀式や産業のために<link=0>ハイパーキューブ教会</link>内で合成されている。教会の洗礼式で少量のヴォイドネクターを消費しているという噂がある。
 
-The Church goes through large quantities of nectar, and dumps it into the sea once depleted.
+教会では大量のネクターを消費し、使用後は海に投棄している。
 
-Appearence and smell is very similar to blood."
-enc_voidnectar_stats,"カテゴリー: Substance
-クラス: Exotic"
-enc_voidnectar_sub,blood and bone
+見た目や味は血液に非常に似ている。"
+enc_voidnectar_stats,"カテゴリー: 物質
+クラス: エキゾチック"
+enc_voidnectar_sub,血肉
 enc_warper,ワープ・ラーヴァ
 enc_warper_desc,"採掘セクター以外では目撃例がない、ユニークな生命体。その外見や預言者の話からするとまだ幼体で、成長すると遥かに大きく強力な成体になるらしい。思い通りにワープでき、使用に制限はないものと見られる。
 
@@ -1371,7 +1370,7 @@ Tip: バグを見つけたら報告しないでおきましょう。こちとら
 豆知識: こんな暴力的なゲームを遊ぶなんて、あなたは悪人ですね。
 豆知識: BAMMのヘルスゲージは、実際に死の恐怖を持つ人工意識です。
 豆知識: ジョージェフは物理的な痛みを感じませんが、感情的な痛みは感じます。
-豆知識: 各並行宇宙において、光速は数メートル/秒しか違いがない。
+豆知識: 各領域において、光速は数メートル/秒しか違いがない。
 Tip: がんばれ。
 Tip: 練習すればGit上達する。
 Tip: ショットガンは目標に接近した時が最も有効だ。
@@ -3334,7 +3333,7 @@ seer_04_keysA2_caption_00,一つは合成セクター。対の獣が立ちふさ
 seer_05_keysA3_caption_00,一つはテストセクター。空舞う番人の心の中。
 seer_06_abnormal_caption_00,私の想像に過ぎないと思っていた、私にもほとんど視えないもの。しかし、そこにあるもの。
 seer_06_abnormal_caption_01,あなたの中にある、何か……異常なもの。あるいは悪意。
-seer_06_abnormal_caption_02,この宇宙のものではない。あなたのものでもなく、誰のものでもない。
+seer_06_abnormal_caption_02,この領域のものではない。あなたのものでもなく、誰のものでもない。
 seer_07_2keys_caption_00,必要な暗号鍵はまだ二つあります。
 seer_08_keysB1_caption_00,一つは採掘セクター。泣き喚く赤子の手にあります。
 seer_09_keysB2_caption_00,一つは合成セクター。対の獣が立ちふさがるでしょう。
@@ -3357,14 +3356,14 @@ seer_19_dying_caption_01,何も視えない。
 nani_dream0_00_henrique_caption_00,ヘンリケ！
 nani_dream0_00_henrique_caption_01,ナニーはキミがいつ現れるのかと思っていたんだよ。
 henrique_dream1_00_pursuing_caption_00,カウボーイを追っていた。
-henrique_dream1_00_pursuing_caption_01,この宇宙に入った時、数千年前に完全に消失したハイパーキューブに遭遇した。
+henrique_dream1_00_pursuing_caption_01,この領域に入った時、数千年前に完全に消失したハイパーキューブに遭遇した。
 henrique_dream1_00_pursuing_caption_02,そして、ナニー。どういう訳かお前を見つけた。
 henrique_dream1_00_pursuing_caption_03,説明を求める。
-nani_dream1_01_reactor_caption_00,落ち着いてよ。この宇宙にはクォンタムリアクターがあるんだ。おっきな装置。
-nani_dream1_01_reactor_caption_01,他の宇宙から物を引き寄せるんだ。
+nani_dream1_01_reactor_caption_00,落ち着いてよ。この領域にはクォンタムリアクターがあるんだ。おっきな装置。
+nani_dream1_01_reactor_caption_01,他の領域から物を引き寄せるんだ。
 nani_dream1_01_reactor_caption_02,ここにはナニーがいる。ここには他に1万人いる。偶然じゃない。
 nani_dream1_01_reactor_caption_03,ナニーはずっと閉じ込められて、帰れないんだよ。
-henrique_dream1_01_machine_caption_00,宇宙をつなぐ装置だと？ それは─
+henrique_dream1_01_machine_caption_00,領域をつなぐ装置だと？ それは─
 nani_dream1_02_hypercube_caption_00,デレゲーションの安全を大きく脅かす、って？
 nani_dream1_02_hypercube_caption_01,さっきも言ったけど、キミがいつ来るのかと思ってたんだ。
 nani_dream1_02_hypercube_caption_02,キミがハイパーキューブさえ持っていたら、キミたちの支配が……
@@ -3376,12 +3375,12 @@ henrique_dream1_03_ assistance_caption_01,ハイパーキューブが復活す�
 henrique_dream1_03_ assistance_caption_02,ナニー、お前の協力が必要だ。
 nani_dream1_04_no_caption_00,ううん。遠慮するね。ナニーはもうヴォイドに関わりたくないんだよ。
 nani_dream1_04_no_caption_01,ナニーはレルムウォーカーたちが好き勝手に世界に干渉するための道具じゃない！
-henrique_dream1_04_return_caption_00,もし協力してくれるなら、お前を元の宇宙に帰してやろう。
+henrique_dream1_04_return_caption_00,もし協力してくれるなら、お前を元の領域に帰してやろう。
 nani_dream1_05_catalyst_caption_00,わかった。
 nani_dream1_05_catalyst_caption_01,でもナニーはカタリストにはならない。
 henrique_dream1_05_catalyst_caption_00,カタリストには別の者を見つけることにする。
 henrique_dream1_05_catalyst_caption_01,お前は狭間を用意してくれさえすればよい。
-henrique_dream1_05_catalyst_caption_02,この宇宙の住人に詳しいか？
+henrique_dream1_05_catalyst_caption_02,この領域の住人に詳しいか？
 nani_dream1_06_locals_caption_00,うん。この辺りの奴なら少し。
 henrique_dream1_06_commission_caption_00,よろしい。カタリストを見つけ次第、ここに戻る。
 henrique_dream1_06_commission_caption_01,住人どもが我々を手伝うように仕向ける準備をしておけ。
@@ -3400,9 +3399,9 @@ henrique_dream3_02_interact_caption_01,我らが旅路は遠く、しかし歩�
 nani_dream2_03_kauboi_caption_00,カウボーイの歩みは穏やかには見えないけど……。
 henrique_dream3_03_apostasy_caption_00,カウボーイは禁断の芸術に耽っている。
 henrique_dream3_03_apostasy_caption_01,奴は存在自体が背教的なのだ。
-henrique_dream3_03_apostasy_caption_02,そもそも私は、奴を仕留めるためにこの宇宙へ来た。
+henrique_dream3_03_apostasy_caption_02,そもそも私は、奴を仕留めるためにこの領域へ来た。
 nani_dream2_04_cooler_caption_00,キミの方がダサいように聞こえるけどね。
-henrique_dream3_04_social_caption_00,お前の宇宙社会の階級制度には興味がない。
+henrique_dream3_04_social_caption_00,お前の領域社会の階級制度には興味がない。
 nani_dream3_00_huh_caption_00,Huh.
 nani_dream3_00_huh_caption_00,Huh.
 henrique_dream4_00_left_caption_00,The catalyst has left this realm.
