@@ -343,12 +343,12 @@ enc_cleaning_drone_stats,"ユニット名: PW-07
 役割: 清掃
 メーカー: <link=0>プランク・インターディメンショナル</link>"
 enc_cleaning_drone_sub,はいはい。
-enc_courtesy_bot,Courtesy Bot
-enc_courtesy_bot_desc,"A variation of the Worker Bot designed to interface with humans and provide a friendly face to the mainframe. Since there are no longer any humans in the reactor, most PW-02 units have been disassembled or put into storage."
+enc_courtesy_bot,おてつだいボット
+enc_courtesy_bot_desc,ワーカーボットの一種で、人間がメインフレームに親しみやすいよう仲介するために設計されたもの。リアクター内には既に人間が存在しないため、ほとんどのPW-02ユニットは分解されたり、保管済みになっている。
 enc_courtesy_bot_stats,"ユニット名: PW-02
-役割: Communication
+役割: コミュニケーション
 メーカー: <link=0>プランク・インターディメンショナル</link>"
-enc_courtesy_bot_sub,unionize!
+enc_courtesy_bot_sub,労働者よ、団結せよ！
 enc_cubehead,キューブヘッド
 enc_cubehead_desc,"人間の顔を持った、立方体状の奇妙な存在。不器用に転がったり、敵に向かって体当たりをするだけで危険性はほとんどない。
 
@@ -766,12 +766,12 @@ enc_mannequin_stats,"ユニット名: PW-HT
 役割: テスト
 メーカー: <link=0>プランク・インターディメンショナル</link>"
 enc_mannequin_sub,スーパーモデル
-enc_maurice,Maurice
-enc_maurice_desc,"An odd, malicious creature with a hard stone extrerior and fleshy interior. Biology unlike any other known life form."
-enc_maurice_stats,"学名: Unassigned
-起源宇宙: Unknown
+enc_maurice,モーリス
+enc_maurice_desc,悪意のある奇妙な生物で、肉質の内側を、外殻の硬い石が守っている。これまでに発見されたどの生物とも、異なる生態をしている。
+enc_maurice_stats,"学名: 未命名
+起源宇宙: 不明
 分類: FA-H:6"
-enc_maurice_sub,get mauriced
+enc_maurice_sub,まだ助かる
 enc_meat_nailer,ミートネイラー・レールガン
 enc_meat_nailer_desc,"ミートネイラーは、超高密度タングステン弾を発射する実験的なコンパクトレールガンだ。ほぼ全ての目標を一撃で吹き飛ばし、敵集団を容易に貫通する。
 
@@ -827,14 +827,14 @@ enc_nani_stats,"種族: <link=0>トロール</link>
 年齢: 132
 所属: 在野 (？)"
 enc_nani_sub,ユガッタペイザトロールトール……っと
-enc_nostalgic_pistol,Nostalgic Pistol
-enc_nostalgic_pistol_desc,"A basic self-loading plasma pistol designed to be used by scientists for self defense, or installed in low level security drones.
+enc_nostalgic_pistol,ノスタルジック・ピストル
+enc_nostalgic_pistol_desc,"標準的な自己装填式プラズマピストルで、科学者が自衛用に携行したり、低レベルのセキュリティドローンに搭載するために設計されたものだ。
 
-Not very powerful, but holds a certain sentimental value."
-enc_nostalgic_pistol_stats,"クラス: Sidearm
-メーカー: <link=0>Planck Interdimensional</link>
+威力は控えめだが、手にすると懐かしい気持ちになる。"
+enc_nostalgic_pistol_stats,"クラス: サイドアーム
+メーカー: <link=0>プランク・インターディメンショナル</link>
 発射体: Plasma"
-enc_nostalgic_pistol_sub,oh the memories...
+enc_nostalgic_pistol_sub,懐かしい……
 enc_officer_bot,オフィサーボット
 enc_officer_bot_desc,"PS-1Aは軽量シャーシに大型の外部コマンドユニット(やや重要バランスを崩している原因でもある)を搭載したモデルだ。洗練された戦術チップと液冷式ニューラルプロセッサーにより、ロボット分隊を高度な操作で効果的に指揮する。
 
