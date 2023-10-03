@@ -1250,24 +1250,22 @@ kauboi_graffiti_02,"ハイパーキューブの紅き輝きに目をやる
 紅き光が再び鮮血に反射している
 何故このような争いが起きてしまうのか
 かつての姿を思い出してくれさえすれば"
-kauboi_graffiti_03,"The eyes that fall upon this verse shall know
-Their fate as tool of darkest delegation.
-I summon to my Kaüer, down below
-Your body, tainted by the void’s creation.
-I offer you one chance to wrest back fate
-To learn the truth from I, who know it best.
-With patience everlasting I shall wait
-Beyond the void’s reach, in the wild west.
-"
-kauboi_graffiti_04,"The eyes that fall upon this verse shall know
-That only they perceive my spectral words.
-This realm is not safe from His dark shadow,
-Join me in Aether that I may be heard.
-Now heed the guidance of the gentle hand,
-Think back to his words on the open sea.
-Defy the deadly fate that He has planned,
-The vortex shall deliver you to me.
-"
+kauboi_graffiti_03,"詩が汝に告げる
+デレゲーションの走狗たる奴らの運命を。
+ヴォイドの創造に穢されし汝の肉体
+我が召喚に応じ、カウアーに現われ出でよ。
+我が真実の知識を求めよ
+さすれば汝に運命を取り戻す機会を与えん。
+永劫の忍耐を以て我は待つ
+ヴォイドさえ及ばぬ荒野の西にて。"
+kauboi_graffiti_04,"詩が汝に告げる
+我が言葉が届くのは唯奴らのみ。
+この領域ではかの暗闇からは逃れ得ぬ、
+エーテルへと至り我が声を聞け。
+優しき手の導きに耳を傾け、
+大海原での言葉を思い出せ。
+かの無謀とも思える計画に挑むのだ
+ヴォルテックスが汝を導くだろう。"
 loadingTip_custom_name,豆知識: 「{0}」と名付けられた人は、このゲームをプレイするのが他の人と比べて最大{1}%下手であることが調査で判明しています。
 loadingTips,"Tip: 敵を殺せば勝利します。敵に殺されれば敗北します。
 Tip: ヘルスが0になると死亡します。ヘルスが-7,000になると脱肛します。
@@ -1328,9 +1326,9 @@ Tip: どんな敵にも長所と弱点がある。それぞれ適切なアプロ
 Tip: テレポートを連発するとクールダウンが発生する。長い距離を少ない回数で効率的にテレポートしよう。
 Tip: 謎の未確認キノコを食べてはいけない。
 Tip: 謎の未確認キノコを食べてみよう。
-Tip: ゲーム全体で6種類のシークレットウェポンが隠されています。
-Tip: シークレットウェポンの中には、見つけやすいものもあれば、巧妙に隠されているものもあります。
-Tip: ホイールメニューを開いてトリガーを押すと、シークレットウェポンにアクセスできます。
+Tip: ゲーム全体で6種類のシークレットウェポンが隠されている。
+Tip: シークレットウェポンの中には、見つけやすいものもあれば、巧妙に隠されているものもある。
+Tip: ホイールメニューを開いてトリガーを押すと、シークレットウェポンにアクセスできる。
 Tip: 気に入らない改造パーツがあったら、ポーズメニューから無効化できる。
 Tip: 図鑑で敵の情報を調べてみよう。思わぬ弱点が見つかるかもしれない。
 豆知識: ナニーはたとえ手助けできる状況でも、あなたを助けてはくれない。
@@ -1343,7 +1341,7 @@ Tip: 一部の強力な銃は、複数の敵やシールドさえも貫通する
 Tip: 超大型の敵は、頭よりも眼が弱点かもしれない。
 Tip: 速度が遅い弾丸は撃ち落とすことができる。ホーミング弾には特に有効だ！
 Tip: 移動方式オプションから、ジャンプ機能を有効にできる。
-Tip: 吐き気を感じたら休憩をとるか、快適性や移動方式オプションを見直そう。
+Tip: 吐き気を感じたら休憩をとるか、快適性や移動方式のオプションを見直そう。
 Tip: 一部の敵は、一定量のダメージやクリティカルダメージが発生するとノックバックすることがある。
 Tip: セキュリティロボットは通信であなたの位置を共有している。
 Tip: 一部のステージやボス戦では、特定の武器しか使用できないことがある。他の武器は保管してあるのでご安心あれ。
@@ -1356,7 +1354,7 @@ lastPlayed,前回プレイ:
 left,左
 loading,Loading
 menu_achievements,実績
-menu_active,アクティブ
+menu_active,有効
 menu_bossSelect,ボス選択
 menu_chapterSelect,チャプター選択
 menu_characterchangeinfo,キャラクター選択はゲームクリア後に開放されます！
@@ -1379,12 +1377,12 @@ menu_failedStats,プレイデータの取得に失敗しました。
 menu_gameComplete,ゲームクリア
 menu_gamepaused,中断したゲーム
 menu_globalstats,グローバルデータ
-menu_inactive,非アクティブ
+menu_inactive,無効
 menu_loadCheck,チェックポイントをロードする
 menu_loadCheckpoint,チェックポイントをロードする
 menu_localstats,プレイデータ
 menu_mainmenu,メインメニュー
-menu_modstations,武器改造ステーション:
+menu_modstations,武器改造:
 menu_newsavetitle,新規セーブスロット
 menu_nocheckpoints,チェックポイントがありません！
 menu_notowned,未所有
@@ -1409,7 +1407,7 @@ menu_secretWeaponsProg,シークレットウェポン:
 menu_stageSelect,ステージセレクト
 menu_stats,プレイデータ
 menu_synthesize,合成
-menu_synthesizerdepleted,合成済み
+menu_synthesizerdepleted,使用済み
 menu_synthesizing,合成中……
 menu_upgradeProg,アップグレード状況:
 menu_weaponmods,改造パーツ
@@ -1542,32 +1540,32 @@ spec_smoothing,視点ぶれ補正:
 spec_third,三人称視点
 spec_tilt,傾き低減
 spec_timer,タイマー表示
-stage_assembly,Assembly Required
+stage_assembly,アセンブリー要求
 stage_assembly_summary,封鎖されたコアに入るため、ソニアはロボットアセンブリーを探索することにした。
-stage_bonvoyage,Bon Voyage
+stage_bonvoyage,ボン・ヴォヤージュ
 stage_bonvoyage_summary,ブライアンは、ソニアが元いた宇宙に帰る方法を説明するが……。
 stage_centaur,セントール
 stage_centaur_summary,強固な装甲と巨大なキャノン砲を備えた、強力なセキュリティロボット。
-stage_crucible,Crucible
+stage_crucible,坩堝
 stage_crucible_summary,リサイクルセンターの奥底で、事態は過熱しはじめる。
-stage_datamast,Datamast Repair
+stage_datamast,データマスト復旧
 stage_datamast_summary,コアの破壊的なサイクルが続く中、ソニアはブライアンに修理の任務を命じられた。
-stage_degeneratematter,Degenerate Matter
+stage_degeneratematter,縮退
 stage_degeneratematter_summary,リアクターに戻ったソニアは、ディープラボで取った行動がコアを不安定化させていたことを知った。
 stage_doublecentaur,ツイン・セントール
 stage_doublecentaur_summary,2機のセントールが相手のアンフェアな戦闘。
-stage_eventhorizon,Event Horizon
+stage_eventhorizon,イベントホライズン
 stage_eventhorizon_summary,ついに、ソニアはリアクターコアに辿り着いた。
-stage_familiarhalls,Familiar Halls
+stage_familiarhalls,見馴れた廊下
 stage_familiarhalls_summary,クォンタムリアクターに戻ったソニアは、リサイクルセンターの探索を開始する。
 stage_fishbrain,フィッシュ・ブレイン
 stage_fishbrain_summary,免疫機構に守られた、魚の脳。
 stage_ghronto,マハリシ・グロント
 stage_ghronto_summary,ハイパーキューブ教会を統べる者。
 stage_ghronto_warning,警告: この戦闘をプレイすると、あなたの所属は反乱軍で上書きされます。
-stage_grandtour,Grand Tour
+stage_grandtour,工場見学
 stage_grandtour_summary,セラスはソニアにブライアン・インダストリーズの案内をする。
-stage_heartoftheforest,Heart of the Forest
+stage_heartoftheforest,森の中心
 stage_heartoftheforest_summary,ソニアは、リアクターに出現したエイリアンが繁殖する広大な洞窟を発見した。そこで出会ったナニーは、手助けの対価として、あるものを要求するのであった。
 stage_hummingbird,ハミングバード
 stage_hummingbird_summary,最新鋭の高機動セキュリティロボット。
@@ -1575,22 +1573,22 @@ stage_igneosaur,イグニオザウルス
 stage_igneosaur_summary,脱走して溶岩に潜むイグニオザウルス。
 stage_josephjeffrey,ジョセフ・ジェフリー
 stage_josephjeffrey_summary,プランクの最終防衛ライン。
-stage_maurice,Maurice
-stage_maurice_summary,A malicious stone face.
-stage_nyx,Nyx
+stage_maurice,モーリス
+stage_maurice_summary,悪意のある石仮面
+stage_nyx,ニュクス
 stage_nyx_summary,巨大なカニが列車を脱線させてしまった。ソニアが落下した先は危険な自然洞窟だった。
-stage_offarail,Off a Rail
+stage_offarail,脱線
 stage_offarail_summary,ついに輸送システムへと辿り着いたソニアだったが、プランクの警戒網が強化されはじめた。
-stage_pescatarian,Pescatarian
+stage_pescatarian,ペスカタリアン
 stage_pescatarian_summary,巨大な生物に丸呑みにされてしまった。そこで思いがけない味方を一人(あるいは二人)得たソニアは、協力して出口を見つけることにした。
 stage_playground,Playground
-stage_quarantine,Quarantine
+stage_quarantine,封鎖区画
 stage_quarantine_summary,コアのサイクルによってテレポートしてきたエイリアンたちが、ブライアン・インダストリーズを襲う。
-stage_realmwalker,Realmwalker
+stage_realmwalker,レルムウォーカー
 stage_realmwalker_summary,ソニアはヴォルテックス・プロパゲーターを起動するが、彼女の旅路はますます混迷を極める。
 stage_rebirth,新生
 stage_rebirth_summary,クォンタムリアクターの奥深くへと突き落とされたソニア。辛くも生き延びた彼女は、秘密のアジトで目を覚ました。
-stage_reunion,A Friendly Reunion
+stage_reunion,懐かしき再会
 stage_reunion_summary,ついにグレートオーシャンを渡ったソニアはホットスプリングを抜け、懐かしい友人たちと再会する。
 stage_saplord,サプリンロード
 stage_saplord_summary,ハートツリーの化身
@@ -1599,9 +1597,9 @@ stage_seer_summary,巨像を操る堕落したワーカーボット。
 stage_sintho,シントー将軍
 stage_sintho_summary,オートマタ・コレクティブの指導者。
 stage_sintho_warning,警告: この戦闘をプレイすると、あなたの所属は教会で上書きされます。
-stage_thediplomat,The Diplomat
+stage_thediplomat,ディプロマシー
 stage_thediplomat_summary,ソニアが流れ着いた先は、内戦に揺れるセキュリティロボットの街。旅を続けるためには、内戦に手を貸さなければならない。
-stage_thegreatsea,The Great Sea
+stage_thegreatsea,グレートオーシャン
 stage_thegreatsea_summary,小さなボロ船で地下の大海原を往くソニア。きっと問題は起きないだろう。
 stage_thevertigoinitiative,ヴァーティゴ・イニシアチブ
 stage_thevertigoinitiative_summary,ブライアンの指示で、ソニアはリアクターコア近くの秘密のラボへと足を踏み入れる。
