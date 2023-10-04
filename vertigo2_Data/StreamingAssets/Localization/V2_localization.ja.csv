@@ -2068,53 +2068,53 @@ Brian_RecyclingCenter_03_igneosaur_caption_00,ふむ、悪い予感は当たっ�
 Brian_RecyclingCenter_03_igneosaur_caption_01,あれは若いイグニオザウルスだ。ケイ素がベースの非常に危険な生物で、マグマの中に生息している。
 Brian_RecyclingCenter_03_igneosaur_caption_02,珍しい生物だが、リアクターに出現すると厄介なことになる。
 Brian_RecyclingCenter_04_geothermal_caption_00,あぁ、地熱地帯のアウトポストか！
-Brian_RecyclingCenter_04_geothermal_caption_01,以前に一度、行ったことがある。輸送システムに直行するエレベーターがあったはずだ。
-Brian_RecyclingCenter_05_detour_caption_00,"Oh, there we go. Lost my connection with you for a few minutes."
-Brian_RecyclingCenter_05_detour_caption_01,Must have been the magma interfering.
-Brian_RecyclingCenter_05_detour_caption_02,"Speaking of magma, uh, this elevator shaft seems to be full of the stuff."
-Brian_RecyclingCenter_05_detour_caption_03,That is unfortunate.
-Brian_RecyclingCenter_05_detour_caption_04,"It’s ok, quick detour, you’re super close to the transit system. "
-Brian_RecyclingCenter_06_dead_caption_00,"That thing is not dead, you’ve just pissed it off."
-Brian_RecyclingCenter_06_dead_caption_01,Try to get out of here while you can!
-Brian_RecyclingCenter_07_toldyou_caption_00, I told you! I told you! Not dead!
-Brian_RecyclingCenter_07_toldyou_caption_01,"Keep going, get to higher ground! "
-Brian_RecyclingCenter_08_specimen_caption_00,"Excellent. That should keep it quiet, for the time being."
-Brian_RecyclingCenter_08_specimen_caption_01,"A great specimen, wish I could bring it in for study. "
-Brian_PITS_01_pits_caption_00,"Finally, you've reached the PITS, the Planck Internal Transit System."
-Brian_PITS_01_pits_caption_01,"You rode it on the way up to the surface as well, right?"
-Brian_PITS_01_pits_caption_02," This station has been idle since evac, of course, but it looks like it's still in working order."
-Brian_PITS_01_pits_caption_03,"There’s a train nearby, I’ll call it in. "
-Brian_PITS_02_crash_caption_00,Okay that was my bad. That was on me.
-Brian_PITS_02_crash_caption_01,"Shit, that was the only train anywhere near here."
-Brian_PITS_02_crash_caption_02," I can’t control track switches, so you’re going to have to reroute another train using this station’s control tower."
-Brian_PITS_02_crash_caption_03,Do you see it? Out in the tunnel past the tracks.
-Brian_PITS_02_crash_caption_04,"Make your way to the tower, and I’ll help you from there. "
-Brian_PITS_03_foot_caption_00,"Trust me, you should not try to traverse the PITS on foot."
-Brian_PITS_03_foot_caption_01,I’ve tried.
-Brian_PITS_03_foot_caption_02,"Head to the control tower to call in a train, okay?"
-Brian_PITS_04_crab_caption_00,"Wow, that is a big crab."
-Brian_PITS_04_crab_caption_01,That is the biggest crab I’ve ever seen.
-Brian_PITS_05_controls_caption_00,"Ah, perfect. This is what I can’t hack into remotely, the track switch controls. "
-Brian_PITS_05_controls_caption_01,"Figure out how to route another train to this station, so you can get the hell out of the recycling center."
-Brian_PITS_05_controls_caption_02,"The control tower should be better at, uh, braking, than I am. "
-Brian_PITS_06_centuar_caption_00,"Great, that should do it."
-Brian_PITS_06_centuar_caption_01," It will take a few minutes for the train to arrive, so you should head back to the station floor."
-Brian_PITS_06_centuar_caption_02,"And yes, there seems to be a Centaur there that you’ll have to take care of."
-Brian_PITS_06_centuar_caption_03,No chance that thing lets you onto a train unless it’s dead.
-Brian_PITS_07_centaur_caption_00,"What- uh- ok, my connection with you was just jammed. Back now."
-Brian_PITS_07_centaur_caption_01,I didn’t think Planck could do that.
-Brian_PITS_07_centaur_caption_02,"Anyway, listen: Centaurs are Planck’s most heavily armoured security units:"
-Brian_PITS_07_centaur_caption_03,"their entire body is essentially invulnerable, even to explosives."
-Brian_PITS_07_centaur_caption_04,"Their one weak point is their head, which of course has its own shielding you have to break through."
-Brian_PITS_07_centaur_caption_05,Focus your fire there.
-Brian_PITS_08_train_caption_00,Nice. Centaur down.
-Brian_PITS_08_train_caption_01,"Here comes the train too, impeccable timing!  "
-Brian_PITS_09_trainprompt_caption_00,"Come on, get on the train. No use wasting time. "
-Brian_PITS_10_seismic_caption_00,"Uh, weird seismic activity detected on the tracks ahead "
-Brian_PITS_11_bigcrab_caption_00,CRAB! Big crab.
-Brian_PITS_11_bigcrab_caption_01,"Big, big crab. Slow down, back up, do not go near the big crab! "
-Brian_PITS_11_bigcrab_caption_02,Stop! STOP! Stop the train!! Emergency brake or something!
-Brian_PITS_11_bigcrab_caption_03,CRAB!
+Brian_RecyclingCenter_04_geothermal_caption_01,以前に一度、行ったことがある。輸送システム直通のエレベーターがあったはずだ。
+Brian_RecyclingCenter_05_detour_caption_00,よし、繋がったか。この数分間、君との接続が切断されていたんだ。
+Brian_RecyclingCenter_05_detour_caption_01,マグマの影響に違いない。
+Brian_RecyclingCenter_05_detour_caption_02,マグマといえば、そのエレベータシャフトはマグマでいっぱいのようだ。
+Brian_RecyclingCenter_05_detour_caption_03,ツイてないな。
+Brian_RecyclingCenter_05_detour_caption_04,まぁいい、少し遠回りにはなるが、輸送システムはすぐそこだ。
+Brian_RecyclingCenter_06_dead_caption_00,そいつは死んでいない、まだ怒りを買っただけだぞ。
+Brian_RecyclingCenter_06_dead_caption_01,今のうちに脱出するんだ！
+Brian_RecyclingCenter_07_toldyou_caption_00,言っただろう！ まだ死んでないと言ったぞ！
+Brian_RecyclingCenter_07_toldyou_caption_01,そのまま高いところへ登れ！
+Brian_RecyclingCenter_08_specimen_caption_00,よくやった。これでしばらくの間は大人しくしているだろう。
+Brian_RecyclingCenter_08_specimen_caption_01,素晴らしい、出来ることなら持ち帰ってもらって研究したいくらいだ。
+Brian_PITS_01_pits_caption_00,ようやく輸送システムに辿り着いたな。そいつは頭文字を取ってPITSと呼ばれている。
+Brian_PITS_01_pits_caption_01,君が地表へ向かった時にも乗ったのだろう？
+Brian_PITS_01_pits_caption_02,もちろん避難してからは使用されていないが、まだ機能しているようだな。
+Brian_PITS_01_pits_caption_03,付近に列車がある。呼んでみよう。
+Brian_PITS_02_crash_caption_00,オーケー、私のミスだ。これは私のせいだよ。
+Brian_PITS_02_crash_caption_01,くそ、近くにある列車はあれが最後だった。
+Brian_PITS_02_crash_caption_02,こちらからは路線のスイッチを制御できないから、君が制御塔に行って他の列車を誘導しなくてはならない。
+Brian_PITS_02_crash_caption_03,見えるかね？ 線路の向こう、トンネルの出口の辺りだ。
+Brian_PITS_02_crash_caption_04,まずは制御塔へ向かってくれ。そこに着いたら私の出番だ。
+Brian_PITS_03_foot_caption_00,こいつは冗談ではなく、PITSを徒歩で行こうとしないでくれ。
+Brian_PITS_03_foot_caption_01,私が既に試した。
+Brian_PITS_03_foot_caption_02,制御塔へ向かって、列車を呼ぶんだ。わかったかね？
+Brian_PITS_04_crab_caption_00,なんということだ、巨大なカニだぞ。
+Brian_PITS_04_crab_caption_01,あんなサイズのカニは見たことがない。
+Brian_PITS_05_controls_caption_00,よし、いいぞ。その路線の制御盤はこちらからハッキングできないんだ。
+Brian_PITS_05_controls_caption_01,駅に列車を誘導するルートを見つけて、リサイクルセンターを一刻も早く出発するんだ。
+Brian_PITS_05_controls_caption_02,ブレーキは……私よりも制御塔の方が上手くやってくれるだろう。
+Brian_PITS_06_centuar_caption_00,よし、それでいい。
+Brian_PITS_06_centuar_caption_01,列車の到着には数分かかる。その間に駅のプラットホームへ戻るんだ。
+Brian_PITS_06_centuar_caption_02,そして、恐らくセントールが待ち構えているだろう。君が対処しなければならない。
+Brian_PITS_06_centuar_caption_03,あれを倒さない限り、列車に乗り込むことは出来まい。
+Brian_PITS_07_centaur_caption_00,なんだ──おい── よし、通信状況が戻った。妨害を受けていたんだ。
+Brian_PITS_07_centaur_caption_01,まさかプランクにそんなことが出来たとはな。
+Brian_PITS_07_centaur_caption_02,まぁいい、聞くんだ。セントールはプランクで最も重装のユニットで、
+Brian_PITS_07_centaur_caption_03,ボディは無敵と言ってもいい。爆発物さえも効かない。
+Brian_PITS_07_centaur_caption_04,唯一の弱点は頭だが、もちろん保護シールドを破壊しなければならない。
+Brian_PITS_07_centaur_caption_05,そこに火力を集中させるんだ。
+Brian_PITS_08_train_caption_00,よくやった。セントールのダウンを確認したぞ。
+Brian_PITS_08_train_caption_01,ちょうど列車も着く頃だ。時間通りだな！
+Brian_PITS_09_trainprompt_caption_00,さぁ、列車に乗ってくれ。時間を無駄に出来ない。
+Brian_PITS_10_seismic_caption_00,あぁ、線路の前方で奇妙な揺れを検出したぞ。
+Brian_PITS_11_bigcrab_caption_00,カニだ！ 巨大なカニだ。
+Brian_PITS_11_bigcrab_caption_01,デカい、デカいカニだぞ。スピードを落としてバックしろ、デカいカニから離れるんだ！
+Brian_PITS_11_bigcrab_caption_02,止まれ！ 止まれ！ 列車を止めるんだ！！ 緊急ブレーキとかはないのか！
+Brian_PITS_11_bigcrab_caption_03,カニ！
 Therus_PITS_00_void_caption_00,もしもし、もしもし？
 Therus_PITS_00_void_caption_01,こちらセラス。あまり長くは話せない。
 Therus_PITS_00_void_caption_02,いいか、ヴォイド・デレゲーションについて何か知ってることはあるか？
@@ -2439,15 +2439,15 @@ henrique_eventhorizon_07_begging_caption_04, I can return you home...
 henrique_eventhorizon_08_must_caption_00, I must do... what must be done
 henrique_eventhorizon_09_powerless_caption_00," It must be frustrating to be so powerless, but this is how it must occur. "
 henrique_eventhorizon_09_powerless_caption_01,"Farewell, and thank you for your service to the Void."
-brian_epilogue_00_safe_caption_00,Thank god. She didn’t go along with it.
-brian_epilogue_00_safe_caption_01,We’re safe from the Void... for now.
-brian_epilogue_01_1_ah_caption_00,Ah!
-kauboi_epilogue_00_atone_caption_00,The time has come to atone for your unwitting service to the Void.
-brian_epilogue_01_ please_caption_00,I didn’t even know I was working for the Void!!
-brian_epilogue_01_ please_caption_01,"Please, don’t kill me."
-kauboi_epilogue_01_work_caption_00," I am not going to kill you, Brian."
-kauboi_epilogue_01_work_caption_01,You are going to join me.
-brian_epilogue_02_whathaveidone_caption_00,What have I done...
+brian_epilogue_00_safe_caption_00,やれやれ。言いなりにならないでくれたか。
+brian_epilogue_00_safe_caption_01,ヴォイドの危機は去ったか……今のところは。
+brian_epilogue_01_1_ah_caption_00,うわ！
+kauboi_epilogue_00_atone_caption_00,意図せずともヴォイドに協力していた報いを受ける時が来た。
+brian_epilogue_01_ please_caption_00,ヴォイドが関係していたなんて知らなかったんだ！！
+brian_epilogue_01_ please_caption_01,頼む、殺さないでくれ。
+kauboi_epilogue_01_work_caption_00,お前を殺しはしない、ブライアン。
+kauboi_epilogue_01_work_caption_01,我が傘下に入れ。
+brian_epilogue_02_whathaveidone_caption_00,私はなんということを……。
 gentlehand_greatsea_0_phonecall_caption_00,もしもし？ もしもし？ おぉ、通じましたか。
 gentlehand_greatsea_0_phonecall_caption_01,憶えておいででしょうか？ ジェントルハンドでございます！
 gentlehand_greatsea_0_phonecall_caption_02,あのときエレベーターシャフトにあなたを落とした……あぁ、その節は大変失礼いたしました。
@@ -3329,31 +3329,31 @@ henrique_dream3_03_apostasy_caption_01,奴は存在自体が背教的なのだ�
 henrique_dream3_03_apostasy_caption_02,そもそも私は、奴を仕留めるためにこの領域へ来た。
 nani_dream2_04_cooler_caption_00,キミの方がダサいように聞こえるけどね。
 henrique_dream3_04_social_caption_00,お前の領域社会の階級制度には興味がない。
-nani_dream3_00_huh_caption_00,Huh.
-nani_dream3_00_huh_caption_00,Huh.
-henrique_dream4_00_left_caption_00,The catalyst has left this realm.
-henrique_dream5_00_nani_caption_00,Nani.
-nani_dream4_00_what_caption_00,Ah! What?
-henrique_dream5_01_fruit_caption_00,Why did you make her bring you a fruit.
-nani_dream4_01_hungry_caption_00,"Nani is running a business, boat rental service, not free boat giveaway."
-nani_dream4_01_hungry_caption_01,"Plus, Nani was very hungry."
-henrique_dream5_02_risk_caption_00," That tree nearly killed her, Nani. "
-henrique_dream5_02_risk_caption_01,Were you truly willing to risk the life of the Catalyst for a single fruit?
-nani_dream4_02_yeah_caption_00,Yeah. Heh heh heh.
-henrique_dream2_00_revolver_caption_00,Kauboi. Your revolver is complete.
-kauboi_dream2_00_kill_caption_00,So it is.
-kauboi_dream2_00_kill_caption_01,A bit of the Hypercube's essence has given me the power to kill fellow realmwalkers.
-henrique_dream2_01_live_caption_00,And yet I live.
-kauboi_dream2_01_curses_caption_00, I am unable to break all of Apollyon's curses;
-kauboi_dream2_01_curses_caption_01,"they prevent me from slaying one of my own, even now."
-henrique_dream2_02_bindings_caption_00,"The bindings are our purpose, not a curse.  "
-kauboi_dream2_02_path_caption_00,You scurry in circles for a dying empire.
-kauboi_dream2_02_path_caption_01,"I break my chains, one by one, and walk my own path.  "
-henrique_dream2_03_leave_caption_00,"For six hundred years I have pursued you alone, to bring you to justice for your heresy."
-henrique_dream2_03_leave_caption_01,"But today, an infinitely higher calling demands my attention."
-henrique_dream2_03_leave_caption_02,"Leave me be, and take your impotent pistol with you.  "
-kauboi_dream2_03_never_caption_00,The Void shall never reclaim the hypercube.
-henrique_dream2_04_inevitable_caption_00,"You are wrong, it is inevitable. Stay out of our way.  "
+nani_dream3_00_huh_caption_00,おっと。
+nani_dream3_00_huh_caption_00,おっと。
+henrique_dream4_00_left_caption_00,カタリストがこの領域を去った。
+henrique_dream5_00_nani_caption_00,ナニー。
+nani_dream4_00_what_caption_00,わぁ！ 何？
+henrique_dream5_01_fruit_caption_00,何故フルーツを持ってこさせた。
+nani_dream4_01_hungry_caption_00,ナニーはボートのレンタル業をやってるんだ、無料プレゼントじゃないよ。
+nani_dream4_01_hungry_caption_01,それに、ナニーはとってもお腹が減ってた。
+henrique_dream5_02_risk_caption_00,もう少しであの木に殺されるところだったぞ、ナニー。
+henrique_dream5_02_risk_caption_01,たかがフルーツのために、カタリストの命を危険に晒したというのか？
+nani_dream4_02_yeah_caption_00,うん。へっへっへ。
+henrique_dream2_00_revolver_caption_00,カウボーイ。リボルバーが完成したのか。
+kauboi_dream2_00_kill_caption_00,その通り。
+kauboi_dream2_00_kill_caption_01,ハイパーキューブのエッセンスが、我々レルムウォーカーに死をもたらす力を授けた。
+henrique_dream2_01_live_caption_00,そして、私はまだ生きている。
+kauboi_dream2_01_curses_caption_00,アポリオンの呪いを破ることはできない。
+kauboi_dream2_01_curses_caption_01,この呪いのせいで貴様らを殺すことも叶わない。
+henrique_dream2_02_bindings_caption_00,束縛は我らの目的だ。呪いではない。
+kauboi_dream2_02_path_caption_00,貴様は死にゆく帝国のために小さな循環を繰り返す。
+kauboi_dream2_02_path_caption_01,我は自らの鎖を一つずつ壊して、我が道を往く。
+henrique_dream2_03_leave_caption_00,この600年間、お前を追い続けてきた。異端者に裁きを下すために。
+henrique_dream2_03_leave_caption_01,だが今日、遥かに崇高な使命が私を呼んだ。
+henrique_dream2_03_leave_caption_02,行くがよい。その役立たずのピストルをぶら下げてな。
+kauboi_dream2_03_never_caption_00,ハイパーキューブがヴォイドの手に渡ることはない。
+henrique_dream2_04_inevitable_caption_00,違うな、それは必然だ。邪魔をしないでもらおうか。
 nani_grotto_00_hello_caption_00,やぁ、ハロー。
 nani_grotto_00_hello_caption_01,ナニーはキミがここに辿り着いてしまうと心配していたんだよ。
 nani_grotto_00_hello_caption_02,でも、やっと会えたね。嬉しいよ。
@@ -3399,18 +3399,18 @@ nani_grotto_16_goodbye_caption_02,さよなら。
 nani_grotto_17_prompt_shoo_caption_00,ほら、ボート乗って。行かなきゃいけないんだろ。
 nani_grotto_18_prompt_core_caption_00,リアクターコアは遠い。行きなよ。
 nani_grotto_20_prompt_kill_caption_00,ボートに乗らないとナニーはキミを殺すよ。
-nani_ending_00_end_caption_00,"Greetings, friend of Nani."
-nani_ending_00_end_caption_01,We are finally on our way home.
-nani_ending_00_end_caption_02,Try not to think of the world we leave behind.
-nani_ending_00_end_caption_03,The Hypercube residing in that realm was a sentence of death from the beginning.
-nani_ending_00_end_caption_04,"The Void Delegation, it is more powerful than you can imagine."
-nani_ending_00_end_caption_05,"The only one who could have stopped Henrique is a rogue realmwalker, and even Kauboi has his limits."
-nani_ending_00_end_caption_06,"What matters is, we are safe."
-nani_ending_00_end_caption_07,We will never set foot in that cursed reactor again.
-nani_ending_00_end_caption_08,The nightmare has ended.
-nani_ending_01_thankyou_caption_00,We near your universe. I have a ways to travel yet.
-nani_ending_01_thankyou_caption_01,May our paths never cross again.
-nani_ending_01_thankyou_caption_02,Thank you for the fruit.
+nani_ending_00_end_caption_00,ごきげんよう、ナニーのお友達。
+nani_ending_00_end_caption_01,これでようやく帰れるね。
+nani_ending_00_end_caption_02,あの世界のことは考えないようにしよう。
+nani_ending_00_end_caption_03,あの領域にあったハイパーキューブはそもそも、死の宣告だったんだよ。
+nani_ending_00_end_caption_04,ヴォイド・デレゲーション。キミでは想像もできないほど強大な勢力。
+nani_ending_00_end_caption_05,ヘンリケを止められたのはヴォイドに属さないレルムウォーカーだけ。でもカウボーイにも限界があった。
+nani_ending_00_end_caption_06,大事なのは、僕たちが無事なこと。
+nani_ending_00_end_caption_07,あの忌まわしいリアクターに足を踏み入れることもない。
+nani_ending_00_end_caption_08,悪夢は終わり。
+nani_ending_01_thankyou_caption_00,キミの宇宙が近付いてきた。僕のはもう少し向こう。
+nani_ending_01_thankyou_caption_01,僕たち、もう二度と会いませんように。
+nani_ending_01_thankyou_caption_02,フルーツ、ありがとね。
 worker_hurt_donthaveto_caption_00,こんなことするなんて！
 worker_hurt_giveup_caption_00,お願い、助けて！
 worker_hurt_iwasntbuilt_caption_00,私の設計じゃ耐えられない！
