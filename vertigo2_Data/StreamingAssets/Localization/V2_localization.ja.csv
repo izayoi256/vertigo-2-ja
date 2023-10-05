@@ -967,8 +967,8 @@ enc_saplord_stats,"学名: N/A
 起源宇宙: <link=0>438-エウリュディケ</link>
 分類: FA-H:7"
 enc_saplord_sub,ツリーに語りかけます
-enc_security_stronghold,セキュリティ本陣
-enc_security_stronghold_desc,"セキュリティ本陣はリアクターコアを守る最終防衛ラインだ。ここはセキュリティ活動の拠点であり、コアへの要衝であり、物理的な関門でもある。
+enc_security_stronghold,セキュリティ大本営
+enc_security_stronghold_desc,"セキュリティ大本営はリアクターコアを守る最終防衛ラインだ。ここはセキュリティ活動の拠点であり、コアへの要衝であり、物理的な関門でもある。
 
 コアのアクセスコントロールは4箇所の独立した制御室を通して行なわれる。通常、どれか1箇所でロックの解除を試みたとしても、他の3箇所のいずれかで遮断されてしまう。幸い、コア蒸発の危険が差し迫っているためセキュリティが手薄になっているようだ。
 
@@ -2251,121 +2251,121 @@ brian_deeplabs_28_key_caption_00,なんと、サイバネティクス・ラボ�
 brian_deeplabs_28_key_caption_01,素晴らしい！ ようやく、面白いものを探しに行けるな。
 brian_deeplabs_29_scan_caption_00,イェス！ これこそ私が言っていたものだ！
 brian_deeplabs_29_scan_caption_01,さぁ、サーバーをスキャンしてみてくれ。
-brian_degenerate_00_showup_caption_00,"Well, well, well. Look who decided to show up."
-brian_degenerate_00_showup_caption_01,"While you’ve been bouncing between dimensions, the reactor core has quite possibly been irretrievably destabilized. "
-brian_degenerate_00_showup_caption_02,"What on earth compelled you to activate that portal, anyway? "
-gentlehand_degenerate_00_blame_caption_00,I'm afraid I must take the blame for that.
-brian_degenerate_01_encypted_caption_00,"Wha- Gentlehand, this is an encrypted channel!"
-brian_degenerate_01_encypted_caption_01,What are you doing on here?!
-gentlehand_degenerate_01_codes_caption_00,"Come now, Brian. You didn't really think I don't know your codes?"
-brian_degenerate_02_die_caption_00,"I mean, I kind of hoped you didn’t."
-brian_degenerate_02_die_caption_01,"That doesn’t matter now, though. We’re all about to die.  "
-gentlehand_degenerate_02_plan_caption_00,"About that. Young lady, if you hurry to the reactor core, Brian's plan might still work."
-gentlehand_degenerate_02_plan_caption_01,I apologize for directing you towards the obviously flawed Vortex Propagator
-brian_degenerate_03_understatement_caption_00,That’s an understatement.
-gentlehand_degenerate_03_tell_caption_00,"Brian, tell her what to do."
-gentlehand_degenerate_03_what_caption_00,"Brian, what needs to be done?"
-brian_degenerate_04_plan_caption_00,"Uh, reach the core, hop in a maintenance pod, and perform an emergency release. "
-brian_degenerate_04_plan_caption_01,You’ll naturally fall into the black hole in the core.
-brian_degenerate_04_plan_caption_02,"I’ll carefully tune and time a power surge to the gravity wavefront inhibitors,"
-brian_degenerate_04_plan_caption_03,"bing bang boom, you’re nice and snug back home, the core restabilizes, and Gentlehand and I hopefully don’t die. "
-gentlehand_degenerate_04_getgoing_caption_00,"I like the sound of that. Come on now, we're running out of time!"
-brian_degenerate_05_berlin_caption_00,"I get that you two weren’t around in 1989, but when the Berlin quantum reactor was blown up, half a million people were killed in one day."
-brian_degenerate_05_berlin_caption_01,This quantum reactor is orders of magnitude larger than the one that destroyed Berlin.
-brian_degenerate_05_berlin_caption_02,"Just in case, uh, you weren’t aware of the severity of the situation."
-brian_degenerate_08_waves_caption_00," I’m picking up gravitational waves all the way up here at HQ. You need to hurry, core stability is going down quick. "
-gentlehand_degenerate_07_alive_caption_00," It’s more important she gets there alive, Brian. "
-brian_degenerate_09_corpse_caption_00," I suppose. However, throwing her corpse with enough velocity could- "
-gentlehand_degenerate_08_brian_caption_00,Brian!
-brian_degenerate_10_options_caption_00,I’m just saying. We have options.
-brian_degenerate_11_stronghold_caption_00,"Shit. Okay, I assumed the security was too fragmented by the destabilization to fortify the reactor core, but this security stronghold is still standing."
-brian_degenerate_11_stronghold_caption_01, Barely.
-brian_degenerate_11_stronghold_caption_02,"The only way to the core is through that pyramid, you have to get inside. "
-gentlehand_degenerate_09_idea_caption_00,"Wait, Brian, I have an idea. "
-gentlehand_degenerate_09_idea_caption_01,Can you patch me into the intercom in that chamber?
-brian_degenerate_12_sure_caption_00,"Uh, sure. "
-brian_degenerate_12_sure_caption_01,"Okay, you’re in. "
-gentlehand_degenerate_10_please_caption_00,"Greetings, Planck security forces. "
-gentlehand_degenerate_10_please_caption_01,We are attempting to stabilize the reactor core and prevent a collapse.
-gentlehand_degenerate_10_please_caption_02,Please allow us access to the core so we may-
-brian_degenerate_13_nicely_caption_00,"Christ, Gentlehand, that was your idea? Asking nicely? "
-gentlehand_degenerate_11_reason_caption_00,I thought I might reason with them.
-brian_degenerate_14_locks_caption_00,"Okay, good progress. That’s one of the locks keeping the stronghold sealed. "
-brian_degenerate_14_locks_caption_01,You’ll need to get the other three as well.
-brian_degenerate_14_locks2_caption_00,Half the locks done. Keep it up.
-brian_degenerate_14_locks3_caption_00,Only one more lock left!
-brian_degenerate_15_1_core_caption_00,"Great. Get inside. Next stop, reactor core. "
-brian_degenerate_15_hostiles_caption_00,"Shit, they have one more layer of security."
-brian_degenerate_15_hostiles_caption_01,You’ll have to take out all these hostiles before it lets you in.
-brian_degenerate_15_locks4_caption_00,That’s all the locks! Hurry and get to one of the entrances!
-brian_degenerate_16_joejeffs_caption_00,What is this? JoeJeffs? How did they all get in here? Did Planck...
-brian_degenerate_16_joejeffs_caption_01,"Ah, oh dear. I know what’s going on."
-brian_degenerate_16_joejeffs_caption_02,"Planck is attempting to summon a creature so powerful, so dominant, it rules an entire universe. "
-brian_degenerate_16_joejeffs_caption_03," This must be their last, most desperate line of defense.  "
-brian_degenerate_17_1_ready_caption_00,"No, no, no, what’s this, they were ready for this? Are you kidding? "
-brian_degenerate_17_1_ready_caption_01,It looks like they may have been busier than we thought in the deep labs.
-brian_degenerate_17_joseph_caption_00,Joseph Jeffrey.
-officer13_degenerate_00_terrorist_caption_00,I should have known Brian and his little pet were responsible for this.
-officer13_degenerate_00_terrorist_caption_01,"You terrorist piece of shit, I can’t believe I trusted you, I let you go. "
-officer13_degenerate_00_terrorist_caption_02,I’ll never forgive myself for not shooting you the moment I saw you in that fish. I’ve lost my edge.
-brian_degenerate_18_officer_caption_00,Our friend Officer 13!
-brian_degenerate_18_officer_caption_01,But how did he get his memory back?
-brian_degenerate_18_officer_caption_02,What’s this about a fish?
-brian_degenerate_18_officer_caption_03,"13, buddy, let’s talk this out!"
-officer13_degenerate_01_reactor_caption_00,I won’t let you blow up the reactor. You’ve done enough damage. This ends here.
-brian_degenerate_19_canthear_caption_00,"Damn it, he can’t hear me. He doesn’t know we’re trying to stabilize the core. "
-officer13_degenerate_02_crush_caption_00,I’ll crush you into a fucking two dimensional entity!!
-officer13_degenerate_03_defy_caption_00,You defy Planck!
-officer13_degenerate_04_giveup_caption_00,Give up! This is the closest you’ll ever get to the core!
-officer13_degenerate_05_hunt_caption_00,"Brian, are you listening? I’ll hunt you down next! "
-officer13_degenerate_05_hunt_caption_01,With Cyberjoseph I can reach your headquarters in less than fifteen minutes!
-brian_degenerate_20_chance_caption_00,"I do believe him. Let’s not give him the chance, please. "
-officer13_degenerate_06_killed_caption_00,I should have killed Brian years ago!
-officer13_degenerate_06_killed_caption_01,"Officer 2 recommended it, If only I had listened!!"
-officer13_degenerate_07_forwhat_caption_00,"You’re blowing up the reactor, Brian, and for what?! Money? "
-officer13_degenerate_07_forwhat_caption_01,"Or worse, are you actually sympathetic to the lunar separatists?"
-brian_degenerate_21_political_caption_00,Ridiculous. Officer 13 knows I’m not political.
-brian_degenerate_21_political_caption_01,"Would probably do it for money, though. "
-officer13_degenerate_08_humanoid_caption_00,"Why don’t you come down here yourself, Brian? "
-officer13_degenerate_08_humanoid_caption_01,Why send this humanoid to do your dirty work?
-officer13_degenerate_09_sanitation_caption_00,When I’m done with you there will be nothing for the sanitation drones to clean up!
-officer13_degenerate_10_tired_caption_00,"Cyberjoseph doesn’t get tired, and neither do I! "
-officer13_degenerate_10_tired_caption_01,We will grease our hydraulics with your blood!
-officer13_degenerate_11_dead_caption_00,"I’m shocked you’re not dead yet, but we have time to fix that!"
-officer13_degenerate_12_inevitable_caption_00,You think you can kill Cyberjoseph like any other robot?
-officer13_degenerate_12_inevitable_caption_01,Even the meat nailer is just denting me. You’re delaying the inevitable! Give up and I’ll end this quickly.
-brian_degenerate_22_archives_caption_00,"I’m worried he’s right, this thing is unkillable with conventional weaponry."
-brian_degenerate_22_archives_caption_01,I’ve never seen armor like this before.
-brian_degenerate_22_archives_caption_02,"Fuck, give me a minute. I’m checking my archives.  "
-brian_degenerate_23_antimatter_caption_00,"Yes! Ok, ok. Listen, your BAMM noted in the deep labs that Cyberjoes’ weakness is antimatter. "
-brian_degenerate_23_antimatter_caption_01,I can flash your Annihilator with experimental firmware.
-brian_degenerate_23_antimatter_caption_02,A high intensity antimatter particle beam is the only hope to kill something like this.
-brian_degenerate_23_antimatter_caption_03,"This is going to absolutely melt your gun though, sorry in advance."
-brian_degenerate_23_antimatter_caption_04,Transmitting the update now...
-brian_degenerate_24_fire_caption_00,"Fire, give him everything you’ve got! "
-officer13_degenerate_13_possible_caption_00,What is this!? How is this possible?
-brian_degenerate_25_working_caption_00,Yes! It’s working! Thank god!
-officer13_degenerate_14_damaging_caption_00,"No, no, this can’t happen, how are you damaging my armor?!"
-brian_degenerate_26_antishit_caption_00,"Eat anti-shit, 13! "
-officer13_degenerate_15_firepower_caption_00,How... How do you have the firepower to counter Cyberjoseph?!
-officer13_degenerate_16_survive_caption_00,Why would you fight for Brian? Do you think he’s on your side?
-officer13_degenerate_16_survive_caption_01,Do you think you were ever supposed to survive this?!
-officer13_degenerate_17_service_caption_00,I won’t give up! I won’t stop until the reactor is safe!
-officer13_degenerate_17_service_caption_01,"I can’t die now, after so many years of perfect service!"
-officer13_degenerate_18_award_caption_00,I will not lose my employee of the month award!
-officer13_degenerate_19_failed_caption_00,I’ve failed... The reactor is doomed...
-brian_degenerate_27_drama_caption_00,"Oh, what a drama queen."
-brian_degenerate_27_drama_caption_01,Bring the BAMM over to him so he can hear me.
-brian_degenerate_28_restabilize_caption_00,"Hey 13. Listen you moron, we’re not trying to blow up the reactor core, we’re trying to restabilize it."
-brian_degenerate_28_restabilize_caption_01,It got fucked up by a piece of experimental tech in the deep labs that went haywire.
-brian_degenerate_28_restabilize_caption_02,I have a plan to stop the core from blowing up.
-officer13_degenerate_20_ok_caption_00,Oh.
-officer13_degenerate_20_ok_caption_01,"Yeah, ok."
-brian_degenerate_29_really_caption_00,Really?
-officer13_degenerate_21_carriedaway_caption_00,"Yeah, I mean, that checks out. "
-officer13_degenerate_21_carriedaway_caption_01,Epicenter of the initial explosion was in the deep labs.
-officer13_degenerate_21_carriedaway_caption_02,"Plus your headquarters is in the reactor, and I know you don’t want that to get destroyed. "
-officer13_degenerate_21_carriedaway_caption_03,You’re probably not terrorists. I just got a little carried away.
+brian_degenerate_00_showup_caption_00,おやおやおや。誰かさんのお出ましだ。
+brian_degenerate_00_showup_caption_01,君が次元を行ったり来たりしている間に、恐らくリアクターコアは取り返しがつかないほど不安定化してしまったんだぞ。
+brian_degenerate_00_showup_caption_02,一体何が、君のポータルを起動したい衝動をそこまで駆り立てたんだ？
+gentlehand_degenerate_00_blame_caption_00,その責任を取らなければならないのは、恐らく私でしょうな。
+brian_degenerate_01_encypted_caption_00,な── ジェントルハンド、こいつは秘匿回線だぞ！
+brian_degenerate_01_encypted_caption_01,どうやって入り込んだ？！
+gentlehand_degenerate_01_codes_caption_00,まぁまぁ、ブライアン。まさか、私があなたのコードを存じ上げないと思っていましたか？
+brian_degenerate_02_die_caption_00,それは、そう信じたかったよ。
+brian_degenerate_02_die_caption_01,今となってはどうでもいいがな。どうせみんな死ぬんだ。
+gentlehand_degenerate_02_plan_caption_00,それについてですが、お嬢さん。リアクターコアに急げば、ブライアンの計画は間に合うかもしれません。
+gentlehand_degenerate_02_plan_caption_01,どう見ても欠陥品のヴォルテックス・プロパゲーターへとご案内したこと、お詫びを申し上げます。
+brian_degenerate_03_understatement_caption_00,欠陥品とは、控えめな表現だな。
+gentlehand_degenerate_03_tell_caption_00,ブライアン、彼女に指示をお出しなさい。
+gentlehand_degenerate_03_what_caption_00,ブライアン、何をすべきですか？
+brian_degenerate_04_plan_caption_00,えぇと、コアに到達してメンテナンスポッドに乗り込み、緊急リリースを実行するんだ。
+brian_degenerate_04_plan_caption_01,そうすれば自然とコア内のブラックホールに落ちるはずだ。
+brian_degenerate_04_plan_caption_02,こっちでタイミングを図って、重力波面インヒビターに過電流を送る。
+brian_degenerate_04_plan_caption_03,するとあら不思議、君は無事に元の世界へと帰り、コアは安定して、ジェントルハンドと私は死なずに済むという訳だ。
+gentlehand_degenerate_04_getgoing_caption_00,それは素晴らしい。ではお行きなさい、もう時間がありません！
+brian_degenerate_05_berlin_caption_00,君たちは1989年のことを知らないだろう。ベルリンのクォンタムリアクターが吹き飛んだ時は、1日で50万人が死んだ。
+brian_degenerate_05_berlin_caption_01,このクォンタムリアクターは、ベルリンのものより桁外れに大きいんだ。
+brian_degenerate_05_berlin_caption_02,まぁ、君が事態の深刻さを正しく認識していなかったら、と思ってな。
+brian_degenerate_08_waves_caption_00,重力がアジトまで届いている。急げ、コアの安定性が急速に低下しているようだ。
+gentlehand_degenerate_07_alive_caption_00,彼女が生きて辿り着くことが何よりも大切です、ブライアン。
+brian_degenerate_09_corpse_caption_00,そうかもな。だが、彼女の死体を十分なスピードで投げつければ──
+gentlehand_degenerate_08_brian_caption_00,ブライアン！
+brian_degenerate_10_options_caption_00,言ってみただけさ。他に方法はある。
+brian_degenerate_11_stronghold_caption_00,しまった。安定性の低下でセキュリティが分散してリアクターコアの警備が手薄になると踏んでいたが、セキュリティ大本営は未だ健在か。
+brian_degenerate_11_stronghold_caption_01,かろうじてな。
+brian_degenerate_11_stronghold_caption_02,コアへ向かう唯一の道は、そのピラミッドの中だ。あそこに侵入しなければならない。
+gentlehand_degenerate_09_idea_caption_00,お待ちください、ブライアン。私に考えがございます。
+gentlehand_degenerate_09_idea_caption_01,その部屋のスピーカーに私の声を乗せていただけますか？
+brian_degenerate_12_sure_caption_00,あぁ、構わない。
+brian_degenerate_12_sure_caption_01,よし、つながったぞ。
+gentlehand_degenerate_10_please_caption_00,ごきげんよう、プランクセキュリティ部隊の皆様。
+gentlehand_degenerate_10_please_caption_01,私共はリアクターコアの安定化を図り、崩壊を防ごうとする者です。
+gentlehand_degenerate_10_please_caption_02,コアへの通行を許可していただければ──
+brian_degenerate_13_nicely_caption_00,冗談だろう、ジェントルハンド。それがアイデアか？ 丁寧にお願いすることが？
+gentlehand_degenerate_11_reason_caption_00,私なら説得できると思ったのですが。
+brian_degenerate_14_locks_caption_00,よし、順調だ。それが大本営を封鎖するロックの一つだ。
+brian_degenerate_14_locks_caption_01,他の三つも解除する必要がある。
+brian_degenerate_14_locks2_caption_00,半分は解除したぞ。その調子だ。
+brian_degenerate_14_locks3_caption_00,ロックは残り一つだ！
+brian_degenerate_15_1_core_caption_00,いいぞ。中に入るんだ。次の目的地はリアクターコアだ。
+brian_degenerate_15_hostiles_caption_00,くそ、まだセキュリティが残っていたか。
+brian_degenerate_15_hostiles_caption_01,全滅させないと中に入れてはもらえないだろう。
+brian_degenerate_15_locks4_caption_00,それで鍵は全部だ！ 急いで入り口へ向かえ！
+brian_degenerate_16_joejeffs_caption_00,なんだこれは？ ジョージェフ？ どうやってここに入り込んだ？ 一体プランクは……
+brian_degenerate_16_joejeffs_caption_01,あぁ、これはまずいな。わかったぞ。
+brian_degenerate_16_joejeffs_caption_02,プランクは、強大で圧倒的な、宇宙の一つを支配する生物を呼び出そうとしている。
+brian_degenerate_16_joejeffs_caption_03,ここが奴らの最後の一線で、なりふり構っていられないということだ。
+brian_degenerate_17_1_ready_caption_00,まさか、そんな、何だこれは。この事態を予測していたのか？ 冗談だろう？
+brian_degenerate_17_1_ready_caption_01,ディープラボの研究は、私が思っていたより進んでいたらしい。
+brian_degenerate_17_joseph_caption_00,ジョセフ・ジェフリー。
+officer13_degenerate_00_terrorist_caption_00,ブライアンとそのペットなら、この程度のことは起こしかねないと気付くべきだった。
+officer13_degenerate_00_terrorist_caption_01,このクソテロリスト野郎、貴様を信用して行かせた自分が信じられん。
+officer13_degenerate_00_terrorist_caption_02,あの魚の中で貴様を見た瞬間に射殺しなかった自分を許せない。俺も耄碌したものだ。
+brian_degenerate_18_officer_caption_00,オフィサー13！
+brian_degenerate_18_officer_caption_01,奴はどうやって記憶を取り戻したというんだ？
+brian_degenerate_18_officer_caption_02,魚とは何のことだ？
+brian_degenerate_18_officer_caption_03,サーティーン、落ち着け、話し合おう！
+officer13_degenerate_01_reactor_caption_00,リアクターを爆破させる訳にはいかない。既に被害が発生してるんだ。ここで止めてみせる。
+brian_degenerate_19_canthear_caption_00,くそ、聞いてない。私たちがコアを安定させようとしていることを知らないんだ。
+officer13_degenerate_02_crush_caption_00,貴様を潰して二次元にしてやる！！
+officer13_degenerate_03_defy_caption_00,プランクに逆らうのか！
+officer13_degenerate_04_giveup_caption_00,諦めろ！ これ以上コアに近づけさせはしない！
+officer13_degenerate_05_hunt_caption_00,ブライアン、聞こえているか？ 次は貴様の番だ！
+officer13_degenerate_05_hunt_caption_01,サイバージョセフなら15分もかからずにアジトに着くぞ！
+brian_degenerate_20_chance_caption_00,脅しではないだろう。そのチャンスを奴に与えないでくれ、頼む。
+officer13_degenerate_06_killed_caption_00,さっさとブライアンを殺しておくべきだったんだ！
+officer13_degenerate_06_killed_caption_01,俺があの時、オフィサー2の言葉に耳を貸していたらこんなことには！！
+officer13_degenerate_07_forwhat_caption_00,リアクターを吹き飛ばして何になる、ブライアン？！ 金が目的か？
+officer13_degenerate_07_forwhat_caption_01,まさか、ルナの分離主義の連中に同情してるんじゃないだろうな？
+brian_degenerate_21_political_caption_00,バカらしい。私がノンポリなのはオフィサー13も知っているはずだ。
+brian_degenerate_21_political_caption_01,金のためなら、やるかもしれんが。
+officer13_degenerate_08_humanoid_caption_00,どうしたブライアン、自分で下りてこないのか？
+officer13_degenerate_08_humanoid_caption_01,どうしてこのヒューマノイドを貴様の汚れ仕事のためによこした？
+officer13_degenerate_09_sanitation_caption_00,清掃ドローンも必要ないくらい、貴様を跡形もなく片付けてやる！
+officer13_degenerate_10_tired_caption_00,サイバージョセフは止められないぞ、俺もな！
+officer13_degenerate_10_tired_caption_01,貴様の血を潤滑油にしてやる！
+officer13_degenerate_11_dead_caption_00,まだ死なないなんて驚きだよ。それも時間の問題だがな！
+officer13_degenerate_12_inevitable_caption_00,サイバージョセフも他のロボットみたいに殺せると思っているのか？
+officer13_degenerate_12_inevitable_caption_01,ミートネイラーも効かないぞ。結果は変わらない、諦めろ。すぐに終わらせてやる。
+brian_degenerate_22_archives_caption_00,奴の言葉は正しいかも知れない。こいつは普通の兵器では倒せないぞ。
+brian_degenerate_22_archives_caption_01,あんな装甲は今まで見たことがない。
+brian_degenerate_22_archives_caption_02,くそ、少し時間をくれ。アーカイブを確認している。
+brian_degenerate_23_antimatter_caption_00,これだ！ いいか、聞いてくれ。サイバージョーの弱点は反物質であると、ディープラボでBAMMが記録している。
+brian_degenerate_23_antimatter_caption_01,君のアナイアレイターを実験的なファームウェアで書き換える。
+brian_degenerate_23_antimatter_caption_02,あれを殺せるとしたら、強烈な反物質粒子ビームしかない。
+brian_degenerate_23_antimatter_caption_03,ただ、君の銃は間違いなく壊れるだろう。あらかじめ謝罪しておく。
+brian_degenerate_23_antimatter_caption_04,アップデートを送信中だ……。
+brian_degenerate_24_fire_caption_00,撃て、すべてをぶつけるんだ！
+officer13_degenerate_13_possible_caption_00,なんだこれは！？ どうなってる？
+brian_degenerate_25_working_caption_00,あぁ！ 効いてるぞ！ よかった！
+officer13_degenerate_14_damaging_caption_00,違う、違う、こんなはずはない、どうやって装甲を破壊してるんだ？！
+brian_degenerate_26_antishit_caption_00,アンチマターを喰らえ、サーティーン！
+officer13_degenerate_15_firepower_caption_00,そんな……サイバージョセフに対抗する火力がどうして？！
+officer13_degenerate_16_survive_caption_00,何故ブライアンのために戦う？ 貴様の味方だとでも思ってるのか？
+officer13_degenerate_16_survive_caption_01,こんなの、どうやっても生き残れないと思わなかったのか？！
+officer13_degenerate_17_service_caption_00,俺は諦めない！ リアクターの安全が確保できるまで止まるわけにはいかないんだ！
+officer13_degenerate_17_service_caption_01,何年も完璧に仕事をこなしてきたんだ、今さら死ねるか！
+officer13_degenerate_18_award_caption_00,今月も最優秀従業員賞をもらうんだよ！
+officer13_degenerate_19_failed_caption_00,終わりだ……リアクターはおしまいだ……。
+brian_degenerate_27_drama_caption_00,やれやれ、悲劇のヒロイン気取りか。
+brian_degenerate_27_drama_caption_01,私の声が聞こえるよう奴にBAMMを近づけてくれ。
+brian_degenerate_28_restabilize_caption_00,おい、サーティーン。よく聞け、この馬鹿。私たちはリアクターコアを爆破しに来たんじゃない。安定させるために来たんだ。
+brian_degenerate_28_restabilize_caption_01,ディープラボの実験の一部がおかしくなったせいで不安定化している。
+brian_degenerate_28_restabilize_caption_02,コアの爆発を止める用意がある。
+officer13_degenerate_20_ok_caption_00,あぁ。
+officer13_degenerate_20_ok_caption_01,そうか、わかった。
+brian_degenerate_29_really_caption_00,本当か？
+officer13_degenerate_21_carriedaway_caption_00,あぁ、それで合点がいった。
+officer13_degenerate_21_carriedaway_caption_01,最初の爆発の震源はディープラボだった。
+officer13_degenerate_21_carriedaway_caption_02,それに、お前の本部もリアクターの中にあるんだ。それが破壊されることは望まないだろう。
+officer13_degenerate_21_carriedaway_caption_03,お前たちはテロリストじゃないんだろう。ちょっと大げさに考えすぎたようだ。
 brian_degenerate_30_readonable_caption_00,"See, I always knew you were reasonable."
 brian_degenerate_30_readonable_caption_01,I’m glad I don’t have to have my friend annihilate you.
 officer13_degenerate_22_help_caption_00,Anything I can do to help you folks?
@@ -2591,26 +2591,26 @@ officer13_door_ok_caption_00,OK。
 officer13_door_ready_caption_00,レディー。
 officer13_door_side_caption_00,こっちも掴んだ。通れるぞ。
 officer13_nicegun_caption_00,いい銃だな！
-pipegrowth_00_hey_caption_00,"Oh, hey there. "
-pipegrowth_01_quest_caption_00,"What, you want to go past?"
-pipegrowth_01_quest_caption_01,"I’m kinda, uh, trying to grow here."
-pipegrowth_01_quest_caption_02,"You want me to scrunch aside, get out of your way, you’re gonna have to make it worth my while."
-pipegrowth_01_quest_caption_03,"Listen, I used to have a little spray bottle here, but I lost it."
-pipegrowth_01_quest_caption_04,"You find my spray bottle, I’ll let you by. "
-pipegrowth_01_quest_caption_05,"Been trying to make the handymen get it but they’re, uh, kind of uncooperative. "
-pipegrowth_02_prompt_caption_00,I’m not in a hurry. Find that spray bottle and I’ll let you by.
-pipegrowth_03_prompt_caption_00,"Sorry, not open to negotiation. Find the spray bottle, then we can talk. "
-pipegrowth_04_prompt_caption_00,"I don’t see the spray bottle. Come on, it’s around these pipes somewhere. "
-pipegrowth_05_shooting_caption_00,If you keep shooting me I’ll be less inclined to let you through.
-pipegrowth_06_success_caption_00,"Yo, you found the spray bottle! Okay, now, spray me. "
-pipegrowth_07_promptSpray_caption_00,"Come on, a little spray. "
-pipegrowth_08_promptSpray_caption_00,Just a squirt.
-pipegrowth_09_promptSpray_caption_00,Do it. Spray me.
-pipegrowth_10_opening_caption_00,"Ahh, that’s it. That hits the spot. That is lovely."
-pipegrowth_10_opening_caption_01,"Alright, a deal’s a deal.  "
-pipegrowth_10_opening_caption_02,[grunting]
-pipegrowth_11_steal_caption_00,Hey! Wait!
-pipegrowth_11_steal_caption_01,I didn’t say you could take the bottle with you! Bring that back!
+pipegrowth_00_hey_caption_00,おっと、やぁ。
+pipegrowth_01_quest_caption_00,え、ここを通りたいって？
+pipegrowth_01_quest_caption_01,僕ってさ、あぁ、ここで繁殖してるんだよね。
+pipegrowth_01_quest_caption_02,ここを通れるように動いて欲しいんならさ、それに見合った働きをしてよ。
+pipegrowth_01_quest_caption_03,あのね、僕ってばスプレーを持ってたんだけど失くしちゃったんだ。
+pipegrowth_01_quest_caption_04,スプレーボトルを見つけてくれたら、ここを通してあげるよ。
+pipegrowth_01_quest_caption_05,ハンド人に頼もうとしたんだけど、うぅ、親切にしてくれなくてさ。
+pipegrowth_02_prompt_caption_00,急がなくていいよ。あのスプレーボトルを見つけてきたら通してあげる。
+pipegrowth_03_prompt_caption_00,悪いけど、交渉はナシ。話はスプレーボトルを見つけてきてからね。
+pipegrowth_04_prompt_caption_00,スプレーボトルが見当たらないんだ。ほら、このパイプのどこかにあると思うから。
+pipegrowth_05_shooting_caption_00,その調子で撃ち続けるなら、ここを通す話も考え直そうかな。
+pipegrowth_06_success_caption_00,あっ、僕のスプレーボトル！ よし、じゃあ僕に向かって噴いてよ。
+pipegrowth_07_promptSpray_caption_00,ほら、ひと噴きでいいから。
+pipegrowth_08_promptSpray_caption_00,プシュッとやってよ。
+pipegrowth_09_promptSpray_caption_00,やってみて。スプレーを。
+pipegrowth_10_opening_caption_00,ああぁ、いいよ。そこ。すごくいい。
+pipegrowth_10_opening_caption_01,よし、約束だもんね。
+pipegrowth_10_opening_caption_02,[唸り声]
+pipegrowth_11_steal_caption_00,ちょっと！ 待ってよ！
+pipegrowth_11_steal_caption_01,ボトルを持ってっていいなんて言ってないよ！ 返して！
 dialogtree_KauboiConversationTree_011c8d34-5380-4a44-81fc-a0230dcc75cc,"We have a serious matter to discuss. But first, I heard you happened across my old protégé, Ghronto."
 dialogtree_KauboiConversationTree_011c8d34-5380-4a44-81fc-a0230dcc75cc_0,You know Ghronto?
 dialogtree_KauboiConversationTree_051f7c71-4104-4520-bc22-2763a0962901,"<font=[quot]VoidScript[quot]>Nice jacket, where'd you get it, the jacket store?[__]
