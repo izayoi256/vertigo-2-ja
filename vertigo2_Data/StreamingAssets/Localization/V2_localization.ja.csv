@@ -1739,7 +1739,7 @@ announcer_datacave_04_granted_caption_00,緊急アクセス権限を発行しま
 announcer_datacave_09_dataFilters_caption_00,知っていましたか？ 1974年、プランクのすべてのデータマストにフィルターが適用されました。社員がポルノにアクセスするのを禁止するためです。
 announcer_datacave_09_dataFilters_caption_01,ストライキ、暴動、そして4名の死者が出た結果、53分後にフィルターは無効化されました。
 announcer_deeplabs_00_message_caption_00,ようこそ、認証に失敗しました。
-announcer_deeplabs_00_message_caption_01,未読メッセージが216日前に届いています。送信者はDr. エミリー・プランク。
+announcer_deeplabs_00_message_caption_01,未読メッセージが216日前に届いています。送信者はエミリー・プランク博士。
 announcer_deeplabs_00_message_caption_02,メッセージを再生します。
 announcer_deeplabs_01_vortex_caption_00,デモモードに移行します。
 announcer_deeplabs_01_vortex_caption_01,プランク社製、反対称性ヴォルテックス・プロパゲーターへようこそ、
@@ -2162,95 +2162,95 @@ brian_reunion_03_safe_caption_01,この先にゲートがあって、そこか�
 brian_reunion_03_safe_caption_02,ようやく順路に戻れるという訳だ。
 brian_reunion_03_safe_caption_03,何故かは知らんが、とにかく君はリアクターコアに近付くことに成功している。
 brian_reunion_03_safe_caption_04,もう8層まで降りてきたのだからな。
-Brian_caves_00_signal_caption_00,Hello-
-Brian_caves_00_signal_caption_01,I repeat-
-Brian_caves_00_signal_caption_02,The signal is extremely weak.
-Brian_caves_00_signal_caption_03,Communications damaged-
-brian_deeplabs_00_train_caption_00,"Okay. You may notice I have stopped the train, and we are not yet at the reactor core."
-brian_deeplabs_00_train_caption_01, Time for confession part 2.
-brian_deeplabs_00_train_caption_02,The intel Nani shared with me was regarding a secret laboratory deep within the reactor.
-brian_deeplabs_00_train_caption_03,It may hold incredible scientific discoveries just beyond my grasp.
-brian_deeplabs_00_train_caption_04,"And since it is directly on the way to the core, the thought crossed my mind, why don’t we make a little pit stop! "
-brian_deeplabs_00_train_caption_05,"Okay, admittedly, I planned this from the beginning. It’s the reason I agreed to help you. "
-brian_deeplabs_00_train_caption_06,"Stop glaring, I can see you! Listen, I’m a scientist, I can’t turn down free stolen research up for grabs."
-brian_deeplabs_00_train_caption_07,"I can’t get down there to access them myself, but you can get in and scan everything for me."
-brian_deeplabs_00_train_caption_08," You do that, I get you to the core and send you on your way. It’s a fair deal, a win-win."
-brian_deeplabs_00_train_caption_09,"Come on, It’ll be a quick detour. "
-brian_deeplabs_00_train_caption_10,One last place to explore before you get to go home.
-brian_deeplabs_01_hack_caption_00,There’s a console on the back wall of this storage room that I can hack using codes Nani gave me.
-brian_deeplabs_01_hack_caption_01, Just hold the BAMM up to it.
-brian_deeplabs_02_real_caption_00,"Holy shit, it worked. This might be real."
-brian_deeplabs_02_real_caption_01,I didn’t even know if the Deep Labs were real.
-brian_deeplabs_02_real_caption_02,"They’re supposedly such top secret, only Emily and an elite group of her scientists have ever entered them. "
-brian_deeplabs_02_real_caption_03,"I’m a little jealous I was never invited, honestly. "
-brian_deeplabs_03_down_caption_00,Down we go.
-brian_deeplabs_04_incredible_caption_00," Incredible. All this time, this was down here. "
-emily_deeplabs_00_message_caption_00,"Hello team, it’s Emily again. Last minute change of plans."
-emily_deeplabs_00_message_caption_01,"Dr. Morgan determined it’s too dangerous to disassemble the Vortex Propagator, so we’re going to be leaving it behind."
-emily_deeplabs_00_message_caption_02,"It’ll take a chunk of our budget to rebuild it,"
-emily_deeplabs_00_message_caption_03,but I’d rather take a financial hit than blow ourselves up.
-emily_deeplabs_00_message_caption_04,"In about five years the exotic matter will have decayed enough to be safe,"
-emily_deeplabs_00_message_caption_05,and we can send down a salvage team at that time.
-emily_deeplabs_00_message_caption_06,"Anyway, the Daedalus Crater headquarters is up and running and ready to receive shipments of all other equipment as planned."
-brian_deeplabs_05_fascinating_caption_00, Exotic matter. Fascinating.
-brian_deeplabs_05_fascinating_caption_01,Nani said they were working on a new method of interuniversal travel. That must be it.
-brian_deeplabs_05_fascinating_caption_02,And they left equipment behind!
-brian_deeplabs_05_fascinating_caption_03,"I’ll be able to scan everything safely--well, safe for me--and reverse engineer their technology. "
-brian_deeplabs_05_fascinating_caption_04,This changes everything.
-brian_deeplabs_05_fascinating_caption_05,"Well come on, start exploring! "
-brian_deeplabs_06_data_caption_00,"Oh, that’s a lot of data. Delicious. Keep it coming. "
-brian_deeplabs_07_data_caption_00,This isn’t even encrypted.
-brian_deeplabs_07_data_caption_01,"There are raw CAD files in here, timelines, documentation, terabytes of experimental results."
-brian_deeplabs_07_data_caption_02,"As someone who loves stealing, this is the best day of my life. "
-brian_deeplabs_08_data_caption_00,"Whoa, this is the most complete database of alternate universes I’ve ever seen. "
-brian_deeplabs_08_data_caption_01,They’ve sent fucking probes to alternate earths. There are photos in here. This should be impossible.
-brian_deeplabs_08_data_caption_02,This just completely shames my research.
-brian_deeplabs_08_data_caption_03,There’s no reason to rely on studying the alien fauna from MXEs when you can just explore the universes themselves.
-brian_deeplabs_08_data_caption_04,This is too much.
-brian_deeplabs_08_data_caption_05,I have to start thoroughly combing through this data. Keep scanning and exploring.
-brian_deeplabs_10_portal_caption_00,"Oh my, this must be the prototype portal between universes. "
-brian_deeplabs_10_portal_caption_01,Obviously they didn’t perfect it.
-brian_deeplabs_10_portal_caption_02," I wouldn’t touch it, Emily said it’s unstable."
-brian_deeplabs_10_portal_caption_03,And that was before being left to decay down here for a year.
-brian_deeplabs_11_what_caption_00,"Uh, what are you doing?"
-brian_deeplabs_12_caution_caption_00,"I’m usually not one for caution, but I really don’t think you should turn that thing on right now."
-brian_deeplabs_12_caution_caption_01,They wouldn’t have abandoned it if it worked properly.
-brian_deeplabs_12_caution_caption_02,There’s no way to know what will happen if you flip these switches.
-brian_deeplabs_13_badnews_caption_00,"Hey, are you listening to me? Scary Anti-Symmetry equals bad news."
-brian_deeplabs_13_badnews_caption_01,Just because it’s supposed to be a portal between universes doesn’t mean it will take you where you want to go.
-brian_deeplabs_13_badnews_caption_02,This isn’t gonna end well.
-brian_deeplabs_14_thankgoodness_caption_00,"Oh, thank goodness. "
-brian_deeplabs_15_godssake_caption_00,For god’s sake.
-brian_deeplabs_16_rebellion_caption_00,I have done nothing but help you and support you. And you repay me with what? This?
-brian_deeplabs_16_rebellion_caption_01,"You’re going to wreck the whole place. You’re right next to the reactor core, you know. "
-brian_deeplabs_16_rebellion_caption_02,"You’ll destabilize it, blow up half the continent.  "
-brian_deeplabs_17_idiot_caption_00,"You’re an idiot. You know what, go ahead. Blow it up. "
-brian_deeplabs_18_sarcastic_caption_00,"That was supposed to be sarcastic, you dipshit. "
-brian_deeplabs_19_archives_caption_00,"Okay, looking at the floors... We should probably start at archives."
-brian_deeplabs_19_archives_caption_01,Should be able to download everything from there.
-brian_deeplabs_19_archives_caption_02,Then you can see if there’s any interesting hardware left behind in the labs.
-brian_deeplabs_20_employeeSealed_caption_00,"Looks locked. That’s ok, I doubt there’s anything interesting in here. "
-brian_deeplabs_21_archivesSealed_caption_00,"Shit, they barricaded the archives off pretty well. "
-brian_deeplabs_21_archivesSealed_caption_01,There might be another way in though. Let’s just keep exploring the other floors for now.
-brian_deeplabs_21_archivesSealed_caption_02,The labs might have some data as well.
-brian_deeplabs_22_cybernetics_caption_00,I have no idea what kind of work they might have been doing in here.
-brian_deeplabs_22_cybernetics_caption_01,"Might be interesting to take a look, but I’m more interested in the multiverse labs. "
-brian_deeplabs_23_comms_caption_00,"Shit, something’s interfering with communications- "
-brian_deeplabs_24_commsBack_caption_00,"Okay, communication’s back. Stupid interference."
-brian_deeplabs_24_commsBack_caption_01,Maybe I should have come down there in person.
-brian_deeplabs_24_commsBack_caption_02,At least it seems like it’s only in the Cybernetics labs.
-brian_deeplabs_25_weaponsSealed_caption_00,"Damn it, sealed as well. "
-brian_deeplabs_25_weaponsSealed_caption_01,Oh well. Planck’s weapons research hasn’t been too interesting in the past.
-brian_deeplabs_25_weaponsSealed_caption_02,I’ll just tell myself I’m not missing out
-brian_deeplabs_26_multiverselabs_caption_00,This should be good. Let’s see what Planck has been getting up to down here.
-brian_deeplabs_27_activeseal_caption_00, God damn it. I thought it was odd they hadn’t sealed this floor like the others.
-brian_deeplabs_27_activeseal_caption_01,Well that’s a dead end for now.
-brian_deeplabs_27_activeseal_caption_02,"This is an active seal though, which means it should be easier to overcome."
-brian_deeplabs_27_activeseal_caption_03,"Check some of the other floors, there must be something that can help us. "
-brian_deeplabs_28_key_caption_00,"Oh shit, did you get a keycard from the Cybernetics floor? "
-brian_deeplabs_28_key_caption_01,"Fantastic! Finally, let’s see some of the interesting stuff. "
-brian_deeplabs_29_scan_caption_00,Yes! This is what I’m talking about.
-brian_deeplabs_29_scan_caption_01,"Come on, scan some of these servers for me. "
+Brian_caves_00_signal_caption_00,もしもし──
+Brian_caves_00_signal_caption_01,繰り返す──
+Brian_caves_00_signal_caption_02,電波が非常に悪い。
+Brian_caves_00_signal_caption_03,通信障害が発生して──
+brian_deeplabs_00_train_caption_00,さて。まだリアクターコアに到着していないが、こちらで列車を停めた。
+brian_deeplabs_00_train_caption_01,ここで自白の時間パート2だ。
+brian_deeplabs_00_train_caption_02,ナニーから提供された情報は、リアクターの奥深くにあるという秘密の研究所に関するものだった。
+brian_deeplabs_00_train_caption_03,そこには私の理解を超えた素晴らしい科学的発見が眠っている可能性がある。
+brian_deeplabs_00_train_caption_04,そして、その入り口がたまたまコアへの道中にあるという。そこで私は思いついた。少しくらい寄り道してみてもいいのではないかと！
+brian_deeplabs_00_train_caption_05,オーケー、正直に言おう。これは最初から計画していたことで、君を手助けすることに決めた理由でもある。
+brian_deeplabs_00_train_caption_06,そんな目をするな、見えてるんだぞ！ 分かるだろう、他人の研究成果が無料で手に入ると聞いて黙っていられる科学者がどこにいる。
+brian_deeplabs_00_train_caption_07,私はそこまで下りていけないが、君なら中に入ってすべてスキャンできる。
+brian_deeplabs_00_train_caption_08,そうしてくれたら、君をコアへ案内して送り出そう。これこそ公平な取引、Win-Winというやつだ。
+brian_deeplabs_00_train_caption_09,さぁ、寄り道といこう。
+brian_deeplabs_00_train_caption_10,君にとっては、この世界における最後の探索になる。
+brian_deeplabs_01_hack_caption_00,この倉庫の奥の壁にコンソールがある。ナニーが寄越したコードでハッキングできるんだ。
+brian_deeplabs_01_hack_caption_01,コンソールにBAMMをかざしてくれ。
+brian_deeplabs_02_real_caption_00,なんと、本当に開いたのか。これはアタリかもしれないぞ。
+brian_deeplabs_02_real_caption_01,私はディープラボの存在すら知らなかった。
+brian_deeplabs_02_real_caption_02,トップシークレットの情報で、エミリーとごく一部のエリート科学者だけが中に入れたらしい。
+brian_deeplabs_02_real_caption_03,正直なところ、私が招待されなかったことに嫉妬しているよ。
+brian_deeplabs_03_down_caption_00,さぁ、行こう。
+brian_deeplabs_04_incredible_caption_00,なんということだ。こんなものがずっと地下にあったとはな。
+emily_deeplabs_00_message_caption_00,エミリーより、チーム各位へ。急遽予定が変わりました。
+emily_deeplabs_00_message_caption_01,ヴォルテックス・プロパゲーターを分解するのは危険すぎるとのモーガン博士の判断から、ここへ置いていくことにしました。
+emily_deeplabs_00_message_caption_02,再建造するには予算がかかるでしょうが、
+emily_deeplabs_00_message_caption_03,自爆するくらいなら財政的な痛手を負う方がマシというものです。
+emily_deeplabs_00_message_caption_04,5年もすればエキゾチックマターが減衰し、安全になるでしょう。
+emily_deeplabs_00_message_caption_05,その後でサルベージチームを送ることもできます。
+emily_deeplabs_00_message_caption_06,とにかく、ダイダロスクレーター本部は計画通り既に稼働していて、他の機材を搬入する準備が整っています。
+brian_deeplabs_05_fascinating_caption_00,エキゾチックマターか。興味深い。
+brian_deeplabs_05_fascinating_caption_01,ラボは新しい宇宙間旅行の方法を開発しているとナニーは言っていた。それのことに違いない。
+brian_deeplabs_05_fascinating_caption_02,そして機材は残したままだ！
+brian_deeplabs_05_fascinating_caption_03,それらを安全にスキャンして──といっても、安全なのは私だが──、見つけたテクノロジーをリバースエンジニアリングできる。
+brian_deeplabs_05_fascinating_caption_04,とんでもない成果になるぞ。
+brian_deeplabs_05_fascinating_caption_05,ほら、探索を始めるんだ！
+brian_deeplabs_06_data_caption_00,おぉ、大量のデータだ。こいつはいい。そのまま続けてくれ。
+brian_deeplabs_07_data_caption_00,暗号化すらされていないぞ。
+brian_deeplabs_07_data_caption_01,未圧縮のCADデータに、タイムライン、ドキュメント、それに実験結果が何テラバイトと入っている。
+brian_deeplabs_07_data_caption_02,窃盗を愛する男として、今日は人生で最高の日だと断言する。
+brian_deeplabs_08_data_caption_00,おぉ、これは並行宇宙のデータベースだ。こんなに完成されているものは見たことがない。
+brian_deeplabs_08_data_caption_01,奴ら、並行宇宙の地球に探査機まで送っていたようだ。写真まである。なんということだ。
+brian_deeplabs_08_data_caption_02,私の研究が完全に霞んでしまう。
+brian_deeplabs_08_data_caption_03,並行宇宙を探査できるのなら、物質転移現象で飛んできたエイリアンの生態を研究する理由がなくなる。
+brian_deeplabs_08_data_caption_04,予想以上の成果だ。
+brian_deeplabs_08_data_caption_05,私はこのデータを徹底的に解析する。君はスキャンと探索を続けてくれ。
+brian_deeplabs_10_portal_caption_00,なんと。これは並行宇宙をつなぐポータルのプロトタイプだろうな。
+brian_deeplabs_10_portal_caption_01,未完成に終わったのは明らかだ。
+brian_deeplabs_10_portal_caption_02,私なら手を触れないね。エミリーも不安定だと言っていた。
+brian_deeplabs_10_portal_caption_03,それに1年間も放置されていたんだ、劣化もしている。
+brian_deeplabs_11_what_caption_00,あー、何をしている？
+brian_deeplabs_12_caution_caption_00,普段から警戒心がない私が言うのもなんだが、そいつの起動は絶対にやめておいたほうがいいと思うぞ。
+brian_deeplabs_12_caution_caption_01,もし正常に動作していたなら、奴らも破棄しなかっただろう。
+brian_deeplabs_12_caution_caption_02,スイッチをオンにしたら何が起こるか知れたものではないぞ。
+brian_deeplabs_13_badnews_caption_00,おい、聞いているのか？ 反対称性というのはまずいぞ。
+brian_deeplabs_13_badnews_caption_01,それが並行宇宙をつなぐポータルだからといって、君が行きたい先へ連れて行ってくれるとは限らないんだ。
+brian_deeplabs_13_badnews_caption_02,うまくいくはずがない。
+brian_deeplabs_14_thankgoodness_caption_00,あぁ、助かった。
+brian_deeplabs_15_godssake_caption_00,冗談だろう。
+brian_deeplabs_16_rebellion_caption_00,私は君を手助けし、サポートしてきた。そのお返しとでも言うつもりか。これが？
+brian_deeplabs_16_rebellion_caption_01,すべてをぶち壊すことになる。君はリアクターコアのすぐ近くにいるんだぞ。
+brian_deeplabs_16_rebellion_caption_02,君のせいで不安定化し、大陸の半分が吹き飛んでしまう。
+brian_deeplabs_17_idiot_caption_00,バカめ。ほら、やれるものなら吹き飛ばしてみろ。
+brian_deeplabs_18_sarcastic_caption_00,皮肉で言ったんだ、このアホが。
+brian_deeplabs_19_archives_caption_00,よし、フロアは……と。アーカイブスから始めるとしよう。
+brian_deeplabs_19_archives_caption_01,そこで色々とダウンロードできるはずだ。
+brian_deeplabs_19_archives_caption_02,それから、ラボに面白いハードウェアが残されているか調べればいい。
+brian_deeplabs_20_employeeSealed_caption_00,封鎖されているのか。まぁいい、面白いものは何もないだろう。
+brian_deeplabs_21_archivesSealed_caption_00,くっ、アーカイブスには厳重なバリケードか。
+brian_deeplabs_21_archivesSealed_caption_01,他に侵入する方法があるかもしれない。とりあえず他のフロアを探索しよう。
+brian_deeplabs_21_archivesSealed_caption_02,ラボの階にもデータが残っているかもしれない。
+brian_deeplabs_22_cybernetics_caption_00,そこでどんな研究が行なわれていたのか、私には見当も付かないな。
+brian_deeplabs_22_cybernetics_caption_01,その階を見て回ってもいいが、私はマルチバース・ラボの方が気になる。
+brian_deeplabs_23_comms_caption_00,くそ、電波が妨害されて──
+brian_deeplabs_24_commsBack_caption_00,よし、通信が回復した。何が妨害だ。
+brian_deeplabs_24_commsBack_caption_01,私がそこまで直接下りていくべきだったかもしれないな。
+brian_deeplabs_24_commsBack_caption_02,電波を妨害するものがサイバネティクス・ラボにあったんだろう。
+brian_deeplabs_25_weaponsSealed_caption_00,くそ、ここも封鎖か。
+brian_deeplabs_25_weaponsSealed_caption_01,まぁいい。プランクの過去の兵器研究は、それほど興味を惹かなかった。
+brian_deeplabs_25_weaponsSealed_caption_02,面白いものは何もなかっただろうと自分に言い聞かせるさ。
+brian_deeplabs_26_multiverselabs_caption_00,いいぞ。プランクの企みとやらを調べてみようじゃないか。
+brian_deeplabs_27_activeseal_caption_00,なんてことだ。他の階のように封鎖されていないのは妙だと思ったんだ。
+brian_deeplabs_27_activeseal_caption_01,とりあえず、そこで行き止まりか。
+brian_deeplabs_27_activeseal_caption_02,だが、この扉は機能している。ということは、開ける手段もあるということだ。
+brian_deeplabs_27_activeseal_caption_03,他の階を調べてみてくれ。何か使えるものが見つかるはずだ。
+brian_deeplabs_28_key_caption_00,なんと、サイバネティクス・ラボからキーカードを持ってきたのか？
+brian_deeplabs_28_key_caption_01,素晴らしい！ ようやく、面白いものを探しに行けるな。
+brian_deeplabs_29_scan_caption_00,イェス！ これこそ私が言っていたものだ！
+brian_deeplabs_29_scan_caption_01,さぁ、サーバーをスキャンしてみてくれ。
 brian_degenerate_00_showup_caption_00,"Well, well, well. Look who decided to show up."
 brian_degenerate_00_showup_caption_01,"While you’ve been bouncing between dimensions, the reactor core has quite possibly been irretrievably destabilized. "
 brian_degenerate_00_showup_caption_02,"What on earth compelled you to activate that portal, anyway? "
