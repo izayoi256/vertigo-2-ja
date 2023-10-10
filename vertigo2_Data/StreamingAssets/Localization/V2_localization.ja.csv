@@ -2611,29 +2611,29 @@ pipegrowth_10_opening_caption_01,よし、約束だもんね。
 pipegrowth_10_opening_caption_02,[唸り声]
 pipegrowth_11_steal_caption_00,ちょっと！ 待ってよ！
 pipegrowth_11_steal_caption_01,ボトルを持ってっていいなんて言ってないよ！ 返して！
-dialogtree_KauboiConversationTree_011c8d34-5380-4a44-81fc-a0230dcc75cc,我らには、真剣に話し合わなければならないことがある。だが、まずは我が弟子グロントの話だ。奴と会ったそうだな。
+dialogtree_KauboiConversationTree_011c8d34-5380-4a44-81fc-a0230dcc75cc,我らには重大な懸念事項がある。だが、まずは我が弟子グロントの話だ。奴と会ったそうだな。
 dialogtree_KauboiConversationTree_011c8d34-5380-4a44-81fc-a0230dcc75cc_0,グロントを知ってるの？
 dialogtree_KauboiConversationTree_051f7c71-4104-4520-bc22-2763a0962901,"<font=[quot]VoidScript[quot]>いいジャケットだな、専門店で買ったのか？[__]
 すまない、服なんて持っていないものだから羨ましくてな。"
 dialogtree_KauboiConversationTree_051f7c71-4104-4520-bc22-2763a0962901_0,何？？
-dialogtree_KauboiConversationTree_0bd7a925-cecf-4f4c-9368-3d976e685dbc,あぁ、間違いなくな。[gesture:point]グロントは私の弟子だった。なぜ奴を殺した？
+dialogtree_KauboiConversationTree_0bd7a925-cecf-4f4c-9368-3d976e685dbc,もちろん、その話もある。[gesture:point]グロントは私の弟子だった。なぜ奴を殺した？
 dialogtree_KauboiConversationTree_0bd7a925-cecf-4f4c-9368-3d976e685dbc_0,当然の報いだった。
 dialogtree_KauboiConversationTree_0bd7a925-cecf-4f4c-9368-3d976e685dbc_1,ロボットを奴隷化して神権君主制を敷いていたから。
 dialogtree_KauboiConversationTree_0bd7a925-cecf-4f4c-9368-3d976e685dbc_2,ごめんなさい、反乱軍のロボットに言われて仕方なくやったの。
-dialogtree_KauboiConversationTree_113303c1-be04-415e-bcaa-c40134f27d40,"そうだな。だが、もう少し続けさせてやれなかったのか？ 奴には教会がすべてだった。
+dialogtree_KauboiConversationTree_113303c1-be04-415e-bcaa-c40134f27d40,"あぁ。だが、もう少し続けさせてやってもよかろう？ 奴には教会がすべてだ。
 
-デレゲーションがキューブを取り戻せば、あの宇宙はすべて消滅するだろう。"
-dialogtree_KauboiConversationTree_113303c1-be04-415e-bcaa-c40134f27d40_0,待って、それは深刻な事態ね
+デレゲーションがキューブを取り戻せば、あの宇宙もすべて消滅してしまうのだからな。"
+dialogtree_KauboiConversationTree_113303c1-be04-415e-bcaa-c40134f27d40_0,待って、それは深刻な事態ね。
 dialogtree_KauboiConversationTree_19efa4f9-733c-48de-889c-a3620fce1f49,我をからかっているのか？ それとも、ようやく考え直したのか？
 dialogtree_KauboiConversationTree_19efa4f9-733c-48de-889c-a3620fce1f49_0,えぇ、考え直したの。
 dialogtree_KauboiConversationTree_19efa4f9-733c-48de-889c-a3620fce1f49_1,からかいに来ただけ。
 dialogtree_KauboiConversationTree_1c856578-cd7b-407e-b65c-92a95710f319,エーテルと呼ばれる領域だ。ヴォイド・デレゲーションの唯一の汚点が残る地でもある。だから奴らの手が及ばない聖域となっている。
 dialogtree_KauboiConversationTree_1c856578-cd7b-407e-b65c-92a95710f319_0,汚点？ 危険な場所なの？
 dialogtree_KauboiConversationTree_1c856578-cd7b-407e-b65c-92a95710f319_1,私をここに導いたのはあなた？
-dialogtree_KauboiConversationTree_2269b0f8-c459-4ff4-8ce5-b0e6aff9ae13,我はここで平和に暮らしてきた。デレゲーションは迷信のせいで近寄ってこないようだ。
+dialogtree_KauboiConversationTree_2269b0f8-c459-4ff4-8ce5-b0e6aff9ae13,我はここで平穏に暮らしてきた。デレゲーションは迷信のせいで近寄ってこないようだ。
 dialogtree_KauboiConversationTree_2269b0f8-c459-4ff4-8ce5-b0e6aff9ae13_0,じゃあ、あの鎖で繋がれた巨大な死体はなんなの？
 dialogtree_KauboiConversationTree_2269b0f8-c459-4ff4-8ce5-b0e6aff9ae13_1,私をここに導いたのはあなた？
-dialogtree_KauboiConversationTree_26bcaa7b-0d4c-4304-b3a3-877c7cea41df,そう、主な問題はそれだ。だが、[gesture:point]お前は我が弟子グロントも殺したな。何故だ？
+dialogtree_KauboiConversationTree_26bcaa7b-0d4c-4304-b3a3-877c7cea41df,あぁ。それも主な理由だ。だが、[gesture:point]お前は我が弟子グロントも殺したな。何故だ？
 dialogtree_KauboiConversationTree_26bcaa7b-0d4c-4304-b3a3-877c7cea41df_0,当然の報いだった。
 dialogtree_KauboiConversationTree_26bcaa7b-0d4c-4304-b3a3-877c7cea41df_1,ロボットを奴隷化して神権君主制を敷いていたから。
 dialogtree_KauboiConversationTree_26bcaa7b-0d4c-4304-b3a3-877c7cea41df_2,ごめんなさい、反乱軍のロボットに言われて仕方なくやったの。
@@ -2657,53 +2657,53 @@ dialogtree_KauboiConversationTree_3a83419f-7ddb-4d39-ac1f-33e1156b976c_1,前に�
 dialogtree_KauboiConversationTree_3befebc1-e047-4d4a-82f1-9a1a4483d336,"その熱意は認めよう。だが、これはおもちゃではない。お前の安全のためにも、弾薬は空にして渡す。もちろん、お前の装置では弾薬を合成できない。
 
 [__]
-時が満ちれば、お前にカートリッジを授けよう。"
+時が来れば、お前にカートリッジを授けよう。"
 dialogtree_KauboiConversationTree_3befebc1-e047-4d4a-82f1-9a1a4483d336_0,わかった。空のリボルバーでも構わない。
 dialogtree_KauboiConversationTree_3befebc1-e047-4d4a-82f1-9a1a4483d336_1,そんな、装填しておけば便利なのに。
 dialogtree_KauboiConversationTree_416d2686-24ea-4e6e-a8a6-9645280ec75b,"通常、ヴォイドの者でないエンティティは、ヴォイドのエンティティを傷つけることができない。
 [__]
 [gesture:point]だが、ここで二つの要素がチャンスをもたらす。まず一つは、ヘンリケがお前にカタリストの役目を委任したこと。奴はお前の生命力を使ってヴォイドへのゲートを開くつもりだ。そして、そのために必要な特別なエネルギーパターンをお前の身体に注入した。[if JoinedChurch is False]お前がグロントを殺し得たのは、そのヴォイドエネルギーの痕跡のおかげだ。[endif][if JoinedChurch is True]お前が教会に入信できたのは、そのヴォイドエネルギーの痕跡のおかげだ。[endif]
 [__]
-二つ目の要素がこの、[custom:SHOW_REVOLVER]我のリボルバーだ。領域とヴォイドの両方に並行して存在する、唯一の武器。二つの存在平面を巻き込むことで、両方に干渉できる。"
+二つ目の要素がこの、[custom:SHOW_REVOLVER]我がリボルバーだ。領域とヴォイドの両方に並行して存在する、唯一の武器。二つの存在平面を巻き込むことで、両方に干渉できる。"
 dialogtree_KauboiConversationTree_416d2686-24ea-4e6e-a8a6-9645280ec75b_0,それを使えばヘンリケを殺せるのね。
-dialogtree_KauboiConversationTree_49b4a61d-9a46-4ddc-a472-a96c35a2b956,いい返事がもらえて嬉しい。[if ExplainedRevolver is True][custom:SHOW_REVOLVER]これがリボルバーだ、受け取ってくれるか？[endif]
+dialogtree_KauboiConversationTree_49b4a61d-9a46-4ddc-a472-a96c35a2b956,いい返事が聞けて嬉しく思う。[if ExplainedRevolver is True][custom:SHOW_REVOLVER]これがリボルバーだ、受け取ってくれるか？[endif]
 dialogtree_KauboiConversationTree_49b4a61d-9a46-4ddc-a472-a96c35a2b956_0,[if ExplainedRevolver is not True]どうすればヘンリケを止められる？
 dialogtree_KauboiConversationTree_49b4a61d-9a46-4ddc-a472-a96c35a2b956_1,[if ExplainedRevolver is True]えぇ、こちらに渡して。
-dialogtree_KauboiConversationTree_4d731572-e223-4386-b15a-35ec2830652f,"Fine. Your urgency is justified.
-Henrique intends to steal back the Hypercube. If that occurs, the Void Delegation will use it to destroy countless realms and all who live within them."
+dialogtree_KauboiConversationTree_4d731572-e223-4386-b15a-35ec2830652f,"そうか。話が早くて助かる。
+ヘンリケはハイパーキューブを取り戻そうとしている。ヴォイド・デレゲーションの手に渡れば、奴らはキューブの力を振るい、あらゆる領域とそこに暮らす者たちを破壊し尽くすだろう。"
 dialogtree_KauboiConversationTree_4d731572-e223-4386-b15a-35ec2830652f_0,ヘンリケの計画とは？
 dialogtree_KauboiConversationTree_4d731572-e223-4386-b15a-35ec2830652f_1,どうすればヘンリケを止められる？
-dialogtree_KauboiConversationTree_53e3a4a0-4b31-4aa2-bb22-937098889425,You have seen Henrique's work. Surely that is enough to oppose him.
-dialogtree_KauboiConversationTree_53e3a4a0-4b31-4aa2-bb22-937098889425_0,"Fine, I'll work for you."
-dialogtree_KauboiConversationTree_53e3a4a0-4b31-4aa2-bb22-937098889425_1,"No thanks, I'll take my chances."
+dialogtree_KauboiConversationTree_53e3a4a0-4b31-4aa2-bb22-937098889425,ヘンリケの行ないを目の当たりにしたのだろう。奴と対立するには十分な理由だ。
+dialogtree_KauboiConversationTree_53e3a4a0-4b31-4aa2-bb22-937098889425_0,わかった、あなたの側につくよ。
+dialogtree_KauboiConversationTree_53e3a4a0-4b31-4aa2-bb22-937098889425_1,お断りだね、自分のやり方でいく。
 dialogtree_KauboiConversationTree_544eb9d3-9b71-4e46-a21a-0ed32a3ee66f,ヘンリケを殺すためにお前を信用する。それ以外の選択肢がないからだ。だが、レルムウォーカーを殺す武器を事前に持たせる理由はない。この空の銃を受け取るか、さもなくば立ち去れ。
 dialogtree_KauboiConversationTree_544eb9d3-9b71-4e46-a21a-0ed32a3ee66f_0,わかった。空のリボルバーでも構わない。
 dialogtree_KauboiConversationTree_544eb9d3-9b71-4e46-a21a-0ed32a3ee66f_1,断る。
 dialogtree_KauboiConversationTree_5cc3abbe-71bf-42b5-8176-19c3b5736790,カウアーはエーテルにおける我が聖域であり、我が家だ。建築にはエーテルバックの力を借りた。奴らは我を神の眷属だと信じている。
-dialogtree_KauboiConversationTree_6001cdfb-7e43-4185-a756-a289c85e060e,[custom:HIDE_REVOLVER] [gesture:bowHead]お前は重大な過ちを犯そうとしている。しかし、我にはカタリストを害することができぬ。行くがいい。それによって何兆という生命が犠牲になることを忘れるな。
-dialogtree_KauboiConversationTree_648c5d52-a3ee-4e3f-88eb-40bc1e1bb82f,I don't care about how he goes about his work. I just care that it gets done.
-dialogtree_KauboiConversationTree_648c5d52-a3ee-4e3f-88eb-40bc1e1bb82f_0,What was... his work?
+dialogtree_KauboiConversationTree_6001cdfb-7e43-4185-a756-a289c85e060e,[custom:HIDE_REVOLVER] [gesture:bowHead]お前は重大な過ちを犯そうとしている。しかし、我にはカタリストを害することができぬ。行くがいい。だが、それによって何兆という生命が犠牲になることを忘れるな。
+dialogtree_KauboiConversationTree_648c5d52-a3ee-4e3f-88eb-40bc1e1bb82f,奴がどう使命を果たそうとしたかについては興味がない。使命を果たしたかどうかが問題だ。
+dialogtree_KauboiConversationTree_648c5d52-a3ee-4e3f-88eb-40bc1e1bb82f_0,グロントの……使命？
 dialogtree_KauboiConversationTree_6ce52f3e-8e69-40c6-aedc-cb09ad351199,"レルムウォーカー。
 ヘンリケと同じく、ヴォイドの住人だ。
 いや、元住人か。あそこに戻れば我は殺されてしまう。だから、この領域で暮らさざるを得なくなった。このエーテルと呼ばれる領域は、ヘンリケもわざわざ入ろうとしない。我にとって最も安全な場所と言える。"
 dialogtree_KauboiConversationTree_6ce52f3e-8e69-40c6-aedc-cb09ad351199_0,ここは危険な場所なの？？
 dialogtree_KauboiConversationTree_6ce52f3e-8e69-40c6-aedc-cb09ad351199_1,私をここに導いたのはあなた？
-dialogtree_KauboiConversationTree_6e57734c-5c33-4488-b725-51d42b72baf9,"Very well. A Vortex has opened above the tower, you may ascend and be on your way. I wish you good fortune, for the sake of all realms."
-dialogtree_KauboiConversationTree_71d6dd34-2d37-474e-8ccb-abdce4f3be06,[gesture:point]まず、我が弟子のマハリシ・グロントを殺したな。何故か？
+dialogtree_KauboiConversationTree_6e57734c-5c33-4488-b725-51d42b72baf9,よろしい。塔の上にヴォルテックスが開いている。そこに飛び込むがよい。すべての領域のために、お前の幸運を祈る。
+dialogtree_KauboiConversationTree_71d6dd34-2d37-474e-8ccb-abdce4f3be06,[gesture:point]まず、我が弟子マハリシ・グロントを殺したな。何故だ？
 dialogtree_KauboiConversationTree_71d6dd34-2d37-474e-8ccb-abdce4f3be06_0,当然の報いだった。
 dialogtree_KauboiConversationTree_71d6dd34-2d37-474e-8ccb-abdce4f3be06_1,ロボットを奴隷化して神権君主制を敷いていたから。
 dialogtree_KauboiConversationTree_71d6dd34-2d37-474e-8ccb-abdce4f3be06_2,ごめんなさい、反乱軍のロボットに言われて仕方なくやったの。
-dialogtree_KauboiConversationTree_76f018fa-0463-4210-b9fc-45157b0d3c27,"I cannot make the decision for you. However, this is your only chance. If you leave now, you doom an entire universe to the Void's sterilizing flame."
-dialogtree_KauboiConversationTree_76f018fa-0463-4210-b9fc-45157b0d3c27_0,"Fine, give me the revolver."
-dialogtree_KauboiConversationTree_76f018fa-0463-4210-b9fc-45157b0d3c27_1,I won't play your game. Let me the hell out of here.
-dialogtree_KauboiConversationTree_77a82247-e50c-42c3-9a34-77287e3d024e,"The Forgotten are imprisoned here, yes. But they have lain dormant since the days of the First Architect. They are not important now. What is important is your presence. "
+dialogtree_KauboiConversationTree_76f018fa-0463-4210-b9fc-45157b0d3c27,お前の意思を尊重しよう。しかし、これはお前に与えられた唯一のチャンスだ。お前が立ち去ると言うのなら、この宇宙は破滅の運命を辿ることになる。
+dialogtree_KauboiConversationTree_76f018fa-0463-4210-b9fc-45157b0d3c27_0,わかった。じゃあリボルバーを渡して。
+dialogtree_KauboiConversationTree_76f018fa-0463-4210-b9fc-45157b0d3c27_1,あなたのゲームに付き合うつもりはない。早くここから出して。
+dialogtree_KauboiConversationTree_77a82247-e50c-42c3-9a34-77287e3d024e,確かに、忘れられし者たちは囚われ眠り続けている。だが、その話は初期開拓時代にまで遡る。いま重要なのは彼らの話ではなく、お前の存在についてだ。
 dialogtree_KauboiConversationTree_77a82247-e50c-42c3-9a34-77287e3d024e_0,私をここに導いたのはあなた？
 dialogtree_KauboiConversationTree_790e4b4e-373f-42cc-92e4-c5778c2a1a4c,昔のことだ、我はグロントの宇宙で聖なるハイパーキューブを見つけた。ヴォイド・デレゲーションの手に渡れば、破壊に利用しようとするだろう。そうなることは避けたかった。
 dialogtree_KauboiConversationTree_790e4b4e-373f-42cc-92e4-c5778c2a1a4c_0,続けて。
 dialogtree_KauboiConversationTree_790e4b4e-373f-42cc-92e4-c5778c2a1a4c_1,どうでもいい。本題に入って。
-dialogtree_KauboiConversationTree_7edd333b-db2e-4a06-9729-cc61b0b6e92c,"He is, but he cannot predict this. He will not expect you to be armed, and he has no way to discover our conspiracy. We are truly hidden from the delegation's eyes here."
-dialogtree_KauboiConversationTree_7edd333b-db2e-4a06-9729-cc61b0b6e92c_0,I still don't think this is a good idea.
-dialogtree_KauboiConversationTree_7edd333b-db2e-4a06-9729-cc61b0b6e92c_1,"Fine, give me the revolver."
+dialogtree_KauboiConversationTree_7edd333b-db2e-4a06-9729-cc61b0b6e92c,その懸念は最もだ。しかし、奴にも予測できないことはある。お前がリボルバーを持っているとは思わないだろうし、我々の策謀を知る由もない。デレゲーションの監視も、この地には届かないのだ。
+dialogtree_KauboiConversationTree_7edd333b-db2e-4a06-9729-cc61b0b6e92c_0,それでも、いい方法だとは思えない。
+dialogtree_KauboiConversationTree_7edd333b-db2e-4a06-9729-cc61b0b6e92c_1,わかった。じゃあリボルバーを渡して。
 dialogtree_KauboiConversationTree_819fed1b-c6ae-4439-8295-b4d2dca12e04,"我を含むレルムウォーカーたちは、領域に対する恐怖がアポリオンの精神を冒してしまったのだと感じたのだ。それは狂気を帯びた執念へと変わり、自ら送り出したはずの開拓者たちに戦争を仕掛けた。
 [__]
 お前が自らの潜在意識を覗き込めば、我らの歴史を記したタナトス経典の言葉を垣間見ることも叶うかも知れないな。"
@@ -2713,32 +2713,32 @@ dialogtree_KauboiConversationTree_8843ba84-0952-471f-b246-40a4e856a5b3,"レル�
 その代わり、我々は誘導することを学んだ。ほとんどの領域には住人がいて、生物は適当な動機さえあれば何でもしてくれる。ここのエーテルバックは忠実な働きを見せてくれる。お前を連れてきてくれただろう。"
 dialogtree_KauboiConversationTree_8843ba84-0952-471f-b246-40a4e856a5b3_0,よし、わかった。それで、ヘンリケをどう止めるの？
 dialogtree_KauboiConversationTree_8843ba84-0952-471f-b246-40a4e856a5b3_1,私も誘導されてる気がしてきた
-dialogtree_KauboiConversationTree_8a878820-0876-4df3-bf3c-d69440747f56,"By all accounts he was a cruel and senile leader, and those robots will be happier with him deposed.
+dialogtree_KauboiConversationTree_8a878820-0876-4df3-bf3c-d69440747f56,"誰が見てもが残忍な老いぼれ教祖だった。あれが退けばロボットたちも幸せになったことだろう。
 
 
-My emotional attachment to him is irrelevant. That universe is doomed anyway, if Henrique's mission succeeds."
-dialogtree_KauboiConversationTree_8a878820-0876-4df3-bf3c-d69440747f56_0,"Wait, that sounds serious"
+奴への愛着など関係のないことだ。ヘンリケの任務が達成されれば、あの宇宙もどうせ滅びてしまうのだからな。"
+dialogtree_KauboiConversationTree_8a878820-0876-4df3-bf3c-d69440747f56_0,待って、それは深刻な事態ね。
 dialogtree_KauboiConversationTree_8d2227cb-cbaa-429b-ac28-a53114c43a86,"怪しいものだ。グロントをも倒しうる力を持っているのだ、反乱軍を退ける程度のことはできただろう。
 
 
 それが本当であろうと嘘であろうと、どうでもよい。どのみち奴の仕事は終わっていた。"
 dialogtree_KauboiConversationTree_8d2227cb-cbaa-429b-ac28-a53114c43a86_0,グロントの……仕事？
-dialogtree_KauboiConversationTree_94d52e8b-c938-4dcb-8e28-555eac29b196,I have spent much time in the realm wherein lies the Holy Hypercube. So much that Henrique eventually tracked me there and discovered it himself.
-dialogtree_KauboiConversationTree_94d52e8b-c938-4dcb-8e28-555eac29b196_0,What are you?
-dialogtree_KauboiConversationTree_94d52e8b-c938-4dcb-8e28-555eac29b196_1,Where are we now?
-dialogtree_KauboiConversationTree_97153f29-598c-40a0-ae5d-3f4df764b768,"I certainly am. But manipulation does not imply deceit. My cause is honest, and you have seen firsthand what Henrique intends. I plead with you now, do as I say and the Delegation can be stopped from reaching the Hypercube."
-dialogtree_KauboiConversationTree_97153f29-598c-40a0-ae5d-3f4df764b768_0,"Ok, ok, so how do we stop Henrique?"
-dialogtree_KauboiConversationTree_97153f29-598c-40a0-ae5d-3f4df764b768_1,You haven't given me any reason to trust you.
+dialogtree_KauboiConversationTree_94d52e8b-c938-4dcb-8e28-555eac29b196,我は長きに渡り、聖なるハイパーキューブが存在する領域に滞在していた。そのせいでヘンリケは我を、そしてハイパーキューブを発見してしまったのだ。
+dialogtree_KauboiConversationTree_94d52e8b-c938-4dcb-8e28-555eac29b196_0,あなたは何者？
+dialogtree_KauboiConversationTree_94d52e8b-c938-4dcb-8e28-555eac29b196_1,ここはどこ？
+dialogtree_KauboiConversationTree_97153f29-598c-40a0-ae5d-3f4df764b768,もちろんだとも。だが、誘導がお前に不利益をもたらすとは限らない。我が主張はまっとうなものであるし、お前もヘンリケの企てを直接見てきただろう。今こそ、お前の助けが必要なのだ。我が助言に従い、ハイパーキューブを手に入れんとするデレゲーションを止めて欲しい。
+dialogtree_KauboiConversationTree_97153f29-598c-40a0-ae5d-3f4df764b768_0,はぁ、わかったよ。それで、どうやってヘンリケを止めればいいの？
+dialogtree_KauboiConversationTree_97153f29-598c-40a0-ae5d-3f4df764b768_1,まだ、あなたのことが信用できない。
 dialogtree_KauboiConversationTree_9d3c67da-03ce-467d-9bd9-0c7f6c1f8650,"受け取れ。
 慎重に扱うように。これは替えがきかない唯一無二の武器だ。
-時が満ちれば、お前のもとに現れて弾薬を渡そう。一発でヘンリケを殺し、ヴォイドを阻止できる。
+時が来れば、お前のもとに現れて弾薬を渡そう。一発でヘンリケを殺し、ヴォイドを阻止できる。
 そうすれば、しばらくの間はハイパーキューブの安全は確保され、お前は多くの命を救うことになる。感謝する、レルムドウェラーよ。"
 dialogtree_KauboiConversationTree_a6436803-4783-4516-8315-6de89b2aa380,"我は人間のグロントに不死の力と、少量のヴォイドエネルギーを抽出する力を授けた。
 
 [___]
-それから数千年の間、奴はホーリーキューブを護り、監視した。肉体が風化しても、キューブのエネルギーを使って再生した。長い年月が経ち、精神も摩耗していたことだろう── それでも、己の使命を忘れることはなかった。
+それから数千年の間、奴はキューブを護り、監視した。肉体が風化しても、キューブのエネルギーを使って再生した。長い年月が経ち、精神も摩耗していたことだろう── それでも、己の使命を忘れることはなかった。
 [___]
-そしてホーリーキューブを保護するために宗教を立ち上げた。あのロボットの街は、グロントの崇高な使命に賛同した者たちの最後の成果だったという訳だ。
+そしてキューブを保護するために宗教を立ち上げた。あのロボットの街は、グロントの崇高な使命に賛同した者たちの最後の成果だったという訳だ。
 
 [___]
 だが残念なことに、数ヶ月前に奴の領域を訪ねた際に油断してしまった。我を追いかけてきたヘンリケが、即座にハイパーキューブの在り処に気付いてしまったのだ。"
@@ -2747,36 +2747,36 @@ dialogtree_KauboiConversationTree_a6436803-4783-4516-8315-6de89b2aa380_1,[if Joi
 dialogtree_KauboiConversationTree_a6436803-4783-4516-8315-6de89b2aa380_2,[if JoinedChurch is True]じゃあ、グロントが今さらハイパーキューブを守っても意味がない？
 dialogtree_KauboiConversationTree_ba48bf0a-dbb5-43ba-9db4-0b68e3f723d4,ヘンリケはお前をカタリストに選んだ。奴はヴォイドへのゲートを開く特別なエネルギーパターンをお前の身体に注入した。[if JoinedChurch is False]お前がグロントを殺し得たのは、そのヴォイドエネルギーの痕跡のおかげだ。[endif][if JoinedChurch is True]お前が教会に入信できたのは、そのヴォイドエネルギーの痕跡のおかげだ。[endif]そしてヘンリケの狡猾な誘導によってお前がリアクターコアに赴き、イベントホライズンを越えた瞬間、狭間が現れるという訳だ。
 dialogtree_KauboiConversationTree_ba48bf0a-dbb5-43ba-9db4-0b68e3f723d4_0,どうして私をコアにテレポートさせない？ どうしてナニーとブライアンが関わっている？
-dialogtree_KauboiConversationTree_c0035544-e20d-46d9-903d-e12217a309cc,我には止めようがない。アポリオンその人から呪いをかけられ、デレゲーションのエージェントに傷一つ負わせられないようにされてしまったのだ。
-dialogtree_KauboiConversationTree_c0035544-e20d-46d9-903d-e12217a309cc_0,私ならどう？ 傷つけられる？
-dialogtree_KauboiConversationTree_d1743f23-36e9-403d-b349-5ab1f682bd18,あぁ。それこそが問題だ。だが、まずは我が弟子グロントの話だ。奴と会ったそうだな。
+dialogtree_KauboiConversationTree_c0035544-e20d-46d9-903d-e12217a309cc,我には奴を止められない。アポリオンその人から呪いをかけられ、デレゲーションのエージェントに傷一つ負わせられないようにされてしまったのだ。
+dialogtree_KauboiConversationTree_c0035544-e20d-46d9-903d-e12217a309cc_0,私ならヘンリケを倒せる？
+dialogtree_KauboiConversationTree_d1743f23-36e9-403d-b349-5ab1f682bd18,あぁ。それも主な理由だ。だが、まずは我が弟子グロントの話だ。奴と会ったそうだな。
 dialogtree_KauboiConversationTree_d1743f23-36e9-403d-b349-5ab1f682bd18_0,グロントを知ってるの？
-dialogtree_KauboiConversationTree_d458c6ff-fbd2-4a23-aabf-cdb24ac4de7f,"あの宇宙だけでは済まない。ハイパーキューブがヴォイド・デレゲーションの手に渡れば、大量破壊兵器と化す。奴らにとって領域とは癌のようなもので、キューブを手に入れたら手当たり次第に浄化して回るだろう。
+dialogtree_KauboiConversationTree_d458c6ff-fbd2-4a23-aabf-cdb24ac4de7f,"あの宇宙だけでは済まない。ハイパーキューブがヴォイド・デレゲーションの手に渡れば、大量破壊兵器と化す。奴らにとって領域とは癌のようなもので、キューブを手に入れれば手当たり次第に浄化して回るだろう。
 
 
 我もかつてはデレゲーションのエージェントであった。カオスの時代が始まった頃に組織を抜けたレルムウォーカーは他にもいたが、ほぼ全員が追い詰められ、殺されてしまった。"
 dialogtree_KauboiConversationTree_d458c6ff-fbd2-4a23-aabf-cdb24ac4de7f_0,ヘンリケの計画とは？
 dialogtree_KauboiConversationTree_d458c6ff-fbd2-4a23-aabf-cdb24ac4de7f_1,どうすればヘンリケを止められる？
-dialogtree_KauboiConversationTree_dca333c8-c9c1-4212-8ec6-38b6b7ab6fb8,[gesture:point]Then leave at once!
-dialogtree_KauboiConversationTree_ddc6ec65-3e67-46e6-9cc0-1ca69fbae907,"我には止めようがない。アポリオンその人から呪いをかけられ、デレゲーションのエージェントに傷一つ負わせられないようにされてしまったのだ。お前もそうだ。通常、ヴォイドの者でないエンティティは、ヴォイドのエンティティを傷つけることができない。
+dialogtree_KauboiConversationTree_dca333c8-c9c1-4212-8ec6-38b6b7ab6fb8,[gesture:point]今すぐに立ち去るがよい！
+dialogtree_KauboiConversationTree_ddc6ec65-3e67-46e6-9cc0-1ca69fbae907,"我には奴を止められない。アポリオンその人から呪いをかけられ、デレゲーションのエージェントに傷一つ負わせられないようにされてしまったのだ。お前もそうだ。通常、ヴォイドの者でないエンティティは、ヴォイドのエンティティを傷つけることができない。
 
 [gesture:point]だが、ここで二つの要素がチャンスをもたらす。まず一つは、お前がカタリストであること。今のお前はヴォイドの痕跡を内包している。
-二つ目の要素がこの、[custom:SHOW_REVOLVER]我のリボルバーだ。領域とヴォイドの両方に並行して存在する、唯一の武器。二つの存在平面を巻き込むことで、両方に干渉できる。"
+二つ目の要素がこの、[custom:SHOW_REVOLVER]我がリボルバーだ。領域とヴォイドの両方に並行して存在する、唯一の武器。二つの存在平面を巻き込むことで、両方に干渉できる。"
 dialogtree_KauboiConversationTree_ddc6ec65-3e67-46e6-9cc0-1ca69fbae907_0,それを使えばヘンリケを殺せるのね。
-dialogtree_KauboiConversationTree_df2d7649-0ef4-4630-a6fc-65094d684086,"[gesture:point]たかがレルムドウェラーごときが、図に乗るな。下賤な人間だったグロントに、身に余る目的と責任を授けた。そして3万年に渡り、あの宇宙をデレゲーションの脅威から守ってきたのだ。
+dialogtree_KauboiConversationTree_df2d7649-0ef4-4630-a6fc-65094d684086,"[gesture:point]たかがレルムドウェラーごときが、図に乗るな。下賤な人間だったグロントに、身に余る目的と責任を授けた。そして奴は3万年に渡り、あの宇宙をデレゲーションの脅威から守ってきたのだ。
 
 その脅威が、今にも降りかからんとしている。"
 dialogtree_KauboiConversationTree_df2d7649-0ef4-4630-a6fc-65094d684086_0,待って、それは深刻な事態ね
-dialogtree_KauboiConversationTree_eaaf6699-cf80-4a0f-a7e4-45b6aa12c7da,That... [______] [gesture:bowHead]may be the case.
-dialogtree_KauboiConversationTree_eaaf6699-cf80-4a0f-a7e4-45b6aa12c7da_0,How was he your protégé?
-dialogtree_KauboiConversationTree_ee937247-8e48-4da3-baa8-6b57ec4b9fa6,"No. Well, I suppose that was a ironic development. Ghronto is still doing his work, not knowing it is all pointless now."
-dialogtree_KauboiConversationTree_ee937247-8e48-4da3-baa8-6b57ec4b9fa6_0,His work?
+dialogtree_KauboiConversationTree_eaaf6699-cf80-4a0f-a7e4-45b6aa12c7da,それは…… [______] [gesture:bowHead]そうかもしれないな。
+dialogtree_KauboiConversationTree_eaaf6699-cf80-4a0f-a7e4-45b6aa12c7da_0,どうしてグロントを弟子にしたの？
+dialogtree_KauboiConversationTree_ee937247-8e48-4da3-baa8-6b57ec4b9fa6,いや。皮肉な話と言えるかもしれないな。グロントは今も使命を全うしようとしている。それがもはや無駄なことであるとも知らずにな。
+dialogtree_KauboiConversationTree_ee937247-8e48-4da3-baa8-6b57ec4b9fa6_0,使命？
 dialogtree_KauboiConversationTree_f23ec4bb-fd8a-4157-8dfc-8cd42ef763f9,まさか再び会えるとはな。まさか、気が変わったのか？
 dialogtree_KauboiConversationTree_f23ec4bb-fd8a-4157-8dfc-8cd42ef763f9_0,えぇ、考え直したの。
 dialogtree_KauboiConversationTree_f23ec4bb-fd8a-4157-8dfc-8cd42ef763f9_1,違う。
 dialogtree_KauboiConversationTree_f3d41578-e458-45ef-89e6-09eab03274e4,そうだ。ヘンリケは、ヴォイドとクォンタムリアクターをつなぐ唯一の接点だ。奴を殺せば、デレゲーションはしばらく手出しができない。我がハイパーキューブの新たな隠し場所を見つけるには十分だ。
 dialogtree_KauboiConversationTree_f3d41578-e458-45ef-89e6-09eab03274e4_0,わかった。じゃあリボルバーを渡して。
-dialogtree_KauboiConversationTree_f3d41578-e458-45ef-89e6-09eab03274e4_1,うまくいくかな。ヘンリケは間違いなく強い。
+dialogtree_KauboiConversationTree_f3d41578-e458-45ef-89e6-09eab03274e4_1,ヘンリケは強い。うまくいくかな。
 dialogtree_KauboiConversationTree_f3d41578-e458-45ef-89e6-09eab03274e4_2,あなたの言いなりになってヘンリケを暗殺するなんて御免よ。
 dialogtree_KauboiConversationTree_fd086e5f-72f7-49e3-94ac-3f0aaa822276,"いいだろう。だが、これはおもちゃではない。お前の安全のためにも、弾薬は空にして渡す。もちろん、お前の装置では弾薬を合成できない。
 
