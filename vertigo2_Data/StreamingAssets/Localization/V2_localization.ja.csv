@@ -2827,38 +2827,38 @@ kaalsi_04_insult_illusions_caption_00,現実逃避！
 kaalsi_04_insult_oppressor_caption_00,迫害者！
 kaalsi_05_insult_idiot_caption_00,狂信者！
 kaalsi_06_insult_fascist_caption_00,惨めなファシスト！
-qonik_14_warrior_caption_00,"By the power of the Hypercube,"
-qonik_14_warrior_caption_01,you are a mighty warrior!
-qonik_14_warrior_caption_02,I believe you could help us. Follow me to the castle.
-qonik_15_conflict_caption_00,My name is Qonik
-qonik_15_conflict_caption_01,"I am but a poor farmer, but I believe the Church will see you if I tell them of your prowess in battle."
-qonik_15_conflict_caption_02,"We have been locked in bitter conflict for years,"
-qonik_15_conflict_caption_03,and I am ashamed to say the rebels are a perfect match for our army.
-qonik_16_maharishi_caption_00,"Our leader is called Grand Maharishi Ghronto, Holder of the Holy Hypercube and Speaker of the Void."
-qonik_16_maharishi_caption_01,"The Maharishi channels the mystic power granted to us by the Hypercube,"
-qonik_16_maharishi_caption_02,and uses it to care for our people.
-qonik_16_maharishi_caption_03,"But this power is designed to heal, not to harm."
-qonik_16_maharishi_caption_04,"It is thinned by our army's requirements for weapons, and the Maharishi is weary."
-qonik_16_maharishi_caption_05,"Above all, he yearns for peace."
-qonik_18_mortar_caption_00,Mortar!
-qonik_18_mortar_caption_01,By the Cube!
-qonik_18_mortar_caption_02,"The rebels use crude and poorly built weapons, but occasionally their shells hit."
-qonik_18_mortar_caption_03,Usually not this far into the city.
-qonik_18_mortar_caption_04,"Come, hurry, we must reach the church!"
-qonik_19_nearChurch_caption_00,"Look, we have almost reached the church! Only a bit further."
-qonik_20_follow_caption_00,"Come, follow me!"
-qonik_20_follow_caption_01,I will bring you to the Church. They will know what to do next.
-qonik_21_follow_caption_00,Follow me.
-holyGuard_00_halt_caption_00,Halt. Identify yourself.
-holyGuard_01_qonik_caption_00,"Wait, this man is Qonik. I know him well."
-holyGuard_01_qonik_caption_01,The other stranger bears an unfamiliar face.
-qonik_17_gupaki_caption_00,"Greetings, Gupaki."
-qonik_17_gupaki_caption_01,This stranger is a mighty adventuring warrior.
-qonik_17_gupaki_caption_02,"She is willing to join our fight, and may be able to help us."
-holyGuard_02_enter_caption_00,"Very well, you may enter."
-holyGuard_02_enter_caption_01,"But be warned, stranger:"
-holyGuard_02_enter_caption_02,The Maharishi will have you prove your faith before you may join our cause.
-qonik_22_farewell_caption_00,Farewell human! Good luck.
+qonik_14_warrior_caption_00,これぞハイパーキューブの思し召しでしょうか。
+qonik_14_warrior_caption_01,強力な戦士をつかわしてくださった！
+qonik_14_warrior_caption_02,あなたの助けを必要としています。城までついてきてください。
+qonik_15_conflict_caption_00,僕はコニックといいます
+qonik_15_conflict_caption_01,僕は貧しい農民に過ぎませんが、教会にあなたの戦いぶりを伝えれば通してくれるはずです。
+qonik_15_conflict_caption_02,僕たちは、反乱軍との戦いに何年も巻き込まれ続けています。
+qonik_15_conflict_caption_03,恥ずかしながら、反乱軍の戦力は僕たちと完全に拮抗しているのです。
+qonik_16_maharishi_caption_00,教祖のマハリシ・グロント様は、聖なるハイパーキューブの所有者にしてヴォイドの語り手です。
+qonik_16_maharishi_caption_01,マハリシ様はハイパーキューブの神秘的な力を引き出して、
+qonik_16_maharishi_caption_02,それを人々に分け与えてきました。
+qonik_16_maharishi_caption_03,その力は本来、争いのためではなく癒やしのためにあるものでした。
+qonik_16_maharishi_caption_04,それを軍の兵器のために使わざるを得ない状況に、マハリシ様は心を痛めておいでです。
+qonik_16_maharishi_caption_05,なにより、平和を願っていらっしゃいます。
+qonik_18_mortar_caption_00,砲弾だ！
+qonik_18_mortar_caption_01,聖なるキューブよ！
+qonik_18_mortar_caption_02,反乱軍は粗雑な武器を使っているのですが、砲弾が命中することがたまにあるのです。
+qonik_18_mortar_caption_03,こんな遠くまで飛んでくることは滅多にないのに。
+qonik_18_mortar_caption_04,さぁ、教会に急ぎましょう！
+qonik_19_nearChurch_caption_00,ほら、教会はすぐそこです。そろそろ着きますよ。
+qonik_20_follow_caption_00,こちらです、ついてきて！
+qonik_20_follow_caption_01,教会へとご案内します。次に何をするべきか、そこで教えてもらえるでしょう。
+qonik_21_follow_caption_00,ついてきてください。
+holyGuard_00_halt_caption_00,止まれ。身分を明らかにせよ。
+holyGuard_01_qonik_caption_00,待て、この男はコニックだ。よく知っている。
+holyGuard_01_qonik_caption_01,もう片方は見たことがない。
+qonik_17_gupaki_caption_00,やぁ、グパーキ。
+qonik_17_gupaki_caption_01,こちらは旅の戦士だ。
+qonik_17_gupaki_caption_02,この戦争で、僕たちの心強い味方になってくれるはずだよ。
+holyGuard_02_enter_caption_00,いいだろう、入るがよい。
+holyGuard_02_enter_caption_01,だが心するのだ、旅人よ。
+holyGuard_02_enter_caption_02,我々に賛同するのであれば、お前の信仰をマハリシ様に証明して見せなければならない。
+qonik_22_farewell_caption_00,さようなら！ 幸運を祈っているよ。
 holyGuard_03_come_caption_00,Come with me to the center of the room.
 holyGuard_04_audience_caption_00,The Maharishi himself will grant you audience.
 holyGuard_04_audience_caption_01,"Tread with care, and do not provoke him."
@@ -3157,46 +3157,46 @@ sintho_rebelside_11_victory_caption_01,"As a token of my personal gratitude, I p
 sintho_rebelside_11_victory_caption_02,"Please, take them, and continue to fight for the global revolution. "
 sintho_rebelside_12_boat_caption_00,A boat is available at the dock so that you may safely cross the Great Sea.
 sintho_rebelside_12_boat_caption_01,"Thank you again, from all of us. "
-villagers_church_00_human_caption_00,A human?
-villagers_church_00_human_caption_01,"You know, if Planck sent you, the Maharishi will destroy you like he did the first requisition teams."
-villagers_church_01_omen_caption_00,The hypercube’s light feels radiant today.
-villagers_church_01_omen_caption_01,Perhaps it is a good omen.
-villagers_church_02_stranger_caption_00,I have not seen a stranger here in many years.
-villagers_church_02_stranger_caption_01,How did you find our city?
-villagers_church_03_east_caption_00,"I’m telling you, we should move further east."
-villagers_church_03_east_caption_01,It’s only a matter of time until our house gets hit too.
-villagers_church_04_territory_caption_00,It just... feels like giving up territory to the rebels.
-villagers_church_05_frontline_caption_00,It’s not our job to live on the front line.
-villagers_church_05_frontline_caption_01,The church’s army is supposed to be protecting us.
-villagers_church_06_sermon_caption_00,"Blessed by the light of the hypercube, the church bestows its blessings upon us. "
-villagers_church_06_sermon_caption_01,"Bathed in the light of the hypercube, the church bestows its energy upon our city."
-villagers_church_06_sermon_caption_02,"Touched by the void, the maharishi channels the power of the hypercube."
-villagers_church_06_sermon_caption_03,"Harvester of the scarlet blaze, he leads us to peace and salvation."
-villagers_church_06_sermon_caption_04,"Emancipated from the chains within our mind, we are forever grateful for our self-determination."
-villagers_church_07_grateful_caption_00,We are forever grateful.
+villagers_church_00_human_caption_00,人間か？
+villagers_church_00_human_caption_01,プランクの差し金で来たのであれば、かつてマハリシ様が破壊した調査隊と同じ運命を辿ることになるぞ。
+villagers_church_01_omen_caption_00,今日はハイパーキューブの光が一段と鮮やかに感じられますな。
+villagers_church_01_omen_caption_01,これは良い兆しかもしれません。
+villagers_church_02_stranger_caption_00,旅人なんて何年ぶりのことかな。
+villagers_church_02_stranger_caption_01,よくこの街を見つけられたね？
+villagers_church_03_east_caption_00,実のところ、もっと東の方に移り住むべきだと思うんだ。
+villagers_church_03_east_caption_01,この辺りに攻撃が飛んでくるのも時間の問題だぞ。
+villagers_church_04_territory_caption_00,それではまるで……反乱軍に土地を明け渡すようなものじゃないか。
+villagers_church_05_frontline_caption_00,前線に住む仕事をしてるんじゃないんだぞ。
+villagers_church_05_frontline_caption_01,我々を守るのが教会の役目ではないのか。
+villagers_church_06_sermon_caption_00,ハイパーキューブの光に祝福されし教会は、我らにもその祝福をお恵みになった。
+villagers_church_06_sermon_caption_01,ハイパーキューブの光に浴した教会は、我らが街にもそのエネルギーをお恵みになった。
+villagers_church_06_sermon_caption_02,ヴォイドに触れたマハリシ様が、ハイパーキューブの力を引き出しているのです。
+villagers_church_06_sermon_caption_03,紅き火を刈り取るマハリシ様よ、我らを平和へと導き給え。
+villagers_church_06_sermon_caption_04,心の鎖から解き放たれし我ら、民族自決の精神に永遠の感謝を捧げん。
+villagers_church_07_grateful_caption_00,永遠の感謝を捧げん。
 villagers_church_09_house_caption_00,This was my house...
-villagers_church_10_ores_caption_00,Do you like assorted ores?
-villagers_church_10_ores_caption_01,Would you like to purchase assorted ores?
-villagers_church_10_ores_caption_02,Best ores in the city.
-villagers_church_11_war_caption_00,For so many years we lived in peace and harmony.
-villagers_church_11_war_caption_01,Damn the rebels for plunging us into this age of war and death.
-villagers_church_12_mortar_caption_00,"I know it is dangerous to be near the mortar lines,"
-villagers_church_12_mortar_caption_01,but I feel so much safer with the holy guards around.
+villagers_church_10_ores_caption_00,鉱石はどうだい？
+villagers_church_10_ores_caption_01,気になる鉱石があるなら買っていきなよ。
+villagers_church_10_ores_caption_02,最高の鉱石だよ。
+villagers_church_11_war_caption_00,もう何年も、平和と調和の中で暮らしてきたんだ。
+villagers_church_11_war_caption_01,それを戦争と死の時代に突き落とした反乱軍を呪わずにはいられないね。
+villagers_church_12_mortar_caption_00,敵の射程圏近くにいるのは危険だって分かってはいるんだけどね、
+villagers_church_12_mortar_caption_01,ホーリーガードの近くにいるとすごく安心するよ。
 villagers_church_13_power_caption_00,Do you see the power of the hypercube?
 villagers_church_13_power_caption_01,"The maharishi says it is infelicitous to use it for war,"
 villagers_church_13_power_caption_02,but it is uncannily potent when used in machines of death.
 villagers_church_14_moving_caption_00,Do you need something?
 villagers_church_14_moving_caption_01,No?
 villagers_church_14_moving_caption_02,Then keep moving.
-villagers_church_15_religiousvalues_caption_00,This city was founded on strong religious values.
-villagers_church_15_religiousvalues_caption_01,The rebels are disrespecting our heritage with this marxist revolt.
-villagers_church_16_years_caption_00,"What do you mean, heritage?"
-villagers_church_16_years_caption_01,We’ve only been here 24 years.
-villagers_church_17_goodolddays_caption_00,I’m saying things were better back then.
-villagers_church_17_goodolddays_caption_01,No communists degenerating our culture.
-villagers_church_18_myth_caption_00,I think you’re idolizing a mythologized version of the past.
-villagers_church_19_commie_caption_00,I think you’re sounding like a commie. Shut up.
-villagers_church_20_new_caption_00,Are you new in town?
+villagers_church_15_religiousvalues_caption_00,この都市は宗教的な強い思想のもとに建造されたんだ。
+villagers_church_15_religiousvalues_caption_01,マルクス主義の反乱軍どもは、我々の伝統を馬鹿にしている。
+villagers_church_16_years_caption_00,伝統ってどういうことだよ？
+villagers_church_16_years_caption_01,俺たちがここに移り住んでから、まだ24年しか経ってないんだぞ。
+villagers_church_17_goodolddays_caption_00,当時は良かったという話をしているんだ。
+villagers_church_17_goodolddays_caption_01,共産主義の堕落した文化もなかった。
+villagers_church_18_myth_caption_00,過去を神話化しているようにしか聞こえないがね。
+villagers_church_19_commie_caption_00,お前の言い分はコミーのようにしか聞こえないぞ、黙れ。
+villagers_church_20_new_caption_00,新顔か？
 villagers_reunion_confront_ghronto_caption_00,とうとう追い詰めたぞ。
 villagers_reunion_confront_ghronto_caption_01,数ヶ月前にマッドランナーの女王を殺したな。
 villagers_reunion_confront_ghronto_caption_02,鍾乳石でその頭を貫いた。
