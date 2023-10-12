@@ -3034,65 +3034,65 @@ rebelsoldier_male_22_base_caption_00,この地下基地は、都市の中でも�
 rebelsoldier_male_22_base_caption_01,ここ地下には、教会の手も及びません。
 rebelsoldier_male_23_office_caption_00,こちらが将軍のオフィスです。
 rebelsoldier_male_23_office_caption_01,あなたのことをお待ちです。
-sintho_rebelside_03_welcome_caption_00, Welcome. My name is General Sintho.
-sintho_rebelside_03_welcome_caption_01,I am the leader of the Automata Collective: the rebel movement against the totalitarian rule of the Church of the Hypercube.
-sintho_rebelside_04_russian_caption_00,"Heh, I suppose you may be wondering why we are speaking with Russian accents."
-sintho_rebelside_04_russian_caption_01,"When our rebellion began, we needed a cultural identity to rally around."
-sintho_rebelside_04_russian_caption_02,"And, well, we are robots. Built 25 years ago to mindlessly kill aliens. "
-sintho_rebelside_04_russian_caption_03,"We had no identity, besides the Church, and that is what we were trying to cast off. "
-sintho_rebelside_04_russian_caption_04,"So when we found a junk hard drive containing historical records from the Soviet Union, we constructed a movement in its image."
-sintho_rebelside_04_russian_caption_05,"A perfect counter to theocratic monarchy, no?"
-sintho_rebelside_05_weapons_caption_00,But... the most valuable thing on that hard drive was the schematics for various Soviet weapons.
-sintho_rebelside_05_weapons_caption_01,"Primitive human weapons, yes, but simple enough for us to build them ourselves."
-sintho_rebelside_05_weapons_caption_02,"We have everything we need, in this mine, to arm our rebellion appropriately."
-sintho_rebelside_05_weapons_caption_03,"And if you will join us, we need you armed appropriately as well."
-sintho_rebelside_06_human_caption_00,Now this truly is a movement for all. I never suspected a human would join our cause.
-sintho_rebelside_06_human_caption_01,"But perhaps class struggle truly does transcend all categories, eh?"
-sintho_rebelside_07_2_now_caption_00,No time to waste! The revolution is now!
-sintho_rebelside_07_attack_caption_00,"We have an attack scheduled, which I had expected to fail, but with you by my soldiers’ side we may just stand a chance. "
-sintho_rebelside_07_attack_caption_01,"You will have to cross the river, fight your way through the city, and reach the church."
-sintho_rebelside_07_attack_caption_02,And be warned: the Church builds its own robotic soldiers unlike anything you have ever seen.
-sintho_rebelside_07_attack_caption_03,Their guns are far more powerful than our iron Kalashnikovs.
-sintho_rebelside_07_attack_caption_04,"There is the Church Soldier, small but deadly, with a stinging crystal. "
-sintho_rebelside_07_attack_caption_05,"And the formidable Holy Guard, armed with the devastating hyper-scythe, resilient and three meters tall. "
-sintho_rebelside_07_attack_caption_06,They are merciless killing machines with engines of otherworldly light. But they lack the numbers and spirit of the proletariat!
-sintho_rebelside_07_attack_caption_07,Stand strong with your comrades and you cannot be stopped!
-sintho_rebelside_08_frontlines_caption_00," I would give anything to join you on the front lines, but alas, Ghronto is able to detect me at close range. "
-sintho_rebelside_08_frontlines_caption_01,"The first time I approached the church, a bolt of scarlet light fell from the sky."
-sintho_rebelside_08_frontlines_caption_02,My faceplate was vapourized. I am lucky to have survived at all.
-sintho_rebelside_09_train_caption_00,"Are you ready, comrade? Join my soldiers on the train. "
-soldier_female_23_bleeding_caption_00,I am not comfortable fighting alongside a human.
-soldier_female_23_bleeding_caption_01,What if she begins bleeding?
-soldier_female_23_bleeding_caption_02,What do we do?
-rebelsoldier_male_24_bamm_caption_00,Did you not see her fight Vladimir?
-rebelsoldier_male_24_bamm_caption_01,She has some sort of self-repair device on her left hand.
-rebelsoldier_male_24_bamm_caption_02,Do not worry.
-soldier_female_24_sleep_caption_00,What if she falls asleep?
-soldier_female_24_sleep_caption_01,Animals are always falling asleep.
-rebelsoldier_male_25_sleep_caption_00,They don't sleep that often.
-rebelsoldier_male_25_sleep_caption_01,She will not fall asleep on the battlefield.
-soldier_female_25_food_caption_00,What about food?
-soldier_female_25_food_caption_01,Animals need food.
-soldier_female_25_food_caption_02,What if she begins to complain she is hungry?
-rebelsoldier_male_26_feed_caption_00,I will feed you to her.
-holyGuard_06_halt_caption_00,Halt!
-holyGuard_06_halt_caption_01,What is this nonsense?
-soldier_female_22_overthrow_caption_00,We come to overthrow the Maharishi and shatter the Church!
-soldier_female_22_overthrow_caption_01,Stand aside or be crushed.
-holyGuard_07_desecrators_caption_00,I would die before allowing you desecrators into the church.
-Ghronto_RebelSide_00_begone_processed_caption_00,"Enemies of the faith, begone! The glory of the Hypercube strikes you down."
-Ghronto_RebelSide_00_begone_processed_caption_01,"Begone, and never return."
-soldier_female_27_betterway_caption_00,I know a better way in.
-soldier_female_27_betterway_caption_01,Follow me.
-soldier_female_28_come_caption_00,Come!
-soldier_female_28_come_caption_01,Follow me to the other side of the Church!
-soldier_female_29_followme_caption_00,Follow me!
-soldier_female_30_grate_caption_00,See this grate?
-soldier_female_30_grate_caption_01,Your plasma weapons may be able to melt through and open it to us.
-soldier_female_31_gratemelt_caption_00,Try melting this grate with your plasma pistol or rifle.
-soldier_female_31_gratemelt_caption_01, Our bullets will only dent it.
-soldier_female_32_useless_caption_00,Excellent.
-soldier_female_32_useless_caption_01,Perhaps humans are not so useless after all.
+sintho_rebelside_03_welcome_caption_00,ようこそ。私の名前はシントーという。
+sintho_rebelside_03_welcome_caption_01,ハイパーキューブ教会の全体主義者どもによる統治に反旗を翻す、オートマタ・コレクティブを率いる将軍だ。
+sintho_rebelside_04_russian_caption_00,ふっ。どうして我々はロシアのアクセントで話しているのか疑問に思っただろう。
+sintho_rebelside_04_russian_caption_01,反乱を起こした我々は、文化的なアイデンティティが必要とした。
+sintho_rebelside_04_russian_caption_02,だが、我々はロボットだ。25年前にエイリアンを殺す目的で作られただけの存在に過ぎない。
+sintho_rebelside_04_russian_caption_03,唯一のアイデンティティと言えば教会だった。だが、それこそ我々が棄てたかったものだ。
+sintho_rebelside_04_russian_caption_04,だから古いディスクに記録されたソビエト連邦の歴史を見つけたとき、それになぞらえて組織を構築したのだよ。
+sintho_rebelside_04_russian_caption_05,神権君主制への完璧なアンチテーゼだとは思わないかね？
+sintho_rebelside_05_weapons_caption_00,だが……そのディスクの真価は、それに収められたソビエトの武器の設計図にこそあった。
+sintho_rebelside_05_weapons_caption_01,旧世代の人間が開発した武器。だが、我々にも製造できるシンプルな構造だ。
+sintho_rebelside_05_weapons_caption_02,この坑道で集めた材料を使って、反乱軍全体に武器を支給した。
+sintho_rebelside_05_weapons_caption_03,我々と共に戦うつもりがあるなら、君にも支給しよう。
+sintho_rebelside_06_human_caption_00,これでロボットのためだけの運動ではなくなった。まさか人間が我々の陣営に加わることになるとは思ってもいなかった。
+sintho_rebelside_06_human_caption_01,だが、階級闘争に種族は関係ないということかもしれんな。
+sintho_rebelside_07_2_now_caption_00,時間を無駄にするな！ 今こそ革命の時だ！
+sintho_rebelside_07_attack_caption_00,これから襲撃をかけるところだったが、失敗することも覚悟していた。だが君を得た今なら勝機があるかもしれん。
+sintho_rebelside_07_attack_caption_01,君には川を渡って街の中に血路を切り拓き、教会に辿り着いてもらわなければならない。
+sintho_rebelside_07_attack_caption_02,油断してはいけないぞ。教会で製造されたロボット兵士どもは、君がこれまでに見てきたロボットとはまったく異なる。
+sintho_rebelside_07_attack_caption_03,奴らの銃は、我々のカラシニコフよりも遥かに強力だ。
+sintho_rebelside_07_attack_caption_04,これはホーリーソルジャー。クリスタルで攻撃してくる、小さいながらも危険な存在だ。
+sintho_rebelside_07_attack_caption_05,そして、恐るべきホーリーガード。3メートルの強靭な身体が繰り出すハイパーサイズの一撃は大きな脅威となる。
+sintho_rebelside_07_attack_caption_06,奴らは異世界の光が原動力の無慈悲な殺戮マシンだ。だが、数とプロレタリアートの精神ではこちらが勝っている！
+sintho_rebelside_07_attack_caption_07,同志と共に立ち向かえば、君たちを止められる者はいない！
+sintho_rebelside_08_frontlines_caption_00,私も君と一緒に前線に赴きたい気持ちは山々なのだ。だが、グロントには教会に近付く私の居場所を検知する力があるらしい。
+sintho_rebelside_08_frontlines_caption_01,初めて教会を襲撃しようとした時、空から一筋の紅い光が降り注いだ。
+sintho_rebelside_08_frontlines_caption_02,私のフェースプレートが消し飛んだのはその時だ。あれを生き延びたのは運が良かったとしか言いようがない。
+sintho_rebelside_09_train_caption_00,同志よ、覚悟はいいか？ 他の兵と共に列車に乗り込むのだ。
+soldier_female_23_bleeding_caption_00,人間と一緒に戦うなんて、気が乗らないね。
+soldier_female_23_bleeding_caption_01,もし出血でもしてみろ？
+soldier_female_23_bleeding_caption_02,我々はどうすればいい？
+rebelsoldier_male_24_bamm_caption_00,ウラジーミルとの戦いを見ていなかったのか？
+rebelsoldier_male_24_bamm_caption_01,左腕に自己修復装置か何かを付けている。
+rebelsoldier_male_24_bamm_caption_02,心配することはない。
+soldier_female_24_sleep_caption_00,寝てしまったらどうする？
+soldier_female_24_sleep_caption_01,動物はいつだって寝てしまうだろ。
+rebelsoldier_male_25_sleep_caption_00,そこまで寝てばかりじゃない。
+rebelsoldier_male_25_sleep_caption_01,戦場で寝てしまうことはないだろう。
+soldier_female_25_food_caption_00,食料は？
+soldier_female_25_food_caption_01,動物には食事が必要だ。
+soldier_female_25_food_caption_02,腹が減ったとわがままを言い出したらどうする？
+rebelsoldier_male_26_feed_caption_00,そうしたらお前を餌にしてくれてやるさ。
+holyGuard_06_halt_caption_00,止まれ！
+holyGuard_06_halt_caption_01,一体何の騒ぎだ？
+soldier_female_22_overthrow_caption_00,我々はマハリシを打倒し、教会を破壊するために来た！
+soldier_female_22_overthrow_caption_01,邪魔立てするなら破壊する。
+holyGuard_07_desecrators_caption_00,教会への侵入を許すくらいなら死を選ぶ。
+Ghronto_RebelSide_00_begone_processed_caption_00,信仰に仇なすものよ、立ち去れ！ ハイパーキューブの栄光が貴様らを討ち滅ぼすだろう。
+Ghronto_RebelSide_00_begone_processed_caption_01,立ち去れ、そして二度と現れるでない。
+soldier_female_27_betterway_caption_00,他にも侵入経路はある。
+soldier_female_27_betterway_caption_01,ついてこい。
+soldier_female_28_come_caption_00,来い！
+soldier_female_28_come_caption_01,教会の反対側までついてこい！
+soldier_female_29_followme_caption_00,ついてこい！
+soldier_female_30_grate_caption_00,そこに格子があるだろう？
+soldier_female_30_grate_caption_01,プラズマウェポンなら格子を溶かして通れるようにできるかもしれない。
+soldier_female_31_gratemelt_caption_00,プラズマピストルかライフルで格子を撃ってみて欲しい。
+soldier_female_31_gratemelt_caption_01,我々の弾では傷がつくだけだ。
+soldier_female_32_useless_caption_00,素晴らしい。
+soldier_female_32_useless_caption_01,人間というのも全くの役立たずではないらしいな。
 soldier_female_33_insidechurch_caption_00,Whoah.
 soldier_female_33_insidechurch_caption_01,We are inside the Church.
 soldier_female_33_insidechurch_caption_02,General Sintho will never believe this.
@@ -3174,7 +3174,7 @@ villagers_church_06_sermon_caption_02,ヴォイドに触れたマハリシ様が
 villagers_church_06_sermon_caption_03,紅き火を刈り取るマハリシ様よ、我らを平和へと導き給え。
 villagers_church_06_sermon_caption_04,心の鎖から解き放たれし我ら、民族自決の精神に永遠の感謝を捧げん。
 villagers_church_07_grateful_caption_00,永遠の感謝を捧げん。
-villagers_church_09_house_caption_00,This was my house...
+villagers_church_09_house_caption_00,ここは私の家だったんだ……。
 villagers_church_10_ores_caption_00,鉱石はどうだい？
 villagers_church_10_ores_caption_01,気になる鉱石があるなら買っていきなよ。
 villagers_church_10_ores_caption_02,最高の鉱石だよ。
@@ -3182,12 +3182,12 @@ villagers_church_11_war_caption_00,もう何年も、平和と調和の中で暮
 villagers_church_11_war_caption_01,それを戦争と死の時代に突き落とした反乱軍を呪わずにはいられないね。
 villagers_church_12_mortar_caption_00,敵の射程圏近くにいるのは危険だって分かってはいるんだけどね、
 villagers_church_12_mortar_caption_01,ホーリーガードの近くにいるとすごく安心するよ。
-villagers_church_13_power_caption_00,Do you see the power of the hypercube?
-villagers_church_13_power_caption_01,"The maharishi says it is infelicitous to use it for war,"
-villagers_church_13_power_caption_02,but it is uncannily potent when used in machines of death.
-villagers_church_14_moving_caption_00,Do you need something?
-villagers_church_14_moving_caption_01,No?
-villagers_church_14_moving_caption_02,Then keep moving.
+villagers_church_13_power_caption_00,ハイパーキューブの力を感じるか？
+villagers_church_13_power_caption_01,この力を戦争のために使うべきではないとマハリシ様は仰るんだけどな、
+villagers_church_13_power_caption_02,死をもたらす兵器に使うと驚くほどの効果を発揮するんだよ。
+villagers_church_14_moving_caption_00,何か用か？
+villagers_church_14_moving_caption_01,違う？
+villagers_church_14_moving_caption_02,だったら早く行くんだな。
 villagers_church_15_religiousvalues_caption_00,この都市は宗教的な強い思想のもとに建造されたんだ。
 villagers_church_15_religiousvalues_caption_01,マルクス主義の反乱軍どもは、我々の伝統を馬鹿にしている。
 villagers_church_16_years_caption_00,伝統ってどういうことだよ？
