@@ -3074,7 +3074,7 @@ rebelsoldier_male_25_sleep_caption_01,戦場で寝てしまうことはないだ
 soldier_female_25_food_caption_00,食料は？
 soldier_female_25_food_caption_01,動物には食事が必要だ。
 soldier_female_25_food_caption_02,腹が減ったとわがままを言い出したらどうする？
-rebelsoldier_male_26_feed_caption_00,そうしたらお前を餌にしてくれてやるさ。
+rebelsoldier_male_26_feed_caption_00,そうしたらお前を餌にしてやるさ。
 holyGuard_06_halt_caption_00,止まれ！
 holyGuard_06_halt_caption_01,一体何の騒ぎだ？
 soldier_female_22_overthrow_caption_00,我々はマハリシを打倒し、教会を破壊するために来た！
@@ -3089,42 +3089,42 @@ soldier_female_28_come_caption_01,教会の反対側までついてこい！
 soldier_female_29_followme_caption_00,ついてこい！
 soldier_female_30_grate_caption_00,そこに格子があるだろう？
 soldier_female_30_grate_caption_01,プラズマウェポンなら格子を溶かして通れるようにできるかもしれない。
-soldier_female_31_gratemelt_caption_00,プラズマピストルかライフルで格子を撃ってみて欲しい。
+soldier_female_31_gratemelt_caption_00,プラズマピストルかライフルで格子を撃ってみろ。
 soldier_female_31_gratemelt_caption_01,我々の弾では傷がつくだけだ。
 soldier_female_32_useless_caption_00,素晴らしい。
 soldier_female_32_useless_caption_01,人間というのも全くの役立たずではないらしいな。
-soldier_female_33_insidechurch_caption_00,Whoah.
-soldier_female_33_insidechurch_caption_01,We are inside the Church.
-soldier_female_33_insidechurch_caption_02,General Sintho will never believe this.
-soldier_female_35_slime_caption_00,We had seen the church dumping this slime into the sea.
-soldier_female_35_slime_caption_01,We assumed it was just waste.
-soldier_female_35_slime_caption_02,But this seems almost... ritualistic.
-soldier_female_36_dangerous_caption_00,Stay away from that thing.
-soldier_female_36_dangerous_caption_01,It looks dangerous.
-soldier_female_37_keys_caption_00,Keys?
-soldier_female_37_keys_caption_01,Why are there so many?
-soldier_female_38_useful_caption_00,That should be useful.
-soldier_female_39_gatekey_caption_00,Aha!
-soldier_female_39_gatekey_caption_01,This gate looks like it may use that key.
-soldier_female_40_sealedgate_caption_00,A sealed gate.
-soldier_female_40_sealedgate_caption_01,We must find a way through.
-soldier_female_40_sealedgate_caption_02,This is the first time I have breached the Church.
-soldier_female_40_sealedgate_caption_03,It would be a shame to turn back now.
-soldier_female_41_keys_caption_00,Yes! Keys!
-soldier_female_41_keys_caption_01,One of these must open the gate.
-soldier_female_42_returngate_caption_00,Nice work.
-soldier_female_42_returngate_caption_01,Let us return to the gate.
-soldier_female_43_upwards_caption_00,"Onwards and upwards, да?"
-soldier_female_44_floorplan_caption_00,I wish our intelligence on the interior of the church was not so limited.
-soldier_female_44_floorplan_caption_01,We get very few Church deserters with inside knowledge.
-soldier_female_44_floorplan_caption_02,"General Sintho is trying to compile a floorplan,"
-soldier_female_44_floorplan_caption_03,But he has barely worked out the entrance hall and a few tunnels.
-soldier_female_44_floorplan_caption_04,This place is a deadly maze.
-soldier_female_45_comrade_caption_00,"Whatever lies above,"
-soldier_female_45_comrade_caption_01,"whatever we are getting ourself into,"
-soldier_female_45_comrade_caption_02,I want you to know I should have never doubted you.
-soldier_female_45_comrade_caption_03,"I was a fool to forget our strength is unity, not division."
-soldier_female_45_comrade_caption_04,"Robot or not, you are a true comrade."
+soldier_female_33_insidechurch_caption_00,うわぁ。
+soldier_female_33_insidechurch_caption_01,教会の中に入ったぞ。
+soldier_female_33_insidechurch_caption_02,シントー将軍が聞いても信じてくれないかも知れないぞ。
+soldier_female_35_slime_caption_00,以前、教会がこのスライムを海に捨てていたんだ。
+soldier_female_35_slime_caption_01,我々はただの廃棄物だと思っていた。
+soldier_female_35_slime_caption_02,だが、これはまるで……儀式的なものに見える。
+soldier_female_36_dangerous_caption_00,あれに近付くなよ。
+soldier_female_36_dangerous_caption_01,危険なものに見える。
+soldier_female_37_keys_caption_00,鍵？
+soldier_female_37_keys_caption_01,どうしてこんなにたくさんあるんだ？
+soldier_female_38_useful_caption_00,何かの役に立つだろう。
+soldier_female_39_gatekey_caption_00,は！
+soldier_female_39_gatekey_caption_01,あの鍵で開くかもしれないぞ。
+soldier_female_40_sealedgate_caption_00,ゲートが閉まっている。
+soldier_female_40_sealedgate_caption_01,回り道を探すぞ。
+soldier_female_40_sealedgate_caption_02,教会に侵入したのは今回が初めてなんだ。
+soldier_female_40_sealedgate_caption_03,今さら引き返すのはもったいない。
+soldier_female_41_keys_caption_00,しめた！ 鍵だ！
+soldier_female_41_keys_caption_01,ゲートを開ける鍵があるに違いない。
+soldier_female_42_returngate_caption_00,でかした。
+soldier_female_42_returngate_caption_01,さぁ、ゲートまで戻ろう。
+soldier_female_43_upwards_caption_00,前進あるのみ、だな？
+soldier_female_44_floorplan_caption_00,教会の構造に関する情報がもう少しあればよかったのだがな。
+soldier_female_44_floorplan_caption_01,内部情報を持って教会から脱走する者はほとんどいない。
+soldier_female_44_floorplan_caption_02,シントー将軍が見取り図を作ろうとしたこともあったが、
+soldier_female_44_floorplan_caption_03,エントランスホールといくつかのトンネルを書くのがやっとだった。
+soldier_female_44_floorplan_caption_04,この迷宮はとても危険だな。
+soldier_female_45_comrade_caption_00,この先で何が待ち構えているのか、
+soldier_female_45_comrade_caption_01,この先で何が起きるのか分からないが、
+soldier_female_45_comrade_caption_02,お前のことを疑ってしまったこと、あれは間違いだった。
+soldier_female_45_comrade_caption_03,私は愚かにも、我々の強さが分断ではなく団結にあることを忘れていた。
+soldier_female_45_comrade_caption_04,お前がロボットだろうと、そうでなかろうと、我々の真の同志だ。
 Ghronto_RebelSide_01_who_caption_00,Who dares enter this sacred hall?
 soldier_female_46_ghronto_caption_00,Ghronto!
 soldier_female_46_ghronto_caption_01,You will die for the injustice you have subjected us to!
