@@ -793,7 +793,7 @@ enc_mk.3_security_drone_desc,"Mk.IIIは、安価に製造できるよう設計�
 
 上層に配置される弱いセキュリティボットの一つだが、エイリアンを適切に排除するだけの能力は有している。"
 enc_mk.3_security_drone_stats,"ユニット名: PHS-03-H
-役割: Security
+役割: セキュリティ
 メーカー: <link=0>プランク・インターディメンショナル</link>"
 enc_mk.3_security_drone_sub,不器用ボット
 enc_mk.i_security_drone,Mk.I セキュリティドローン
@@ -833,7 +833,7 @@ enc_nostalgic_pistol_desc,"標準的な自己装填式プラズマピストル�
 威力は控えめだが、手にすると懐かしい気持ちになる。"
 enc_nostalgic_pistol_stats,"クラス: サイドアーム
 メーカー: <link=0>プランク・インターディメンショナル</link>
-発射体: Plasma"
+発射体: プラズマ"
 enc_nostalgic_pistol_sub,懐かしい……
 enc_officer_bot,オフィサーボット
 enc_officer_bot_desc,"PS-1Aは軽量シャーシに大型の外部コマンドユニット(やや重要バランスを崩している原因でもある)を搭載したモデルだ。洗練された戦術チップと液冷式ニューラルプロセッサーにより、ロボット分隊を高度な操作で効果的に指揮する。
@@ -1227,9 +1227,9 @@ gun_ionizer,イオナイザー
 gun_meatnailer,ミートネイラー
 gun_phagelauncher,ファージランチャー
 gun_trident,トライデント
-intro_theend,The End
-intro_oftheelevator,"of the Introductory
-Elevator Ride"
+intro_theend,終点
+intro_oftheelevator,"あらすじ
+エレベーター"
 kauboi_graffiti_00,"彼の者、カウアーにて我を見つけるに能わず
 我、雌伏の時を過ごす
 今、この時を以て
