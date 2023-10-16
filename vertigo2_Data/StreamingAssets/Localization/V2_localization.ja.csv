@@ -2792,16 +2792,16 @@ OfficerMonologue_caption_04,貴様の補給部隊に対する行ないは見て�
 OfficerMonologue_caption_05,私は同じ失敗はしない……既に増援を呼んである。
 OfficerMonologue_caption_06,このような任務、最初は私も疑問があった。たまたま転移させられたエイリアンを殺すなんて、とな。
 OfficerMonologue_caption_07,だが、上の言い分は正しかった……貴様はただの怪物だ。
-qonik_00_greetings_caption_00,こんにちは、旅人よ。
+qonik_00_greetings_caption_00,こんにちは、旅の人。
 qonik_00_greetings_caption_01,騒乱のさなかではありますが、あなたを歓迎します。
-qonik_00_greetings_caption_02,私たちは長年、暴力による分裂を強いられているのです！
+qonik_00_greetings_caption_02,僕たちは長年、暴力による分裂を強いられているのです！
 qonik_00_greetings_caption_03,東の教会がこの土地を治め、平和と信仰を説いてきました。
 qonik_00_greetings_caption_04,その生活を、西の反乱軍どもは覆そうとしている！
 kaalsi_00_freedom_caption_00,教会は我らを地下へと追いやろうとしている。
 kaalsi_00_freedom_caption_01,我らの反乱が目指すものは解放で、この暗い洞窟からの自由なのだ。
-qonik_01_threaten_caption_00,お前たちは自由と繁栄の時代を脅かしているのだ！
+qonik_01_threaten_caption_00,お前たちは自由と繁栄の時代を脅かしているんだ！
 qonik_01_threaten_caption_01,テロリストによって、幾多の民間人までもが犠牲になってきた。
-qonik_01_threaten_caption_02,奴らの妄言に耳を貸してはなりません。
+qonik_01_threaten_caption_02,あいつらの妄言に耳を貸してはなりません。
 kaalsi_01_commoners_caption_00,我らは自由のために戦い、そして死ぬ。
 kaalsi_01_commoners_caption_01,理想には犠牲がつきものだ。
 kaalsi_01_commoners_caption_02,我ら庶民が苦しみ働く間、貴様らの支配者は城で贅を尽くした生活を送っている。
@@ -3125,38 +3125,38 @@ soldier_female_45_comrade_caption_01,この先で何が起きるのか分から�
 soldier_female_45_comrade_caption_02,お前のことを疑ってしまったこと、あれは間違いだった。
 soldier_female_45_comrade_caption_03,私は愚かにも、我々の強さが分断ではなく団結にあることを忘れていた。
 soldier_female_45_comrade_caption_04,お前がロボットだろうと、そうでなかろうと、我々の真の同志だ。
-Ghronto_RebelSide_01_who_caption_00,Who dares enter this sacred hall?
-soldier_female_46_ghronto_caption_00,Ghronto!
-soldier_female_46_ghronto_caption_01,You will die for the injustice you have subjected us to!
-soldier_female_46_ghronto_caption_02,Aaaah-
-Ghronto_RebelSide_02_struckDown_caption_00,You who passes into our world:
-Ghronto_RebelSide_02_struckDown_caption_01,I sense the Hypercube's power within you.
-Ghronto_RebelSide_02_struckDown_caption_02,"Had you not followed the path of evil, you could have joined our church."
-Ghronto_RebelSide_02_struckDown_caption_03,"As it is, you must be struck down."
-Ghronto_RebelSide_03_ungrateful_caption_00,"Each of the villagers who turned against me, "
-Ghronto_RebelSide_03_ungrateful_caption_01,I gave them their freedom from Planck.
-Ghronto_RebelSide_03_ungrateful_caption_02,I gave them everything.
-Ghronto_RebelSide_03_ungrateful_caption_03,"And in return they rebel against me,"
-Ghronto_RebelSide_03_ungrateful_caption_04,And send a human assassin.
-Ghronto_RebelSide_03_ungrateful_caption_05,They are ungrateful desecrators.
-Ghronto_RebelSide_04_tradition_caption_00,"Fou fight not just against me,"
-Ghronto_RebelSide_04_tradition_caption_01,but against the very fabric of our society.
-Ghronto_RebelSide_04_tradition_caption_02,Traditions must be upheld.
-Ghronto_RebelSide_05_degenerate_caption_00,The rebels degeneration will not take root in this holy place.
-Ghronto_RebelSide_06_church_caption_00,"I will lay down my own life, and my own dignity, in defense of this church."
-Ghronto_RebelSide_07_nothing_caption_00,You are nothing.
-Ghronto_RebelSide_08_death_caption_00,You fool! You do not know what you have done.
-Ghronto_RebelSide_08_death_caption_01,The blood-hot rage of the Void shall rain upon you and yours for a thousand years!
-Ghronto_RebelSide_08_death_caption_02,"You may not escape, not even by leaving this universe."
-Ghronto_RebelSide_08_death_caption_03,This is not the end.
-sintho_rebelside_10_survived_caption_00,Little human! You survived! Incredible!
-sintho_rebelside_10_survived_caption_01,"Comrades, this human has defeated Maharishi Ghronto and delivered victory to us! "
-sintho_rebelside_10_survived_caption_02,"And now she falls from the sky, no worse for wear! Truly a fine warrior. "
-sintho_rebelside_11_victory_caption_00,"With this victory of the proletariat, our city is at peace, and at last we are truly liberated."
-sintho_rebelside_11_victory_caption_01,"As a token of my personal gratitude, I present you with my symbolic arms. "
-sintho_rebelside_11_victory_caption_02,"Please, take them, and continue to fight for the global revolution. "
-sintho_rebelside_12_boat_caption_00,A boat is available at the dock so that you may safely cross the Great Sea.
-sintho_rebelside_12_boat_caption_01,"Thank you again, from all of us. "
+Ghronto_RebelSide_01_who_caption_00,この聖堂に足を踏み入れたのは何者だ？
+soldier_female_46_ghronto_caption_00,グロント！
+soldier_female_46_ghronto_caption_01,我々に対する仕打ち、死をもって償ってもらう！
+soldier_female_46_ghronto_caption_02,あぁ──
+Ghronto_RebelSide_02_struckDown_caption_00,我らの世界に迷い込みし者よ。
+Ghronto_RebelSide_02_struckDown_caption_01,貴様の中にハイパーキューブの力を感じるぞ。
+Ghronto_RebelSide_02_struckDown_caption_02,教会に入ることも叶っただろうに、貴様は道を踏み外した。
+Ghronto_RebelSide_02_struckDown_caption_03,故に、貴様は討ち倒されなければならぬ。
+Ghronto_RebelSide_03_ungrateful_caption_00,この私に背いたロボットたち。
+Ghronto_RebelSide_03_ungrateful_caption_01,かつて、奴らをプランクから解放し自由を与えた。
+Ghronto_RebelSide_03_ungrateful_caption_02,奴らにすべてを与えた。
+Ghronto_RebelSide_03_ungrateful_caption_03,その恩を謀反という形で私に報い、
+Ghronto_RebelSide_03_ungrateful_caption_04,私を暗殺せんと人間を送り込んできた。
+Ghronto_RebelSide_03_ungrateful_caption_05,恩知らずの背教者どもめ。
+Ghronto_RebelSide_04_tradition_caption_00,お前たちが相手にしているのは私一人ではない、
+Ghronto_RebelSide_04_tradition_caption_01,我々の社会そのものに対する挑戦だ。
+Ghronto_RebelSide_04_tradition_caption_02,伝統は保たれなければならない。
+Ghronto_RebelSide_05_degenerate_caption_00,反逆者たちの堕落した思想が、この神聖なる場所に根付くことはない。
+Ghronto_RebelSide_06_church_caption_00,この教会を守るためなら、私の命も、尊厳さえも捧げてみせよう。
+Ghronto_RebelSide_07_nothing_caption_00,お前は何者でもない。
+Ghronto_RebelSide_08_death_caption_00,愚か者め！ 貴様は自分がしたことの重大さを理解していない。
+Ghronto_RebelSide_08_death_caption_01,この先、千年に渡ってヴォイドの憤怒が貴様らに降り注ぐだろう！
+Ghronto_RebelSide_08_death_caption_02,もはや逃れる術はない、例えこの宇宙から逃れ得たとしてもだ。
+Ghronto_RebelSide_08_death_caption_03,これは終わりではない。
+sintho_rebelside_10_survived_caption_00,小さき人間よ！ 生還したというのか！ 信じられん！
+sintho_rebelside_10_survived_caption_01,同志よ、この人間がマハリシ・グロントを討ち取り、我々に勝利をもたらしてくれた！
+sintho_rebelside_10_survived_caption_02,そして今、空から落ちてきたというのに傷一つない！ なんと立派な戦士だろうか。
+sintho_rebelside_11_victory_caption_00,このプロレタリアートの勝利によって都市は平和を取り戻し、ついに真の自由を得た。
+sintho_rebelside_11_victory_caption_01,個人的な感謝の印として、私の象徴的な武器を差し上げよう。
+sintho_rebelside_11_victory_caption_02,どうかこれを受け取って、これからも世界革命のために戦って欲しい。
+sintho_rebelside_12_boat_caption_00,君がグレートオーシャンを安全に渡れるよう、港に船を用意してある。
+sintho_rebelside_12_boat_caption_01,改めて、我々一同は君に感謝している。
 villagers_church_00_human_caption_00,人間か？
 villagers_church_00_human_caption_01,プランクの差し金で来たのであれば、かつてマハリシ様が破壊した調査隊と同じ運命を辿ることになるぞ。
 villagers_church_01_omen_caption_00,今日はハイパーキューブの光が一段と鮮やかに感じられますな。
