@@ -2924,52 +2924,52 @@ churchsoldier_03_pray_caption_02,教義を受け入れたばかりのあなた�
 lresa_02_exit_caption_00,順調ですね。素晴らしい。
 lresa_02_exit_caption_01,準備ができたら、城壁に出撃しましょう。
 churchsoldier_04_blessing_caption_00,マハリシ様の祝福が我々と共にあらんことを。
-lresa_03_speech_caption_00, It is a fine day to reclaim our homeland!
-lresa_03_speech_caption_01,"Akola squadron, you will follow the human to front our main push."
-lresa_03_speech_caption_02," All other squadrons will join soon after, and spread through the territory to capture as much ground as we can. "
-lresa_03_speech_caption_03,We need to be able to throw everything we have at the rebel headquarters without resistance on the way there.
-lresa_03_speech_caption_04,"Mortar support will be ongoing to suppress any counterattack, so watch the skies carefully."
-lresa_03_speech_caption_05,I will be accompanying the Akola squadron as well to ensure the assassination of Sintho is carried out as planned.
-lresa_03_speech_caption_06," Ready, soldiers? It is time to put an end to this war!"
-lresa_03_speech_caption_07,Move out!
-lresa_04_follow_caption_00,The squadron will follow you.
-lresa_05_populated_caption_00,This road leads back to the populated section of the city.
-lresa_05_populated_caption_01,We must use a different path.
-lresa_06_engagement_caption_00,Engagement! Rebel scouts on our soil!
-lresa_06_engagement_caption_01,Clear a path!
-lresa_07_south_caption_00,We cannot go too far south. Go back towards the sea!
-lresa_08_behindchurch_caption_00,This road leads behind the church. We have no need to go there.
-lresa_09_bridge_caption_00,"There is an intact bridge we can cross, do you see it?"
-lresa_09_bridge_caption_01,It is lit with a torch.
-lresa_10_resistance_caption_00,"On their side of the city, we will meet much more resistance."
-lresa_10_resistance_caption_01,Strengthen your resolve. Cross the bridge when you are ready.
-lresa_11_choke_caption_00,They’re using the bridge as a choke point!
-lresa_11_choke_caption_01,Keep your head down and take out those troops carefully!
-lresa_11_choke_caption_02," Soldiers, hold your ground! "
-lresa_12_incoming_caption_00,Incoming! More rebels!
-lresa_12_incoming_caption_01,"Hold the bridge, don’t let them push us back across! "
-lresa_12_incoming_caption_02,Hold ground!
-lresa_13_mortars_caption_00,Be careful of the Church’s mortar shells.
-lresa_14_t34_caption_00,"By the Shard, they’ve deployed T-34s."
-lresa_14_t34_caption_01,They know something is happening.
-lresa_14_t34_caption_02,We can’t retreat now though. Move with caution.
-lresa_14_t34_caption_03, I am calling in more support.
-lresa_15_valley_caption_00,We’re close. The entrance is just down this valley. Don’t give up now!
-lresa_16_headquarters_caption_00,Yes! The rebel headquarters. Victory is within reach.
-lresa_16_headquarters_caption_01,"All available church troops are on their way here. If we can breach this gate, victory is all but assured. "
-lresa_17_flank_caption_00,Magnificent. We have taken the entrance. Our soldiers will begin to press inward.
-lresa_17_flank_caption_01, You and I need to flank to the location of Sintho’s escape tunnel as quickly as possible!
-lresa_17_flank_caption_02,Follow me!
-lresa_18_come_caption_00,"Come, we must reach the tunnel entrance before the General escapes! "
-lresa_19_follow_caption_00,Do not delay! Follow me!
-lresa_20_tunnel_caption_00,There it is. See that tunnel?
-lresa_20_tunnel_caption_01,Equip your weapon and be ready to fire as soon as Sintho emerges.
-lresa_21_bunker_caption_00,I have just received the signal that our troops have pushed into the bunkers.
-lresa_21_bunker_caption_01,Sintho will be on the run and emerge any second now.
-lresa_22_fire_caption_00,"There! There he is! Fire, quickly!  "
-lresa_23_traitor_caption_00,"By the cube, how could you allow him to escape?!"
-lresa_23_traitor_caption_01,This was all for nothing! You traitor!
-lresa_24_defeated_caption_00,He is down! The General is defeated!
+lresa_03_speech_caption_00,今日は領土を取り戻す素晴らしい一日となることでしょう！
+lresa_03_speech_caption_01,アコラ部隊は人間を先頭に、主力部隊を先導してください。
+lresa_03_speech_caption_02,他の全部隊もすぐに続き、敵の領土に展開して占領していってください。
+lresa_03_speech_caption_03,敵の本拠地に全戦力を投じるために、抵抗勢力をできるだけ避けて進まなければなりません。
+lresa_03_speech_caption_04,反撃を封じるための砲撃による支援攻撃は継続します。上空の様子に気をつけてください。
+lresa_03_speech_caption_05,シントーの暗殺が計画通りに進むよう、私もアコラ部隊に同行します。
+lresa_03_speech_caption_06,用意はいいですか？ 今日こそ、この争いに終止符を打つのです！
+lresa_03_speech_caption_07,出撃！
+lresa_04_follow_caption_00,この部隊はあなたに付き従います。
+lresa_05_populated_caption_00,この道は都市の人口密集地へと続いています。
+lresa_05_populated_caption_01,他の道を進まなければなりません。
+lresa_06_engagement_caption_00,接敵！ 反乱軍の斥候が領土内に侵入！
+lresa_06_engagement_caption_01,進路を確保せよ！
+lresa_07_south_caption_00,南下しすぎています。海の方に戻ってください！
+lresa_08_behindchurch_caption_00,この先は教会の裏です。そちらに行く必要はありません。
+lresa_09_bridge_caption_00,あそこにかがり火で照らされた橋があるのが見えますか？
+lresa_09_bridge_caption_01,あれを渡っていきます。
+lresa_10_resistance_caption_00,あちら側では、より強い抵抗に遭遇することになるでしょう。
+lresa_10_resistance_caption_01,覚悟はいいですか。準備ができたら橋を渡ってください。
+lresa_11_choke_caption_00,敵は橋を関門として利用しています！
+lresa_11_choke_caption_01,低い姿勢を保ち、慎重に敵部隊を排除してください！
+lresa_11_choke_caption_02,総員、この地点を死守！
+lresa_12_incoming_caption_00,反乱軍の増援が接近！
+lresa_12_incoming_caption_01,橋を死守し、前線を押し戻させるな！
+lresa_12_incoming_caption_02,踏みとどまれ！
+lresa_13_mortars_caption_00,教会の砲撃に気をつけてください。
+lresa_14_t34_caption_00,あぁ、シャードよ。敵はT-34を投入してきました。
+lresa_14_t34_caption_01,様子がおかしいと気付いたのでしょう。
+lresa_14_t34_caption_02,しかし、いま退くことはできません。気をつけて進んでください。
+lresa_14_t34_caption_03,私は更なる支援攻撃を要請します。
+lresa_15_valley_caption_00,もう少しです。入り口はこの谷間のすぐ先です。諦めてはいけません！
+lresa_16_headquarters_caption_00,よし！ 反乱軍の本拠地です。勝利は目前に迫っています。
+lresa_16_headquarters_caption_01,教会の運用可能な全部隊がここに向かっています。このゲートを突破できれば、勝利はほぼ確実でしょう。
+lresa_17_flank_caption_00,見事でした。入り口の確保に成功。他の兵力は内部に侵攻します。
+lresa_17_flank_caption_01,あなたと私は側面に回り、一刻も早くシントーの脱出トンネルへ向かわなければなりません！
+lresa_17_flank_caption_02,こちらです！
+lresa_18_come_caption_00,さぁ、将軍が脱出する前にトンネルの出口に行かなければ！
+lresa_19_follow_caption_00,遅れてはなりません！ ついてきて！
+lresa_20_tunnel_caption_00,あのトンネルが見えますか？
+lresa_20_tunnel_caption_01,シントーが出てきたらすぐに撃てるよう準備してください。
+lresa_21_bunker_caption_00,ちょうど、こちらの部隊が壕に突入したと通信を受けました。
+lresa_21_bunker_caption_01,逃げ出したシントーが、すぐに現れるでしょう。
+lresa_22_fire_caption_00,あそこ！ シントーです！ 早く撃って！
+lresa_23_traitor_caption_00,あぁ、キューブよ。どうして彼を逃がすような真似を？！
+lresa_23_traitor_caption_01,すべてが無駄になってしまった！ この裏切り者！
+lresa_24_defeated_caption_00,倒れた！ 将軍の敗北です！
 sintho_churchside_00_fools_caption_00,You faithful fools.
 sintho_churchside_00_fools_caption_01,"You have just shot a body double, and in doing so you have revealed your location. "
 lresa_25_foresight_caption_00,I did not expect such foresight from the rebels.
