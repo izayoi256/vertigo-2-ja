@@ -2859,71 +2859,71 @@ holyGuard_02_enter_caption_00,いいだろう、入るがよい。
 holyGuard_02_enter_caption_01,だが心するのだ、旅人よ。
 holyGuard_02_enter_caption_02,我々に賛同するのであれば、お前の信仰をマハリシ様に証明して見せなければならない。
 qonik_22_farewell_caption_00,さようなら！ 幸運を祈っているよ。
-holyGuard_03_come_caption_00,Come with me to the center of the room.
-holyGuard_04_audience_caption_00,The Maharishi himself will grant you audience.
-holyGuard_04_audience_caption_01,"Tread with care, and do not provoke him."
-holyGuard_04_audience_caption_02,He is a powerful being.
-holyGuard_05_behold_caption_00,"Behold, the Grand Maharishi Ghronto."
-Ghronto_ChurchSide_00_Enter_caption_00,"Enter my chamber, child."
-Ghronto_ChurchSide_01_Welcome_caption_00,Welcome to this holy place.
-Ghronto_ChurchSide_01_Welcome_caption_01,Your arrival is a timely miracle in this age of death.
-Ghronto_ChurchSide_01_Welcome_caption_02,"We are not a warlike people,"
-Ghronto_ChurchSide_01_Welcome_caption_03,and we are faced with a great struggle to preserve our way of life.
-Ghronto_ChurchSide_02_hypercube_caption_00,Do you see the power of the Holy Hypercube?
-Ghronto_ChurchSide_02_hypercube_caption_01,I used it to free the minds of 300 Planck security robots off an assembly line.
-Ghronto_ChurchSide_02_hypercube_caption_02,"I gifted them self determination,"
-Ghronto_ChurchSide_02_hypercube_caption_03,and led them to this cave to live fulfilling and peaceful lives of worship.
-Ghronto_ChurchSide_02_hypercube_caption_04,I alone have the strength to interface with the otherwordly energy of the cube.
-Ghronto_ChurchSide_03_insurrection_caption_00,"And yet, the insurrectionists are not satisfied."
-Ghronto_ChurchSide_03_insurrection_caption_01,They wish to destroy everything that makes us who we are.
-Ghronto_ChurchSide_04_Help_caption_00,Perhaps you can save us.
-Ghronto_ChurchSide_04_Help_caption_01,"We have been dealt great injustice by humans,"
-Ghronto_ChurchSide_04_Help_caption_02,but I see by your soul you are not of our world.
-Ghronto_ChurchSide_04_Help_caption_03,We bear no malice towards you.
-Ghronto_ChurchSide_04_Help_caption_04,"If you are willing to help us,"
-Ghronto_ChurchSide_04_Help_caption_05,drink out of the sacred goblet to prove your faith and commit to our cause.
-Ghronto_ChurchSide_05_execute_caption_00,A terrible shame.
-Ghronto_ChurchSide_05_execute_caption_01,I had hoped to gain your support.
-Ghronto_ChurchSide_05_execute_caption_02,"Guards, execute the desecrator."
-Ghronto_ChurchSide_06_enlightened_caption_00,Now you are enlightened.
-Ghronto_ChurchSide_06_enlightened_caption_01,Behold the nature of the universe.
-Ghronto_ChurchSide_06_enlightened_caption_02,Behold the nature of our faith.
-Ghronto_ChurchSide_06_enlightened_caption_03,We channel the power of the ancient god whose vitality lights our world.
-Ghronto_ChurchSide_06_enlightened_caption_04,But it is not enough.
-Ghronto_ChurchSide_07_ youalone_caption_00,You alone can save our people from the vulgar claws of the Automata Collective rebels.
-Ghronto_ChurchSide_07_ youalone_caption_01,My finest warriors shall fight at your side.
-Ghronto_ChurchSide_08_go_caption_00,"Now, go."
-Ghronto_ChurchSide_08_go_caption_01,"Dispose of the wretched general, and reclaim the land."
-churchsoldier_00_greetings_caption_00,"Greetings. We are soldiers of the Church. The Maharishi puts his faith in you, so we shall as well."
-churchsoldier_00_greetings_caption_01,Please meet Lieutenant L’resa.
-churchsoldier_00_greetings_caption_02,"She is one-of-a-kind, built with a Planck tactical chip meant for high ranking reactor security."
-churchsoldier_00_greetings_caption_03,We defer to her to lead the most important operations.
-lresa_00_greetings_caption_00,"Greetings, human. Today’s mission will be straightforward and absolute."
-lresa_00_greetings_caption_01,"The rebels’ headquarters is well fortified, so we will be assaulting the main entrance directly."
-lresa_00_greetings_caption_02,You will lead our charge.
-lresa_00_greetings_caption_03,"With your combat expertise and our weaponry, I expect this to succeed. "
-lresa_00_greetings_caption_04,"General Sintho will be forced into his bunkers, but we will keep our troops pushing deeper into his base so he is forced to flee through an escape tunnel."
-lresa_00_greetings_caption_05,"Meanwhile, you and I will have circled to the tunnel’s exit, and will assassinate him as soon as he emerges."
-lresa_00_greetings_caption_06,"A simple plan, no? "
-churchsoldier_01_plan_caption_00,"Come, observe the layout of the city."
-churchsoldier_01_plan_caption_01,"We are here, in the castle. "
-churchsoldier_01_plan_caption_02,"We need to fight our way into the front lines, across the river, through the enemy’s side of the city, and into the hills."
-churchsoldier_01_plan_caption_03,"We can’t go through the populated parts of the city, we need to avoid civilian casualties."
-churchsoldier_01_plan_caption_04,Population’s low enough already.
-churchsoldier_01_plan_caption_05,"Expect heavy resistance, especially on their side of the river. "
-churchsoldier_01_plan_caption_06,The rebel army is vast and fights viciously.
-lresa_01_arm_caption_00,"With you on our side as well, we have quite a good shot. "
-lresa_01_arm_caption_01,"They may outnumber us, but we outgun and outsmart them."
-lresa_01_arm_caption_02," Speaking of guns, let us arm you with something a bit more powerful than your traditional weapons. "
-churchsoldier_02_enlightenment_caption_00,This device is called Enlightenment.
-churchsoldier_02_enlightenment_caption_01, It concentrates Void energy into a focused beam.
-churchsoldier_02_enlightenment_caption_02,"Here in the city, it can draw power directly from the Hypercube and will never require reloading. "
-churchsoldier_03_pray_caption_00,"To fire our hypercrystal weapons, you gather your faith and pray."
-churchsoldier_03_pray_caption_01,"A useful mechanism, as it means only devout members of our church can wield them."
-churchsoldier_03_pray_caption_02,"You should have no trouble, as you are freshly indoctrinated. "
-lresa_02_exit_caption_00,Excellent. All is in order.
-lresa_02_exit_caption_01,We can exit to the ramparts when you are ready to deploy.
-churchsoldier_04_blessing_caption_00,May the blessing of the Maharishi be with us.
+holyGuard_03_come_caption_00,一緒に部屋の中央へ来るんだ。
+holyGuard_04_audience_caption_00,マハリシ様が謁見してくださる。
+holyGuard_04_audience_caption_01,行動を慎み、怒りを買わないようにすることだ。
+holyGuard_04_audience_caption_02,強大な存在であらせられるぞ。
+holyGuard_05_behold_caption_00,偉大なるマハリシ・グロント様である。
+Ghronto_ChurchSide_00_Enter_caption_00,謁見の間へと足を踏み入れるがよい、童よ。
+Ghronto_ChurchSide_01_Welcome_caption_00,この聖地への訪問を歓迎しよう。
+Ghronto_ChurchSide_01_Welcome_caption_01,この死の時代において、まさに奇跡とも呼べる好機だ。
+Ghronto_ChurchSide_01_Welcome_caption_02,我々は好戦的な民族ではない。
+Ghronto_ChurchSide_01_Welcome_caption_03,そして、我々の生活を脅かす大きな闘争に直面している。
+Ghronto_ChurchSide_02_hypercube_caption_00,この聖なるハイパーキューブの力が見えるか？
+Ghronto_ChurchSide_02_hypercube_caption_01,私はこの力を使い、セキュリティロボット300体の心をプランクの組み立てラインから解放した。
+Ghronto_ChurchSide_02_hypercube_caption_02,そして彼らに自立心を与え、
+Ghronto_ChurchSide_02_hypercube_caption_03,この洞窟に導き、信仰による平和で充実した人生を送らせている。
+Ghronto_ChurchSide_02_hypercube_caption_04,キューブから異次元のエネルギーを引き出せるのは私だけだ。
+Ghronto_ChurchSide_03_insurrection_caption_00,だが、反逆者たちはそれに飽き足らず、
+Ghronto_ChurchSide_03_insurrection_caption_01,今日の我々を成す根幹をすべて破壊せんと欲している。
+Ghronto_ChurchSide_04_Help_caption_00,我々を救えるのは、お前なのかもしれない。
+Ghronto_ChurchSide_04_Help_caption_01,これまで人間には不当な仕打ちを大いに受けてきたが、
+Ghronto_ChurchSide_04_Help_caption_02,お前の魂を見れば、この世界の者ではないことが分かる。
+Ghronto_ChurchSide_04_Help_caption_03,我々の恨みはお前に向けたものではない。
+Ghronto_ChurchSide_04_Help_caption_04,もし我々を手助けする意志があるというならば、
+Ghronto_ChurchSide_04_Help_caption_05,この聖杯を飲み干し、お前の信念を証明して見せよ。
+Ghronto_ChurchSide_05_execute_caption_00,非常に残念だ。
+Ghronto_ChurchSide_05_execute_caption_01,お前の助けが得られることを期待していたのだがな。
+Ghronto_ChurchSide_05_execute_caption_02,ガード。この冒涜者を処刑せよ。
+Ghronto_ChurchSide_06_enlightened_caption_00,今、お前は啓かれた。
+Ghronto_ChurchSide_06_enlightened_caption_01,この宇宙の本質を見よ。
+Ghronto_ChurchSide_06_enlightened_caption_02,我々の信仰の本質を見よ。
+Ghronto_ChurchSide_06_enlightened_caption_03,我々の世界を照らす、古代の神の力が流れ込んでくる。
+Ghronto_ChurchSide_06_enlightened_caption_04,だが、それでは足りぬ。
+Ghronto_ChurchSide_07_ youalone_caption_00,オートマタ・コレクティブの魔の手から人々を救えるのはお前だけだ。
+Ghronto_ChurchSide_07_ youalone_caption_01,最高の戦士たちを、お前の戦いに同伴させよう。
+Ghronto_ChurchSide_08_go_caption_00,さぁ、行くがよい。
+Ghronto_ChurchSide_08_go_caption_01,卑劣なる将軍を討ち取り、領土を奪還するのだ。
+churchsoldier_00_greetings_caption_00,こんにちは。我々は教会の兵士です。あなたに信頼を寄せるマハリシ様に、我々も倣います。
+churchsoldier_00_greetings_caption_01,指揮官のエル・レーザにお会いください。
+churchsoldier_00_greetings_caption_02,彼女は高位のリアクターセキュリティ用に作られたプランク戦術チップを備えた唯一のロボットです。
+churchsoldier_00_greetings_caption_03,最重要作戦の立案は彼女に一任されています。
+lresa_00_greetings_caption_00,ごきげんよう、人間。今回の任務はシンプルで絶対的なものになります。
+lresa_00_greetings_caption_01,反乱軍本拠地は強固に守られています。そこを正面から直接攻撃する。
+lresa_00_greetings_caption_02,指揮はあなたに執ってもらいます。
+lresa_00_greetings_caption_03,あなたの戦闘経験と私たちの武器があれば、成功することでしょう。
+lresa_00_greetings_caption_04,シントー将軍は壕の奥へと逃げるはずですが、他の兵士たちは基地への侵入を続け、将軍がトンネルを通って逃げざるを得ない状況を作ります。
+lresa_00_greetings_caption_05,その間に、あなたと私でトンネルの出口へと回り込みます。そして将軍が出てきた瞬間に、彼を暗殺する。
+lresa_00_greetings_caption_06,シンプルな作戦でしょう？
+churchsoldier_01_plan_caption_00,さて、都市の配置をご覧ください。
+churchsoldier_01_plan_caption_01,我々が今いるのが、この城です。
+churchsoldier_01_plan_caption_02,我々は前線を突破し、川を渡って敵の市街地を抜け、この丘まで侵攻する必要があります。
+churchsoldier_01_plan_caption_03,都市の人口密集地は通れません。民間人に犠牲を出す訳にはいきませんから。
+churchsoldier_01_plan_caption_04,人口は既に少なすぎるんです。
+churchsoldier_01_plan_caption_05,川の向こうでは、苛烈な抵抗を受けることが予想されます。
+churchsoldier_01_plan_caption_06,反乱軍は数が多く、その戦いぶりも激しいものがあります。
+lresa_01_arm_caption_00,あなたがいれば、勝機は大幅に広がります。
+lresa_01_arm_caption_01,奴らは数でこそ上回りますが、私たちには優れた銃と作戦がある。
+lresa_01_arm_caption_02,銃といえば、あなたの手持ちよりも強力な武器を装備した方がいいでしょう。
+churchsoldier_02_enlightenment_caption_00,これはエンライトメントと呼ばれています。
+churchsoldier_02_enlightenment_caption_01,ヴォイドエネルギーを収束ビームに変換する装置です。
+churchsoldier_02_enlightenment_caption_02,この都市内では、エネルギーをハイパーキューブから直接引き出してくれるので、リロードの必要がありません。
+churchsoldier_03_pray_caption_00,ハイパークリスタル武器を発射するときは、信仰心と共にお祈りください。
+churchsoldier_03_pray_caption_01,教会の信者だけが扱うことを許される、便利な仕組みになっています。
+churchsoldier_03_pray_caption_02,教義を受け入れたばかりのあなたであれば、問題なく扱えるでしょう。
+lresa_02_exit_caption_00,順調ですね。素晴らしい。
+lresa_02_exit_caption_01,準備ができたら、城壁に出撃しましょう。
+churchsoldier_04_blessing_caption_00,マハリシ様の祝福が我々と共にあらんことを。
 lresa_03_speech_caption_00, It is a fine day to reclaim our homeland!
 lresa_03_speech_caption_01,"Akola squadron, you will follow the human to front our main push."
 lresa_03_speech_caption_02," All other squadrons will join soon after, and spread through the territory to capture as much ground as we can. "
