@@ -6,6 +6,19 @@
 
 - Windows 10
 
+# パッチの適用範囲
+
+このパッチを適用すると下記のテキストが日本語化されます。
+
+- 字幕全般
+- 図鑑全般
+- UI全般
+- 一部のゲーム内オブジェクト
+
+下記のテキストは日本語化されません。
+
+- 一部を除くゲーム内オブジェクト
+
 # 免責事項
 
 当パッチを利用して発生した、いかなる損害も責任を負いかねます。
@@ -15,4 +28,4 @@
 - Vertigo 2 © 2023 Zulubo Productions 
 - 翻訳 © 2023 Qwert(Shotaro Hama) 
 - ツール:
-  - [udm差分ファイル作成ツール](https://www.lameije.co.jp/products/udm) by 有限会社ラメイジュ
+  - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) © 2018 Bepis
