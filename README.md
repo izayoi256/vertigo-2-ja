@@ -2,6 +2,10 @@
 
 これは[Vertigo 2](https://store.steampowered.com/app/843390/Vertigo_2/)を日本語化するパッチです。
 
+制作元であるZulubo Productionsより翻訳の制作、配布の許諾を受けて公開しているものです。
+
+[前作のVertigo Remasteredの日本語化パッチはこちら。](https://github.com/izayoi256/vertigo-remastered-ja)
+
 # 動作確認済み環境
 
 - Windows 10
