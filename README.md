@@ -49,6 +49,12 @@
 
 当パッチを利用して発生した、いかなる損害も責任を負いかねます。
 
+# ライセンス
+
+本プロジェクトのソースコードは[MIT License](./LICENSE.txt)の下で公開されています．ただし，以下のファイルのみ例外として[SIL Open Font License](./OFL.txt)に従います。
+
+- Vertigo2/Gothic-regular_u2019
+
 # クレジット
 
 - Vertigo 2 © 2023 Zulubo Productions 
