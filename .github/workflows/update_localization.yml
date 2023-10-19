@@ -16,20 +16,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-#
-#      - name: Setup PHP
-#        uses: shivammathur/setup-php@v2
-#        with:
-#          php-version: '7.4'
-#          tools: pecl
+
       - name: Run script
-        run: php update_localization.php
+        run: php .github/workflows/update_localization.php
 
       - name: Git push
         run: |
           git config --global user.name 'izayoi256'
           git config --global user.email 'qwert.izayoi@gmail.com'
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/izayoi256/vertigo-2-ja.git
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/izayoi256/vertigo-2-ja.git
           git add "Vertigo 2/vertigo2_Data/StreamingAssets/Localization/V2_localization.csv"
-          git commit -m 'Updated V2_localization.csv [ci skip]'
+          git diff --staged --quiet || git commit -m 'Updated V2_localization.csv [ci skip]'
           git push

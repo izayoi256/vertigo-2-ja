@@ -1,8 +1,8 @@
 <?php
 
-$src = new \SplFileObject(__DIR__ . '/Vertigo 2/vertigo2_Data/StreamingAssets/Localization/V2_localization.dist.csv', 'r');
-$ja = new \SplFileObject(__DIR__ . '/Vertigo 2/vertigo2_Data/StreamingAssets/Localization/V2_localization.ja.csv', 'r');
-$dst = new \SplFileObject(__DIR__ . '/Vertigo 2/vertigo2_Data/StreamingAssets/Localization/V2_localization.csv', 'w');
+$src = new \SplFileObject(__DIR__ . '/../../Vertigo 2/vertigo2_Data/StreamingAssets/Localization/V2_localization.dist.csv', 'r');
+$ja = new \SplFileObject(__DIR__ . '/../../Vertigo 2/vertigo2_Data/StreamingAssets/Localization/V2_localization.ja.csv', 'r');
+$dst = new \SplFileObject(__DIR__ . '/../../Vertigo 2/vertigo2_Data/StreamingAssets/Localization/V2_localization.csv', 'w');
 
 $src->setFlags(\SplFileObject::READ_CSV | \SplFileObject::SKIP_EMPTY);
 $ja->setFlags(\SplFileObject::READ_CSV | \SplFileObject::SKIP_EMPTY);
