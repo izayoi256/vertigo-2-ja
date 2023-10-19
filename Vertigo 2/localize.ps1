@@ -1,6 +1,6 @@
 $isWin = [System.Environment]::OSVersion.Platform -eq 'Win32NT'
 
-$baseDir = './Vertigo 2/vertigo2_Data/StreamingAssets/Localization/'
+$baseDir = './vertigo2_Data/StreamingAssets/Localization/'
 $srcPath = "${baseDir}V2_localization.dist.csv"
 $dstPath = "${baseDir}V2_localization.csv"
 $jaPath = "${baseDir}V2_localization.ja.csv"
@@ -12,14 +12,14 @@ if ($isWin) {
 }
 
 if (-not (Test-Path -Path $dstPath)) {
-    Write-Warning "Error: å…ƒã®è¨€èªãƒ•ã‚¡ã‚¤ãƒ«ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚Vertigo 2ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«è¨­ç½®ã—ã¦ãã ã•ã„ã€‚";
-    Read-Host "Enterã‚’æŠ¼ã—ã¦çµ‚äº†";
+    Write-Warning "Error: Œ³‚ÌŒ¾Œêƒtƒ@ƒCƒ‹‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñBVertigo 2‚ÌƒCƒ“ƒXƒg[ƒ‹ƒfƒBƒŒƒNƒgƒŠ‚Éİ’u‚µ‚Ä‚­‚¾‚³‚¢B";
+    Read-Host "Enter‚ğ‰Ÿ‚µ‚ÄI—¹";
     exit 1
 }
 
 if (-not (Test-Path -Path $jaPath)) {
-    Write-Warning "Error: æ—¥æœ¬èªã®è¨€èªãƒ•ã‚¡ã‚¤ãƒ«ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚å°å…¥æ‰‹é †ã«å¾“ã£ã¦ãã ã•ã„ã€‚";
-    Read-Host "Enterã‚’æŠ¼ã—ã¦çµ‚äº†";
+    Write-Warning "Error: “ú–{Œê‚ÌŒ¾Œêƒtƒ@ƒCƒ‹‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB“±“üè‡‚É]‚Á‚Ä‚­‚¾‚³‚¢B";
+    Read-Host "Enter‚ğ‰Ÿ‚µ‚ÄI—¹";
     exit 1
 }
 
@@ -27,13 +27,13 @@ if (-not (Test-Path -Path $srcPath)) {
     Copy-Item -Path $dstPath -Destination $srcPath
 }
 
-$src = Import-CSV -Delimiter "," -Path $srcPath
-$ja = Import-CSV -Delimiter "," -Path $jaPath
+$src = Import-CSV -Delimiter "," -Path $srcPath -Encoding UTF8
+$ja = Import-CSV -Delimiter "," -Path $jaPath -Encoding UTF8
 
 for ($i=0; $i -lt $src.Length; $i++) {
     $src[$i].en = $ja[$i].ja
 }
 
-$src | Export-Csv -Delimiter "," -NoTypeInformation -Force -Path $dstPath
+$src | Export-Csv -Delimiter "," -NoTypeInformation -Force -Path $dstPath -Encoding UTF8
 
-Read-Host "æ—¥æœ¬èªåŒ–ãŒå®Œäº†ã—ã¾ã—ãŸã€‚Enterã‚’æŠ¼ã—ã¦çµ‚äº†";
+Read-Host "“ú–{Œê‰»‚ªŠ®—¹‚µ‚Ü‚µ‚½BEnter‚ğ‰Ÿ‚µ‚ÄI—¹";
