@@ -59,7 +59,7 @@ XUnity.AutoTranslatorのBepInEx版を導入して、日本語化パッチの適�
 
 # ライセンス
 
-本プロジェクトのソースコードは[MIT License](./LICENSE.txt)の下で公開されています．ただし，以下のファイルのみ例外として[SIL Open Font License](./OFL.txt)に従います。
+本プロジェクトのソースコードは[MIT License](./LICENSE.txt)の下で公開されています。ただし、以下のファイルのみ例外として[SIL Open Font License](./OFL.txt)に従います。
 
 - Vertigo2/Gothic-regular_u2019
 
