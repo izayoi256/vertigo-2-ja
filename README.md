@@ -37,6 +37,8 @@
 
 ## Linuxへの導入
 
+導入には`powershell`パッケージをインストールが必要となります。
+
 XUnity.AutoTranslatorのBepInEx版を導入して、日本語化パッチの適用時に`localize.sh`を実行すれば可能だとは思いますが、動作未確認です。
 
 # パッチの適用範囲
