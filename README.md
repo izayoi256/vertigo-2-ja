@@ -55,6 +55,10 @@ XUnity.AutoTranslatorのBepInEx版を導入して、日本語化パッチの適�
 - 統計関連のUI
 - 一部を除くゲーム内オブジェクト
 
+# 不具合報告
+
+誤字、脱字、不具合があった際は、お手数ですが[@ilovenamichang](https://twitter.com/ilovenamichang)宛にお知らせいただくか、本リポジトリのIssuesにご報告ください。
+
 # 免責事項
 
 当パッチを利用して発生した、いかなる損害も責任を負いかねます。
