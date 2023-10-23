@@ -31,8 +31,8 @@
 1. [日本語化パッチ](https://github.com/izayoi256/vertigo-2-ja/archive/refs/heads/master.zip)をダウンロードして解凍する。
 2. `Steamクライアント > ライブラリ > Vertigo 2 > 歯車マーク > 管理 > ローカルファイルを閲覧` をクリックして、Vertigo 2のインストール先ディレクトリを開く。
 3. 1で解凍されたファイルの内`Vertigo 2`ディレクトリの中身を、2で開いたディレクトリに移動する。ファイルはすべて上書きしてください。
-   - `vertigo2.exe`と`localize.ps1`というファイルが同じディレクトリの中に入っていればOKです。
-4. 3で移動した`localize.ps1`を実行する。 
+   - `vertigo2.exe`と`localize.bat`というファイルが同じディレクトリの中に入っていればOKです。
+4. 3で移動した`localize.bat`を実行する。 
 5. `日本語化が完了しました。Enterを押して終了`というメッセージが表示されれば完了です。
 
 ## Linuxへの導入
