@@ -28,24 +28,24 @@ bamm_userdeath_caption_00,緊急事態。ユーザーの死が迫っています
 bamm_welcome_startup_caption_00,新しいユーザーを検出。B.A.M.M.へようこそ！
 bamm_welcome_startup_caption_01,バイオメトリクスの初期化中。致命的な行動を起こすまで10分お待ちください。
 chapternum,チャプター {0}
-character_brian_stats,"- Faster movement
-- Ammo + health pickups
-- No health replenishing or ammo synthesizer
+character_brian_stats,"- 高速移動
+- 弾薬と回復のアイテムドロップ
+- 自動回復と弾薬合成は無効化
 "
-character_brian_subtitle,Boomer Shooter
-character_nani,Nani
-character_nani_stats,"- Levitation
-- Telekinesis
-- Magic attacks
-- Higher recoil"
-character_nani_sub,Psychic Damage
-character_officer13,Officer 13
-character_officer13_stats,"- Higher Health
-- Holographic HUD with enemy health + damage stats"
-character_officer13_sub,Lucky 13
-character_sonja,Sonja
-character_sonja_stats,Default gameplay
-character_sonja_sub,Canon Protagonist
+character_brian_subtitle,レトロシューター
+character_nani,ナニー
+character_nani_stats,"- 空中浮遊
+- テレキネシス
+- 魔法攻撃
+- 大きな反動"
+character_nani_sub,サイキックダメージ
+character_officer13,オフィサー13
+character_officer13_stats,"- ヘルス増加
+- エネミーのヘルスやダメージを視覚化するホログラフィックHUD"
+character_officer13_sub,ラッキー・サーティーン
+character_sonja,ソニア
+character_sonja_stats,標準のゲームプレイ
+character_sonja_sub,正統主人公
 credits_bhaptics,"BHaptics integration
 by Florian Fahrenberger"
 credits_cast1,"Brian
