@@ -466,7 +466,7 @@ enc_frank_desc,"フランクはプランクによって捕獲、研究されて�
 
 幸いにも、その肥大化した身体をあなたが吹き飛ばした折に元のサイズに戻り、正気を取り戻すこともできた。今ではお互い恨みっこなしの良き友人だ。
 
-離れ離れになってからは忙しくしていたようで、体重を数十キロまで戻した彼は再びプランクに捕まっていた。恐らく、兄弟のウェスリーとアガサを救出するためにエグゾバイオロジーへと戻る最中だったのだろう。
+離れ離れになってからは忙しくしていたようで、体重を数十キロまで戻した彼は再びプランクに捕まっていた。恐らく、兄弟のウェスリーとアガサを救出するためにエクソバイオロジーへと戻る最中だったのだろう。
 グッドラック、フランク！"
 enc_frank_stats,"種族: <link=0>タージェリー</link>
 年齢: 不明
@@ -1053,7 +1053,7 @@ enc_tarjelly_desc,"身体のほとんどが、流動的な浮遊細胞といく�
 
 タージェリーは強い捕食性と、ほとんどあらゆるものを取り込んで消化する能力を有しているが、だからといって生きた獲物を求めているとは限らない。しかし狩りにおいてはたくさんの歯を備えた口と粘着質な身体を利用し、自分より小さい相手であれば何でも捕まえて殺すことができる。このことが彼らを危険たらしめている。
 
-その驚くべき生態から、エグゾバイオロジー部門において人気の研究対象となっている。
+その驚くべき生態から、エクソバイオロジー部門において人気の研究対象となっている。
 
 特筆すべき個体: <link=1>フランク</link>"
 enc_tarjelly_stats,"学名: ドロリシア・アスファルタス
@@ -1156,15 +1156,15 @@ enc_vertigo_initiative_stats,"創設者: エミリー・プランク
 enc_vertigo_initiative_sub,タイトル回収
 enc_vetus-2,ヴェトス-2
 enc_vetus-2_desc,地球は氷河期の最中で、ホモ・サピエンスは絶滅し、ネアンデールタール人が優占種となっている。
-enc_vetus-2_stats,クラス: エグゾプロクシマル
+enc_vetus-2_stats,クラス: エクソプロクシマル
 enc_vetus-2_sub,寒そう
 enc_vetus-4,ヴェトス-4
 enc_vetus-4_desc,13世紀頃まではドミシリウム・アルファと似た歴史を辿っていた地球。それ以降は<link=0>クォンタムリアクター</link>の宇宙と比べて発展が遅れ、技術的にも大幅に後れを取っている。
-enc_vetus-4_stats,クラス: エグゾプロクシマル
+enc_vetus-4_stats,クラス: エクソプロクシマル
 enc_vetus-4_sub,いわゆる現実世界
 enc_vetus-9,ヴェトス-9
 enc_vetus-9_desc,"私たちの地球に似てはいるが、人間は存在しない。気候が大幅に異なり、大部分が砂漠に覆われている。約2,000年前に大規模な生態カタストロフィが発生した形跡がある。"
-enc_vetus-9_stats,クラス: エグゾプロクシマル
+enc_vetus-9_stats,クラス: エクソプロクシマル
 enc_vetus-9_sub,スパイシーアース
 enc_void_delegation,ヴォイド・デレゲーション
 enc_void_delegation_desc,<link=0>ヴォイド</link>を統治する勢力。すべての宇宙(彼らは領域と呼称している)の狭間で平和と調和を標榜し、そのために各領域の独立を保とうとしている。
@@ -1856,7 +1856,7 @@ Brian_BonVoyage_21_prompt2_caption_00,こっちだ、あまり時間がない。
 Brian_BonVoyage_22_prompt3_caption_00,急げ！
 Brian_BonVoyage_23_prompt4_caption_00,行くぞ、早くここから脱出しなければ。
 officer13_bonvoyage_08_terran_caption_00,おぉ、ブライアン！ 今度ばかりは逃さないぞ。
-officer13_bonvoyage_08_terran_caption_01,お前をエグゾバイオロジーに連れて行くのはやめて、やっぱりテラン・ユニオンでも引き渡してやろうか。
+officer13_bonvoyage_08_terran_caption_01,お前をエクソバイオロジーに連れて行くのはやめて、やっぱりテラン・ユニオンでも引き渡してやろうか。
 officer13_bonvoyage_08_terran_caption_02,お前がリアクターに隠れて生き延びていたと知ったら、連中はどんな顔をするだろうな？
 Brian_BonVoyage_24_prison_caption_00,私を怖がらせようとしているだけだ。まぁ、なんだ、効果はゼロではないが。
 Brian_BonVoyage_24_prison_caption_01,再び牢獄に入るつもりはない。前回は、プランクのために働くことを条件に救出してもらったんだ。
@@ -2063,7 +2063,7 @@ Brian_RecyclingCenter_01_alien_caption_09,くそ。セラスは何をしてる�
 Brian_RecyclingCenter_01_alien_caption_10,もう切るぞ。ロボット数百体分の残骸を処分しなくてはならん。
 Brian_RecyclingCenter_01_alien_caption_11,例の巨大で危険なエイリアンに気を付けるように。以上だ。
 Brian_RecyclingCenter_02_containing_caption_00,なるほど、ここがエイリアンを収容していた場所という訳か。
-Brian_RecyclingCenter_02_containing_caption_01,悪い予感がする。エグゾバイオロジーに移管されなかったのは、それが危険すぎると判断されたのだろう。
+Brian_RecyclingCenter_02_containing_caption_01,悪い予感がする。エクソバイオロジーに移管されなかったのは、それが危険すぎると判断されたのだろう。
 Brian_RecyclingCenter_03_igneosaur_caption_00,ふむ、悪い予感は当たったようだ。
 Brian_RecyclingCenter_03_igneosaur_caption_01,あれは若いイグニオザウルスだ。ケイ素がベースの非常に危険な生物で、マグマの中に生息している。
 Brian_RecyclingCenter_03_igneosaur_caption_02,珍しい生物だが、リアクターに出現すると厄介なことになる。
@@ -2507,7 +2507,7 @@ officer13_pescatarian_15_aaa_caption_00,うわあぁぁぁ！
 officer13_pescatarian_16_biology_caption_00,あぁ、よかった。君も来たのか。
 officer13_pescatarian_16_biology_caption_01,リアクターで見たことがある生物には、こんな生態のものはいなかったな。
 officer13_pescatarian_16_biology_caption_02,まぁ、生物の中に入ったことなんて一度もないがね。
-officer13_pescatarian_16_biology_caption_03,こんな研究ができたら、エグゾバイオロジーの連中は泣いて喜びそうだ。
+officer13_pescatarian_16_biology_caption_03,こんな研究ができたら、エクソバイオロジーの連中は泣いて喜びそうだ。
 officer13_pescatarian_17_spine_caption_00,こちら側には何もなさそうだ。背骨の頭側も調べてみよう。
 officer13_pescatarian_18_starve_caption_00,このエーテルバックは餓死した訳ではないな。警戒を怠るなよ。
 officer13_pescatarian_19_bots_caption_00,このユニットたちは死後数時間といったところか。
@@ -2516,7 +2516,7 @@ officer13_pescatarian_19_bots_caption_02,まるで内側が溶かされてしま
 officer13_pescatarian_20_killer_caption_00,犯人がおいでなすったぞ！
 officer13_pescatarian_21_immune_caption_00,恐れていた通りだ。これだけ身体が大きいと寄生生物も大きくなるし、それと戦うための免疫機構も必要になる。
 officer13_pescatarian_21_immune_caption_01,こいつらは宿主を守るよう適応した共生生物なんだよ。
-officer13_pescatarian_21_immune_caption_02,エグゾバイオロジーの連中から似たような話を聞いたことがあるが、こんなスケールは初耳だ。
+officer13_pescatarian_21_immune_caption_02,エクソバイオロジーの連中から似たような話を聞いたことがあるが、こんなスケールは初耳だ。
 officer13_pescatarian_21_immune_caption_03,消化器系から出た今、俺たちは食物ではなく侵入者になったって訳だ。
 officer13_pescatarian_21_immune_caption_04,ここから先は厳しい道のりになるぞ。一刻も早く出口を探さなくちゃならない。
 officer13_pescatarian_22_somany_caption_00,しまった、大量に出てきた！
