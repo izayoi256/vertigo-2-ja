@@ -28,24 +28,38 @@ bamm_userdeath_caption_00,緊急事態。ユーザーの死が迫っています
 bamm_welcome_startup_caption_00,新しいユーザーを検出。B.A.M.M.へようこそ！
 bamm_welcome_startup_caption_01,バイオメトリクスの初期化中。致命的な行動を起こすまで10分お待ちください。
 chapternum,チャプター {0}
-character_brian_stats,"- 高速移動
-- 弾薬と回復のアイテムドロップ
-- 自動回復と弾薬合成は無効化
-"
-character_brian_subtitle,レトロシューター
-character_nani,ナニー
-character_nani_stats,"- 空中浮遊
-- テレキネシス
-- 魔法攻撃
-- 大きな反動"
-character_nani_sub,サイキックダメージ
-character_officer13,オフィサー13
-character_officer13_stats,"- ヘルス増加
-- エネミーのヘルスやダメージを視覚化するホログラフィックHUD"
-character_officer13_sub,ラッキー・サーティーン
-character_sonja,ソニア
-character_sonja_stats,標準のゲームプレイ
-character_sonja_sub,正統主人公
+character_brian,Brian
+character_brian_sub,Boomer Shooter
+character_brian_stats,"- Faster movement
+- Ammo + health pickups
+- No health replenishing or ammo synthesizer"
+character_brian_subtitle,Boomer Shooter
+character_nani,Nani
+character_nani_stats,"- Levitation
+- Telekinesis
+- Magic attacks
+- Higher recoil"
+character_nani_sub,Psychic Damage
+character_nani_help,"To levitate, press and hold the jump button. This requires jumping to be enabled in options.
+
+To use telekinesis, aim your hand at an object, pull the trigger, and flick your wrist to pull the object to you.
+
+To launch a magic attack, pull the trigger with an empty hand, make a throwing motion, and release the trigger (1 mana).
+
+To summon a magic shield, pull the trigger with an empty hand and move the hand in a circle in front of you (5 mana).
+
+Mana can be replenished from defeated enemies. This is purely for gameplay purposes: Nani does not really derive his power from the blood of his foes."
+character_officer13,Officer 13
+character_officer13_stats,"- Higher Health
+- Holographic HUD
+- Supply Drops"
+character_officer13_sub,Lucky 13
+character_officer13_help,"Earn Planck Points (PP) by killing enemies.
+
+Spend PP on supply drops from the pause menu."
+character_sonja,Sonja
+character_sonja_stats,Default gameplay
+character_sonja_sub,Canon Protagonist
 credits_bhaptics,"BHaptics integration
 by Florian Fahrenberger"
 credits_cast1,"Brian
@@ -160,7 +174,7 @@ enc_ætherback_stats,"学名: ヱーテリアン・サピエンス
 起源宇宙: <link=0>ヱーテル</link>
 分類: FA-H:5-S"
 enc_ætherback_sub,終末の予兆
-enc_ætherian_quad-bow,ヱーテリアン・クアッドボウ
+enc_ætherian_quad-bow,エーテリアン・クアッドボウ
 enc_ætherian_quad-bow_desc,"原始的な作りの弓だが、恐ろしい威力を発揮する。エーテルバックたちはエーテル遺跡から探し出した技術の断片を弓に組み込んだ。それによって、少量のヴォイドエネルギーを含んだ矢が放たれる。
 
 未開の文明であるにも関わらず、この弓はエーテルバックのほぼすべての部族で見られる。"
@@ -1413,6 +1427,10 @@ menu_upgradeProg,アップグレード状況:
 menu_weaponmods,改造パーツ
 menu_weaponmodselect,武器を選択してください
 menu_weaponmodsynth,改造パーツ合成装置
+menu_switchCharacter,SWITCH CHARACTER
+menu_drop_points,Planck Points: {0}
+menu_drops,Supply Drops
+menu_exit,Exit
 outpost_admin,セキュリティ管理者
 outpost_liftinglockdown,ロックダウンを解除中……
 outpost_liftlockdown,ロックダウンを解除する
@@ -1623,7 +1641,7 @@ tooltip_bammnotes,ヘルスや弾薬などの通知を受け取る。
 tooltip_hud_donotdisturb,すべてのHUDを非表示にする
 tooltip_hud_immersive,世界観に合うHUDのみ表示する
 tooltip_jump,ジャンプボタンを有効化。必須じゃない、けど楽しい。
-tooltip_mirrorinput,左利き用に入力設定を左右入れ替える。
+tooltip_mirrorinput,"Flips input. Movement on right stick, etc."
 tooltip_newgameplus,"ニューゲーム+を有効にすると、
 
 -  全チャプターで全武器が利用可能になります
