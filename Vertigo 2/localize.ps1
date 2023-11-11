@@ -17,10 +17,8 @@ if (-not (Test-Path -Path $jaPath)) {
     exit 1
 }
 
-if (-not (Test-Path -Path $srcPath)) {
-    if (Test-Path -Path $dstPath) {
-        Copy-Item -Path $dstPath -Destination $srcPath
-    }
+if (Test-Path -Path $dstPath) {
+    Copy-Item -Path $dstPath -Destination $srcPath -Force
 }
 
 if (-not (Test-Path -Path $srcPath)) {
