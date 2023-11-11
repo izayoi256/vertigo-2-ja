@@ -8,7 +8,7 @@
 
 ***
 
-:tada::tada: 2023/11/11 Bottomless Updateリリース！ 本パッチも対応済みです。 :tada::tada:
+2023/11/11にリリースされたBottomless Updateは対応作業中です。
 
 # 動作確認済み環境
 
