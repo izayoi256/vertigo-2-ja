@@ -6,6 +6,10 @@
 
 [前作のVertigo Remasteredの日本語化パッチはこちら。](https://github.com/izayoi256/vertigo-remastered-ja)
 
+***
+
+:tada::tada: 2023/11/11 Bottomless Updateリリース！ 本パッチも対応済みです。 :tada::tada:
+
 # 動作確認済み環境
 
 - Windows 10

@@ -28,38 +28,38 @@ bamm_userdeath_caption_00,緊急事態。ユーザーの死が迫っています
 bamm_welcome_startup_caption_00,新しいユーザーを検出。B.A.M.M.へようこそ！
 bamm_welcome_startup_caption_01,バイオメトリクスの初期化中。致命的な行動を起こすまで10分お待ちください。
 chapternum,チャプター {0}
-character_brian,Brian
-character_brian_sub,Boomer Shooter
-character_brian_stats,"- Faster movement
-- Ammo + health pickups
-- No health replenishing or ammo synthesizer"
-character_brian_subtitle,Boomer Shooter
-character_nani,Nani
-character_nani_stats,"- Levitation
-- Telekinesis
-- Magic attacks
-- Higher recoil"
-character_nani_sub,Psychic Damage
-character_nani_help,"To levitate, press and hold the jump button. This requires jumping to be enabled in options.
+character_brian,ブライアン
+character_brian_sub,レトロシューター
+character_brian_stats,"- 高速移動
+- 弾薬と回復のアイテムドロップ
+- 自動回復と弾薬合成は無効化"
+character_brian_subtitle,レトロシューター
+character_nani,ナニー
+character_nani_stats,"- 空中浮遊
+- テレキネシス
+- 魔法攻撃
+- 大きな反動"
+character_nani_sub,サイキックダメージ
+character_nani_help,"空中浮遊はジャンプボタンを押したままにして発動。オプションでジャンプ機能を有効にしておく必要がある。
 
-To use telekinesis, aim your hand at an object, pull the trigger, and flick your wrist to pull the object to you.
+テレキネシスを発動するには、オブジェクトに向かって手を伸ばしてトリガーを引き、オブジェクトを引き寄せるように手首を振る。
 
-To launch a magic attack, pull the trigger with an empty hand, make a throwing motion, and release the trigger (1 mana).
+魔法攻撃を発動するには、素手でトリガーを引き、投げる動作をしながらトリガーを放す。 (マナを1消費)
 
-To summon a magic shield, pull the trigger with an empty hand and move the hand in a circle in front of you (5 mana).
+魔法バリアを発動するには、素手でトリガーを引き、その手を身体の前で円形に動かす。 (マナを5消費)
 
-Mana can be replenished from defeated enemies. This is purely for gameplay purposes: Nani does not really derive his power from the blood of his foes."
-character_officer13,Officer 13
-character_officer13_stats,"- Higher Health
-- Holographic HUD
-- Supply Drops"
-character_officer13_sub,Lucky 13
-character_officer13_help,"Earn Planck Points (PP) by killing enemies.
+マナは倒したエネミーから回収できる。これはあくまでゲームプレイ上の都合であって、実際のナニーは敵対者の血肉から魔力を得ている訳ではない。"
+character_officer13,オフィサー13
+character_officer13_stats,"- ヘルス増加
+- ホログラフィックHUD
+- 補給品投下"
+character_officer13_sub,ラッキー・サーティーン
+character_officer13_help,"敵を倒してプランクポイント(PP)を取得。
 
-Spend PP on supply drops from the pause menu."
-character_sonja,Sonja
-character_sonja_stats,Default gameplay
-character_sonja_sub,Canon Protagonist
+ポーズメニューでPPを払うことで補給品が投下される。"
+character_sonja,ソニア
+character_sonja_stats,標準のゲームプレイ
+character_sonja_sub,正統主人公
 credits_bhaptics,"BHaptics integration
 by Florian Fahrenberger"
 credits_cast1,"Brian
@@ -87,7 +87,7 @@ Emilia Planck
 Henrique
 Security Bots"
 credits_castTitle,Cast:
-credits_characterunlock,You can now play as {0}
+credits_characterunlock,{0}でプレイできるようになりました
 credits_concepts,"Concepts by:
 
 Errol Bucy
@@ -1427,9 +1427,9 @@ menu_upgradeProg,アップグレード状況:
 menu_weaponmods,改造パーツ
 menu_weaponmodselect,武器を選択してください
 menu_weaponmodsynth,改造パーツ合成装置
-menu_switchCharacter,SWITCH CHARACTER
-menu_drop_points,Planck Points: {0}
-menu_drops,Supply Drops
+menu_switchCharacter,キャラクター選択
+menu_drop_points,プランクポイント: {0}
+menu_drops,補給品ドロップ
 menu_exit,Exit
 outpost_admin,セキュリティ管理者
 outpost_liftinglockdown,ロックダウンを解除中……
@@ -1641,7 +1641,7 @@ tooltip_bammnotes,ヘルスや弾薬などの通知を受け取る。
 tooltip_hud_donotdisturb,すべてのHUDを非表示にする
 tooltip_hud_immersive,世界観に合うHUDのみ表示する
 tooltip_jump,ジャンプボタンを有効化。必須じゃない、けど楽しい。
-tooltip_mirrorinput,"Flips input. Movement on right stick, etc."
+tooltip_mirrorinput,"入力設定を左右入れ替える。右スティック移動など。"
 tooltip_newgameplus,"ニューゲーム+を有効にすると、
 
 -  全チャプターで全武器が利用可能になります
