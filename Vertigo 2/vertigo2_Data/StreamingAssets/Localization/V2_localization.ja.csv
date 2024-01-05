@@ -2464,7 +2464,7 @@ kauboi_epilogue_00_atone_caption_00,意図せずともヴォイドに協力し�
 brian_epilogue_01_ please_caption_00,ヴォイドが関係していたなんて知らなかったんだ！！
 brian_epilogue_01_ please_caption_01,頼む、殺さないでくれ。
 kauboi_epilogue_01_work_caption_00,お前を殺しはしない、ブライアン。
-kauboi_epilogue_01_work_caption_01,我が傘下に入れ。
+kauboi_epilogue_01_work_caption_01,我が麾下に入れ。
 brian_epilogue_02_whathaveidone_caption_00,私はなんということを……。
 gentlehand_greatsea_0_phonecall_caption_00,もしもし？ もしもし？ おぉ、通じましたか。
 gentlehand_greatsea_0_phonecall_caption_01,憶えておいででしょうか？ ジェントルハンドでございます！
@@ -3582,42 +3582,45 @@ ACH_KEBAB_desc,ミートネイラーの一撃で5キル以上を達成する
 ACH_BONEHEAD,王殺し
 ACH_BONEHEAD_desc,"ボーンヘッド・モナークを
 倒す"
-ACH_NANICOMPLETE,Psychic Damage
-ACH_NANICOMPLETE_desc,Complete the game as Nani (from a fresh save slot)
-ACH_BRIANCOMPLETE,Boomer Shooter
-ACH_BRIANCOMPLETE_desc,Complete the game as Brian (from a fresh save slot)
-ACH_OFFICERCOMPLETE,Lucky 13
-ACH_OFFICERCOMPLETE_desc,Complete the game as Officer 13 (from a fresh save slot)
-mutator_randomEnemies_name,Enemy Randomizer
-mutator_randomEnemies_description,All enemies are replaced with a random different enemy. Does not apply to bosses.
-mutator_randomGun_name,Reactor Roulette
-mutator_randomGun_description,"Weapon is randomized every 30 seconds, and after you get a kill."
-mutator_doubleEnemies_name,Double Vision
-mutator_doubleEnemies_description,All enemies are doubled (except bosses).
+ACH_NANICOMPLETE,サイキックダメージ
+ACH_NANICOMPLETE_desc,新しいセーブスロットで始めてナニーでゲームをクリアする
+ACH_BRIANCOMPLETE,レトロシューター
+ACH_BRIANCOMPLETE_desc,新しいセーブスロットで始めてブライアンでゲームをクリアする
+ACH_OFFICERCOMPLETE,ラッキー・サーティーン
+ACH_OFFICERCOMPLETE_desc,新しいセーブスロットで始めてオフィサー13でゲームをクリアする
+mutator_randomEnemies_name,ランダムエネミー
+mutator_randomEnemies_description,配置されるエネミーの種類がランダムに変わる。 (ボスを除く)
+mutator_randomGun_name,リアクタールーレット
+mutator_randomGun_description,30秒経過してエネミーをキルすると、武器がランダムに変わる。
+mutator_doubleEnemies_name,ダブルビジョン
+mutator_doubleEnemies_description,配置されるエネミーの量が2倍になる。 (ボスを除く)
 mutator_left5Dead_name,Left 5 Dead
-mutator_left5Dead_description,A red handyman is spawned every time you kill an enemy.
-mutator_bigHead_name,Big Head Mode
-mutator_bigHead_description,All enemy and NPC heads are enlarged (except enemies without well defined heads).
-mutator_frankCompanion_name,Frankquito
-mutator_frankCompanion_description,Frank will accompany you through the entire game (except when Frank is already in a level).
-mutator_glassCannon_name,Glass Cannon
-mutator_glassCannon_description,Enemy health is reduced by 80%. Your health is also reduced by 80%.
-mutator_bulletTime_name,Bullet Time
-mutator_bulletTime_description,Slow time whenever you like by pulling the trigger on your non-dominant hand.
-mutator_turboMode_name,Turbo Mode
-mutator_turboMode_description,Game speed increased by 30%.
-mutator_ice_name,Sk8r Girl
-mutator_ice_description,All surfaces have ice physics.
-mutator_recoil_name,Equal and Opposite
-mutator_recoil_description,Firing guns and taking damage propels you. Motion sickness warning.
-mutator_nightcore_name,Nightcore
-mutator_nightcore_description,All music is converted to nightcore.
-mutator_godMode_name,God Mode
-mutator_godMode_description,"You are immune to all damage. May cause soft locks, e.g. when falling into a pit that should kill you."
-mutator_infiniteAmmo_name,Infinite Ammo
-mutator_infiniteAmmo_description,Infinite ammo in belt. Reloading still required.
-mutator_infiniterAmmo_name,Infiniter Ammo
-mutator_infiniterAmmo_description,Shooting guns no longer consumes ammo.
+mutator_left5Dead_description,エネミーをキルするたびに赤いハンド人が出現する。
+mutator_bigHead_name,ビッグヘッド
+mutator_bigHead_description,すべてのエネミーとNPCの頭が巨大化する。 (明確な頭部を持たないエネミーを除く)
+mutator_frankCompanion_name,フランキート
+mutator_frankCompanion_description,ゲーム全篇にわたってフランクがついてきてくれる。 (もともとフランクが登場するステージを除く)
+mutator_glassCannon_name,グラスキャノン
+mutator_glassCannon_description,"エネミーのヘルスが80%減少する。
+プレイヤーのヘルスも80%減少する。"
+mutator_bulletTime_name,バレットタイム
+mutator_bulletTime_description,非利き手のトリガーを引いている間、時間の経過を遅らせる。
+mutator_turboMode_name,ターボモード
+mutator_turboMode_description,ゲーム速度が30%増加する。
+mutator_ice_name,スケーターガール
+mutator_ice_description,あらゆる表面が氷のような物理特性を持つ。
+mutator_recoil_name,作用反作用
+mutator_recoil_description,"発砲や被弾の反動が発生する。
+酔いやすいので注意。"
+mutator_nightcore_name,ナイトコア
+mutator_nightcore_description,すべての楽曲がナイトコアに置き換わる。
+mutator_godMode_name,神モード
+mutator_godMode_description,すべてのダメージを無効化する。落とし穴などで死ねずに進行不可となり、ロードが必要となる可能性があります。
+mutator_infiniteAmmo_name,無限弾薬
+mutator_infiniteAmmo_description,"ベルト内の弾薬が無制限に取り出せる。
+リロードは必要です。"
+mutator_infiniterAmmo_name,超無限弾薬
+mutator_infiniterAmmo_description,銃を撃っても弾薬が消費されなくなる。
 sandbox_prop_customModel,Custom Model
 sandbox_prop_ambience,Ambience
 sandbox_prop_goal,Goal
@@ -4021,29 +4024,29 @@ sandbox_enemy_Therus,Therus
 sandbox_enemy_Turret,Turret
 sandbox_enemy_Worker,Worker Bot
 bamm_weapon_ak47_caption_00,AK-47
-bamm_weapon_altershock_caption_00,Altershock Laser Revolver
-bamm_weapon_annihilator_caption_00,Annihilator Shotgun
-bamm_weapon_annihilatorprototype_caption_00,Annihilator Prototype
-bamm_weapon_blafala_caption_00,"Blafaladaciousnesticles, Broadsword of the Blessed"
-bamm_weapon_enlightenment_caption_00,ENLIGHTENMENT
-bamm_weapon_fingergun_caption_00,Finger Gun
-bamm_weapon_gordlepun_caption_00,Gordle Pun
-bamm_weapon_grenade_disruptor_caption_00,Spatiotemporal Disruptor Grenade
-bamm_weapon_grenade_extinguisher_caption_00,Extinguisher Grenade
-bamm_weapon_grenade_flashbang_caption_00,Flashbang Grenade
-bamm_weapon_grenade_frag_caption_00,Fragmentation Grenade
-bamm_weapon_heritageShashka_caption_00,Heritage Shashka
-bamm_weapon_ionizer_caption_00,Ionizer Handgun
-bamm_weapon_kauboirevolver_caption_00,Kauboi's Revolver
-bamm_weapon_meatnailer_caption_00,Meat Nailer
-bamm_weapon_neptuneRifle_caption_00,Neptune Sniper Rifle
-bamm_weapon_newweapon_caption_00,New Weapon Acquired
-bamm_weapon_nostalgicpistol_caption_00,Nostalgic Pistol
-bamm_weapon_quadbow_caption_00,Aetherian Quad-Bow
-bamm_weapon_sapphire_caption_00,Sapphire Laser Machine Gun
-bamm_weapon_secretweaponacquired_caption_00,Secret Weapon Acquired:
-nani_dream1_00_henrique_caption_00,Henrique!
-nani_dream1_00_henrique_caption_01,Nani was wondering when you would show up.
+bamm_weapon_altershock_caption_00,オルターショック・リボルバー
+bamm_weapon_annihilator_caption_00,アナイアレイター・ショットガン
+bamm_weapon_annihilatorprototype_caption_00,アナイアレイター・プロトタイプ
+bamm_weapon_blafala_caption_00,聖剣ブラファラダシャスネスティクルズ
+bamm_weapon_enlightenment_caption_00,エンライトメント
+bamm_weapon_fingergun_caption_00,フィンガーガン
+bamm_weapon_gordlepun_caption_00,ガータルポン
+bamm_weapon_grenade_disruptor_caption_00,時空妨害手榴弾
+bamm_weapon_grenade_extinguisher_caption_00,消火手榴弾
+bamm_weapon_grenade_flashbang_caption_00,フラッシュバン
+bamm_weapon_grenade_frag_caption_00,フラググレネード
+bamm_weapon_heritageShashka_caption_00,相伝のシャシュカ
+bamm_weapon_ionizer_caption_00,イオナイザー・ハンドガン
+bamm_weapon_kauboirevolver_caption_00,カウボーイのリボルバー
+bamm_weapon_meatnailer_caption_00,ミートネイラー
+bamm_weapon_neptuneRifle_caption_00,ネプチューン・スナイパーライフル
+bamm_weapon_newweapon_caption_00,新しい武器を獲得
+bamm_weapon_nostalgicpistol_caption_00,ノスタルジック・ピストル
+bamm_weapon_quadbow_caption_00,エーテリアン・クアッドボウ
+bamm_weapon_sapphire_caption_00,サファイア・レーザーマシンガン
+bamm_weapon_secretweaponacquired_caption_00,シークレットウェポンを獲得:
+nani_dream1_00_henrique_caption_00,ヘンリケ！
+nani_dream1_00_henrique_caption_01,ナニーはキミがいつ現れるのかと思っていたんだよ。
 tutorial_01_creating_caption_00,Creating your first level is easy.
 tutorial_01_creating_caption_01,"Start in the Sandbox Main Menu, make sure you’re in the “My Levels” tab to edit local levels,"
 tutorial_01_creating_caption_02,and click the “Create New Level” button.
@@ -4305,11 +4308,11 @@ menu_tutorial_8,08 - Downloading Levels
 menu_tutorial_3,03 - Tool Palettes
 menu_tutorial_7,07 - Uploading Levels
 menu_tutorial_5,05 - Custom Assets
-menu_resetMutators,Reset Mutators
-menu_randomSeed,Randomization Seed:
+menu_resetMutators,突然変異をリセットする
+menu_randomSeed,ランダム化シード値:
 menu_activeMutatorCount,{0} Active
-menu_mutators,Mutators
-set_oceanQuality,Ocean Quality:
+menu_mutators,突然変異
+set_oceanQuality,海面品質:
 tooltip_crouching,Enables artificial crouching (always on when in seated mode)
 set_crouching,Crouching:
 menu_customLevels,CUSTOM LEVELS
@@ -4365,10 +4368,10 @@ levelsettings,Level Settings
 menu_menu,MENU
 menu_upload,UPLOAD
 menu_save,SAVE
-menu_mutatordisclaimer,"Mutators are not reccommended for a first playthrough, as they can drastically unbalance gameplay.
+menu_mutatordisclaimer,"突然変異はゲームバランスを大きく損なうため、初回プレイ時の使用は非推奨です。
 
-Have fun!"
-menu_newseed,Generate New Seed
+ゲームを楽しんでね！"
+menu_newseed,新しいシード値を生成する
 menu_scoretime_pb,PERSONAL BEST . . . .
 menu_continuelevel,Continue with {0}!
 menu_downloadnext,Download {0}
