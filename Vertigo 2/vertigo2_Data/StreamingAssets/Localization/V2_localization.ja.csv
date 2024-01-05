@@ -1641,7 +1641,7 @@ tooltip_bammnotes,ヘルスや弾薬などの通知を受け取る。
 tooltip_hud_donotdisturb,すべてのHUDを非表示にする
 tooltip_hud_immersive,世界観に合うHUDのみ表示する
 tooltip_jump,ジャンプボタンを有効化。必須じゃない、けど楽しい。
-tooltip_mirrorinput,"入力設定を左右入れ替える。右スティック移動など。"
+tooltip_mirrorinput,入力設定を左右入れ替える。右スティック移動など。
 tooltip_newgameplus,"ニューゲーム+を有効にすると、
 
 -  全チャプターで全武器が利用可能になります
@@ -2008,7 +2008,7 @@ brian_GrandTour_07_network_caption_03,お嬢さん、ハンガーで合流して
 Therus_GrandTour_18_datamast_caption_00,データマスト？
 brian_GrandTour_08_datamast_caption_00,そうだ、セラス。データマストだ。
 Therus_GrandTour_19_why_caption_00,一体なんで─
-brian_GrandTour_09_datamast_caption_00,データマストに行かなくちゃならんのだ、セラス！ 
+brian_GrandTour_09_datamast_caption_00,データマストに行かなくちゃならんのだ、セラス！
 Therus_GrandTour_20_hangar_caption_00,はぁ、了解。ハンガーへのルートは確保されてるのか？
 brian_GrandTour_10_quarantine_caption_00,ロボットは連絡通路を通れるが、人間が通れるルートはセクター4しかない。
 brian_GrandTour_10_quarantine_caption_01,そして、あそこは隔離区画になっている。
@@ -3582,3 +3582,830 @@ ACH_KEBAB_desc,ミートネイラーの一撃で5キル以上を達成する
 ACH_BONEHEAD,王殺し
 ACH_BONEHEAD_desc,"ボーンヘッド・モナークを
 倒す"
+ACH_NANICOMPLETE,Psychic Damage
+ACH_NANICOMPLETE_desc,Complete the game as Nani (from a fresh save slot)
+ACH_BRIANCOMPLETE,Boomer Shooter
+ACH_BRIANCOMPLETE_desc,Complete the game as Brian (from a fresh save slot)
+ACH_OFFICERCOMPLETE,Lucky 13
+ACH_OFFICERCOMPLETE_desc,Complete the game as Officer 13 (from a fresh save slot)
+mutator_randomEnemies_name,Enemy Randomizer
+mutator_randomEnemies_description,All enemies are replaced with a random different enemy. Does not apply to bosses.
+mutator_randomGun_name,Reactor Roulette
+mutator_randomGun_description,"Weapon is randomized every 30 seconds, and after you get a kill."
+mutator_doubleEnemies_name,Double Vision
+mutator_doubleEnemies_description,All enemies are doubled (except bosses).
+mutator_left5Dead_name,Left 5 Dead
+mutator_left5Dead_description,A red handyman is spawned every time you kill an enemy.
+mutator_bigHead_name,Big Head Mode
+mutator_bigHead_description,All enemy and NPC heads are enlarged (except enemies without well defined heads).
+mutator_frankCompanion_name,Frankquito
+mutator_frankCompanion_description,Frank will accompany you through the entire game (except when Frank is already in a level).
+mutator_glassCannon_name,Glass Cannon
+mutator_glassCannon_description,Enemy health is reduced by 80%. Your health is also reduced by 80%.
+mutator_bulletTime_name,Bullet Time
+mutator_bulletTime_description,Slow time whenever you like by pulling the trigger on your non-dominant hand.
+mutator_turboMode_name,Turbo Mode
+mutator_turboMode_description,Game speed increased by 30%.
+mutator_ice_name,Sk8r Girl
+mutator_ice_description,All surfaces have ice physics.
+mutator_recoil_name,Equal and Opposite
+mutator_recoil_description,Firing guns and taking damage propels you. Motion sickness warning.
+mutator_nightcore_name,Nightcore
+mutator_nightcore_description,All music is converted to nightcore.
+mutator_godMode_name,God Mode
+mutator_godMode_description,"You are immune to all damage. May cause soft locks, e.g. when falling into a pit that should kill you."
+mutator_infiniteAmmo_name,Infinite Ammo
+mutator_infiniteAmmo_description,Infinite ammo in belt. Reloading still required.
+mutator_infiniterAmmo_name,Infiniter Ammo
+mutator_infiniterAmmo_description,Shooting guns no longer consumes ammo.
+sandbox_prop_customModel,Custom Model
+sandbox_prop_ambience,Ambience
+sandbox_prop_goal,Goal
+sandbox_prop_playerSpawn,Player Spawn
+sandbox_prop_skybox,Skybox
+sandbox_prop_sun,Sun
+sandbox_prop_3dPrinter,3D Printer
+sandbox_prop_aetherBanner,Aetherback Banner
+sandbox_prop_aetherBed,Aetherback Bed
+sandbox_prop_aetherBonfire,Aetherback Bonfire
+sandbox_prop_aetherBonfireBig,Big Bonfire
+sandbox_prop_aetherGer,Aetherback Ger
+sandbox_prop_aetherGerBig,Big Aetherback Ger
+sandbox_prop_aetherRoll,Aetherback Roll
+sandbox_prop_aetherSmokehouse,Aetherback Smokehouse
+sandbox_prop_aetherVase,Aetherback Vase
+sandbox_prop_airlock,Airlock
+sandbox_prop_ammocrate,Ammo Crate
+sandbox_prop_analyzer,Spectral Analyzer
+sandbox_prop_assemblyDoor,Assembly Door
+sandbox_prop_autonicaBarrel,Autonican Barrel
+sandbox_prop_autonicaBarrelStack,Autonican Barrel Stack
+sandbox_prop_autonicaBarricade,Wood Barrier
+sandbox_prop_autonicaBloc,Rebel Statue
+sandbox_prop_autonicaBrazier,Brazier
+sandbox_prop_autonicaBrazierStone,Stone Brazier
+sandbox_prop_autonicaBrazierTall,Tall Brazier
+sandbox_prop_autonicaBridge,Bridge
+sandbox_prop_autonicaBridgeBroken,Broken Bridge
+sandbox_prop_autonicaBucket,Bucket
+sandbox_prop_autonicaBuilding,Big Building
+sandbox_prop_autonicaBundle,Bundle
+sandbox_prop_autonicaCart,Cart
+sandbox_prop_autonicaChair,Chair
+sandbox_prop_autonicaChest,Chest
+sandbox_prop_autonicaColumn,Column
+sandbox_prop_autonicaCrate,Autonican Crate
+sandbox_prop_autonicaDock,Dock
+sandbox_prop_autonicaFence,Fence
+sandbox_prop_autonicaGoo,Void Nectar
+sandbox_prop_autonicaHesco,Gabion
+sandbox_prop_autonicaHouse1,House 1
+sandbox_prop_autonicaHouse2,House 2
+sandbox_prop_autonicaHouse3,House 3
+sandbox_prop_autonicaHouse4,House 4
+sandbox_prop_autonicaHouse5,House 5
+sandbox_prop_autonicaHouse6,House 6
+sandbox_prop_autonicaHouse7,House 7
+sandbox_prop_autonicaHouseBombed1,Bombed House 1
+sandbox_prop_autonicaHouseBombed2,Bombed House 2
+sandbox_prop_autonicaHouseBombed3,Bombed House 3
+sandbox_prop_autonicaHouseBombed4,Bombed House 4
+sandbox_prop_autonicaHouseBombed5,Bombed House 5
+sandbox_prop_autonicaLadder,Ladder
+sandbox_prop_autonicaMortar,Church Mortar
+sandbox_prop_autonicaMortarOff,Unpowered Mortar
+sandbox_prop_autonicaPick,Pick
+sandbox_prop_autonicaPitchfork,Pitchfork
+sandbox_prop_autonicaRake,Rake
+sandbox_prop_autonicaRubble,Rubble Pile
+sandbox_prop_autonicaRubbleBig,Big Rubble Pile
+sandbox_prop_autonicaShovel,Shovel
+sandbox_prop_autonicaSkull,Skull
+sandbox_prop_autonicaSkullGoo,Goo Skull
+sandbox_prop_autonicaSpear,Spear
+sandbox_prop_autonicaSpearFlag,Spear with Flag
+sandbox_prop_autonicaStatue,Autonica Statue
+sandbox_prop_autonicaStool,Stool
+sandbox_prop_autonicaTable,Table
+sandbox_prop_autonicaTableRound,Round Table
+sandbox_prop_autonicaTorch,Torch
+sandbox_prop_autonicaTorchRed,Red Torch
+sandbox_prop_autonicaTower,Guard Tower
+sandbox_prop_barbedWire,Barbed Wire
+sandbox_prop_barrel,Biohazard Drum
+sandbox_prop_bathroom,Bathroom
+sandbox_prop_bathroomStall,Bathroom Stall
+sandbox_prop_billboard,Billboard
+sandbox_prop_binder,Binder
+sandbox_prop_blackHole,Black Hole
+sandbox_prop_botPackage,Bot Package
+sandbox_prop_botPackageSmall,Small Bot Package
+sandbox_prop_bottle,Bottle
+sandbox_prop_botTube,Bot Tube
+sandbox_prop_botTubeShort,Short Bot Tube
+sandbox_prop_box,Box
+sandbox_prop_brianCrate,Brian Crate
+sandbox_prop_brianStatue,Brian Statue
+sandbox_prop_button,Button
+sandbox_prop_buttonFloor,Floor Button
+sandbox_prop_buttonPedastel,Button Pedastel
+sandbox_prop_buttonYellow,Yellow Button
+sandbox_prop_cafeChair,Cafe Chair
+sandbox_prop_cafeTableLong,Long Cafe Table
+sandbox_prop_cafeTableRound,Round Cafe Table
+sandbox_prop_cafeTableSquare,Square Cafe Table
+sandbox_prop_can,Can
+sandbox_prop_catamaran,Catamaran
+sandbox_prop_catwalk,Catwalk
+sandbox_prop_catwalkL,Catwalk Corner
+sandbox_prop_catwalkStairs,Catwalk Stairs
+sandbox_prop_catwalkT,Catwalk T
+sandbox_prop_centaurStatic,Deactivated Centaur
+sandbox_prop_centrifuge,Centrifuge
+sandbox_prop_chainFenceCorner,Corner Chainlink Fence
+sandbox_prop_chainFenceLarge,Large Chainlink Fence
+sandbox_prop_chainFenceSmall,Small Chainlink Fence
+sandbox_prop_chemicalBottle,Chemical Bottle
+sandbox_prop_chest,Planck Chest
+sandbox_prop_chipPallet,Chip Pallet
+sandbox_prop_chipPalletStacked,Stacked Chip Pallet
+sandbox_prop_chipRack,Chip Rack
+sandbox_prop_church,Church
+sandbox_prop_containmentSign,Danger Sign
+sandbox_prop_containmentSignTall,Containment Sign
+sandbox_prop_coreDoor,Core Door
+sandbox_prop_coreKey,Quantum Encryption Key
+sandbox_prop_coreLock,Quantum Encryption Lock
+sandbox_prop_couch,Couch
+sandbox_prop_couchChair,Couch Chair
+sandbox_prop_cubicle,Cubicle
+sandbox_prop_deskLab,Lab Desk
+sandbox_prop_doubleDoors,Double Doors
+sandbox_prop_doubleDoorsWindow,Window Double Doors
+sandbox_prop_drong,Drong
+sandbox_prop_dropship,Dropship
+sandbox_prop_elevatorButton,Elevator Button
+sandbox_prop_escalator,Escalator
+sandbox_prop_escalatorShort,Short Escalator
+sandbox_prop_excavator,Excavator
+sandbox_prop_explosionSmall,Small Explosion
+sandbox_prop_explosiveTank,Explosive Tank
+sandbox_prop_fallingTarget,Falling Target
+sandbox_prop_fern,Fern
+sandbox_prop_filebox,File Box
+sandbox_prop_firePatch,Fire
+sandbox_prop_fireWall,Fire Wall
+sandbox_prop_fireWall_desc,A barrier that can be destroyed with extinguisher grenades
+sandbox_prop_forceField,Force Field
+sandbox_prop_forklift,Forklift
+sandbox_prop_freightElevator,Elevator
+sandbox_prop_fungusBulb,Bulb Fungus
+sandbox_prop_fungusPlate,Fungus Plate
+sandbox_prop_fungusPlateDouble,Double Fungus Plate
+sandbox_prop_fungusPlateTall,Tall Fungus Plate
+sandbox_prop_fungusPlatform,Fungus Platform
+sandbox_prop_fungusShroom,Shroom Fungus
+sandbox_prop_fungusShroomSmall,Small Shroom Fungus
+sandbox_prop_fungusStalk,Fungus Stalk
+sandbox_prop_fungusStalkColumn,Fungus Column
+sandbox_prop_fungusStalkTopheavy,Topheavy Fungus Stalk
+sandbox_prop_fungusTwister,Twister Fungus
+sandbox_prop_glass,Glass
+sandbox_prop_goo,Frank Goo
+sandbox_prop_gordleTile,Gordle Tile
+sandbox_prop_grenadeExtinguisher,Extinguisher Grenade
+sandbox_prop_grenadeFrag,Frag Grenade
+sandbox_prop_guardRail,Guardrail
+sandbox_prop_handDryer,Hand Dryer
+sandbox_prop_handle,Ladder Handle
+sandbox_prop_hardHat,Hard Hat
+sandbox_prop_healthFruit,Health Fruit
+sandbox_prop_healthPlant,Health Plant
+sandbox_prop_healthStation,Health Station
+sandbox_prop_heartfruit,Heartfruit
+sandbox_prop_holoTable,Holo Table
+sandbox_prop_hypercrystalLarge,Large Hypercrystal
+sandbox_prop_hypercrystalsCluster1,Hypercrystal Cluster 1
+sandbox_prop_hypercrystalsCluster2,Hypercrystal Cluster 2
+sandbox_prop_hypercrystalsScattered,Scattered Hypercrystals
+sandbox_prop_hyperscythe,Hyperscythe
+sandbox_prop_instrumentCamera,Camera
+sandbox_prop_instrumentDish,Dish
+sandbox_prop_instrumentMicrophone,Microphone
+sandbox_prop_instrumentNeutrinometer,Neutrinometer
+sandbox_prop_instrumentSpectrometer,Spectrometer
+sandbox_prop_instrumentThermometer,Thermometer
+sandbox_prop_ironChub,Iron Chub
+sandbox_prop_jumpPad,Jump Pad
+sandbox_prop_jumpPadAdirectional,Jump Pad (Undirected)
+sandbox_prop_junkPile,Junk Pile
+sandbox_prop_kauboiDoor,Kauboi Door
+sandbox_prop_keycardLock,Keycard Lock
+sandbox_prop_keycardPickup,Keycard
+sandbox_prop_labDoorBig,Big Lab Door
+sandbox_prop_labDoorSmall,Small Lab Door
+sandbox_prop_labMonitor,Monitor
+sandbox_prop_launchLily,Launch Lily
+sandbox_prop_lava,Lava
+sandbox_prop_microscope,Microscope
+sandbox_prop_mug,Mug
+sandbox_prop_nanitePen,Nanite Pen
+sandbox_prop_neonSign,Neon Sign
+sandbox_prop_orbitRoot,Orbitroot
+sandbox_prop_paper,Paper
+sandbox_prop_pcKeyboard,PC Keyboard
+sandbox_prop_pcMonitor,PC Monitor
+sandbox_prop_pcMouse,PC Mouse
+sandbox_prop_pcTower,PC Tower
+sandbox_prop_phone,Phone
+sandbox_prop_pinePalm,Pine Palm
+sandbox_prop_pineTree,Pine Tree
+sandbox_prop_pinkFern,Pink Fern
+sandbox_prop_planckCrate,Planck Crate
+sandbox_prop_planckServer,Planck Server
+sandbox_prop_planckServerBig,Big Planck Server
+sandbox_prop_plasticSheet,Biohazard Sheet
+sandbox_prop_portalDoor,Gordle Door
+sandbox_prop_poster,Poster
+sandbox_prop_poster_desc,Supports custom textures!
+sandbox_prop_quantumLava,Quantum Lava
+sandbox_prop_quantumRibbon,Quantum Ribbon
+sandbox_prop_razorFern,Razorfern
+sandbox_prop_recyclingStack,Recycling Stack
+sandbox_prop_redDoor,Red Door
+sandbox_prop_rockFlat1,Flat Rock 1
+sandbox_prop_rockFlat2,Flat Rock 2
+sandbox_prop_rockFlat3,Flat Rock 3
+sandbox_prop_rockFlat4,Flat Rock 4
+sandbox_prop_rockFlat5,Flat Rock 5
+sandbox_prop_rockLarge1,Large Rock 1
+sandbox_prop_rockLarge2,Large Rock 2
+sandbox_prop_rockLarge3,Large Rock 3
+sandbox_prop_rockLarge4,Large Rock 4
+sandbox_prop_rockLarge5,Large Rock 5
+sandbox_prop_rockLarge6,Large Rock 6
+sandbox_prop_rockLarge7,Large Rock 7
+sandbox_prop_rockMid1,Med Rock 1
+sandbox_prop_rockMid2,Med Rock 2
+sandbox_prop_rockMid3,Med Rock 3
+sandbox_prop_rockMid4,Med Rock 4
+sandbox_prop_rockMid5,Med Rock 5
+sandbox_prop_rockMid6,Med Rock 6
+sandbox_prop_rockMid7,Med Rock 7
+sandbox_prop_rockMid8,Med Rock 8
+sandbox_prop_rockSlanted1,Slanted Rock 1
+sandbox_prop_rockSlanted2,Slanted Rock 2
+sandbox_prop_rockSmall1,Small Rock 1
+sandbox_prop_rockSmall2,Small Rock 2
+sandbox_prop_rockSmall3,Small Rock 3
+sandbox_prop_rockSmall4,Small Rock 4
+sandbox_prop_rockSmall5,Small Rock 5
+sandbox_prop_rockSmall6,Small Rock 6
+sandbox_prop_rockSmall7,Small Rock 7
+sandbox_prop_rockSmall8,Small Rock 8
+sandbox_prop_sandboxDoor,Door
+sandbox_prop_scale,Scale
+sandbox_prop_server,Server
+sandbox_prop_serverSmall,Server
+sandbox_prop_shelf,Shelf
+sandbox_prop_shippingContainer,Shipping Container
+sandbox_prop_shutterDoor,Shutter Door
+sandbox_prop_sink,Sink
+sandbox_prop_smokeLarge,Large Smoke
+sandbox_prop_smokeSmall,Small Smoke
+sandbox_prop_spinnyChair,Spinny Chair
+sandbox_prop_sprayBottle,Spray Bottle
+sandbox_prop_stageTitle,Chapter Title
+sandbox_prop_stool,Stool
+sandbox_prop_T34Static,Empty T34
+sandbox_prop_testChamber,Test Chamber
+sandbox_prop_testTubes,Test Tubes
+sandbox_prop_text,Text
+sandbox_prop_toilet,Toilet
+sandbox_prop_toiletRoll,Toilet Roll
+sandbox_prop_train,Train
+sandbox_prop_transitBench,Bench
+sandbox_prop_transitTrash,Trash can
+sandbox_prop_trashCan,Trash Can
+sandbox_prop_triDoor,Triangle Door
+sandbox_prop_tunnelDoor,Tunnel Door
+sandbox_prop_vendingMachine,Vending Machine
+sandbox_prop_vent,Vent
+sandbox_prop_vial,Vial
+sandbox_prop_vortexPortal,Vortex Portal
+sandbox_prop_vortexPropagator,Vortex Propagator
+sandbox_prop_warehouseShelves,Warehouse Shelves
+sandbox_prop_water,Water
+sandbox_prop_waterfall_low,Low Waterfall
+sandbox_prop_waterfall_medium,Medium Waterfall
+sandbox_prop_waterfall_tall,Tall Waterfall
+sandbox_prop_waterfallSmall,Small Waterfall
+sandbox_prop_waterTank,Tank
+sandbox_prop_whiteboard,Whiteboard
+sandbox_prop_whiteboardSmall,Small Whiteboard
+sandbox_prop_window,Glass Pane
+sandbox_prop_wireSpool,Wire Spool
+sandbox_prop_woodBarrier,Wood Barrier
+sandbox_prop_woodBridge,Wood Bridge
+sandbox_prop_woodPlatform,Wood Platform
+sandbox_prop_yellowPine,Yellow Pine
+sandbox_prop_yellowPineDouble,Double Yellow Pine
+sandbox_prop_yellowPineQuad,Quad Yellow Pine
+sandbox_prop_yellowPineShort,Short Yellow Pine
+sandbox_prop_allySquad,Ally Squad
+sandbox_prop_allySquad_desc,Instructs enemies to follow the player
+sandbox_prop_andGate,And Gate
+sandbox_prop_andGate_desc,Triggers an output once all inputs are triggered
+sandbox_prop_autoTrigger,Auto Trigger
+sandbox_prop_autoTrigger_desc,Triggers an output when the level starts
+sandbox_prop_awarenessTrigger,Awareness Trigger
+sandbox_prop_awarenessTrigger_desc,Notifies nearby enemies of player's location
+sandbox_prop_bammComm,BAMM Comm Trigger
+sandbox_prop_bammComm_desc,Plays custom dialog on the BAMM. Importing custom sounds required to use.
+sandbox_prop_boomerPickup,Boomer Pickup
+sandbox_prop_boomerPickup_desc,Boomer shooter type ammo pickup
+sandbox_prop_checkpoint,Checkpoint
+sandbox_prop_customSFX,SFX
+sandbox_prop_customSFX_desc,Plays a sound effect.
+sandbox_prop_deathTrigger,Death Trigger
+sandbox_prop_deathTrigger_desc,Kills players or enemies who touch it.
+sandbox_prop_enemyGroup,Enemy Group
+sandbox_prop_enemyGroup_desc,"Spawn a group of enemies at once, and trigger an output when they all die"
+sandbox_prop_flashlightTrigger,Flashlight Trigger
+sandbox_prop_flashlightTrigger_desc,Enables the player's flashlight while inside
+sandbox_prop_glow,Glow
+sandbox_prop_gravityField,Gravity Field
+sandbox_prop_gravityField_desc,Changes gravity inside a volume
+sandbox_prop_gunPickup,Gun Pickup
+sandbox_prop_invisibleWall,Invisible Wall
+sandbox_prop_invisibleWall_desc,"A wall that will block player movement, but nothing else"
+sandbox_prop_light,Light
+sandbox_prop_music,Music
+sandbox_prop_navMeshLink,Nav Mesh Link
+sandbox_prop_navMeshLink_desc,Allows enemies to jump or walk across gaps
+sandbox_prop_noTeleport,No Teleport Volume
+sandbox_prop_playerTrigger,Player Trigger
+sandbox_prop_playerTrigger_desc,A volume that triggers an output when the player enters it
+sandbox_prop_playerTriggerCube,Player Trigger
+sandbox_prop_playerTriggerCube_desc,A volume that triggers an output when the player enters it
+sandbox_prop_reflectionProbe,Reflection Probe
+sandbox_prop_reflectionProbe_desc,Creates baked reflections within a volume
+sandbox_prop_repeatBlocker,Single Use Gate
+sandbox_prop_repeatBlocker_desc,Relays a signal once and only once
+sandbox_prop_teleporterSeamless,Seamless Teleporter
+sandbox_prop_teleporterSeamless_desc,Seamlessly teleports player by the defined amount
+sandbox_prop_sightlineTrigger,Sightline Trigger
+sandbox_prop_sightlineTrigger_desc,Triggers an output when the player is inside the volume and looks at the eye
+sandbox_prop_teleportTarget,Teleporter
+sandbox_prop_teleportTarget_desc,Teleports the player to a position and rotation
+sandbox_prop_timer,Timer
+sandbox_prop_timer_desc,Relays a signal after a delay
+sandbox_prop_upgradeStation,Weapon Mod Synthesizer
+sandbox_enemy_Aetherback,Aetherback
+sandbox_enemy_Airfish,Airfish
+sandbox_enemy_Bonehead,Bonehead
+sandbox_enemy_BoneheadMonarchSandbox,Bonehead Monarch
+sandbox_enemy_Brian,Brian
+sandbox_enemy_carnivine,Carnivine
+sandbox_enemy_Centaur,Centaur
+sandbox_enemy_Charger,Heavy Security Bot
+sandbox_enemy_Crab_Small,Crab
+sandbox_enemy_Croc,Hexasuchus
+sandbox_enemy_Cubehead,Cubehead
+sandbox_enemy_Cyberjoe Runner,Cyberjoe Runner
+sandbox_enemy_Cyberjoe Spider,Cyberjoe Spider
+sandbox_enemy_Cyberjoe,Cyberjoe
+sandbox_enemy_Cyberjoseph,Cyberjoseph
+sandbox_enemy_Drone,Mk II Drone
+sandbox_enemy_EmberSoul,Ember Soul
+sandbox_enemy_Frank,Frank
+sandbox_enemy_General Sintho,General Sintho
+sandbox_enemy_Gnat,Xynfly
+sandbox_enemy_Gremlin Boat,Gremlin Boat
+sandbox_enemy_Gremlin,Gremlin
+sandbox_enemy_HandyCop,Handy Cop
+sandbox_enemy_Handyman,Handyman
+sandbox_enemy_HandymanAcid,Acid Handyman
+sandbox_enemy_HandymanHunter,Red Handyman
+sandbox_enemy_HolyGuard,Holy Guard
+sandbox_enemy_HolySoldier,Holy Soldier
+sandbox_enemy_HumanoidBot,Mk III Drone
+sandbox_enemy_Jelleye,Jelleye
+sandbox_enemy_Joejeff,JoeJeff
+sandbox_enemy_Joseph Jeffrey,Joseph Jeffrey
+sandbox_enemy_Macrophage,Macrophage
+sandbox_enemy_Maharishi Ghronto,Maharishi Ghronto
+sandbox_enemy_Mannequin,Mannequin
+sandbox_enemy_Maurice,Maurice
+sandbox_enemy_Mudrunner,Mudrunner
+sandbox_enemy_MudrunnerBaby,Baby Mudrunner
+sandbox_enemy_Nani,Nani
+sandbox_enemy_Officer 13,Officer 13
+sandbox_enemy_OfficerBot,Officer Bot
+sandbox_enemy_PlanckBoat,Planck Boat
+sandbox_enemy_RebelSoldier,Rebel Soldier
+sandbox_enemy_Ruptipod,Ruptipod
+sandbox_enemy_SanitationBot,Sanitation Drone
+sandbox_enemy_Sapling,Sapling
+sandbox_enemy_Saplord,Saplord
+sandbox_enemy_Seer,The Seer
+sandbox_enemy_ShellJelly,Shelljelly
+sandbox_enemy_SniperBot,Sniper Bot
+sandbox_enemy_Snowman,Snowman
+sandbox_enemy_Sosig,Sosig
+sandbox_enemy_StdBot,Standard Security Bot
+sandbox_enemy_StdBot_SMG,Standard Security Bot (SMG)
+sandbox_enemy_StealthBot,Stealth Bot
+sandbox_enemy_T-34,T-34
+sandbox_enemy_Therus,Therus
+sandbox_enemy_Turret,Turret
+sandbox_enemy_Worker,Worker Bot
+bamm_weapon_ak47_caption_00,AK-47
+bamm_weapon_altershock_caption_00,Altershock Laser Revolver
+bamm_weapon_annihilator_caption_00,Annihilator Shotgun
+bamm_weapon_annihilatorprototype_caption_00,Annihilator Prototype
+bamm_weapon_blafala_caption_00,"Blafaladaciousnesticles, Broadsword of the Blessed"
+bamm_weapon_enlightenment_caption_00,ENLIGHTENMENT
+bamm_weapon_fingergun_caption_00,Finger Gun
+bamm_weapon_gordlepun_caption_00,Gordle Pun
+bamm_weapon_grenade_disruptor_caption_00,Spatiotemporal Disruptor Grenade
+bamm_weapon_grenade_extinguisher_caption_00,Extinguisher Grenade
+bamm_weapon_grenade_flashbang_caption_00,Flashbang Grenade
+bamm_weapon_grenade_frag_caption_00,Fragmentation Grenade
+bamm_weapon_heritageShashka_caption_00,Heritage Shashka
+bamm_weapon_ionizer_caption_00,Ionizer Handgun
+bamm_weapon_kauboirevolver_caption_00,Kauboi's Revolver
+bamm_weapon_meatnailer_caption_00,Meat Nailer
+bamm_weapon_neptuneRifle_caption_00,Neptune Sniper Rifle
+bamm_weapon_newweapon_caption_00,New Weapon Acquired
+bamm_weapon_nostalgicpistol_caption_00,Nostalgic Pistol
+bamm_weapon_quadbow_caption_00,Aetherian Quad-Bow
+bamm_weapon_sapphire_caption_00,Sapphire Laser Machine Gun
+bamm_weapon_secretweaponacquired_caption_00,Secret Weapon Acquired:
+nani_dream1_00_henrique_caption_00,Henrique!
+nani_dream1_00_henrique_caption_01,Nani was wondering when you would show up.
+tutorial_01_creating_caption_00,Creating your first level is easy.
+tutorial_01_creating_caption_01,"Start in the Sandbox Main Menu, make sure you’re in the “My Levels” tab to edit local levels,"
+tutorial_01_creating_caption_02,and click the “Create New Level” button.
+tutorial_01_creating_caption_03, Select an environment for your level: these are stripped-down versions of campaign environments that you can build your level in.
+tutorial_01_creating_caption_04,"The environment cannot be changed later, so make sure you’ve checked them all out before working on a masterpiece."
+tutorial_01_creating_caption_05,"Give your level a name as well. This can be changed later, so don’t worry too much about it. "
+tutorial_01_creating_caption_06,That’s all there is to it!
+tutorial_01_creating_caption_07,"You will be loaded right into editing your level, and when you return to the menu it will appear in the “my levels” list. "
+tutorial_02_interface_caption_00,"To navigate in space, squeeze the grip buttons on your controllers and drag through the environment."
+tutorial_02_interface_caption_01,Drag with one hand to move. Drag two hands in and out to scale your perspective.
+tutorial_02_interface_caption_02,Drag two hands in a circle to rotate your view.
+tutorial_02_interface_caption_03,You can think of this like pinching and zooming on a smartphone.
+tutorial_02_interface_caption_04,"If you’re struggling to move, you’re probably zoomed in too far!"
+tutorial_02_interface_caption_05,Scale yourself up a bit to make things more manageable.
+tutorial_02_interface_caption_06,Pull up the quick menu by looking at the side of your left controller.
+tutorial_02_interface_caption_07,"You can rename your level, enter playmode, save your changes, upload your level for sharing, and return to the Sandbox Menu."
+tutorial_02_interface_caption_08,"You can also capture a thumbnail for your level, open the editor settings menu, open the level settings menu, and edit the AI navigation bounds."
+tutorial_02_interface_caption_09,"Finally, undo and redo buttons are here as well.  "
+tutorial_02_interface_caption_10,"The Editor Settings menu contains options for snapping, drag multi selection, gizmos, and prop visibility."
+tutorial_02_interface_caption_11,"This menu can be repositioned by grabbing the handles on the side, and for convenience will remain open until you manually close it. "
+tutorial_02_interface_caption_12,"The Level Settings menu contains options for player movement, game difficulty adjustment, and visual options such as fog and color grading."
+tutorial_02_interface_caption_13,Some environments also have special options that will appear here.
+tutorial_02_interface_caption_14,The Edit Nav Bounds button will edit a cube that defines where AI navigation data is generated.
+tutorial_02_interface_caption_15,"For efficiency, AI data should not fill the entirety of very large environments."
+tutorial_02_interface_caption_16,Make sure this cube only encompasses the playable area of your level.
+tutorial_02_interface_caption_17,"If you ever see enemies stuck and not able to move, it’s likely they’re outside of this area and you need to expand it."
+tutorial_02_interface_caption_18,"To begin working, you’ll need to open a palette."
+tutorial_02_interface_caption_19,Hold the button that normally switches weapons to select a palette.
+tutorial_02_interface_caption_20,Let’s begin by opening the block palette.
+tutorial_02_interface_caption_21,"You can scroll through the palette using the joystick. Using your other hand, drag a block into your level. "
+tutorial_02_interface_caption_22,"To manipulate an object in your level, first select it with the trigger."
+tutorial_02_interface_caption_23,"Then you can directly move it around, or grab the green handles to scale it."
+tutorial_02_interface_caption_24,"To duplicate an object, first pick it up, and then click the weapon reload button to leave a copy."
+tutorial_02_interface_caption_25,"To delete an object, grab it and drop it into the trash can below either controller. "
+tutorial_02_interface_caption_26,"To select and manipulate multiple objects at once, you can click and drag in empty space to start a multi selection."
+tutorial_02_interface_caption_27,Several types of multi selection are available in the Editor Settings Menu.
+tutorial_02_interface_caption_28,"Some objects have special Message Handles, which means they can communicate with other objects."
+tutorial_02_interface_caption_29,"For example, you can create a button, and a door, and then drag the Message Output of the button to the Message Input of the door."
+tutorial_02_interface_caption_30,"Now they are connected, and the button will open the door."
+tutorial_02_interface_caption_31,"To delete this connection, you can grab the center of the connection and drop it into a trash can. "
+tutorial_02_interface_caption_32,Every level has a player spawn and a goal.
+tutorial_02_interface_caption_33,"The player spawn has options for what character to play as, starting weapons, starting weapon mods, and autonica allegiance."
+tutorial_02_interface_caption_34,"The goal has an option to select a sequel level, if you want to create multi-level campaigns. "
+tutorial_02_interface_caption_35,Some environments have some extra permanent props you can modify.
+tutorial_02_interface_caption_36,The ambience prop lets you select an ambient soundscape for your level.
+tutorial_02_interface_caption_37,"The Skybox prop, for outdoor environments, lets you modify the skybox."
+tutorial_02_interface_caption_38,"The sun light lets you change the position, color, and brightness of the sun. "
+tutorial_02_interface_caption_39,That’s all the basic interactions you’ll need to know to master the level editor.
+tutorial_02_interface_caption_40,Next we’ll cover all the tools in more detail.
+tutorial_03_palettes_caption_00,"The block palette creates blocks. Blocks are static, primitive shapes that can be used as the foundation of your level."
+tutorial_03_palettes_caption_01,They can be scaled in complex ways and put together to make anything you can imagine.
+tutorial_03_palettes_caption_02,"You can also apply different materials to them, which we’ll learn about in a minute. "
+tutorial_03_palettes_caption_03,The prop palette is where you can find any prop from the Vertigo 2 campaign.
+tutorial_03_palettes_caption_04,"There are a lot of props, so they’re organized into categories."
+tutorial_03_palettes_caption_05,The special prop palette holds things a little more important than regular props.
+tutorial_03_palettes_caption_06,"Player triggers, logic elements, weapon pickups, and music players can all be found here."
+tutorial_03_palettes_caption_07,This is where you will go when building puzzles or complex level logic.
+tutorial_03_palettes_caption_08,Almost all of these have Message Handles to communicate with other objects.
+tutorial_03_palettes_caption_09,The enemy palette holds enemies.
+tutorial_03_palettes_caption_10,Nearly every foe from the game can be found here and dropped into your level.
+tutorial_03_palettes_caption_11,"When an enemy is selected, you can modify its variant, behavior, and health."
+tutorial_03_palettes_caption_12,You’ll notice that enemies also have a Message Handle:
+tutorial_03_palettes_caption_13," if you attach anything to this, the enemy will not spawn until it receives a message."
+tutorial_03_palettes_caption_14,The Enemy Group and Ally Squad props can also be used to control groups of enemies.
+tutorial_03_palettes_caption_15,"Finally, the paint tool. The paint tool is used to apply different materials to Blocks."
+tutorial_03_palettes_caption_16,"Scroll to select a material, and then point at a block and pull the trigger to apply the material."
+tutorial_03_palettes_caption_17,"If you import custom textures, you can also apply these in the paint tool, but we’ll cover that later."
+tutorial_04_advancedprops_caption_00,"There are a few advanced props that are less self explanatory, so here’s a quick rundown. "
+tutorial_04_advancedprops_caption_01,The teleport prop teleports the player to it when it receives a signal.
+tutorial_04_advancedprops_caption_02,"The seamless teleport prop, on the other hand,"
+tutorial_04_advancedprops_caption_03,teleports the player while keeping the player’s relative offset from the start and end points.
+tutorial_04_advancedprops_caption_04,"If used carefully, you can warp the player between similar environments without them noticing."
+tutorial_04_advancedprops_caption_05,"The Single Use Trigger relays a signal once, but will block any subsequent signals.  "
+tutorial_04_advancedprops_caption_06,"The Enemy Group lets you spawn multiple enemies with a single signal,"
+tutorial_04_advancedprops_caption_07,and outputs a signal when they are all defeated.
+tutorial_04_advancedprops_caption_08,You can use an Enemy Group with a single enemy too.
+tutorial_05_customassets_caption_00,"If you’re feeling limited by the simple shapes of the blocks, the level editor also supports importing custom assets."
+tutorial_05_customassets_caption_01,This is only recommended for more technical users!
+tutorial_05_customassets_caption_02,"To start out, let’s cover importing custom textures."
+tutorial_05_customassets_caption_03,"To open a texture, click the “Import Asset” button in the lower right of the desktop window."
+tutorial_05_customassets_caption_04,These can be in PNG or JPG format.
+tutorial_05_customassets_caption_05,"Once loaded, you will see the texture appear in the asset browser.  "
+tutorial_05_customassets_caption_06,"Once you have some textures, the next step is creating a material."
+tutorial_05_customassets_caption_07,"Click the “Create Asset” button, and select Material."
+tutorial_05_customassets_caption_08,This will open the material editor with your blank material.
+tutorial_05_customassets_caption_09,"You’ll see two previews on the right: the top is how your material will look on custom models, "
+tutorial_05_customassets_caption_10,and the bottom is how it will look on Blocks.
+tutorial_05_customassets_caption_11,Select your texture as the main texture.
+tutorial_05_customassets_caption_12,You can also create PBR materials with a few more textures.
+tutorial_05_customassets_caption_13,A metallic/smoothness map can be imported -
+tutorial_05_customassets_caption_14,"this should be in the standard Unity format, with Metallic in the red channel and Smoothness in the alpha channel -"
+tutorial_05_customassets_caption_15,and a normal map - in openGL format.
+tutorial_05_customassets_caption_16,"Once these are loaded, you can head back to your material and assign them as well."
+tutorial_05_customassets_caption_17,"When applied to blocks, materials have an edge weathering color on the corners."
+tutorial_05_customassets_caption_18,"This can be adjusted, or turned down by lowering the color’s alpha."
+tutorial_05_customassets_caption_19,"You can also change the material’s physics material, which will affect the sounds it makes when you walk on it or shoot it. "
+tutorial_05_customassets_caption_20,"Next, we can import a 3D model. Models need to be in OBJ format."
+tutorial_05_customassets_caption_21,You can export to this format from the free software Blender.
+tutorial_05_customassets_caption_22,"If you have multiple materials, make sure to check the “Objects as Material Groups” checkbox."
+tutorial_05_customassets_caption_23,"Materials will be set up in the game, so you don’t need to generate a MTL file."
+tutorial_05_customassets_caption_24,"Once your model is imported, you can click on it to open the model editor."
+tutorial_05_customassets_caption_25,"Here, you can assign materials. You can also toggle collision for the model. "
+tutorial_05_customassets_caption_26,You can import custom audio clips. This is very straightforward.
+tutorial_05_customassets_caption_27,They just need to be in mp3 or wav format.
+tutorial_05_customassets_caption_28,You can create a custom song to use your audio clips with Vertigo’s music system.
+tutorial_05_customassets_caption_29,"Click the “Create Asset” button, and select Song."
+tutorial_05_customassets_caption_30,"To make your song dynamically respond to combat, you can select a calm and action clip."
+tutorial_05_customassets_caption_31,"If you don’t want that, just select a calm clip and leave “action” blank. "
+tutorial_05_customassets_caption_32,You can create a custom Skybox as a background for outdoor levels.
+tutorial_05_customassets_caption_33,"First, import your skybox texture. This needs to be in equirectangular format."
+tutorial_05_customassets_caption_34,"Click the “Create Asset” button, select Skybox, and then select your texture. "
+tutorial_05_customassets_caption_35,"Next, let’s go back into VR and look at how to use custom assets in your level."
+tutorial_05_customassets_caption_36,"Once you have models imported, you’ll see a new tool palette appear for custom models.  "
+tutorial_05_customassets_caption_37,Custom sound effects will appear alongside the rest of the sounds in the sound effect prop.
+tutorial_05_customassets_caption_38,Custom songs will appear alongside the rest of the soundtrack in the music prop.
+tutorial_05_customassets_caption_39,Custom skyboxes will appear alongside the rest of the skyboxes in the skybox prop.
+tutorial_05_customassets_caption_40,"Materials can be found in the paint tool, just use the joystick to switch to the new custom material palette."
+tutorial_05_customassets_caption_41,You’ll see all the materials you created here. These can be applied to blocks.
+tutorial_05_customassets_caption_42,"With these tools, the ceiling for creative levels is raised significantly."
+tutorial_05_customassets_caption_43,I look forward to seeing what you create!
+tutorial_06_designtips_caption_00,"Level design is a delicate art, so here are a few tips to make sure your levels are enjoyable to play. "
+tutorial_06_designtips_caption_01,Ensure objectives are highly visible.
+tutorial_06_designtips_caption_02,"This can be done through lighting, contrasting environments, particles, or other means."
+tutorial_06_designtips_caption_03,"You may feel like you’re babying the player,"
+tutorial_06_designtips_caption_04,but trust me that players will get lost or miss vital pickups if you don’t make them extremely visible.
+tutorial_06_designtips_caption_05,Even the most obtuse exploration games such as Dark Souls
+tutorial_06_designtips_caption_06,still mark items with a bright glowing spot visible from across the map.
+tutorial_06_designtips_caption_07,Add checkpoints.
+tutorial_06_designtips_caption_08,"When testing your level, you will become very familiar with its challenges,"
+tutorial_06_designtips_caption_09,but new players will be experiencing it blind and it can feel unfair if a surprise death sends them back to the beginning of the map.
+tutorial_06_designtips_caption_10,Add checkpoints before difficult encounters to reduce frustration.
+tutorial_06_designtips_caption_11,Playtest thoroughly.
+tutorial_06_designtips_caption_12," If you can get a friend to try out your level, that is best."
+tutorial_06_designtips_caption_13,"If not, try to imagine you are playing it for the first time and play through it beginning to end,"
+tutorial_06_designtips_caption_14, taking mental notes of anything you want to change.
+tutorial_06_designtips_caption_15,Recording gameplay and watching it back can also be useful.
+tutorial_06_designtips_caption_16,Playtesting will make your levels stand out when it comes to polish.
+tutorial_06_designtips_caption_17,Consider VR comfort.
+tutorial_06_designtips_caption_18,Try to keep pickups at arm level so that players don’t need to bend over to reach the floor.
+tutorial_06_designtips_caption_19,"A long climbing section might sound fun, but consider how fatiguing it could be,"
+tutorial_06_designtips_caption_20,especially if you die and have to play it multiple times in a row.
+tutorial_06_designtips_caption_21,Don’t make levels too long.
+tutorial_06_designtips_caption_22,"The Level Editor is designed for short and sweet levels,"
+tutorial_06_designtips_caption_23,and larger levels may cause performance issues or be too long to complete in one play session.
+tutorial_06_designtips_caption_24,"Try splitting your ideas into multiple levels,"
+tutorial_06_designtips_caption_25,and using the level sequel feature to link them together.
+tutorial_06_designtips_caption_26,"When in doubt, reference how the Vertigo 2 campaign is designed."
+tutorial_06_designtips_caption_27,"You can study its structure, pacing, enemy and pickup placement, etc. to get a sense of best practices. "
+tutorial_07_uploading_caption_00,"Once you have a masterpiece of a level,"
+tutorial_07_uploading_caption_01,you are ready to upload it to the community for others to enjoy.
+tutorial_07_uploading_caption_02,Make sure you have a screenshot of your level that shows it off well.
+tutorial_07_uploading_caption_03,Then press the upload button to begin the upload process.
+tutorial_07_uploading_caption_04,"You can revise your level name, and add a description and tags."
+tutorial_07_uploading_caption_05,"If everything looks good, you’re ready to upload.  "
+tutorial_07_uploading_caption_06,"If uploading completes without errors, your level will appear on the server shortly.  "
+tutorial_08_downloading_caption_00,"To play other peoples’ levels, enter the “Community Levels” tab in the main sandbox menu,"
+tutorial_08_downloading_caption_01,and click the “Browse Community Levels” button.
+tutorial_08_downloading_caption_02,"Use the search filters on the left to find a level that looks interesting,"
+tutorial_08_downloading_caption_03,and click it for more information.
+tutorial_08_downloading_caption_04,"You can download it here, and play it right away."
+tutorial_08_downloading_caption_05,"Once you have levels downloaded, they’ll appear in the Community Levels list. "
+tutorial_08_downloading_caption_06,"If you click the “My Levels” tab in the community levels browser, you can see all the levels you’ve uploaded."
+tutorial_08_downloading_caption_07,"If you select one of your own levels, you can edit all its settings here easily."
+tutorial_08_downloading_caption_08,You can also add a custom thumbnail image.
+menu_reportlevel,REPORT LEVEL
+menu_mylevels,My Levels
+menu_featuredlevels,Featured Levels
+menu_samplelevels,Sample Levels
+menu_alllevels,All Levels
+menu_search_6months,6 Months
+menu_search_anytime,Any Time
+menu_search_week,This Week
+menu_search_month,This Month
+menu_search_worst,Lowest Rating
+menu_search_newest,Newest
+menu_search_nameA,Name A-Z
+menu_search_oldest,Oldest
+tag_platforming,Platforming
+menu_search_today,Today
+tag_puzzles,Puzzles
+menu_search_best,Highest Rating
+tag_story,Story
+tag_speedrun,Speedrun
+menu_search_nameZ,Name Z-A
+tag_exploration,Exploration
+menu_search_recentupdated,Recently Updated
+tag_combat,Combat
+menu_search_3months,3 Months
+menu_by,by {0}
+menu_delete,Delete
+menu_duplicate,DUPLICATE
+menu_customlevels,Custom Levels
+menu_tutorials,TUTORIALS
+menu_newlevel,CREATE NEW LEVEL
+menu_communitylevels,Community Levels
+error_failedToConnect,"ERROR:
+Failed to connect"
+menu_updated,Updated!
+menu_browseCommunity,"BROWSE
+COMMUNITY LEVELS"
+menu_uninstall,UNINSTALL
+menu_new,New!
+menu_communityrules,COMMUNITY RULES
+menu_copyID,Copy ID
+menu_editdesc,Edit Description
+menu_intro_rules,"- No hateful/bigoted content in levels, titles, or descriptions
+- No illegal content
+- No copyright violation
+- No exploits that might harm other users' computers"
+menu_ratelevel,Rate this level:
+menu_tags,Tags:
+menu_publiclyvisible,Publicly Visible
+menu_intro_rules1,"If you want to upload levels, please follow these rules.
+Breaking the rules may result in your level being deleted or your access to community levels being revoked."
+menu_keywords,Keywords
+menu_done,Done
+menu_cancel,Cancel
+error_name,Please name your level.
+error_environment,Please select an environment.
+menu_leveldeleteconfirm,Are you sure you want to delete this level?
+menu_yes,Yes
+menu_create,CREATE
+menu_edit,EDIT
+menu_selectenvironment,Select Environment:
+menu_rename,RENAME
+menu_edittags,Edit Tags
+menu_download,DOWNLOAD
+tag_meme,Meme
+menu_report_malware,Malware
+menu_ratingcount,{0} ratings
+menu_editscreenshotinfo,"Pick with desktop file browser.
+
+Will be resized to 640x480"
+menu_paste_tooltip,Copy a level ID to your clipboard and then load it by clicking this button
+menu_agree,I Agree
+menu_intro_tutorials,"To learn how to make your own levels, check out the tutorials!"
+menu_downloading,Downloading...
+menu_deleteserverconfirm,Are you sure you want to delete this level from the server?
+menu_editname,Edit Name
+menu_report_offensive,Offensive
+menu_deletefromserver,Delete From Server
+menu_dates,Dates:
+menu_copytoclipboard,Copy to Clipboard
+menu_pastelevelid,Paste Level ID
+menu_report_submit,SUBMIT REPORT
+menu_version,Version {0}
+menu_created,Created {0}
+menu_intro_welcome,Welcome to the Vertigo 2 Level Editor!
+menu_sortby,Sort By:
+menu_loadmore,Load More
+menu_report_spam,Spam
+menu_uploadchanges,Upload Changes
+menu_character,Character:
+menu_tutorial_1,01 - Creating a Level
+menu_tutorial_6,06 - Level Design Tips
+menu_tutorial_4,04 - Advanced Props
+menu_tutorial_2,02 - Editor Interface
+menu_tutorial_8,08 - Downloading Levels
+menu_tutorial_3,03 - Tool Palettes
+menu_tutorial_7,07 - Uploading Levels
+menu_tutorial_5,05 - Custom Assets
+menu_resetMutators,Reset Mutators
+menu_randomSeed,Randomization Seed:
+menu_activeMutatorCount,{0} Active
+menu_mutators,Mutators
+set_oceanQuality,Ocean Quality:
+tooltip_crouching,Enables artificial crouching (always on when in seated mode)
+set_crouching,Crouching:
+menu_customLevels,CUSTOM LEVELS
+menu_spectator,Spectator Options
+pyramidlock_conflicts,Physical conflicts must be resolved before station is unlocked.
+pyramidlock_hostilities,"HOSTILITIES
+DETECTED!"
+menu_selection,Selection
+menu_gridsnapping,Grid Snapping
+menu_gizmospace,Gizmo Space
+menu_visibility,Visiblity
+menu_rotgizmosnapping,Rotation Gizmo Snapping
+menu_snapping,Snapping
+menu_showvolumes,Show Volumes
+menu_surfacesnapping,Surface Snapping
+menu_editorsettings,Editor Settings
+menu_dragselect,Drag Select Mode
+menu_fullbright,Fullbright
+menu_blocksnapping,Block Edge Snapping
+menu_axissnapping,Axis Snapping
+menu_gizmomode,Gizmo Mode
+menu_object,Object
+menu_world,World
+menu_allegiance,Allegiance:
+menu_health,Health: {0}%
+menu_wander,Wander
+menu_attackplayer,Attack Player Immediately
+menu_scale,Scale: {0}
+menu_spawnfx,Spawn FX
+menu_variant,Variant:
+menu_difficulty,Difficulty
+menu_movespeed,Move speed: {0}%
+menu_colorgrading,Color Grading:
+menu_teleportation,Teleporting
+menu_falldamage,Fall Damage
+menu_gravity,Gravity: {0}% ({1})
+menu_reset,Reset
+menu_environment,Environment
+menu_visuals,Visuals
+menu_jumping,Jumping
+menu_maxlights,Max Lights: {0}
+menu_movement,Movement
+menu_playerhealth,Player Health: {0}%
+menu_dust,Dust Particles
+menu_levelsettings,Level Settings
+menu_ammospeed,Ammo Regen Speed: {0}%
+menu_fogcolor,Fog Color:
+menu_enemyhealth,Enemy Health: {0}%
+menu_noenvset,No Environment Settings Available
+menu_fogdensity,Fog Density: {0}
+editnavbounds,Edit Nav Bounds
+levelsettings,Level Settings
+menu_menu,MENU
+menu_upload,UPLOAD
+menu_save,SAVE
+menu_mutatordisclaimer,"Mutators are not reccommended for a first playthrough, as they can drastically unbalance gameplay.
+
+Have fun!"
+menu_newseed,Generate New Seed
+menu_scoretime_pb,PERSONAL BEST . . . .
+menu_continuelevel,Continue with {0}!
+menu_downloadnext,Download {0}
+menu_scoretime_wr,WORLD RECORD . . . .
+menu_levelcomplete,LEVEL COMPLETE!
+menu_scoretime,TIME . . . .
+menu_playnext,Play {0}
+menu_playagain,PLAY AGAIN
+error_nolevelscreenshot,level needs screenshot!
+error_noleveldesc,level description required
+error_nolevelname,level name required
+error_nolevel,ERROR: no active level
+error_notconnectedserver,ERROR: not connected to content server
+error_notconntectedsteam,ERROR: not connected to Steam
+menu_exittomenu,Exit to Menu
+menu_copyidfriends,Copy the level ID below to share your level directly with friends!
+menu_updatinglevel,Updating existing level!
+menu_returntoeditor,Return to Editor
+menu_uploadsuccess,Uploaded Successfully!
+menu_leveluploader,Level Uploader
+menu_back,Back
+menu_uploaddesktop,Information can be input on the desktop with mouse & keyboard too!
+menu_levelappearonline,Your level may take several minutes to appear online.
+menu_uploading,uploading...
+menu_enterdesc,Enter Description
+error_uploadfailed,Failed to upload level:
+menu_entername,Enter Name
+menu_respawn,RESPAWN
+menu_youdied,YOU DIED
+menu_loadCheckpointQuestion,Would you like to load your last checkpoint?
+credits_localization,"Localization by:
+
+Level Up Translation
+Vladyslav Verstiuk"
+menu_trigger,Trigger
+menu_lastupdated,Last Updated {0}
+menu_no,No
+menu_downloadsamples,"Official sample levels are available.
+Would you like to download them now?
+They can be played from the ""Community Levels"" tab."
