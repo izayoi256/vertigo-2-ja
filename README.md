@@ -1,3 +1,7 @@
+# 公式日本語化対応！
+
+2024/01/05に公式で日本語ローカライズが実装されました。🎉🎉🎉
+
 # Vertigo 2 日本語化パッチ
 
 これは[Vertigo 2](https://store.steampowered.com/app/843390/Vertigo_2/)を日本語化するパッチです。
